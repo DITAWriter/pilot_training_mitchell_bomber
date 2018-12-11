@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_vvc_sp4_bgb">
+    <title>Rules to Be Enforced on Every Flight</title>
+    <shortdesc/>
+    <refbody>
+        <section>
+            <title>Smoking</title>
+            <ol>
+                <li>No smoking in airplane at an altitude below 1000 feet.</li>
+                <li>No smoking during fuel transfer.</li>
+                <li>Never attempt to throw a lighted cigarette from the airplane. Put it out
+                    first.</li>
+            </ol>
+        </section>
+        <section>
+            <title>Parachutes</title>
+            <ol>
+                <li>All persons aboard will wear parachute harness at all times from takeoff to
+                    landing.</li>
+                <li>Each person aboard will have a parachute on every flight.</li>
+                <li>Carry at least one spare parachute in the plane.</li>
+            </ol>
+        </section>
+        <section>
+            <title>Propellers</title>
+            <ol>
+                <li>Always enter and leave the plane to and from the rear.</li>
+                <li>No person will leave the airplane when propellers are turning unless ordered to
+                    do so by the airplane commander.</li>
+            </ol>
+        </section>
+        <section>
+            <title>Oxygen Masks</title>
+            <ol>
+                <li>Oxygen masks will be carried on all flights where altitude may exceed 10,000
+                    feet.</li>
+                <li>Day: All persons will use oxygen starting at 7000 to 10,000 feet on all day
+                    flights where altitude at any time may exceed 12,000 feet.</li>
+                <li>Use oxygen for all flights at 8000 ft. or above when the duration of the flight
+                    may exceed 4 hours.</li>
+                <li>Night: All persons will use oxygen from the ground up on all flights during
+                    which altitude may reach 10,000 feet.</li>
+            </ol>
+        </section>
+        <section>
+            <title>Training</title>
+            <ol>
+                <li>Tell your crew the purpose of each mission and what you expect each to
+                    accomplish.</li>
+                <li><b>Keep the crew busy throughout the flight.</b> Get position reports from the
+                    navigator; send them out through the radio operator. Put the engineer to work on
+                    the cruise control and maximum range charts. Require the copilot to keep a
+                    record of engine performance. Give them a workout. Encourage them to use their
+                    skill. A team is an active outfit. Make the most of every practice mission.</li>
+                <li>Practice all emergency procedures as often as possible&#8212; bailout, ditching
+                    and fire drill.</li>
+            </ol>
+        </section>
+        <section>
+            <title>Inspections</title>
+            <ol>
+                <li>Check your airplane with reference to the particular mission you arc
+                    undertaking. <b>Check everything.</b></li>
+                <li>Check your crew for equipment, preparedness, and understanding of what you
+                    expect from them.</li>
+            </ol>
+        </section>
+        <section>
+            <title/>
+            <ol>
+                <li>Assure yourself that all members of the crew are standing by their interphones
+                    at all times. <b>Insist on clear, well controlled voices. Speak slowly and
+                        clearly.</b></li>
+                <li>Require reports by interphone every 15 minutes from all crew members when on
+                    oxygen.</li>
+            </ol>
+        </section>
+    </refbody>
+</reference>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Pilot Training Manual for the Mitchell Bomber</mainbooktitle>
+    </booktitle>
+    <chapter href="introduction_to_the_pilot_training_manual.dita"/>
+    <chapter href="history_of_the_mitchell_bomber.dita"/>
+    <chapter href="duties_and_responsibilites_of_the_airplane_commander.dita"/>
+    <chapter href="practical_questions.dita"/>
+    <chapter href="the_copilot.dita"/>
+    <chapter href="the_bombardier_navigator.dita"/>
+    <chapter href="radio_operator.dita"/>
+    <chapter href="the_engineer.dita"/>
+    <chapter href="rules_to_be_enforced_on_every_flight.dita"/>
+</bookmap>
