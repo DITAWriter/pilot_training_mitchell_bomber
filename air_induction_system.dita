@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_lmw_f42_cgb">
+    <title>Air Induction System</title>
+    <shortdesc/>
+    <conbody>
+        <p>Air enters the induction system through air scoops above the nacelle. The ram action of
+            the air mass supplies the energy to move cold air through the system.</p>
+        <p>A carburetor heat control provides an alternate source of air, allowing heated air to
+            flow from around the cylinder heads to the system.</p>
+        <p>Normally there is a baffle in the air-mixing chamber. Air entering horizontally through
+            the cold-air intake is deflected down into the carburetor inlet. Under dusty atmospheric
+            conditions an air filter in the air-mixing chamber replaces the baffle.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_qpz_dl2_cgb">
+    <title>Power Plant</title>
+    <shortdesc/>
+    <conbody>
+        <p>The B-25 is powered by two Wright Cyclone R-2G00-13 or R-2G00-29, 14-cylinder, double-row
+            radial engines. The operation of these two series is similar. Primarily air cooled,
+            these engines have two secondary methods of cooling:</p>
+        <ol>
+            <li>Scavenged engine oil cooled by 2 oil coolers located in the outboard section of each
+                wing before it is returned to the engines.</li>
+            <li>Rich fuel mixtures cool the engines at high power settings.</li>
+            <li>Individual flame-damping exhaust stacks reduce exhaust flame visibility at
+                night.</li>
+        </ol>
+        <table frame="all" rowsep="1" colsep="1" id="table_ttv_hm2_cgb">
+            <title>Engine Power Ratings</title>
+            <tgroup cols="4">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry><b id="docs-internal-guid-ee8426eb-7fff-694d-4d12-f367ef6cf2a0"
+                                >Ratings</b></entry>
+                        <entry><b id="docs-internal-guid-55afc2dd-7fff-82f8-5b1a-a9c0c09eb94d">Brake
+                                HP</b></entry>
+                        <entry><b id="docs-internal-guid-4ce4940b-7fff-bac5-af20-c13ab5989d97"
+                                >RPM</b></entry>
+                        <entry><b id="docs-internal-guid-e5503622-7fff-d1aa-5054-ea0ca97f27e7"
+                                >Blower</b></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><b id="docs-internal-guid-61a0dddc-7fff-4b41-2ccb-5bbcc7ede609">Sea
+                                Level</b></entry>
+                        <entry><b id="docs-internal-guid-a0131602-7fff-5afa-2295-316a8501808c"
+                                >1500</b></entry>
+                        <entry><b id="docs-internal-guid-206ad663-7fff-696a-6432-693ce86237f7"
+                                >2400</b></entry>
+                        <entry><b id="docs-internal-guid-166a4ac3-7fff-75a8-616b-7fdef0a4d4bf"
+                                >Low</b></entry>
+                    </row>
+                    <row>
+                        <entry><b id="docs-internal-guid-9e7fae2f-7fff-8efb-5027-77ff0f6bb89e"
+                                >Takeoff</b></entry>
+                        <entry><b id="docs-internal-guid-fda3d896-7fff-a3f0-7cc2-bbc0016ffb49"
+                                >1700</b></entry>
+                        <entry><b id="docs-internal-guid-3520f2f9-7fff-b8e2-6714-00731e2c4f1b"
+                                >2600</b></entry>
+                        <entry><b id="docs-internal-guid-4492b5d4-7fff-c9fd-a25f-10ffc9a05323"
+                                >Low</b></entry>
+                    </row>
+                    <row>
+                        <entry><b id="docs-internal-guid-f70cbd8c-7fff-dd02-e87c-91a087e0af4f"
+                                >Normal</b></entry>
+                        <entry><b id="docs-internal-guid-f9d86c91-7fff-ef0c-d5e0-51e5d8758f7b"
+                                >1500</b></entry>
+                        <entry><b id="docs-internal-guid-030a8820-7fff-ff3f-6cc4-8ca37ce14285">2400
+                                at 6700 feet</b></entry>
+                        <entry><b id="docs-internal-guid-1e021025-7fff-0c7b-ae0a-ff7f8391e1dc"
+                                >Low</b></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><b id="docs-internal-guid-1eda839d-7fff-1cf0-aee2-c084a7c23fb3"
+                                >1350</b></entry>
+                        <entry><b id="docs-internal-guid-75c485c8-7fff-4610-1e79-36b0e9984eef">2400
+                                at 13,000 feet</b></entry>
+                        <entry><b id="docs-internal-guid-cc74642e-7fff-605b-e811-c4e5845fbfef"
+                                >High</b></entry>
+                    </row>
+                    <row>
+                        <entry><b id="docs-internal-guid-4af620b3-7fff-844c-04a1-d73790be06ce"
+                                >Military</b></entry>
+                        <entry><b id="docs-internal-guid-c2d0483a-7fff-95ac-e437-349c1c9f7693"
+                                >1700</b></entry>
+                        <entry><b id="docs-internal-guid-e8eb6541-7fff-aa5c-8971-4639e9624740">2600
+                                at 5500 feet</b></entry>
+                        <entry><b id="docs-internal-guid-837ee433-7fff-c7da-3f18-e645b857489d"
+                                >Low</b></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry><b id="docs-internal-guid-73825a30-7fff-d610-5eeb-772da387c02d"
+                                >1450</b></entry>
+                        <entry><b id="docs-internal-guid-4d48bfca-7fff-f18d-3f2a-aa7ca8e9c193">2600
+                                at 13,500 feet</b></entry>
+                        <entry><b id="docs-internal-guid-c5fca965-7fff-ff6f-6bcc-7a374a2a4b98"
+                                >High</b></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <section>
+            <title>Supercharger</title>
+            <p>A supercharger is to an internal-combustion engine what an oxygen mask and a supply
+                of oxygen is to a pilot.</p>
+            <p>An integral part of the R-2600 engine is the internal 2-speed, gear-driven
+                supercharger. It supplies the necessary manifold pressures for high-altitude
+                operation.</p>
+            <p>The impeller, acting as a power fan, is driven at a 7.06:1 ratio in low blower and
+                10.06:1 in high blower. This passes the fuel-air mixture from the carburetor and
+                adapter at increased pressures to the manifold. The manifold distributes the mixture
+                to the intake ports and the cylinder heads.</p>
+        </section>
+        <section>
+            <title>Accessory Section</title>
+            <p>The accessory section, on the rear of the engine, contains various devices for
+                supplying pressures and operational action to the airplane.</p>
+            <p>These are:</p>
+            <ol>
+                <li>Right and left scintilla magnetos</li>
+                <li>Generator</li>
+                <li>Inertia starter</li>
+                <li>Fuel pump</li>
+                <li>Oil pump</li>
+                <li>Scavenger pump</li>
+                <li>Hydraulic pump</li>
+                <li>Vacuum pump</li>
+                <li>Cuno automatic filter</li>
+                <li>Tachometer drive gear</li>
+                <li>A number of instrument fittings complete this section.</li>
+            </ol>
+        </section>
+        <section>
+            <title>Carburetor</title>
+            <p>Holley variable-venturi carburetors operating at pressures of 6 to 7 lb. sq. in.
+                supply the engines with fuel.</p>
+            <p>The carburetors are the pressure-metering type. By operating the throttles, you
+                control the amount of air passing the venturi throats; the air, by its varying
+                pressures, measures the amount of fuel allowed to enter the adapter section and mix
+                with the air. This establishes a predetermined fuel-air ratio.</p>
+            <p>These carburetors incorporate several devices to increase and decrease the fuel-air
+                ratio in relation to the engine power output.</p>
+            <ol>
+                <li><b>Compensator System</b>&#8212; A bleed line operated by a spring- loaded check valve
+                    and diaphragm. When you use high throttle settings, it allows a richer mixture
+                    to reach the cylinders to cool the cylinder heads properly.</li>
+                <li><b>Accelerating Pump</b>&#8212; A device to supply an additional charge of fuel when
+                    you open throttles suddenly. It corrects for a time lag in the regular supply.
+                    It is diaphragm operated and cuts out when the mixture control is in "IDLE
+                    CUT-OFF."</li>
+                <li><b>Mixture Control</b>&#8212; Allows you to set the carburetor for cruising lean which
+                    improves fuel economy and fuel mixtures under all operating conditions.</li>
+                <li><b>Stabilizer Valve</b>&#8212; A slide valve which acts as an automatic mixture
+                    control, compensating for changes in temperature and pressure.</li>
+                <li><b>Power Mixture Valve</b>&#8212; A diaphragm-operated bypass valve. When you open
+                    throttles to high power settings, it cuts the manual mixture control out of the
+                    system, and prevents you from taking off with cruising mixtures.</li>
+                <li><b>Vapor Separator</b>&#8212; A needle-valve and float device for diverting fuel vapor
+                    into the adapter where they mix with the normal mixture and pass to the impeller
+                    section.</li>
+                <li><b>Primer</b>&#8212; A needle valve in the fuel inlet casting to facilitate starting
+                    the engine.</li>
+            </ol>
+        </section>
+    </conbody>
+</concept>

@@ -4,13 +4,37 @@
     <booktitle>
         <mainbooktitle>Pilot Training Manual for the Mitchell Bomber</mainbooktitle>
     </booktitle>
-    <chapter href="introduction_to_the_pilot_training_manual.dita"/>
-    <chapter href="history_of_the_mitchell_bomber.dita"/>
-    <chapter href="duties_and_responsibilites_of_the_airplane_commander.dita"/>
-    <chapter href="practical_questions.dita"/>
-    <chapter href="the_copilot.dita"/>
-    <chapter href="the_bombardier_navigator.dita"/>
-    <chapter href="radio_operator.dita"/>
-    <chapter href="the_engineer.dita"/>
-    <chapter href="rules_to_be_enforced_on_every_flight.dita"/>
+    <chapter href="introduction_to_the_pilot_training_manual.dita" format="dita">
+        <topicref href="history_of_the_mitchell_bomber.dita" format="dita"/>
+        <topicref href="duties_and_responsibilites_of_the_airplane_commander.dita" format="dita"/>
+        <topicref href="practical_questions.dita" format="dita"/>
+        <topicref href="the_copilot.dita" format="dita"/>
+        <topicref href="the_bombardier_navigator.dita" format="dita"/>
+        <topicref href="radio_operator.dita" format="dita"/>
+        <topicref href="the_engineer.dita" format="dita"/>
+        <topicref href="rules_to_be_enforced_on_every_flight.dita" format="dita"/>
+        <topicref href="general_description.dita" format="dita"/>
+    </chapter>
+    <chapter href="location_of_controls_b_25_c_and_d.dita" format="dita">
+        <topicref href="bombardiers_compartment_left_side.dita" format="dita"/>
+        <topicref href="pilots_compartment_general_forward_view.dita" format="dita"/>
+        <topicref href="pilots_switch_panel_and_control_pedestal_panel.dita" format="dita"/>
+        <topicref href="pilots_compartment_left_side.dita" format="dita"/>
+        <topicref href="pilots_compartment_right_side.dita" format="dita"/>
+        <topicref href="hydraulic_hand_pump_and_emergency_air_brake_control.dita" format="dita"/>
+        <topicref href="navigators_compartment_forward_view.dita" format="dita"/>
+        <topicref href="radio_operators_compartment_forward_view.dita" format="dita"/>
+        <topicref href="radio_operators_compartment_left_side.dita" format="dita"/>
+    </chapter>
+    <chapter href="equipment_and_instruments.dita" format="dita">
+        <topicref href="power_plant.dita" format="dita"/>
+        <topicref href="air_induction_system.dita" format="dita"/>
+        <topicref href="fuel_system.dita" format="dita"/>
+        <topicref href="oil_system.dita" format="dita"/>
+        <topicref href="dual_ignition_system.dita" format="dita"/>
+        <topicref href="electrical_system.dita" format="dita"/>
+        <topicref href="b_25_lighting_equipment.dita" format="dita"/>
+        <topicref href="hamilton_hydromatic_propellers.dita" format="dita"/>
+        <topicref href="hydraulic_system.dita" format="dita"/>
+    </chapter>
 </bookmap>

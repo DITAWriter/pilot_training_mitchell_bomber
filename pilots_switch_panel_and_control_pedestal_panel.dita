@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_rc4_vg2_cgb">
+    <title>Pilot's Switch Panel and Control Pedestal Panel</title>
+    <shortdesc/>
+    <refbody>
+        <section>
+            <title/>
+            <p/>
+            <ol>
+                <li>Propeller Anti-Icing Rheostat</li>
+                <li>Compass Light Rheostat</li>
+                <li>Formation Light Rheostat</li>
+                <li>Torpedo Director Light Rheostat</li>
+                <li>Propeller Feathering Buttons</li>
+                <li>Servo Speed Control Knobs</li>
+                <li>Ignition Safety Switch</li>
+                <li>Ignition Switches</li>
+                <li>Recognition Light Keying Switch </li>
+                <li>Landing Light Switches</li>
+                <li>Fuel Booster Pump Switches</li>
+                <li>Engine Primer Switch</li>
+                <li>Starter Switches</li>
+                <li>Auxiliary Wing Tank Transfer Pump Switches</li>
+                <li>Pilot's Auxiliary Bomb Door Control</li>
+                <li>Recognition Light Switches</li>
+                <li>Bombardier's Signal Switch</li>
+                <li>Radio Comportment Heater Control</li>
+                <li>Oil Dilution Switch</li>
+                <li>Position Light Switches</li>
+                <li>Cockpit Lights</li>
+                <li>Dome Light Switch</li>
+                <li>Pitot Heat Switch</li>
+                <li>Battery Disconnect Switches</li>
+                <li>Passing Light Switch</li>
+                <li>Carburetor De-icer Switch</li>
+                <li>Windshield Defrosting Blower Switch</li>
+                <li>Alarm Bell Switch</li>
+                <li>Gun Safety Switch</li>
+            </ol>
+        </section>
+    </refbody>
+</reference>

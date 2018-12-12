@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_pvj_fs2_cgb">
+    <title>Hydraulic System</title>
+    <shortdesc/>
+    <conbody>
+        <p>The hydraulic system provides quick and easy operation of the following equipment on the
+            B-25:</p>
+        <ol>
+            <li>Tricycle Landing Gear</li>
+            <li>Brakes</li>
+            <li>Wing Flaps</li>
+            <li>Cowl Flaps</li>
+            <li>Bomb Bay Doors</li>
+            <li>Automatic Pilot</li>
+            <li>Gun Chargers</li>
+        </ol>
+        <p>The reservoir which contains the hydraulic fluid has a capacity of 5.9 gallons. A
+            standpipe in the reservoir retains a reserve of 2.33 gallons for the emergency hand
+            pump.</p>
+        <p>This reservoir, made of aluminum alloy, has a sight gage which shows the level of the
+            fluid. The gage has only 2 markings&#8212; "FULL" and "REFILL." There is a removable
+            screen in the filler neck which must be cleaned whenever the reservoir is
+            re-serviced.</p>
+        <p>Two lines lead from the reservoir to a foam tank, built into the system to allow for
+            expansion of the fluid caused by temperature changes. A vent line maintains constant
+            atmospheric pressure in the system, allowing excess fluid or pressure bubbles to
+            escape.</p>
+        <p>There is an engine-driven, gear-type, positive displacement pump in the accessory section
+            below the right magneto of each engine. These pumps supply fluid pressure to the
+            accumulators. They are connected in parallel. If one pump fails, the other will supply
+            sufficient pressure to the system.</p>
+        <p>An emergency double-action, single-impulse hand pump, on the floor between pilot's and
+            copilot's seats, supplies pressure to the system if both engine-driven pumps fail.</p>
+        <p>Two accumulators, located in the forward right comer of the navigator's compartment,
+            store fluid under air pressure for the brakes and main hydraulic system. The
+            accumulators also provide an air cushion in the system to absorb sudden changes in fluid
+            flow.</p>
+        <p>These accumulators consist of a tubular steel housing into which is fitted a neoprene
+            rubber boot. The boot is filled with air to a pressure of 400 lb. sq. in. The steel
+            housing contains hydraulic fluid. When the fluid pressure exceeds 400 lb. sq. in. it
+            compresses the air in the boot.</p>
+        <p>Fluid is pumped into the accumulators until the pressure is 1050 lb. sq. in. in the main
+            system and 1150 lb. sq. in. in the brake system, sufficient for normal operation.</p>
+        <p>In late-series aircraft, pistons replace the rubber boots in the accumulators. The action
+            is unchanged, however.</p>
+        <p>There are actuating cylinders at all points of the equipment where hydraulic pressure is
+            converted into mechanical action.</p>
+        <p>This does not apply to the brakes, where toe pressure on the rudder pedals is converted
+            into hydraulic pressure, which in turn supplies braking action through the power brake
+            valve.</p>
+        <p>There is an emergency air brake system for use if the hydraulic brake system fails.</p>
+    </conbody>
+</concept>

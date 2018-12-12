@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_knm_sh2_cgb">
+    <title>Pilot's Compartment-Left Side</title>
+    <shortdesc/>
+    <refbody>
+        <section>
+            <title/>
+            <p/>
+            <ol>
+                <li>Pilot's Air Flow Control</li>
+                <li>Filter Switch Box</li>
+                <li>Radio Jack Box</li>
+                <li>Heated Clothing Electrical Control</li>
+                <li>Radio Compass Control Unit</li>
+                <li>Pilot's Sliding Window Control</li>
+                <li>Adjustable Spotlight</li>
+                <li>Ventilation Inlet</li>
+                <li>Landing Gear</li>
+                <li>Aileron Trim</li>
+                <li>Hydraulic Hand Pump</li>
+            </ol>
+        </section>
+    </refbody>
+</reference>

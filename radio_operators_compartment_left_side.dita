@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_tyh_bk2_cgb">
+    <title>Radio Operator's Compartment-Left Side</title>
+    <shortdesc/>
+    <refbody>
+        <section>
+            <title/>
+            <p/>
+            <ol>
+                <li>Life Raft Release</li>
+                <li>Liaison Transmitter Unit</li>
+                <li>Liaison Monitor Switch</li>
+                <li>Antenna Change-over Switch</li>
+                <li>Liaison Receiver Unit</li>
+                <li>Radio Transmitting Key</li>
+                <li>Radio Jack Box</li>
+                <li>Trailing Antenna Reel Control Box</li>
+                <li>Heated Clothing Electrical Control</li>
+            </ol>
+        </section>
+    </refbody>
+</reference>
