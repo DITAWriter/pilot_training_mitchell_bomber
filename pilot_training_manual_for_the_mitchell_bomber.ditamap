@@ -36,5 +36,19 @@
         <topicref href="b_25_lighting_equipment.dita" format="dita"/>
         <topicref href="hamilton_hydromatic_propellers.dita" format="dita"/>
         <topicref href="hydraulic_system.dita" format="dita"/>
+        <topicref href="instruments.dita" format="dita"/>
+        <topicref href="automatic_pilot.dita" format="dita"/>
+        <topicref href="automatic_pilot.dita" format="dita"/>
+        <topicref href="communication_equipment.dita" format="dita"/>
+        <topicref href="armament.dita" format="dita"/>
+        <topicref href="oxygen.dita" format="dita"/>
+        <topicref href="photographic_equipment.dita" format="dita"/>
+        <topicref href="models_and_changes.dita" format="dita"/>
+        <topicref href="comparison_equipment_chart.dita" format="dita"/>
     </chapter>
+    <chapter href="inspection_and_checks.dita" format="dita">
+        <topicref href="aaf_pilots_checklist.dita" format="dita"/>
+    </chapter>
+        
+    
 </bookmap>

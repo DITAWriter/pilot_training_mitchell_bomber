@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_f4h_r5h_cgb">
+    <title>Comparison Equipment Chart</title>
+    <shortdesc/>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_bkf_y5h_cgb">
+            <title>Comparison Equipment Chart</title>
+            <tgroup cols="6">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry namest="c1" nameend="c2"><b
+                                id="docs-internal-guid-c859f1bb-7fff-6f71-5f1c-b5b6a2661482"
+                                >Equipment</b></entry>
+                        <entry><b id="docs-internal-guid-5434c017-7fff-49e2-0237-394571e1a4ac">C
+                                &amp;amp; D</b></entry>
+                        <entry>G</entry>
+                        <entry>H</entry>
+                        <entry>J</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry namest="c1" nameend="c2"><b
+                                id="docs-internal-guid-f8656255-7fff-aadd-daf5-bf5010cc6ce4">Nose
+                                Compartment</b></entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>One .50-cal. fixed gun</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Two .50-cal. fixed guns</entry>
+                        <entry/>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Four .50-cal. fixed guns</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>*</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>One .50-cal. flexible gun</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Bombing controls &amp; equipment</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c2"><b
+                                id="docs-internal-guid-b033cf90-7fff-eb82-b271-604a6cbea43c">Pilot’s
+                                Compartment</b></entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>
+                            <p dir="ltr">Pilot’s and copilot’s controls</p>
+                        </entry>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>75-mm cannon &amp;amp; mount</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>
+                            <p dir="ltr">Drift meter</p>
+                        </entry>
+                        <entry/>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Bombing controls &amp;amp; equipment</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Astrocompass &amp;amp; mount</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c2"><b
+                                id="docs-internal-guid-9524595d-7fff-b14c-54b1-a5fa88e00563"
+                                >Navigator’s Compartment</b></entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Navigator’s table &amp;amp; equipment</entry>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>75-mm. Cannon storage</entry>
+                        <entry/>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>50-cal. supply for blister guns</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Four .50-cal. blister guns</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Upper turret (two .50-cal. guns)</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Drift meter</entry>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Astrocompass &amp;amp; mount</entry>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c2"><b
+                                id="docs-internal-guid-359b0a81-7fff-efcd-c0d1-6d895b322105">Radio
+                                Compartment</b></entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Upper turret (two .50-cal. guns)</entry>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Waist guns (two .50-cal. guns)</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Camera &amp;amp; mounting brackets</entry>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Liaison radio</entry>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c2"><b
+                                id="docs-internal-guid-59bc27b9-7fff-7621-f64c-54708dc08c13">Camera
+                                &amp;amp; Ammunition Compartment</b></entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Camera &amp;amp; mounting brackets</entry>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>.50-cal. supply for tail guns</entry>
+                        <entry/>
+                        <entry/>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Chemical toilet</entry>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c2"><b
+                                id="docs-internal-guid-f291e814-7fff-66cc-930a-ecbfc0fad82d">Tail
+                                Turret or Observation Compartment</b></entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>
+                            <p dir="ltr">Two .50-cal. gun turret</p>
+                        </entry>
+                        <entry/>
+                        <entry/>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry>Observation floor</entry>
+                        <entry>*</entry>
+                        <entry>*</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <section>
+            <title/>
+            <p>* - In Airplane</p>
+        </section>
+    </refbody>
+</reference>

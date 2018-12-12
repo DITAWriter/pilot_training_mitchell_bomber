@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_pym_3kh_cgb">
+    <title>Communication Equipment</title>
+    <shortdesc/>
+    <conbody>
+        <ol>
+            <li>INTERPHONE JACK BOX</li>
+            <li>FILTER SWITCH</li>
+            <li>COMMAND RECEIVER CONTROLS</li>
+            <li>COMMAND TRANSMITTER CONTROLS</li>
+            <li>FILTER BOX</li>
+            <li>HEADPHONE EXTENSION CORD</li>
+            <li>COMMAND TRANSMITTER DYNAMOTOR</li>
+            <li>FORWARD ANTENNA MAST</li>
+            <li>ANTENNA RELAY</li>
+            <li>COMMAND RECEIVERS</li>
+            <li>COMMAND TRANSMITTERS</li>
+            <li>COMMAND ANTENNA</li>
+        </ol>
+        <p>The communication equipment on the B-25 is basically the same as that on all Army
+            bombardment airplanes.</p>
+        <p>The following radio sets are installed:</p>
+        <ul>
+            <li>Command set</li>
+            <li>Liaison set</li>
+            <li>Radio compass receiver</li>
+            <li>Marker beacon receiver</li>
+            <li>Interphone system</li>
+        </ul>
+        <p>On some models the tactical use of the airplane requires the installation of VHF and IFF
+            equipment. Special training in this equipment will be given when missions require its
+            use.</p>
+        <section>
+            <title>Command Set</title>
+            <p>The command set has 2 transmitters with a range of 4 to 5.3 Mc on one transmitter and
+                a range of 7 to 9.1 Mc on the other.</p>
+            <p>Three receivers cover ranges of 190 to 550 Kc, 3 to 6 Mc, and 6 to 9.1 Mc. Selective
+                use of these ranges is made by switching one or all of the receivers "ON."</p>
+            <p>The command set allows transmission and reception by voice and code for air-to-air
+                and air-to-ground stations over short ranges.</p>
+        </section>
+        <section>
+            <title>Liaison Set</title>
+            <p>The liaison set has one transmitter with 7 interchangeable tuning units, covering
+                frequency ranges of 150 to 600 Kc and from 1500 Kc to 12,500 Kc.</p>
+            <p>The set has one receiver capable of reception of voice, tone, or CW signals over a
+                range of 150 to 18,000 Kc.</p>
+            <p>A radio operator uses this set for long-range air-to-ground communication. In
+                emergencies the pilot, copilot, and navigator, by using the interphone circuits, can
+                transmit voice messages to the ground.</p>
+        </section>
+        <section>
+            <title/>
+            <ol>
+                <li>LIAISON RADIO ANTENNA </li>
+                <li>LIAISON TUNING UNITS </li>
+                <li>LIAISON JUNCTION BOX </li>
+                <li>LIAISON TRANSMITTER </li>
+                <li>ANTENNA TUNING UNIT </li>
+                <li>FREQUENCY METER </li>
+                <li>RADlO DATA CASE</li>
+                <li>LIAISON RECEIVER</li>
+                <li>TRANSMITTING KEY </li>
+                <li>RADIO OPERATOR'S JACK BOX</li>
+                <li>LIAISON DYNAMOTOR</li>
+                <li>ANTENNA REEL CONTROL</li>
+                <li>GUNNER'S MICROPHONE SWITCH</li>
+                <li>TRAILING ANTENNA AND REEL</li>
+                <li>UPPER TURRET JACK BOX</li>
+            </ol>
+        </section>
+        <section>
+            <title/>
+            <ol>
+                <li>RADIO COMPASS LOOP</li>
+                <li>RADIO COMPASS RECEIVER</li>
+                <li>RADIO COMPASS AND RELAY JUNCTION BOX</li>
+                <li>NAVIGATOR'S AZIMUTH INDICATOR</li>
+                <li>NAVIGATOR'S INTERPHONE JACK BOX</li>
+                <li>NAVIGATOR'S HEADPHONE EXTENSION CORD</li>
+                <li>NAVIGATOR'S RADIO COMPASS CONTROL BOX</li>
+                <li>INTERPHONE DYNAMOTOR</li>
+                <li>FILTER BOX</li>
+                <li>PILOT'S INTERPHONE JACK BOX</li>
+                <li>PILOT'S HEADPHONE EXTENSION CORD</li>
+                <li>PILOT'S RADIO COMPASS CONTROL BOX</li>
+                <li>PILOT'S AZIMUTH INDICATOR</li>
+            </ol>
+        </section>
+        <section>
+            <title>Radio Compass Receiver</title>
+            <p>The radio compass receiver has 2 control stations, one in the pilot's compartment and
+                one in the navigator's compartment.</p>
+            <p>Operating on either a fixed antenna or a rotating loop antenna, it indicates
+                direction of incoming signals. It covers a range of 200 to 1750 Kc.</p>
+            <p>For detailed instructions in the use of this equipment see T.O. 30-100 series.</p>
+        </section>
+        <section>
+            <title>Marker Beacon Receiver</title>
+            <p>The marker beacon receiver is a specialist. It performs only one job. Operating on a
+                frequency of 75 Mc, it detects signals transmitted by fan marker beacons, and by Z
+                marker beacons operating in the cones of silence. A blinking light on the instrument
+                panel is connected to the receiver, blinking on when the airplane passes a 75 Mc
+                transmitter.</p>
+        </section>
+        <section>
+            <title>Interphone</title>
+            <p>The interphone system of the B'25 is a standard installation. It operates whenever
+                the battery-disconnect switches are "ON." It is used by every crew member to
+                communicate with all other crew members.</p>
+            <p>The interphone plays a vital part in crew coordination. Used effectively in combat,
+                it serves as the eyes of the entire crew.</p>
+        </section>
+    </conbody>
+</concept>
