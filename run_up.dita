@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ukg_ppl_cgb">
+    <title>Run-up</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Advance the throttles to 1600 rpm.</cmd>
+            </step>
+            <step>
+                <cmd>Pull back prop controls until a reduction in rpm of 350-400 is indicated.</cmd>
+            </step>
+            <step>
+                <cmd>Re-set prop controls to "INC. RPM." (Manipulation of prop controls circulates
+                    warm oil in the prop dome and gives smoother governing action.</cmd>
+            </step>
+            <step>
+                <cmd>At 1600 rpm, check generators' output: voltage at 28 to 28.5, amperes 20 to
+                    60.</cmd>
+            </step>
+            <step>
+                <cmd>Advance the throttle on your coolest engine until the rpm is set at 2000.
+                    Maximum manifold pressure 28.5'' Hg. Check the right and left mags. For a
+                    thorough check, the time on one mag is 2 to 3 seconds. Between checks on "L" and
+                    ''R'' settings return the switch to "BOTH" and allow the engine to regain speed.
+                    A loss of 73 to 100 rpm does not necessarily mean that the plane is unsafe for
+                    flight. If the engine does not vibrate excessively during the check, and if it
+                    will put out rated power, a drop of 75 to 100 rpm is considered safe for
+                    takeoff. However, he on the lookout for a drop in rpm. If the drop is sudden, or
+                    if backfiring occurs, do not fly the plane until it has been re-checked. A drop
+                    of 100 rpm is the maximum permissible for takeoff.</cmd>
+            </step>
+            <step>
+                <cmd>Repeat this procedure on the other engine.</cmd>
+            </step>
+            <step>
+                <cmd>Following the mag check, run the engines up singly to 30" Hg. At this manifold
+                    pressure you will get an approximate reading of 2400 rpm, which means that the
+                    plane should give you sufficient power for takeoff.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

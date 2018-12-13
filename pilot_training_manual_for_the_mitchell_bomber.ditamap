@@ -48,7 +48,23 @@
     </chapter>
     <chapter href="inspection_and_checks.dita" format="dita">
         <topicref href="aaf_pilots_checklist.dita" format="dita"/>
+        <topicref href="inspections_and_checks.dita" format="dita"/>
+        <topicref href="starting_engines.dita" format="dita"/>
     </chapter>
-        
-    
+    <chapter href="typical_air_work.dita" format="dita">
+        <topicref href="taxiing.dita" format="dita"/>
+        <topicref href="common_taxiing_errors.dita" format="dita"/>
+        <topicref href="taxiing_tips.dita" format="dita"/>
+        <topicref href="before_takeoff_c.i.g.f.t.p.r._friction_brake.dita" format="dita"/>
+        <topicref href="run_up.dita" format="dita"/>
+        <topicref href="takeoff.dita" format="dita"/>
+        <topicref href="notes_on_takeoff.dita" format="dita"/>
+        <topicref href="common_takeoff_errors.dita" format="dita"/>
+        <topicref href="power_changes.dita" format="dita"/>
+        <topicref href="climb.dita" format="dita"/>
+        <topicref href="let_down.dita" format="dita"/>
+        <topicref href="trimming.dita" format="dita"/>
+    </chapter>
+
+
 </bookmap>

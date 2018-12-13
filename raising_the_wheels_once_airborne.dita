@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_npr_drl_cgb">
+    <title>Raising the Wheels Once Airborne</title>
+    <shortdesc>When the airplane is definitely airborne, raise the wheels.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Be sure there is no possibility of further contact with the ground. Good airplanes
+                have been lost through carelessness.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Lift the safety lock holding the control handle "DOWN" and locked.</cmd>
+            </step>
+            <step>
+                <cmd>Move the mechanical lock up.</cmd>
+            </step>
+            <step>
+                <cmd>Move the landing gear handle to "UP."</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

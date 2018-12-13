@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_jb2_r4l_cgb">
+    <title>Before Takeoff C.I.G.F.T.P.R.-Friction Brake</title>
+    <shortdesc>Controls for free movement</shortdesc>
+    <refbody>
+        <section>
+            <title>Instruments</title>
+            <ol>
+                <li>Altimeter</li>
+                <li>Directional gyro set and uncaged</li>
+                <li>Artificial horizon set and uncaged</li>
+                <li>Suction 3.75-4.25" Hg.</li>
+                <li>Oil pressure 75 to 90 lb. sq. in.</li>
+                <li>Oil temperature 50°C to 85°C</li>
+                <li>Cylinder-head temperature 100° to to 205°C</li>
+            </ol>
+        </section>
+        <section>
+            <title>Gas</title>
+            <ol>
+                <li>Fuel pressure 6-7 lb sq. in.</li>
+                <li>Fuel levels </li>
+                <li>Booster Pumps "OFF"</li>
+                <li>Transfer Pumps "OFF"</li>
+                <li>Mixture "FULL RICH"</li>
+                <li>Carburetor heat "NORMAL"</li>
+                <li>Shut-off valves "ON"</li>
+                <li>Crossfeed "OFF"</li>
+            </ol>
+        </section>
+        <section>
+            <title/>
+            <p>Flaps set for takeoff (normal 20°). Run the flaps full down and then raise them to
+                20°.</p>
+            <p>Trim tabs set for takeoff.</p>
+            <p>Props "INC. RPM"</p>
+            <p>Run-up.</p>
+            <p>Friction brake snug, booster pumps "ON," bomb bay doors closed</p>
+        </section>
+    </refbody>
+</reference>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_vfb_jsl_cgb">
+    <title>Common Takeoff Errors</title>
+    <shortdesc/>
+    <conbody>
+        <p>Failure to keep the airplane straight ahead. Unfamiliarity with the airplane and uneven
+            power application cause this. Remember, there are 2 large rudders. It takes considerable
+            foot pressure to control them on takeoff.</p>
+        <p>Jockeying or blasting the throttles to maintain directional control.</p>
+        <p>Using brakes to steer the plane</p>
+        <p>Excessive manifold pressure</p>
+        <p>Instrument flying instead of contact flying</p>
+        <p>Excessive airspeed on the ground</p>
+        <p>Retracting landing gear too soon</p>
+        <p>Failure to level off after takeoff</p>
+        <p>Failure to correct properly for drift</p>
+        <p>Skidding immediately after takeoff</p>
+        <p>Tenseness and overcontrolling</p>
+    </conbody>
+</concept>
