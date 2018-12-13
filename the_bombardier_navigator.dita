@@ -4,7 +4,16 @@
     <title>The Bombardier-Navigator</title>
     <shortdesc>As a navigator it is the bombardier-navigator's job to direct your flight from
         departure to destination and return.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
+        <image keyref="bombadier_nav" id="image_zpn_m1m_cgb">
+            <alt>The Bombardier-Navigator</alt>
+        </image>
         <p>As a navigator it is the bombardier-navigator's job to direct your flight from departure
             to destination and return. He must know the exact position of the airplane at all times.
             For you to understand how to get the most reliable service from your navigator, you must
@@ -13,7 +22,7 @@
             dead reckoning, (c) radio, or (d) celestial navigation, or any combination of these four
             methods. By any one or combination of methods the navigator determines the position of
             the ah plane in relation to the earth.</p>
-        <section>
+        <section id="instrument_calibration">
             <title>Instrument Calibration</title>
             <p>Instrument calibration is an important duty of the navigator. All navigation depends
                 directly on the accuracy of his instruments. Correct calibration requires close
@@ -22,7 +31,7 @@
                 astrocompass, astrograph, and drift meter, and a check on the navigator's sextant
                 and watch.</p>
         </section>
-        <section>
+        <section id="pilot_nav_preflight_plan">
             <title>Pilot-Navigator Preflight Planning</title>
             <ol>
                 <li>Pilot and navigator must study the flight plan of the route to be flown, and
@@ -40,7 +49,7 @@
                 <li>Synchronize your watch with your navigator's.</li>
             </ol>
         </section>
-        <section>
+        <section id="pilot_nav_in_flight">
             <title>Pilot-Navigator in Flight </title>
             <ol>
                 <li>Constant course&#8212; For accurate navigation you must fly a constant course.
@@ -75,7 +84,7 @@
                     allow him to rectify his errors.</li>
             </ol>
         </section>
-        <section>
+        <section id="post-flight_critique">
             <title>Post-flight Critique</title>
             <p>After every flight, get together with the navigator and discuss the flight and
                 compare notes.</p>
@@ -86,7 +95,7 @@
                 attempting another navigation mission. If your flying has contributed to the
                 inaccuracy of the navigation try to fly a better course the next mission.</p>
         </section>
-        <section>
+        <section id="misc_duties">
             <title>Miscellaneous Duties</title>
             <p>As a member of the team, the bombardier-navigator must also have a general knowledge
                 of the entire operation of the airplane.</p>
@@ -98,43 +107,35 @@
                 landing gear, bomb bay doors, and flaps, and the proper procedures for crash
                 landings, ditching, bailout, etc.</p>
         </section>
-        <section>
-            <title>Bombardment</title>
-            <p>Accurate and effective bombing is the ultimate purpose of your entire airplane and
-                crew.</p>
-            <p>Every other function is preparatory to hitting and destroying the target.</p>
-            <p>Successful bombardment is the primary goal of the bombardier-navigator. The success
-                or failure of the mission depends upon what he accomplishes in that short interval
-                of the bombing run.</p>
-            <p>A great deal depends on the understanding between bombardier-navigator and pilot. You
+        <section id="bombardment"><title>Bombardment</title><p>Accurate and effective bombing is the
+                ultimate purpose of your entire airplane and crew.</p><p>Every other function is
+                preparatory to hitting and destroying the target.</p><p>Successful bombardment is
+                the primary goal of the bombardier-navigator. The success or failure of the mission
+                depends upon what he accomplishes in that short interval of the bombing run.</p><p>A
+                great deal depends on the understanding between bombardier-navigator and pilot. You
                 expect your bombardier to know his job. He expects you to understand the problems
                 involved in his job, and to give him full co-operation. Teamwork between pilot and
-                bombardier is essential.</p>
-            <p>Under any given set of conditions&#8212; ground speed, altitude, direction,
-                etc.&#8212; there is only one point in space where a bomb may be released from the
-                airplane to hit a predetermined object on the ground.</p>
-            <p>There are many things with which a bombardier must be thoroughly familiar in order to
-                release his bombs at the right point to hit this predetermined target.</p>
-            <p>He must understand his bombsight, what it does, and how it does it.</p>
-            <p>He must understand the operation and up- keep of his bombing instruments and
-                equipment.</p>
-            <p>He must know that his racks, switches, controls, releases, doors, linkage, etc., are
-                in first-class operating condition.</p>
-            <p>He must know how to operate all gun positions in the airplane.</p>
-            <p>He must know how to load and how to clear simple gun stoppages and jams while in
-                flight.</p>
-            <p>He must be able to load and fuse bombs.</p>
-            <p>He must understand the destructive power of bombs and know the vulnerable spots on
-                various types of targets.</p>
-            <p>He must understand the bombing problem, bombing probabilities, bombing errors,
-                etc.</p>
-            <p>He must be versed in target identification and in aircraft identification.</p>
-            <p>The bombardier should be familiar with the duties of all members of the crew.</p>
-            <p>To enable the bombardier to do his job, you must place the airplane in the proper
-                position to arrive at a point from which he can release his bombs to hit the
-                target.</p>
-            <p>Unless the pilot performs his part of the bombing run correctly, even the best
-                bombardier in the world cannot bomb accurately.</p>
-        </section>
+                bombardier is essential.</p><p>Under any given set of conditions&#8212; ground
+                speed, altitude, direction, etc.&#8212; there is only one point in space where a
+                bomb may be released from the airplane to hit a predetermined object on the
+                ground.</p><p>There are many things with which a bombardier must be thoroughly
+                familiar in order to release his bombs at the right point to hit this predetermined
+                target.</p><p>He must understand his bombsight, what it does, and how it does
+                it.</p><p>He must understand the operation and up- keep of his bombing instruments
+                and equipment.</p><p>He must know that his racks, switches, controls, releases,
+                doors, linkage, etc., are in first-class operating condition.</p><p>He must know how
+                to operate all gun positions in the airplane.</p><p>He must know how to load and how
+                to clear simple gun stoppages and jams while in flight.</p><p>He must be able to
+                load and fuse bombs.</p><p>He must understand the destructive power of bombs and
+                know the vulnerable spots on various types of targets.</p><p>He must understand the
+                bombing problem, bombing probabilities, bombing errors, etc.</p><p>He must be versed
+                in target identification and in aircraft identification.</p><p>The bombardier should
+                be familiar with the duties of all members of the crew.</p><p>To enable the
+                bombardier to do his job, you must place the airplane in the proper position to
+                arrive at a point from which he can release his bombs to hit the target.</p><image
+                keyref="bomb_drop" id="image_xgf_2bm_cgb">
+                <alt>B-25 dropping bombs</alt>
+            </image><p>Unless the pilot performs his part of the bombing run correctly, even the
+                best bombardier in the world cannot bomb accurately.</p></section>
     </conbody>
 </concept>

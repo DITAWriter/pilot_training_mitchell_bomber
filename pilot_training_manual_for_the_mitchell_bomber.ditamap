@@ -1,9 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
-<bookmap>
+<bookmap id="pilot_training_manual_for_the_mitchell_bomber">
     <booktitle>
         <mainbooktitle>Pilot Training Manual for the Mitchell Bomber</mainbooktitle>
     </booktitle>
+    <bookmeta>
+        <authorinformation>
+            <organizationinfo>
+                <namedetails>
+                    <organizationnamedetails/>
+                </namedetails>
+            </organizationinfo>
+            <organizationinfo>
+                <namedetails>
+                    <organizationnamedetails>
+                        <organizationname>Headquarters, AAF, Office of Flying
+                            Safety</organizationname>
+                        <otherinfo>Published for headquarters, AAF. Office of Assistant Chief of Air
+                            Staff, Training</otherinfo>
+                    </organizationnamedetails>
+                </namedetails>
+                <addressdetails><locality>Dayton, Ohio</locality></addressdetails>
+            </organizationinfo>
+        </authorinformation>
+        <publisherinformation>
+            <organization>The Otterbein Press</organization>
+            <published>
+                <completed>
+                    <month>November</month>
+                    <year>1944</year>
+                </completed>
+            </published>
+        </publisherinformation>
+        <permissions view="restricted"/>
+    </bookmeta>
     <chapter href="introduction_to_the_pilot_training_manual.dita" format="dita">
         <topicref href="history_of_the_mitchell_bomber.dita" format="dita"/>
         <topicref href="duties_and_responsibilites_of_the_airplane_commander.dita" format="dita"/>
@@ -36,6 +66,22 @@
         <topicref href="b_25_lighting_equipment.dita" format="dita"/>
         <topicref href="hamilton_hydromatic_propellers.dita" format="dita"/>
         <topicref href="hydraulic_system.dita" format="dita"/>
+<<<<<<< .mine
+        <topicref href="instruments.dita" format="dita"/>
+        <topicref href="automatic_pilot.dita" format="dita"/>
+        <topicref href="automatic_pilot.dita" format="dita"/>
+        <topicref href="communication_equipment.dita" format="dita"/>
+        <topicref href="armament.dita" format="dita"/>
+        <topicref href="oxygen.dita" format="dita"/>
+        <topicref href="photographic_equipment.dita" format="dita"/>
+        <topicref href="models_and_changes.dita" format="dita"/>
+        <topicref href="comparison_equipment_chart.dita" format="dita"/>
+    </chapter>
+     <chapter href="inspection_and_checks.dita" format="dita">
+        <topicref href="aaf_pilots_checklist.dita" format="dita"/>
+        <topicref href="inspections_and_checks.dita" format="dita"/>
+        <topicref href="starting_engines.dita" format="dita"/>
+=======
         <topicref href="instruments.dita" format="dita"/>
         <topicref href="automatic_pilot.dita" format="dita"/>
         <topicref href="automatic_pilot.dita" format="dita"/>
@@ -50,7 +96,28 @@
         <topicref href="aaf_pilots_checklist.dita" format="dita"/>
         <topicref href="inspections_and_checks.dita" format="dita"/>
         <topicref href="starting_engines.dita" format="dita"/>
+>>>>>>> .r7
     </chapter>
+<<<<<<< .mine
+    <chapter href="typical_air_work.dita" format="dita">
+        <topicref href="taxiing.dita" format="dita"/>
+        <topicref href="common_taxiing_errors.dita" format="dita"/>
+        <topicref href="taxiing_tips.dita" format="dita"/>
+        <topicref href="before_takeoff_c.i.g.f.t.p.r._friction_brake.dita" format="dita"/>
+        <topicref href="run_up.dita" format="dita"/>
+        <topicref href="takeoff.dita" format="dita"/>
+        <topicref href="notes_on_takeoff.dita" format="dita"/>
+        <topicref href="common_takeoff_errors.dita" format="dita"/>
+        <topicref href="power_changes.dita" format="dita"/>
+        <topicref href="climb.dita" format="dita"/>
+        <topicref href="let_down.dita" format="dita"/>
+        <topicref href="trimming.dita" format="dita"/>
+    </chapter>
+<backmatter> 
+    <!-- Reusable image references -->
+     <mapref format="ditamap" href="m_reusableImageReferences.ditamap"/>
+</backmatter>
+=======
     <chapter href="typical_air_work.dita" format="dita">
         <topicref href="taxiing.dita" format="dita"/>
         <topicref href="common_taxiing_errors.dita" format="dita"/>
@@ -67,4 +134,5 @@
     </chapter>
 
 
+>>>>>>> .r7
 </bookmap>

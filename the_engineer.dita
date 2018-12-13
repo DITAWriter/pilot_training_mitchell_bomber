@@ -3,7 +3,16 @@
 <concept id="concept_am1_t44_bgb">
     <title>The Engineer</title>
     <shortdesc>Size up the man who is to be your engineer.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
+        <image keyref="preflight_general">
+            <alt>The Engineer</alt>
+        </image>
         <p>This man should know more about the airplane you are to fly than any other member of the
             crew. If there are deficiencies in his training you may be able to fill them in.</p>
         <p>Size up the man who is to be your engineer. This man should know more about the airplane

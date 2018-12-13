@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_dpn_mj4_bgb">
+<concept id="introduction_to_the_pilot_training_manual">
     <title>Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25</title>
     <shortdesc>This manual is the text for your training as a B-25 pilot and airplane
         commander.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>The Air Forces' most experienced training and supervisory personnel have collaborated to
             make it a complete exposition of what your pilot duties are, how each will be performed,

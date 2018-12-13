@@ -3,7 +3,16 @@
 <concept id="concept_pq4_mn4_bgb">
     <title>Radio Operator</title>
     <shortdesc>It is impossible to learn radio in a day.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
+        <image keyref="radio_operator" id="image_b5v_hbm_cgb">
+            <alt>Radio operator</alt>
+        </image>
         <p>There is a lot of radio equipment in today's B-25's. There is one particular man who is
             supposed to know all there is to know about this equipment. Sometimes he does, but often
             he doesn't. His deficiencies often do not become apparent until the crew is in the
