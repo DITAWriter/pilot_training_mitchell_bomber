@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_ecw_y3h_cgb">
+<concept id="instruments">
     <title>Instruments</title>
-    <shortdesc/>
+    <shortdesc>The following instruments are installed on the B-25. You need no special instructions
+        for their operation, as they are basically the same as those on any 2-engine bombardment or
+        training airplane.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <p>The following instruments are installed on the B-25. You need no special instructions for
-            their operation, as they are basically the same as those on any 2-engine bombardment or
-            training airplane.</p>
         <section>
             <title>Flight Instruments</title>
             <p>Pilot Static Instruments</p>

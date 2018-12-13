@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_ukg_ppl_cgb">
+<task id="run_up">
     <title>Run-up</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
             <p/>
@@ -41,6 +47,9 @@
                 <cmd>Following the mag check, run the engines up singly to 30" Hg. At this manifold
                     pressure you will get an approximate reading of 2400 rpm, which means that the
                     plane should give you sufficient power for takeoff.</cmd>
+                <info><image keyref="takeoff_speed" id="image_fjr_hqm_cgb">
+                        <alt>Do not hurry a takeoff</alt>
+                    </image></info>
             </step>
         </steps>
     </taskbody>

@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_vkh_sll_cgb">
+<concept id="starting_engines">
     <title>Starting Engines</title>
     <shortdesc>Use the checklist for starting.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>Use the checklist for starting.</p>
-        <p>Fire guard posted. </p>
+        <image keyref="startup_fire_guard" id="image_e3r_44m_cgb">
+            <alt>Startup fire guard posted</alt>
+        </image>
+        <p>Fire guard posted.</p>
         <p>Props clear.</p>
+        <image keyref="startup_ignition" id="image_iww_q4m_cgb">
+            <alt>Startup ignition switches, one at a time</alt>
+        </image>
         <p>Ignition switches "ON" one at a time Booster pumps "ON"&#8212; operate only the switch on
             the engine you are starting.</p>
         <p>Energize 10 seconds when using an external power source, 20 seconds when using the
@@ -21,6 +33,9 @@
         <p>If the oil pressure does not reach 40 lb. in 30 seconds stop the engine and
             investigate.</p>
         <p>Repeat procedure on the left engine.</p>
+        <image keyref="startup_booster" id="image_jjp_t4m_cgb">
+            <alt>Startup booster</alt>
+        </image>
         <p>Booster pumps "OFF"&#8212; check fuel pressure. There must be 6-7 lb. sq. in.</p>
         <p>Warm up at approximately 1200 rpm.</p>
         <p>Battery-disconnect switches "ON" (if external power is used).</p>

@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_jh2_442_cgb">
+<concept id="fuel_system">
     <title>Fuel System</title>
-    <shortdesc/>
+    <shortdesc>Each engine has an independent fuel supply, interconnected by fuel transfer and fuel
+        crossfeed systems. The fuel lines and cells are self- sealing.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <p>Each engine has an independent fuel supply, interconnected by fuel transfer and fuel
-            crossfeed systems. The fuel lines and cells are self- sealing.</p>
         <p>The main fuel supply is carried in 4 large fuel cells, 2 in each wing center section
             between the fuselage and the nacelle. The front cell in each wing has a capacity of 184
             gallons, the rear cell 151 gallons.</p>
@@ -42,6 +47,11 @@
         <p>Fuel transfer valves for the fuselage tanks are on the forward wall of the bomb bay.</p>
         <p>Use the crossfeed system for emergency operation only. By using the crossfeed, you can
             supply fuel from one or both tanks to one or both engines.</p>
-
+        <image keyref="fuel_cell_location" id="image_dp3_g3m_cgb">
+            <alt>Fuel cell location</alt>
+        </image>
+        <image keyref="fuel_system" id="image_kvn_33m_cgb">
+            <alt>Fuel system</alt>
+        </image>
     </conbody>
 </concept>

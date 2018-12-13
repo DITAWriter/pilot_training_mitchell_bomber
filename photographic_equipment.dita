@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_kx2_vsh_cgb">
+<concept id="photographic_equipment">
     <title>Photographic Equipment</title>
     <shortdesc>There is a photography station in the fuselage rear section on early-model
         airplanes.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
+        <image keyref="photographic_equipment" id="image_k1c_rmm_cgb">
+            <alt>Photographic equipment</alt>
+        </image>
         <p>On late-model airplanes it is immediately aft of the bomb bay. Vertical photographs are
             made through a camera opening in the fuselage floor. A vertical viewfinder mounting
             plate and openings are in the fuselage floor just aft of the camera opening. There is a

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_ujw_3ql_cgb">
+<concept id="takeoff">
     <title>Takeoff</title>
     <shortdesc>Takeoff in the with its tricycle gear, varies from that with conventional gear only
         during the initial part of the roll. You will find it much easier.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
+        <image keyref="takeoff" id="image_ow1_jqm_cgb">
+            <alt>Takeoff</alt>
+        </image>
         <p>The principal difference is in attaining the proper angle of attack of the wing. On the
             conventional type you start from a stall attitude and reduce the angle to permit flight.
             In the B-25 you start from a negative angle of attack and increase the angle of attack

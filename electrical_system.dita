@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_v1n_zp2_cgb">
+<concept id="electrical_system">
     <title>Electrical System</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>The electrical power which operates and controls the various units of the B-25 is
             supplied by 2 generators, supplemented by 2 storage batteries connected in parallel.</p>
         <p>The batteries, behind the firewall in each nacelle, furnish 24-volt current to the
             electrical equipment when the generators are not operating.</p>
+        <image keyref="storage_battery" id="image_cp2_y3m_cgb">
+            <alt>Storage battery</alt>
+        </image>
         <p>Battery-disconnect solenoids connect the batteries to the electrical system. (On late
             series aircraft B-4 relays replace these solenoids.) The solenoids are in the power
             panel junction box and are controlled by switches on the pilot's switch panel. Both are

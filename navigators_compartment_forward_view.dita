@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="reference_ztr_jj2_cgb">
+<reference id="navigators_compartment_forward_view">
     <title>Navigator's Compartment-Forward View</title>
-    <shortdesc></shortdesc>
-    <refbody> </refbody>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <section id="section_rzr_phm_cgb">
+            <fig id="fig_erh_qhm_cgb">
+                <image keyref="navigators_compartment-front_view" id="image_xd2_thm_cgb">
+                    <alt>Navigator's compartment, front view</alt>
+                </image>
+            </fig>
+        </section>
+    </refbody>
 </reference>

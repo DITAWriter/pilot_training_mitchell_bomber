@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_rw1_qzh_cgb">
+<concept id="inspection_and_checks">
     <title>Inspection and Checks</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <p></p>
+        <image keyref="inspections_and_checks" id="image_p1f_wmm_cgb">
+            <alt>Inspections and checks</alt>
+        </image>
+        <p/>
     </conbody>
 </concept>

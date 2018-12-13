@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_pym_3kh_cgb">
+<concept id="communication_equipment">
     <title>Communication Equipment</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <ol>
-            <li>INTERPHONE JACK BOX</li>
-            <li>FILTER SWITCH</li>
-            <li>COMMAND RECEIVER CONTROLS</li>
-            <li>COMMAND TRANSMITTER CONTROLS</li>
-            <li>FILTER BOX</li>
-            <li>HEADPHONE EXTENSION CORD</li>
-            <li>COMMAND TRANSMITTER DYNAMOTOR</li>
-            <li>FORWARD ANTENNA MAST</li>
-            <li>ANTENNA RELAY</li>
-            <li>COMMAND RECEIVERS</li>
-            <li>COMMAND TRANSMITTERS</li>
-            <li>COMMAND ANTENNA</li>
-        </ol>
+        <fig id="fig_k25_3km_cgb">
+            <image keyref="communication_equipment" id="image_rbd_kkm_cgb">
+                <alt>Communication equipment</alt>
+            </image>
+            <ol id="ol_v25_3km_cgb">
+                <li>INTERPHONE JACK BOX</li>
+                <li>FILTER SWITCH</li>
+                <li>COMMAND RECEIVER CONTROLS</li>
+                <li>COMMAND TRANSMITTER CONTROLS</li>
+                <li>FILTER BOX</li>
+                <li>HEADPHONE EXTENSION CORD</li>
+                <li>COMMAND TRANSMITTER DYNAMOTOR</li>
+                <li>FORWARD ANTENNA MAST</li>
+                <li>ANTENNA RELAY</li>
+                <li>COMMAND RECEIVERS</li>
+                <li>COMMAND TRANSMITTERS</li>
+                <li>COMMAND ANTENNA</li>
+            </ol>
+        </fig>
         <p>The communication equipment on the B-25 is basically the same as that on all Army
             bombardment airplanes.</p>
         <p>The following radio sets are installed:</p>
@@ -49,47 +60,51 @@
             <p>A radio operator uses this set for long-range air-to-ground communication. In
                 emergencies the pilot, copilot, and navigator, by using the interphone circuits, can
                 transmit voice messages to the ground.</p>
-        </section>
-        <section>
-            <title/>
-            <ol>
-                <li>LIAISON RADIO ANTENNA </li>
-                <li>LIAISON TUNING UNITS </li>
-                <li>LIAISON JUNCTION BOX </li>
-                <li>LIAISON TRANSMITTER </li>
-                <li>ANTENNA TUNING UNIT </li>
-                <li>FREQUENCY METER </li>
-                <li>RADlO DATA CASE</li>
-                <li>LIAISON RECEIVER</li>
-                <li>TRANSMITTING KEY </li>
-                <li>RADIO OPERATOR'S JACK BOX</li>
-                <li>LIAISON DYNAMOTOR</li>
-                <li>ANTENNA REEL CONTROL</li>
-                <li>GUNNER'S MICROPHONE SWITCH</li>
-                <li>TRAILING ANTENNA AND REEL</li>
-                <li>UPPER TURRET JACK BOX</li>
-            </ol>
-        </section>
-        <section>
-            <title/>
-            <ol>
-                <li>RADIO COMPASS LOOP</li>
-                <li>RADIO COMPASS RECEIVER</li>
-                <li>RADIO COMPASS AND RELAY JUNCTION BOX</li>
-                <li>NAVIGATOR'S AZIMUTH INDICATOR</li>
-                <li>NAVIGATOR'S INTERPHONE JACK BOX</li>
-                <li>NAVIGATOR'S HEADPHONE EXTENSION CORD</li>
-                <li>NAVIGATOR'S RADIO COMPASS CONTROL BOX</li>
-                <li>INTERPHONE DYNAMOTOR</li>
-                <li>FILTER BOX</li>
-                <li>PILOT'S INTERPHONE JACK BOX</li>
-                <li>PILOT'S HEADPHONE EXTENSION CORD</li>
-                <li>PILOT'S RADIO COMPASS CONTROL BOX</li>
-                <li>PILOT'S AZIMUTH INDICATOR</li>
-            </ol>
+            <fig id="fig_lsl_mkm_cgb">
+                <image keyref="liaison_comm_set" id="image_o5t_nkm_cgb">
+                    <alt>Liaison comm set</alt>
+                </image>
+                <ol id="ol_pxd_mkm_cgb">
+                    <li>LIAISON RADIO ANTENNA </li>
+                    <li>LIAISON TUNING UNITS </li>
+                    <li>LIAISON JUNCTION BOX </li>
+                    <li>LIAISON TRANSMITTER </li>
+                    <li>ANTENNA TUNING UNIT </li>
+                    <li>FREQUENCY METER </li>
+                    <li>RADlO DATA CASE</li>
+                    <li>LIAISON RECEIVER</li>
+                    <li>TRANSMITTING KEY </li>
+                    <li>RADIO OPERATOR'S JACK BOX</li>
+                    <li>LIAISON DYNAMOTOR</li>
+                    <li>ANTENNA REEL CONTROL</li>
+                    <li>GUNNER'S MICROPHONE SWITCH</li>
+                    <li>TRAILING ANTENNA AND REEL</li>
+                    <li>UPPER TURRET JACK BOX</li>
+                </ol>
+            </fig>
         </section>
         <section>
             <title>Radio Compass Receiver</title>
+            <fig id="fig_spv_pkm_cgb">
+                <image keyref="radio_compass_receiver" id="image_tww_qkm_cgb">
+                    <alt>Radio compass receiver</alt>
+                </image>
+                <ol id="ol_r1q_pkm_cgb">
+                    <li>RADIO COMPASS LOOP</li>
+                    <li>RADIO COMPASS RECEIVER</li>
+                    <li>RADIO COMPASS AND RELAY JUNCTION BOX</li>
+                    <li>NAVIGATOR'S AZIMUTH INDICATOR</li>
+                    <li>NAVIGATOR'S INTERPHONE JACK BOX</li>
+                    <li>NAVIGATOR'S HEADPHONE EXTENSION CORD</li>
+                    <li>NAVIGATOR'S RADIO COMPASS CONTROL BOX</li>
+                    <li>INTERPHONE DYNAMOTOR</li>
+                    <li>FILTER BOX</li>
+                    <li>PILOT'S INTERPHONE JACK BOX</li>
+                    <li>PILOT'S HEADPHONE EXTENSION CORD</li>
+                    <li>PILOT'S RADIO COMPASS CONTROL BOX</li>
+                    <li>PILOT'S AZIMUTH INDICATOR</li>
+                </ol>
+            </fig>
             <p>The radio compass receiver has 2 control stations, one in the pilot's compartment and
                 one in the navigator's compartment.</p>
             <p>Operating on either a fixed antenna or a rotating loop antenna, it indicates
@@ -104,13 +119,13 @@
                 panel is connected to the receiver, blinking on when the airplane passes a 75 Mc
                 transmitter.</p>
         </section>
-        <section>
-            <title>Interphone</title>
-            <p>The interphone system of the B'25 is a standard installation. It operates whenever
-                the battery-disconnect switches are "ON." It is used by every crew member to
-                communicate with all other crew members.</p>
-            <p>The interphone plays a vital part in crew coordination. Used effectively in combat,
-                it serves as the eyes of the entire crew.</p>
-        </section>
+        <section><title>Interphone</title><p>The interphone system of the B'25 is a standard
+                installation. It operates whenever the battery-disconnect switches are "ON." It is
+                used by every crew member to communicate with all other crew members.</p><p>The
+                interphone plays a vital part in crew coordination. Used effectively in combat, it
+                serves as the eyes of the entire crew.</p><image keyref="interphone_jack_box"
+                id="image_c4z_skm_cgb">
+                <alt>Inerphone jack box</alt>
+            </image></section>
     </conbody>
 </concept>

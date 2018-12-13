@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="reference_w3v_tj2_cgb">
+<reference id="radio_operators_compartment_forward_view">
     <title>Radio Operator's Compartment-Forward View</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <refbody>
         <section>
-            <title/>
-            <p/>
-            <ol>
-                <li>Life Raft Release</li>
-                <li>Radio Transmitting Key</li>
-                <li>Radio Jack Box</li>
-                <li>Emergency Wing Flap Crank</li>
-                <li>Emergency Escape Hatch Release</li>
-                <li>Hand Fire Extinguisher (CO<sub>2</sub>)</li>
-                <li>Ventilation Inlet</li>
-                <li>Oxygen Regulator</li>
-                <li>Dome Light Switch</li>
-            </ol>
+            <fig>
+                <image keyref="radio_operators_compartment-forward_view">
+                    <alt>Radio operator's compartment, forward view</alt>
+                </image>
+                <ol>
+                    <li>Life Raft Release</li>
+                    <li>Radio Transmitting Key</li>
+                    <li>Radio Jack Box</li>
+                    <li>Emergency Wing Flap Crank</li>
+                    <li>Emergency Escape Hatch Release</li>
+                    <li>Hand Fire Extinguisher (CO<sub>2</sub>)</li>
+                    <li>Ventilation Inlet</li>
+                    <li>Oxygen Regulator</li>
+                    <li>Dome Light Switch</li>
+                </ol>
+            </fig>
         </section>
     </refbody>
 </reference>

@@ -1,38 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_dfz_xq2_cgb">
+<concept id="b_25_lighting_equipment">
     <title>B-25 Lighting Equipment</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <section>
-            <title>Exterior Lighting</title>
-            <p>Landing Lights&#8212; An 8-inch, sealed-beam landing light is in the leading edge of
-                each outer wing panel and is operated by a switch on the pilot's control
-                pedestal.</p>
-            <p>Passing Light&#8212; Located beside the landing light in the left outboard wing
-                panel, it is controlled by a switch on the pilot's switch panel (not installed on
-                late series B-25).</p>
-            <p>Position Lights&#8212; The position lights consist of a red light on the outer edge
-                of the left wingtip, a green light on the outer edge of the right wingtip, and a
-                white frosted light on the outboard surface of each vertical stabilizer. Two
-                switches on the pilot's switch panel operate these lights. Each switch has an
-                independent "BRIGHT" and "DIM" position for the wing and tail lights, separately
-                controlled.</p>
-            <p>Formation Lights&#8212; The formation lights, colored blue, are mounted on the upper
-                surface of the fuselage and horizontal stabilizer so they will not be visible from
-                the ground. There are 3 lights aft of the upper turret on the center line of the
-                fuselage and 4 lights on the horizontal stabilizer approximately 3 inches for- ward
-                of the elevators. A rheostat, acting as both switch and intensity adjustment,
-                controls all 7 lights (not installed on late series B-25's).</p>
-            <p>Recognition Lights&#8212; The recognition lights comprise a white lamp on the upper
-                surface of the fuselage above the radio compartment, and red, green and amber lights
-                on the lower surface of the right wingtip. A bank of 4 toggle switches on the left
-                side of the pilot's control pedestal operates the lamps in any desired combination.
-                They can be set to burn continuously or to flash off and on by means of a keying
-                switch on the toggle switch box.</p>
-            <note type="caution">Do not keep the recognition lights on for more than a few seconds
-                with the airplane on the ground, as serious damage to the lenses will result.</note>
-        </section>
+        <section><title>Exterior Lighting</title><image keyref="lighting_equipment">
+                <alt>B-25 lighting equipment</alt>
+            </image><p>Landing Lights&#8212; An 8-inch, sealed-beam landing light is in the leading
+                edge of each outer wing panel and is operated by a switch on the pilot's control
+                pedestal.</p><p>Passing Light&#8212; Located beside the landing light in the left
+                outboard wing panel, it is controlled by a switch on the pilot's switch panel (not
+                installed on late series B-25).</p><p>Position Lights&#8212; The position lights
+                consist of a red light on the outer edge of the left wingtip, a green light on the
+                outer edge of the right wingtip, and a white frosted light on the outboard surface
+                of each vertical stabilizer. Two switches on the pilot's switch panel operate these
+                lights. Each switch has an independent "BRIGHT" and "DIM" position for the wing and
+                tail lights, separately controlled.</p><p>Formation Lights&#8212; The formation
+                lights, colored blue, are mounted on the upper surface of the fuselage and
+                horizontal stabilizer so they will not be visible from the ground. There are 3
+                lights aft of the upper turret on the center line of the fuselage and 4 lights on
+                the horizontal stabilizer approximately 3 inches for- ward of the elevators. A
+                rheostat, acting as both switch and intensity adjustment, controls all 7 lights (not
+                installed on late series B-25's).</p><p>Recognition Lights&#8212; The recognition
+                lights comprise a white lamp on the upper surface of the fuselage above the radio
+                compartment, and red, green and amber lights on the lower surface of the right
+                wingtip. A bank of 4 toggle switches on the left side of the pilot's control
+                pedestal operates the lamps in any desired combination. They can be set to burn
+                continuously or to flash off and on by means of a keying switch on the toggle switch
+                box.</p><note type="caution">Do not keep the recognition lights on for more than a
+                few seconds with the airplane on the ground, as serious damage to the lenses will
+                result.</note></section>
         <section>
             <title>Interior Lighting</title>
             <p>Dome lights are located in the pilot's, bombardier's, navigator's, bomb bay, and
@@ -42,15 +45,13 @@
                 Switch controls of these lights are on each unit. They can be extended approximately
                 4 feet.</p>
         </section>
-        <section>
-            <title>Instrument Lighting</title>
-            <p>Fluorescent lamps are in the bombardier's compartment and on the pilot's and
-                copilot's control columns. Intensity of these lights is adjustable by rheostats,
-                adjacent to the lamps.</p>
-            <p>The pilot's magnetic compass light is in the compass itself; a rheostat on the
-                pilot's switch panel controls it.</p>
-            <p>All optical gunsight lights are inside the sights. The rheostats which control them
-                are near each unit.</p>
-        </section>
+        <section><title>Instrument Lighting</title><p>Fluorescent lamps are in the bombardier's
+                compartment and on the pilot's and copilot's control columns. Intensity of these
+                lights is adjustable by rheostats, adjacent to the lamps.</p><p>The pilot's magnetic
+                compass light is in the compass itself; a rheostat on the pilot's switch panel
+                controls it.</p><p>All optical gunsight lights are inside the sights. The rheostats
+                which control them are near each unit.</p><image keyref="landing_lights">
+                <alt>Landing lights</alt>
+            </image></section>
     </conbody>
 </concept>

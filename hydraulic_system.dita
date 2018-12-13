@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_pvj_fs2_cgb">
+<concept id="hydraulic_system">
     <title>Hydraulic System</title>
-    <shortdesc/>
+    <shortdesc>The hydraulic system provides quick and easy operation of the following equipment on
+        the B-25:</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <p>The hydraulic system provides quick and easy operation of the following equipment on the
-            B-25:</p>
         <ol>
             <li>Tricycle Landing Gear</li>
             <li>Brakes</li>
@@ -15,6 +20,9 @@
             <li>Automatic Pilot</li>
             <li>Gun Chargers</li>
         </ol>
+        <image keyref="hydraulic_system" id="image_w5x_qjm_cgb">
+            <alt>Hydraulic system</alt>
+        </image>
         <p>The reservoir which contains the hydraulic fluid has a capacity of 5.9 gallons. A
             standpipe in the reservoir retains a reserve of 2.33 gallons for the emergency hand
             pump.</p>
