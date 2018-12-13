@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="reference_vvc_sp4_bgb">
+<reference id="rules_to_be_enforced_on_every_flight">
     <title>Rules to Be Enforced on Every Flight</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <refbody>
-        <section>
-            <title>Smoking</title>
-            <ol>
+        <section id="smoking"><title>Smoking</title><image
+                keyref="cartoon-no_smoking_under_1000_feet" id="image_att_5cm_cgb">
+                <alt>No smoking under 1000 feet!</alt>
+            </image><ol>
                 <li>No smoking in airplane at an altitude below 1000 feet.</li>
                 <li>No smoking during fuel transfer.</li>
                 <li>Never attempt to throw a lighted cigarette from the airplane. Put it out
                     first.</li>
-            </ol>
-        </section>
-        <section>
+            </ol></section>
+        <section id="parachutes">
             <title>Parachutes</title>
             <ol>
                 <li>All persons aboard will wear parachute harness at all times from takeoff to
@@ -22,7 +28,7 @@
                 <li>Carry at least one spare parachute in the plane.</li>
             </ol>
         </section>
-        <section>
+        <section id="propellers">
             <title>Propellers</title>
             <ol>
                 <li>Always enter and leave the plane to and from the rear.</li>
@@ -30,7 +36,7 @@
                     do so by the airplane commander.</li>
             </ol>
         </section>
-        <section>
+        <section id="oxygen_masks">
             <title>Oxygen Masks</title>
             <ol>
                 <li>Oxygen masks will be carried on all flights where altitude may exceed 10,000
@@ -43,7 +49,7 @@
                     which altitude may reach 10,000 feet.</li>
             </ol>
         </section>
-        <section>
+        <section id="training">
             <title>Training</title>
             <ol>
                 <li>Tell your crew the purpose of each mission and what you expect each to
@@ -57,7 +63,7 @@
                     and fire drill.</li>
             </ol>
         </section>
-        <section>
+        <section id="inspections">
             <title>Inspections</title>
             <ol>
                 <li>Check your airplane with reference to the particular mission you arc
@@ -66,8 +72,8 @@
                     expect from them.</li>
             </ol>
         </section>
-        <section>
-            <title/>
+        <section id="interphone">
+            <title>Interphone</title>
             <ol>
                 <li>Assure yourself that all members of the crew are standing by their interphones
                     at all times. <b>Insist on clear, well controlled voices. Speak slowly and

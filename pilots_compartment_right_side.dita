@@ -3,19 +3,28 @@
 <reference id="reference_wrq_f32_cgb">
     <title>Pilot's Compartment-Right Side</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <refbody>
         <section>
-            <title/>
-            <p/>
-            <ol>
-                <li>Radio Transmitters</li>
-                <li>Radio Receivers</li>
-                <li>Heated Clothing Electrical Control</li>
-                <li>Filter Switch Box</li>
-                <li>Radio Jack Box</li>
-                <li>Adjustable Spotlight</li>
-                <li>Co-Pilot's Sliding Window Control Ventilation Inlet</li>
-            </ol>
+            <fig id="fig_onx_lgm_cgb">
+                <image keyref="pilots_compartment-right-side" id="image_gpp_ngm_cgb">
+                    <alt>Pilot's compartment, right side</alt>
+                </image>
+                <ol id="ol_unx_lgm_cgb">
+                    <li>Radio Transmitters</li>
+                    <li>Radio Receivers</li>
+                    <li>Heated Clothing Electrical Control</li>
+                    <li>Filter Switch Box</li>
+                    <li>Radio Jack Box</li>
+                    <li>Adjustable Spotlight</li>
+                    <li>Co-Pilot's Sliding Window Control Ventilation Inlet</li>
+                </ol>
+            </fig>
         </section>
     </refbody>
 </reference>

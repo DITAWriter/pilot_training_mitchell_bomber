@@ -3,37 +3,46 @@
 <reference id="reference_cvw_fg2_cgb">
     <title>Pilot's Compartment-General Forward View</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <refbody>
         <section>
-            <title/>
-            <p/>
-            <ol>
-                <li>Aileron Controls</li>
-                <li>Elevator Controls</li>
-                <li>Rudder Controls</li>
-                <li>Surface Control Lock</li>
-                <li>Elevator Trim</li>
-                <li>Throttles</li>
-                <li>Propeller Controls</li>
-                <li>Mixture Controls</li>
-                <li>Parking Brake Handle</li>
-                <li>Propeller &amp; Mixture Control Lock</li>
-                <li>Throttle Control Lock</li>
-                <li>Auto-Pilot OFF-ON Control</li>
-                <li>Supercharger Controls</li>
-                <li>Oil Cooler Shutters</li>
-                <li>Carburetor Air Heat Control</li>
-                <li>Wing Flaps</li>
-                <li>Landing Gear</li>
-                <li>Engine Cowl Flaps</li>
-                <li>Engine Fire Extinguisher</li>
-                <li>Instrument Panel Fluorescent Light Switch</li>
-                <li>Throat Microphone Switches</li>
-                <li>Gun Trigger Switch</li>
-                <li>Bomb Release Button</li>
-                <li>Emergency Bomb Release</li>
-                <li>Detonator Switch</li>
-            </ol>
+            <fig id="fig_ibx_yfm_cgb">
+                <image keyref="pilots_compartment-general_forward_view" id="image_am5_1gm_cgb">
+                    <alt>Pilot's compartment, general forward view</alt>
+                </image>
+                <ol id="ol_ybx_yfm_cgb">
+                    <li>Aileron Controls</li>
+                    <li>Elevator Controls</li>
+                    <li>Rudder Controls</li>
+                    <li>Surface Control Lock</li>
+                    <li>Elevator Trim</li>
+                    <li>Throttles</li>
+                    <li>Propeller Controls</li>
+                    <li>Mixture Controls</li>
+                    <li>Parking Brake Handle</li>
+                    <li>Propeller &amp; Mixture Control Lock</li>
+                    <li>Throttle Control Lock</li>
+                    <li>Auto-Pilot OFF-ON Control</li>
+                    <li>Supercharger Controls</li>
+                    <li>Oil Cooler Shutters</li>
+                    <li>Carburetor Air Heat Control</li>
+                    <li>Wing Flaps</li>
+                    <li>Landing Gear</li>
+                    <li>Engine Cowl Flaps</li>
+                    <li>Engine Fire Extinguisher</li>
+                    <li>Instrument Panel Fluorescent Light Switch</li>
+                    <li>Throat Microphone Switches</li>
+                    <li>Gun Trigger Switch</li>
+                    <li>Bomb Release Button</li>
+                    <li>Emergency Bomb Release</li>
+                    <li>Detonator Switch</li>
+                </ol>
+            </fig>
         </section>
     </refbody>
 </reference>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="TheGunners">
+    <title>The Gunners</title>
+    <shortdesc>Your gunners belong to one of two distinct categories: turret gunners and flexible
+        gunners.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <image keyref="gunner" id="image_syz_d2m_cgb">
+            <alt>The Gunners</alt>
+        </image>
+        <p>The power turret gunners must have good coordination.</p>
+        <p>While the flexible gunners do not require the same delicate touch as the turret gunner,
+            they must have a fine sense of timing.</p>
+        <p>All gunners should be familiar with the coverage area of all gun positions, and be
+            prepared to bring the proper gun to bear on the target.</p>
+        <p>They must be experts in aircraft identification.</p>
+        <p>They must be thoroughly familiar with the machine guns. They should know how to maintain
+            the guns, how to clear jams and stoppages, and how to harmonize the sights with the
+            guns.</p>
+        <p>During training flights, the gunners should be in their turrets, tracking with the guns
+            even when actual firing is not practicable. Other aircraft flying in the vicinity offer
+            excellent tracking targets, as do automobiles, houses, and other ground objects during
+            low-altitude flights.</p>
+        <p>Keep your gunners’ interest alive at all times. Any form of competition among the gunners
+            themselves should stimulate their interest.</p>
+        <p>Finally, each gunner should fire the guns at each station to familiarize himself with the
+            other positions.</p>
+    </conbody>
+</concept>

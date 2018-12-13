@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_bgc_1vd_1gb">
+<concept id="practical_questions">
     <title>Practical Questions</title>
     <shortdesc>These are some of the practical questions which you as airplane commander must be
         able to answer. </shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
         <ul>
             <li>Can all members of your crew fly at high altitudes without discomfort or physical
-                handicap? </li>
-            <li>Does any member of your crew get airsick? </li>
-            <li>Can the copilot take over in emergency? </li>
-            <li>Does the radio operator understand D.F. aids? </li>
-            <li>Do the gunners know how to unload and stow their guns? </li>
+                handicap?</li>
+            <li>Does any member of your crew get airsick?</li>
+            <li>Can the copilot take over in emergency?</li>
+            <li>Does the radio operator understand D.F. aids?</li>
+            <li>Do the gunners know how to unload and stow their guns?</li>
             <li>Do the engineer and the copilot (and do you) know how to use the load adjuster and
-                how to load the airplane properly? </li>
+                how to load the airplane properly?</li>
             <li>Do the engineer and copilot (and do you) use the control charts to check your power
-                settings and the efficient performance of your airplane? </li>
-            <li>Does your crew know emergency procedure and signals? </li>
-            <li>Is each member of your crew properly equipped? </li>
-            <li>What can you do to prevent or relieve anoxia, air sickness, and fatigue? </li>
+                settings and the efficient performance of your airplane?</li>
+            <li>Does your crew know emergency procedure and signals?</li>
+            <li>Is each member of your crew properly equipped?</li>
+            <li>What can you do to prevent or relieve anoxia, air sickness, and fatigue?</li>
             <li>Is your crew familiar with first-aid treatment?</li>
             <li>Can you improve the morale of your crew?</li>
         </ul>

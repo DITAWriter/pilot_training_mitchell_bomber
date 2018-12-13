@@ -3,23 +3,32 @@
 <reference id="reference_knm_sh2_cgb">
     <title>Pilot's Compartment-Left Side</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <refbody>
         <section>
-            <title/>
-            <p/>
-            <ol>
-                <li>Pilot's Air Flow Control</li>
-                <li>Filter Switch Box</li>
-                <li>Radio Jack Box</li>
-                <li>Heated Clothing Electrical Control</li>
-                <li>Radio Compass Control Unit</li>
-                <li>Pilot's Sliding Window Control</li>
-                <li>Adjustable Spotlight</li>
-                <li>Ventilation Inlet</li>
-                <li>Landing Gear</li>
-                <li>Aileron Trim</li>
-                <li>Hydraulic Hand Pump</li>
-            </ol>
+            <fig id="fig_el5_3gm_cgb">
+                <image keyref="pilots_compartment-left-side" id="image_ahw_kgm_cgb">
+                    <alt>Pilot's compartment, left side</alt>
+                </image>
+                <ol id="ol_ol5_3gm_cgb">
+                    <li>Pilot's Air Flow Control</li>
+                    <li>Filter Switch Box</li>
+                    <li>Radio Jack Box</li>
+                    <li>Heated Clothing Electrical Control</li>
+                    <li>Radio Compass Control Unit</li>
+                    <li>Pilot's Sliding Window Control</li>
+                    <li>Adjustable Spotlight</li>
+                    <li>Ventilation Inlet</li>
+                    <li>Landing Gear</li>
+                    <li>Aileron Trim</li>
+                    <li>Hydraulic Hand Pump</li>
+                </ol>
+            </fig>
         </section>
     </refbody>
 </reference>

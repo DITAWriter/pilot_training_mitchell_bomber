@@ -3,20 +3,29 @@
 <reference id="reference_blz_qf2_cgb">
     <title>Bombardier's Compartment-Left Side</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <refbody>
         <section>
-            <title/>
-
-        <ol>
-            <li>Heated Clothing Electrical Outlet Control</li>
-            <li>Bombsight Window Anti-icer Rheostat</li>
-            <li>Ventilation Outlet Control</li>
-            <li>Bomb Bay Door and Bomb Control Handle</li>
-            <li>Bomb Control Panel</li>
-            <li>Bomb Release Switch</li>
-            <li>Selective Train Switch Interval Control</li>
-            <li>Bombsight and Windshield Defrosting Unit </li>
-        </ol>
+            <fig id="fig_cdr_vfm_cgb">
+                <image keyref="bombardiers_compartment-left_side" id="image_pvq_5fm_cgb">
+                    <alt>Bombardier's compartment, left side</alt>
+                </image>
+                <ol id="ol_ldr_vfm_cgb">
+                    <li>Heated Clothing Electrical Outlet Control</li>
+                    <li>Bombsight Window Anti-icer Rheostat</li>
+                    <li>Ventilation Outlet Control</li>
+                    <li>Bomb Bay Door and Bomb Control Handle</li>
+                    <li>Bomb Control Panel</li>
+                    <li>Bomb Release Switch</li>
+                    <li>Selective Train Switch Interval Control</li>
+                    <li>Bombsight and Windshield Defrosting Unit </li>
+                </ol>
+            </fig>
         </section>
     </refbody>
 </reference>
