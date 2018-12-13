@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_vwc_g5l_cgb">
+<concept id="let_down">
     <title>Let-down</title>
     <shortdesc>A let-down is a simple procedure either in instrument or contact flight.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="13. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>Reduce manifold pressure slightly. Trim for hands-off flight and allow the plane to
             descend at a steady rate.</p>
@@ -12,5 +18,8 @@
             wheels, lower partial flaps and increase the power settings to prevent rapid
             cooling.</p>
         <p>Level off at the desired altitude and adjust power and trim.</p>
+        <image keyref="cartoon-engine_cough" id="image_dlq_phs_cgb">
+            <alt>Keep engine warm. If it cools off, it may cough at the wrong time</alt>
+        </image>
     </conbody>
 </concept>

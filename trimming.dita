@@ -4,6 +4,12 @@
     <title>Trimming</title>
     <shortdesc>When properly trimmed the B-25 flies with an ease that belies its weight and
         size.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="13. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>Watch an old instructor pilot at the controls and you will see that he practically flies
             the plane with the trim tabs.</p>
@@ -17,6 +23,18 @@
             care in setting the trim tabs on takeoff.</p>
         <p>Improperly set tabs make control difficult as the speed and Uft increase during the
             takeoff run.</p>
+        <image keyref="trim_wings_level">
+            <alt>Keep the wings level by visual reference or by instruments.</alt>
+        </image>
+        <image keyref="trim_rudder">
+            <alt>Trim rudder until ball is centered or until directional gyro stops turning.</alt>
+        </image>
+        <image keyref="trim_aileron">
+            <alt>Trim aileron</alt>
+        </image>
+        <image keyref="trim_elevator">
+            <alt>Trim elevator</alt>
+        </image>
         <p>Check the trim by releasing all controls, allowing the plane to fly for a short time
             without guidance. Properly trimmed it holds course, altitude, and heading for some
             time.</p>

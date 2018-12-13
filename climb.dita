@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_try_mtl_cgb">
+<concept id="climb">
     <title>Climb</title>
-    <shortdesc/>
+    <shortdesc>How do you climb the B-25? Simple, you say &#8212;just pull her nose up. That is a
+        definite part of the procedure, but unless a little more thought and a little less muscle
+        accompanies the pulling you will ruin a good airplane.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="13. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <p>How do you climb the B-25? Simple, you say &#8212;just pull her nose up. That is a
-            definite part of the procedure, but unless a little more thought and a little less
-            muscle accompanies the pulling you will ruin a good airplane.</p>
+        <image keyref="climb_turn_as_you_climb" id="image_vzq_mhs_cgb">
+            <alt>Turn as you climb</alt>
+        </image>
         <p>The minimum safe climbing speed for proper cooling is 155 mph. Climbing at lower speeds
             overheats and ruins the engines.</p>
         <p>Establish a normal climb at 160 to 170 mph using correct power settings. Trim the plane
