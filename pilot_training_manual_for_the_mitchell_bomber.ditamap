@@ -34,66 +34,66 @@
         </publisherinformation>
         <permissions view="restricted"/>
     </bookmeta>
-    <chapter href="introduction_to_the_pilot_training_manual.dita" format="dita">
-        <topicref href="history_of_the_mitchell_bomber.dita" format="dita"/>
-        <topicref href="duties_and_responsibilites_of_the_airplane_commander.dita" format="dita"/>
-        <topicref href="practical_questions.dita" format="dita"/>
-        <topicref href="the_copilot.dita" format="dita"/>
-        <topicref href="the_bombardier_navigator.dita" format="dita"/>
-        <topicref href="radio_operator.dita" format="dita"/>
-        <topicref href="the_engineer.dita" format="dita"/>
-        <topicref href="TheGunners.dita"/>
-        <topicref href="rules_to_be_enforced_on_every_flight.dita" format="dita"/>
-        <topicref href="general_description.dita" format="dita"/>
+    <chapter href="topics/introduction_to_the_pilot_training_manual.dita" format="dita">
+        <topicref href="topics/history_of_the_mitchell_bomber.dita" format="dita"/>
+        <topicref href="topics/duties_and_responsibilites_of_the_airplane_commander.dita" format="dita"/>
+        <topicref href="topics/practical_questions.dita" format="dita"/>
+        <topicref href="topics/the_copilot.dita" format="dita"/>
+        <topicref href="topics/the_bombardier_navigator.dita" format="dita"/>
+        <topicref href="topics/radio_operator.dita" format="dita"/>
+        <topicref href="topics/the_engineer.dita" format="dita"/>
+        <topicref href="topics/TheGunners.dita"/>
+        <topicref href="topics/rules_to_be_enforced_on_every_flight.dita" format="dita"/>
+        <topicref href="topics/general_description.dita" format="dita"/>
     </chapter>
-    <chapter href="location_of_controls_b_25_c_and_d.dita" format="dita">
-        <topicref href="bombardiers_compartment_left_side.dita" format="dita"/>
-        <topicref href="pilots_compartment_general_forward_view.dita" format="dita"/>
-        <topicref href="pilots_switch_panel_and_control_pedestal_panel.dita" format="dita"/>
-        <topicref href="pilots_compartment_left_side.dita" format="dita"/>
-        <topicref href="pilots_compartment_right_side.dita" format="dita"/>
-        <topicref href="hydraulic_hand_pump_and_emergency_air_brake_control.dita" format="dita"/>
-        <topicref href="navigators_compartment_forward_view.dita" format="dita"/>
-        <topicref href="radio_operators_compartment_forward_view.dita" format="dita"/>
-        <topicref href="radio_operators_compartment_left_side.dita" format="dita"/>
+    <chapter href="topics/location_of_controls_b_25_c_and_d.dita" format="dita">
+        <topicref href="topics/bombardiers_compartment_left_side.dita" format="dita"/>
+        <topicref href="topics/pilots_compartment_general_forward_view.dita" format="dita"/>
+        <topicref href="topics/pilots_switch_panel_and_control_pedestal_panel.dita" format="dita"/>
+        <topicref href="topics/pilots_compartment_left_side.dita" format="dita"/>
+        <topicref href="topics/pilots_compartment_right_side.dita" format="dita"/>
+        <topicref href="topics/hydraulic_hand_pump_and_emergency_air_brake_control.dita" format="dita"/>
+        <topicref href="topics/navigators_compartment_forward_view.dita" format="dita"/>
+        <topicref href="topics/radio_operators_compartment_forward_view.dita" format="dita"/>
+        <topicref href="topics/radio_operators_compartment_left_side.dita" format="dita"/>
     </chapter>
-    <chapter href="equipment_and_instruments.dita" format="dita">
-        <topicref href="power_plant.dita" format="dita"/>
-        <topicref href="air_induction_system.dita" format="dita"/>
-        <topicref href="fuel_system.dita" format="dita"/>
-        <topicref href="oil_system.dita" format="dita"/>
-        <topicref href="dual_ignition_system.dita" format="dita"/>
-        <topicref href="electrical_system.dita" format="dita"/>
-        <topicref href="b_25_lighting_equipment.dita" format="dita"/>
-        <topicref href="hamilton_hydromatic_propellers.dita" format="dita"/>
-        <topicref href="hydraulic_system.dita" format="dita"/>
-        <topicref href="instruments.dita" format="dita"/>
-        <topicref href="automatic_pilot.dita" format="dita"/>
-        <topicref href="communication_equipment.dita" format="dita"/>
-        <topicref href="armament.dita" format="dita"/>
-        <topicref href="oxygen.dita" format="dita"/>
-        <topicref href="photographic_equipment.dita" format="dita"/>
-        <topicref href="models_and_changes.dita" format="dita"/>
-        <topicref href="comparison_equipment_chart.dita" format="dita"/>
+    <chapter href="topics/equipment_and_instruments.dita" format="dita">
+        <topicref href="topics/power_plant.dita" format="dita"/>
+        <topicref href="topics/air_induction_system.dita" format="dita"/>
+        <topicref href="topics/fuel_system.dita" format="dita"/>
+        <topicref href="topics/oil_system.dita" format="dita"/>
+        <topicref href="topics/dual_ignition_system.dita" format="dita"/>
+        <topicref href="topics/electrical_system.dita" format="dita"/>
+        <topicref href="topics/b_25_lighting_equipment.dita" format="dita"/>
+        <topicref href="topics/hamilton_hydromatic_propellers.dita" format="dita"/>
+        <topicref href="topics/hydraulic_system.dita" format="dita"/>
+        <topicref href="topics/instruments.dita" format="dita"/>
+        <topicref href="topics/automatic_pilot.dita" format="dita"/>
+        <topicref href="topics/communication_equipment.dita" format="dita"/>
+        <topicref href="topics/armament.dita" format="dita"/>
+        <topicref href="topics/oxygen.dita" format="dita"/>
+        <topicref href="topics/photographic_equipment.dita" format="dita"/>
+        <topicref href="topics/models_and_changes.dita" format="dita"/>
+        <topicref href="topics/comparison_equipment_chart.dita" format="dita"/>
     </chapter>
-    <chapter href="inspection_and_checks.dita" format="dita">
-        <topicref href="aaf_pilots_checklist.dita" format="dita"/>
-        <topicref href="inspections_and_checks.dita" format="dita"/>
-        <topicref href="starting_engines.dita" format="dita"/>
+    <chapter href="topics/inspection_and_checks.dita" format="dita">
+        <topicref href="topics/aaf_pilots_checklist.dita" format="dita"/>
+        <topicref href="topics/inspections_and_checks.dita" format="dita"/>
+        <topicref href="topics/starting_engines.dita" format="dita"/>
     </chapter>
-    <chapter href="typical_air_work.dita" format="dita">
-        <topicref href="taxiing.dita" format="dita"/>
-        <topicref href="common_taxiing_errors.dita" format="dita"/>
-        <topicref href="taxiing_tips.dita" format="dita"/>
-        <topicref href="before_takeoff_c.i.g.f.t.p.r._friction_brake.dita" format="dita"/>
-        <topicref href="run_up.dita" format="dita"/>
-        <topicref href="takeoff.dita" format="dita"/>
-        <topicref href="notes_on_takeoff.dita" format="dita"/>
-        <topicref href="common_takeoff_errors.dita" format="dita"/>
-        <topicref href="power_changes.dita" format="dita"/>
-        <topicref href="climb.dita" format="dita"/>
-        <topicref href="let_down.dita" format="dita"/>
-        <topicref href="trimming.dita" format="dita"/>
+    <chapter href="topics/typical_air_work.dita" format="dita">
+        <topicref href="topics/taxiing.dita" format="dita"/>
+        <topicref href="topics/common_taxiing_errors.dita" format="dita"/>
+        <topicref href="topics/taxiing_tips.dita" format="dita"/>
+        <topicref href="topics/before_takeoff_c.i.g.f.t.p.r._friction_brake.dita" format="dita"/>
+        <topicref href="topics/run_up.dita" format="dita"/>
+        <topicref href="topics/takeoff.dita" format="dita"/>
+        <topicref href="topics/notes_on_takeoff.dita" format="dita"/>
+        <topicref href="topics/common_takeoff_errors.dita" format="dita"/>
+        <topicref href="topics/power_changes.dita" format="dita"/>
+        <topicref href="topics/climb.dita" format="dita"/>
+        <topicref href="topics/let_down.dita" format="dita"/>
+        <topicref href="topics/trimming.dita" format="dita"/>
     </chapter>
 <backmatter> 
     <!-- Reusable image references -->
