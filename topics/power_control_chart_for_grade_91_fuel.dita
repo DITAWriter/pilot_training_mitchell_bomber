@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_afs_wyq_dgb">
+    <title>Power Control Chart for Grade 91 Fuel</title>
+    <shortdesc/>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_ypf_czq_dgb">
+            <title>Power control settings listed in T. O. 02-1-38:</title>
+            <tgroup cols="4">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry>RPM</entry>
+                        <entry>Manifold Press.</entry>
+                        <entry>Mixture</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Takeoff</entry>
+                        <entry>2600</entry>
+                        <entry>39.5" Hg.</entry>
+                        <entry>Full Rich</entry>
+                    </row>
+                    <row>
+                        <entry>Maximum Cruise</entry>
+                        <entry>2100</entry>
+                        <entry>29" Hg.</entry>
+                        <entry>Full Rich</entry>
+                    </row>
+                    <row>
+                        <entry>Minimum Cruise</entry>
+                        <entry>1560</entry>
+                        <entry>26" Hg.</entry>
+                        <entry>Cruising Lean</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <section>
+            <title/>
+            <note type="remember">These settings are maximum manifold pressure and minimum rpm. To
+                increase the life of your engine^ the following settings are recommended.</note>
+        </section>
+        <simpletable frame="all" relcolwidth="1* 1* 1* 1* 1*" id="simpletable_i5w_qzq_dgb">
+            <strow>
+                <stentry>Takeoff</stentry>
+                <stentry>2600 rpm</stentry>
+                <stentry>39 inches Hg.</stentry>
+                <stentry>Full Rich</stentry>
+                <stentry>Low Blower</stentry>
+            </strow>
+            <strow>
+                <stentry>Preclimb</stentry>
+                <stentry>2400 rpm</stentry>
+                <stentry>34 inches Hg.</stentry>
+                <stentry>Full Rich</stentry>
+                <stentry>Low Blower</stentry>
+            </strow>
+        </simpletable>
+        <table frame="all" rowsep="1" colsep="1" id="table_yl4_vzq_dgb">
+            <title>Climb</title>
+            <tgroup cols="5">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <tbody>
+                    <row>
+                        <entry>Sea level to 7000 ft</entry>
+                        <entry>2250 rpm</entry>
+                        <entry>29" Hg.</entry>
+                        <entry>Full Rich</entry>
+                        <entry>Low Blower</entry>
+                    </row>
+                    <row>
+                        <entry>7000 ft to 10,000 ft</entry>
+                        <entry>2250 rpm</entry>
+                        <entry>28" Hg.</entry>
+                        <entry>Full Rich</entry>
+                        <entry>Low Blower</entry>
+                    </row>
+                    <row>
+                        <entry>10,000 ft to 16,000 ft</entry>
+                        <entry>2250 rpm</entry>
+                        <entry>26" Hg.</entry>
+                        <entry>Full Rich</entry>
+                        <entry>Low Blower</entry>
+                    </row>
+                    <row>
+                        <entry>16,000 ft to 20,000 ft</entry>
+                        <entry>2250 rpm</entry>
+                        <entry>27" Hg.</entry>
+                        <entry>Full Rich</entry>
+                        <entry>High Blower</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_qmk_c1r_dgb">
+            <title>Cruise</title>
+            <tgroup cols="7">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <tbody>
+                    <row>
+                        <entry>1000 ft to 5000 ft</entry>
+                        <entry>1950 rpm</entry>
+                        <entry>26" Hg.</entry>
+                        <entry>Full Rich</entry>
+                        <entry>Low Blower</entry>
+                    </row>
+                    <row>
+                        <entry>5000 ft to 10,000 ft</entry>
+                        <entry>2050 rpm</entry>
+                        <entry>25" Hg.</entry>
+                        <entry>Full Rich</entry>
+                        <entry>Low Blower</entry>
+                    </row>
+                    <row>
+                        <entry>Sea Level to 4000 ft</entry>
+                        <entry>1560 rpm</entry>
+                        <entry>26" Hg.</entry>
+                        <entry>Cruising Lean</entry>
+                        <entry>Low Blower</entry>
+                    </row>
+                    <row>
+                        <entry>4000 ft to 8000 ft</entry>
+                        <entry>1600 rpm</entry>
+                        <entry>25" Hg.</entry>
+                        <entry>Cruising Lean</entry>
+                        <entry>Low Blower</entry>
+                    </row>
+                    <row>
+                        <entry>6000 ft to 11,000 ft</entry>
+                        <entry>1650 rpm</entry>
+                        <entry>24" Hg.</entry>
+                        <entry>Cruising Lean</entry>
+                        <entry>Low Blower</entry>
+                    </row>
+                    <row>
+                        <entry>15,000 ft</entry>
+                        <entry>1750 rpm</entry>
+                        <entry>22" Hg.</entry>
+                        <entry>Cruising Lean</entry>
+                        <entry>Low Blower</entry>
+                    </row>
+                    <row>
+                        <entry>20,000 ft</entry>
+                        <entry>1850 rpm</entry>
+                        <entry>24" Hg.</entry>
+                        <entry>Cruising Lean</entry>
+                        <entry>High Blower</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+
+
+
+    </refbody>
+</reference>

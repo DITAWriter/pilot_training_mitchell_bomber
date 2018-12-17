@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ovb_z5s_dgb">
+    <title>Takeoff in Cold Weather</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <note type="warning">Your cabin heaters must be "OFF" before takeoff.</note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Never take off if there is any snow, ice, or frost on the wings. Even the
+                    thinnest layer of frost may cause loss of lift and treacherous stalling
+                    characteristics. In extreme conditions it may be necessary to taxi out to the
+                    takeoff position before removing the protective covers from the flight
+                    surfaces.</cmd>
+            </step>
+            <step>
+                <cmd>In ordinary operation, carburetor air controls should be in "NORMAL" for
+                    takeoff. In extremely cold weather, however, it is often advisable to place
+                    carburetor air control in "ICING" during takeoff to insure proper fuel
+                    vaporization.</cmd>
+                <info><note>(You will seldom find these extreme conditions in the continental United
+                        States. In arctic zones, consult experienced pilots before employing this
+                        procedure.)</note></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

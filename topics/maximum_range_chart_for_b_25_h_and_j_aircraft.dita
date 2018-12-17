@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_j5p_rcr_dgb">
+    <title>Maximum Range Chart for B-25 H &amp; J Aircraft</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_j1g_fbr_ref">
+            <title>Maximum Range Chart for B-25 H &amp;amp; J Aircraft</title>
+            <tgroup cols="9">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <colspec colname="c8" colnum="8" colwidth="1*"/>
+                <colspec colname="c9" colnum="9" colwidth="1*"/>
+                <tbody>
+                    <row>
+                        <entry morerows="1">Airplane's Gross Weight</entry>
+                        <entry morerows="1">Indicated Air Speed</entry>
+                        <entry namest="c3" nameend="c4">RPM</entry>
+                        <entry namest="c5" nameend="c6">Manifold Pressure</entry>
+                        <entry morerows="1">Minxture Control</entry>
+                        <entry namest="c8" nameend="c9">Fuel Consumption (Grade 100 Only)</entry>
+                    </row>
+                    <row>
+                        <entry>1000 Feet</entry>
+                        <entry>8000 Feet</entry>
+                        <entry>1000 Feet</entry>
+                        <entry>8000 Feet</entry>
+                        <entry>1000 Feet</entry>
+                        <entry>8000 Feet</entry>
+                    </row>
+                    <row>
+                        <entry>34,000 lb.</entry>
+                        <entry>175</entry>
+                        <entry>1725</entry>
+                        <entry>1940</entry>
+                        <entry>29.2</entry>
+                        <entry>27.2</entry>
+                        <entry>Cruising Lean</entry>
+                        <entry>112</entry>
+                        <entry>123</entry>
+                    </row>
+                    <row>
+                        <entry>33,000 lb.</entry>
+                        <entry>175</entry>
+                        <entry>1690</entry>
+                        <entry>1905</entry>
+                        <entry>29.2</entry>
+                        <entry>27.0</entry>
+                        <entry>"</entry>
+                        <entry>109</entry>
+                        <entry>119</entry>
+                    </row>
+                    <row>
+                        <entry>32,000 lb.</entry>
+                        <entry>170</entry>
+                        <entry>1620</entry>
+                        <entry>1860</entry>
+                        <entry>29.2</entry>
+                        <entry>26.5</entry>
+                        <entry>"</entry>
+                        <entry>104</entry>
+                        <entry>114</entry>
+                    </row>
+                    <row>
+                        <entry>31,000 lb.</entry>
+                        <entry>170</entry>
+                        <entry>1580</entry>
+                        <entry>1820</entry>
+                        <entry>29.2</entry>
+                        <entry>26.2</entry>
+                        <entry>"</entry>
+                        <entry>100</entry>
+                        <entry>109</entry>
+                    </row>
+                    <row>
+                        <entry>30,000 lb.</entry>
+                        <entry>165</entry>
+                        <entry>1525</entry>
+                        <entry>1760</entry>
+                        <entry>29.2</entry>
+                        <entry>25.6</entry>
+                        <entry>"</entry>
+                        <entry>94</entry>
+                        <entry>102</entry>
+                    </row>
+                    <row>
+                        <entry>29,000 lb.</entry>
+                        <entry>165</entry>
+                        <entry>1500</entry>
+                        <entry>1730</entry>
+                        <entry>29.2</entry>
+                        <entry>25.4</entry>
+                        <entry>"</entry>
+                        <entry>91</entry>
+                        <entry>98</entry>
+                    </row>
+                    <row>
+                        <entry>28,000 lb.</entry>
+                        <entry>165</entry>
+                        <entry>1470</entry>
+                        <entry>1710</entry>
+                        <entry>29.2</entry>
+                        <entry>25.1</entry>
+                        <entry>"</entry>
+                        <entry>88</entry>
+                        <entry>95</entry>
+                    </row>
+                    <row>
+                        <entry>27,000 lb.</entry>
+                        <entry>165</entry>
+                        <entry>1450</entry>
+                        <entry>1680</entry>
+                        <entry>29.1</entry>
+                        <entry>24.9</entry>
+                        <entry>"</entry>
+                        <entry>85</entry>
+                        <entry>93</entry>
+                    </row>
+                    <row>
+                        <entry>26,000 lb.</entry>
+                        <entry>165</entry>
+                        <entry>1430</entry>
+                        <entry>1660</entry>
+                        <entry>28.9</entry>
+                        <entry>24.7</entry>
+                        <entry>"</entry>
+                        <entry>83</entry>
+                        <entry>90</entry>
+                    </row>
+                    <row>
+                        <entry>25,000 lb.</entry>
+                        <entry>165</entry>
+                        <entry>1420</entry>
+                        <entry>1640</entry>
+                        <entry>28.6</entry>
+                        <entry>24.5</entry>
+                        <entry>"</entry>
+                        <entry>81</entry>
+                        <entry>88</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <section>
+            <title/>
+            <note>Climb at 2400 rpm, 38" Hg at 115 IAS. Fuel Consumption for Takddff and Climbs:
+                    <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_dnj_kcr_dgb">
+                    <strow>
+                        <stentry>To 1000 Feet 24 Gals.</stentry>
+                        <stentry>To 8000 Feet 84 Gals.</stentry>
+                    </strow>
+                </simpletable></note>
+        </section>
+    </refbody>
+</reference>

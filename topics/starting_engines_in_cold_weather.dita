@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_q52_k5s_dgb">
+    <title>Starting Engines in Cold Weather</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Make a normal start by following the procedure on the pilot's checklist. If you have
+                trouble starting the engines, take the following supplementary measures:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Pull the props through about 15 blades before engaging the starter. The engines
+                    will need a lot of priming for a cold weather start. If possible use external
+                    power for cold weather starting.</cmd>
+            </step>
+            <step>
+                <cmd>If the engine fails to start, check plugs for moisture. Make another attempt to
+                    start the engine when the plugs are dry,</cmd>
+            </step>
+            <step>
+                <cmd>Always make a normal start before using the oil dilution system. If, after the
+                    engines are running, your oil pressure is too high or is fluctuating and drops
+                    off when the rpm is increased, dilute the oil. (See dilution procedure under
+                    After Landing.)</cmd>
+                <info>
+                    <note>Use this method only if time and extreme temperature conditions do not
+                        permit normal engine warm-up.</note></info>
+            </step>
+            <step>
+                <cmd>Do not run the engines at more than 1200 rpm until the oil has reached a
+                    temperature of 20°C.</cmd>
+            </step>
+            <step>
+                <cmd>If icing conditions exist, place carburetor air control handles in "ICING"
+                    until the induction system is free of ice.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

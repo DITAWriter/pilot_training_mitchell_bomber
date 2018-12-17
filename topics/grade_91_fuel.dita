@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_fcp_dyq_dgb">
+    <title>Grade 91 Fuel</title>
+    <shortdesc>With our entry into World War II, and our operations on fighting fronts the length
+        and breadth of the world, it became apparent that we could not produce high-octane fuels
+        quickly enough to meet the demand.</shortdesc>
+    <conbody>
+        <p>For this reason, all training and operational flights in the continental United States
+            are made on Grade 91 fuel whenever possible.</p>
+        <p>The operation of the B-25 on Grade 91 fuel is perfectly safe. With a thorough knowledge
+            of its operating limits you will have no trouble at all.</p>
+        <section>
+            <title>What Is an Octane Rating?</title>
+            <p>To properly understand the evaluation of fuels it is necessary to review some basic
+                facts, Let's start with some definitions:</p>
+        </section>
+        <section>
+            <title>Pre-ignition</title>
+            <p>Pre-ignition is a condition of premature firing. The fuel charge in the cylinder head
+                is ignited by a hot carbon deposit or other means before time for the electrical
+                firing to occur.</p>
+        </section>
+        <section>
+            <title>Normal Combustion</title>
+            <p>Normal combustion is the burning of the fuel charge in the cylinder head as a
+                slow-burning wave, creating power not as an explosion, but as an expansion of the
+                gases.</p>
+        </section>
+        <section>
+            <title>Detonation</title>
+            <p>Detonation, as the name implies, is an explosion in the cylinder head. The normal
+                burning wave as it travels across the cylinder head subjects the unburned portion of
+                the fuel charge to tremendous temperatures and pressures. If these forces are great
+                enough the remaining fuel charge explodes before it can burn, and the shock waves
+                from this explosion are great enough to blow the cylinder head off the engine.</p>
+        </section>
+        <section>
+            <title>Octane Rating</title>
+            <p>Octane rating of a fuel is a mathematical grade assigned to a fuel in direct
+                proportion to its ability to withstand pre-ignition and detonation.</p>
+            <p>Two reference fuels were chosen, iso-octane and normal heptane. Run in a test engine,
+                these fuels respond identically under identical conditions.</p>
+            <p>To rate a new fuel it is compared to these reference fuels. If it matches the
+                anti-knock ability of iso-octane it is rated as Grade 100 fuel. If its performance
+                is less, normal heptane is added to the iso-octane. Thus, if a fuel matches in
+                performance a mixture of 87% iso-octane and 13% normal heptane it is rated as Grade
+                87 fuel.</p>
+        </section>
+        <section>
+            <title>How Does this Affect the B-25?</title>
+            <p>You control the initial pressure that is allowed to enter the cylinders of the
+                engines. This pressure after entering the cylinders is compressed and fired at a
+                predetermined ratio.</p>
+            <p>You exercise a control over the temperature at which the engines run. If you allow
+                great pressures to enter the engine, or allow the engine to operate at excessive
+                temperatures, you can be sure of disastrous consequences.</p>
+            <p>The pressure entering the engine is determined by a relation of manifold pressure and
+                rpm. Temperature is controlled by allowing the engine to get proper cooling.</p>
+            <p>Learn the power limits you can use with different grade fuels at different
+                altitudes.</p>
+            <p>The accompanying power control chart shows maximum limits, minimum limits, and the
+                desirable range to increase the life and efficiency of the engines.</p>
+        </section>
+    </conbody>
+</concept>

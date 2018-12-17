@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_r2d_pvs_dgb">
+    <title>Flight in Cold Weather</title>
+    <shortdesc>Your anti-icing and de-icing equipment is primarily intended as a means of getting
+        you out of icing levels.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Don't fly in icing levels any longer than is absolutely necessary.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Check your free air temperature gage before any flight where ice is
+                    anticipated.</cmd>
+            </step>
+            <step>
+                <cmd>After taking off from snow or slush-covered fields, operate the landing gear
+                    and flaps through several cycles to insure against the gear and flaps freezing
+                    in the up position.</cmd>
+            </step>
+            <step>
+                <cmd>Turn the pitot tube heater "ON" when moisture is present. Pitot tube heat
+                    should not be applied until the airplane is on the takeoff run or actually in
+                    the air, as there is insufficient cooling in the pitot head while the plane is
+                    stationary.</cmd>
+                <info><note>With pitot tube heat "ON" your magnetic compass may oscillate as much as
+                        15°.</note></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
