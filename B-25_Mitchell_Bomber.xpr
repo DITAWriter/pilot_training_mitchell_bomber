@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="20.1">
+<project version="19.0">
     <meta>
         <filters directoryPatterns="" filePatterns="B-25_Mitchell_Bomber.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="20.1" xml:space="preserve">
+            <serialized version="19.0" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
                         <String>enable.project.master.files.support</String>

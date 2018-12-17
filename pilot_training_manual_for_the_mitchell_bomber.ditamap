@@ -36,7 +36,8 @@
     </bookmeta>
     <chapter href="topics/introduction_to_the_pilot_training_manual.dita" format="dita">
         <topicref href="topics/history_of_the_mitchell_bomber.dita" format="dita"/>
-        <topicref href="topics/duties_and_responsibilites_of_the_airplane_commander.dita" format="dita"/>
+        <topicref href="topics/duties_and_responsibilites_of_the_airplane_commander.dita"
+            format="dita"/>
         <topicref href="topics/practical_questions.dita" format="dita"/>
         <topicref href="topics/the_copilot.dita" format="dita"/>
         <topicref href="topics/the_bombardier_navigator.dita" format="dita"/>
@@ -52,7 +53,8 @@
         <topicref href="topics/pilots_switch_panel_and_control_pedestal_panel.dita" format="dita"/>
         <topicref href="topics/pilots_compartment_left_side.dita" format="dita"/>
         <topicref href="topics/pilots_compartment_right_side.dita" format="dita"/>
-        <topicref href="topics/hydraulic_hand_pump_and_emergency_air_brake_control.dita" format="dita"/>
+        <topicref href="topics/hydraulic_hand_pump_and_emergency_air_brake_control.dita"
+            format="dita"/>
         <topicref href="topics/navigators_compartment_forward_view.dita" format="dita"/>
         <topicref href="topics/radio_operators_compartment_forward_view.dita" format="dita"/>
         <topicref href="topics/radio_operators_compartment_left_side.dita" format="dita"/>
@@ -75,6 +77,15 @@
         <topicref href="topics/photographic_equipment.dita" format="dita"/>
         <topicref href="topics/models_and_changes.dita" format="dita"/>
         <topicref href="topics/comparison_equipment_chart.dita" format="dita"/>
+    <!-- begin moved content -->
+        <topicref href="topics/fuel_system_operation.dita" format="dita"/>
+        <topicref href="topics/operating_instructions_for_the_supercharger.dita" format="dita"/>
+        <topicref href="topics/carburetor_air_heat.dita" format="dita"/>
+        <topicref href="topics/carburetor_air_filter.dita" format="dita"/>
+        <topicref href="topics/priming.dita" format="dita"/>
+        <topicref href="topics/operating_the_autopilot.dita" format="dita"/>
+        <topicref href="topics/autopilot_in_flight_checklist.dita" format="dita"/>
+    <!-- end moved content -->
     </chapter>
     <chapter href="topics/inspection_and_checks.dita" format="dita">
         <topicref href="topics/aaf_pilots_checklist.dita" format="dita"/>
@@ -94,9 +105,25 @@
         <topicref href="topics/climb.dita" format="dita"/>
         <topicref href="topics/let_down.dita" format="dita"/>
         <topicref href="topics/trimming.dita" format="dita"/>
+        <topicref href="topics/landing.dita" format="dita"/>
+        <topicref href="topics/landing_checklist.dita" format="dita"/>
+        <topicref href="topics/power_on_landings.dita" format="dita"/>
+        <topicref href="topics/post_landing_checklist.dita" format="dita"/>
+        <topicref href="topics/power_off_landing.dita" format="dita"/>
+        <topicref href="topics/no_flap_landing.dita" format="dita"/>
+        <topicref href="topics/tips_on_landing.dita" format="dita"/>
+        <topicref href="topics/making_a_go_around.dita" format="dita"/>
+        <topicref href="topics/go_around_procedure.dita" format="dita"/>
     </chapter>
-<backmatter> 
-    <!-- Reusable image references -->
-     <mapref format="ditamap" href="m_reusableImageReferences.ditamap"/>
-</backmatter>
+    <chapter href="topics/advanced_air_work.dita" format="dita">
+        <topicref href="topics/prohibited_maneuvers_in_the_b_25.dita" format="dita"/>
+    </chapter>
+    <chapter href="topics/emergency_systems.dita" format="dita"/>
+    <chapter href="topics/emergency_situations.dita" format="dita"/>
+    
+    
+    <backmatter>
+        <!-- Reusable image references -->
+        <mapref format="ditamap" href="m_reusableImageReferences.ditamap"/>
+    </backmatter>
 </bookmap>
