@@ -120,8 +120,18 @@
     </chapter>
     <chapter href="topics/emergency_systems.dita" format="dita"/>
     <chapter href="topics/emergency_situations.dita" format="dita"/>
-    
-    
+    <chapter href="topics/fuel.dita" format="dita">
+        <topicref href="topics/grade_91_fuel.dita" format="dita"/>
+        <topicref href="topics/power_control_chart_for_grade_91_fuel.dita" format="dita"/>
+        <topicref href="topics/maximum_range_chart_for_b_25_c_d_and_g_aircraft.dita" format="dita"/>
+        <topicref href="topics/maximum_range_chart_for_b_25_h_and_j_aircraft.dita" format="dita"/>
+    </chapter>
+    <chapter href="topics/cold_weather_operations.dita" format="dita">
+    <topicref href="topics/starting_engines_in_cold_weather.dita" format="dita"/>
+        <topicref href="topics/takeoff_in_cold_weather.dita" format="dita"/>
+        <topicref href="topics/flight_in_cold_weather.dita" format="dita"/>
+
+    </chapter>
     <backmatter>
         <!-- Reusable image references -->
         <mapref format="ditamap" href="m_reusableImageReferences.ditamap"/>
