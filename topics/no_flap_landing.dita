@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xfn_1l4_dgb">
+    <title>No-Flap Landing</title>
+    <shortdesc>Occasionally both in combat and normal operations your plane may be damaged to the
+        extent that flaps cannot be lowered for landing.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The use of full flaps reduces your landing speed approximately 20 mph; therefore, a
+                slightly different technique is required for landing when using no flaps.</p>
+            <p>You must be familiar with this technique:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Add approximately 10 mph to your normal gliding speed.</cmd>
+            </step>
+            <step>
+                <cmd>Keep the plane’s attitude almost level on the approach.</cmd>
+            </step>
+            <step>
+                <cmd>Use less elevator control and more power than normal in the roundout. (In some
+                    instances, it may be necessary to use considerable power to decrease your rate
+                    of descent.)</cmd>
+                <info><note><p>When making no-flap landings always land on the first few feet of the
+                            runway. Your landing speed is greater and your landing roll much
+                            longer.</p><p>Don't let the nosewheel touch the ground before or with
+                            the main wheels.</p></note></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

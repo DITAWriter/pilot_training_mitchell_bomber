@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_tlg_fg4_dgb">
+    <title>Landing Checklist</title>
+    <shortdesc>On any landing, enter traffic as instructed by field regulations or as instructed by
+        the control tower.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Adjust the power settings to bring the speed below 170 mph but not below 150 mph.
+                Prior to landing, make this landing check:</p>
+            <note type="important">Do not allow the speed to drop below 150 mph until you are on the
+                approach.</note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Trailing antenna "RETRACTED".</cmd>
+            </step>
+            <step>
+                <cmd>Wing de-icers "OFF".</cmd>
+            </step>
+            <step>
+                <cmd>Heaters "OFF".</cmd>
+            </step>
+            <step>
+                <cmd>Autopilot "OFF".</cmd>
+            </step>
+            <step>
+                <cmd>Fuel pressure.</cmd>
+            </step>
+            <step>
+                <cmd>Fuel levels.</cmd>
+            </step>
+            <step>
+                <cmd>Booster pumps "ON".</cmd>
+            </step>
+            <step>
+                <cmd>Transfer pumps "OFF".</cmd>
+            </step>
+            <step>
+                <cmd>Mixture "FULL RICH".</cmd>
+            </step>
+            <step>
+                <cmd>Carburetor heat "NORMAL" except in severe icing conditions.</cmd>
+            </step>
+            <step>
+                <cmd>Propellers 2400 rpm&#8212; This permits the use of maximum climbing power in
+                    the event of a go-around. (See power control charts.)</cmd>
+            </step>
+            <step>
+                <cmd>Landing gear "DOWN"&#8212;locked and safetied, visually and orally
+                    checked.</cmd>
+                <info>You can check the main gear visually and the nose gear on the selsyn
+                    indicator, and, if the prop hub is polished, you can check it by its reflection
+                    in the hub. There is a warning horn in some aircraft and a warning light in
+                    later models. This warning system operates when the throttles are
+                    retarded.</info>
+            </step>
+            <step>
+                <cmd>Brake and hydraulic pressure.</cmd>
+            </step>
+            <step>
+                <cmd><option>Optional with local regulations, you may use 15° of flaps on the
+                        downwind leg to improve visibility and to improve handling characteristics
+                        at low speeds.</option></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

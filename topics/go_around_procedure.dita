@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_tjm_bw4_dgb">
+    <title>Go-Around Procedure</title>
+    <shortdesc>Don't hesitate to go around. Any doubt that the plane is under perfect control is
+        sufficient cause to go around. If you have made a poor approach and know that the landing
+        will be too long, or too rough&#8212; go around.</shortdesc>
+    <taskbody>
+        <context>
+            <p><b id="docs-internal-guid-57156ad0-7fff-f15a-dc3b-a1539db4774a">Do the
+                following:</b></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Keep the prop set at 2400 rpm.</cmd>
+            </step>
+            <step>
+                <cmd>Advance the power smoothly to climbing power.</cmd>
+            </step>
+            <step>
+                <cmd>Keep the nose of the plane down.</cmd>
+            </step>
+            <step>
+                <cmd>Raise landing gear.</cmd>
+            </step>
+            <step>
+                <cmd>Raise the flaps to 15°</cmd>
+            </step>
+            <step>
+                <cmd>Allow the plane to settle to a slightly lower altitude, if necessary, to
+                    maintain or increase the airspeed.</cmd>
+                <info>With the plane trimmed for landing there is a strong tendency for the nose to
+                    lift when power is applied. This will throw the plane into a stall if it is not
+                    counteracted.</info>
+            </step>
+            <step>
+                <cmd>When the plane has gained sufficient airspeed to lift and gain altitude, pull
+                    over to one side of the runway, thus clearing the runway for any plane
+                    attempting to take off or land.</cmd>
+                <info><note type="important">Keep an eye on all planes near you! The pilot taking
+                        off under you may not know that you are there.</note></info>
+            </step>
+            <step>
+                <cmd>As soon as you gain sufficient speed, raise the balance of your flaps.
+                    Establish a normal climb, break traffic, re-enter traffic as before and make a
+                    normal landing</cmd>
+            </step>
+
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ij1_tk4_dgb">
+    <title>Power-Off Landing Checklist</title>
+    <shortdesc>Make a power-off approach and landing as follows:</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Fly a normal traffic pattern and hold your altitude through the last turn into
+                    the field.</cmd>
+            </step>
+            <step>
+                <cmd>Hold your altitude until you are in position to make a glide to the end of the
+                    runway.</cmd>
+            </step>
+            <step>
+                <cmd>Reduce the power and establish a normal glide short of the end of the rim
+                    way.</cmd>
+            </step>
+            <step>
+                <cmd>Lower the desired amount of fiaps.</cmd>
+            </step>
+            <step>
+                <cmd>Make a normal roundout and landing.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

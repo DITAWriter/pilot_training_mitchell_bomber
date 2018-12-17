@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hdk_cj4_dgb">
+    <title>Post-Landing Checklist</title>
+    <shortdesc>When the plane has slowed, complete this landing check.</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>On the runway, move the prop control to "INC. RPM."</cmd>
+            </step>
+            <step>
+                <cmd>Booster Pumps "OFF."</cmd>
+            </step>
+            <step>
+                <cmd>Cowl Flaps "OPEN."</cmd>
+            </step>
+            <step>
+                <cmd>Wing Flaps "UP."</cmd>
+            </step>
+        </steps>
+        <postreq><p>Clear the runway quickly, freeing it for the next plane to land.</p></postreq>
+    </taskbody>
+</task>

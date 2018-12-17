@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_qcl_4j4_dgb">
+    <title>Power-Off Landing</title>
+    <shortdesc>The B-25 is too large and heavy to practice the prescribed forced-landing procedures
+        used in lighter planes.</shortdesc>
+    <conbody>
+        <p>The power-off approach allows the pilot to become familiar with all the factors involved
+            in a forced landing without the hazards involved in actually practicing them.</p>
+        <p>The power-off approach duplicates exactly the conditions of a forced landing with these
+            exceptions:</p>
+        <ol>
+            <li>You make the landing with wheels down instead of up.</li>
+            <li>You make the landing on a known field.<p>These landings acquaint the pilot with the
+                    power-off gliding characteristics of the B-25 and improve his judgment for an
+                    actual forced landing.</p></li>
+        </ol>
+        <note type="caution">In an actual emergency make the landing with wheels up unless you are
+            over a known airfield. This increases the gliding distance of the plane. Make allowances
+            for the increased gliding distance.<p>In an emergency use the prop to vary the glide of
+                the airplane.</p><p>To increase drag, move the prop control to "INC. RPM."</p><p>To
+                decrease drag, move the prop control to "DEC. RPM."</p></note>
+    </conbody>
+</concept>
