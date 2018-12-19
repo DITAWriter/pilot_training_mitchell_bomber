@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="reference_jb2_r4l_cgb">
-    <title>Before Takeoff C.I.G.F.T.P.R.-Friction Brake</title>
-    <shortdesc>Controls for free movement</shortdesc>
+<reference id="before_takeoff_c.i.g.f.t.p.r._friction_brake">
+    <title>Before Takeoff - C.I.G.F.T.P.R.-Friction Brake</title>
+    <shortdesc>Remember:  C.I.G.F.T.P.R.-Friction Brake.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="19. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <refbody>
-        <section>
+        <section id="sect_Controls">
+            <title>Controls for free movement</title>
+        </section>
+        <section id="sect_Instruments">
             <title>Instruments</title>
             <ol>
                 <li>Altimeter</li>
@@ -16,7 +25,7 @@
                 <li>Cylinder-head temperature 100° to to 205°C</li>
             </ol>
         </section>
-        <section>
+        <section id="sect_Gas">
             <title>Gas</title>
             <ol>
                 <li>Fuel pressure 6-7 lb sq. in.</li>
@@ -29,14 +38,22 @@
                 <li>Crossfeed "OFF"</li>
             </ol>
         </section>
-        <section>
-            <title/>
-            <p>Flaps set for takeoff (normal 20°). Run the flaps full down and then raise them to
-                20°.</p>
+        <section id="sect_Flaps">
+            <title>Flaps</title>
+            <p>Flaps set for takeoff (normal 20 degrees). Run the flaps full down and then raise
+                them to 20 degrees.</p>
+        </section>
+        <section id="sect_Trim">
+            <title>Trim</title>
             <p>Trim tabs set for takeoff.</p>
-            <p>Props "INC. RPM"</p>
-            <p>Run-up.</p>
-            <p>Friction brake snug, booster pumps "ON," bomb bay doors closed</p>
+        </section>
+        <section id="sect_Props">
+            <title>Props</title>
+            <p>Props "INC. r.p.m."</p>
+        </section>
+        <section id="sect_RunUp">
+            <title>Run-up</title>
+            <p>Friction brake snug, booster pumps "ON," bomb bay doors closed.</p>
         </section>
     </refbody>
 </reference>

@@ -114,6 +114,8 @@
         <topicref href="topics/tips_on_landing.dita" format="dita"/>
         <topicref href="topics/making_a_go_around.dita" format="dita"/>
         <topicref href="topics/go_around_procedure.dita" format="dita"/>
+        <topicref href="topics/common_landing_errors.dita" type="concept" format="dita"
+            keys="common_landing_errors"/>
     </chapter>
     <chapter href="topics/advanced_air_work.dita" format="dita">
         <topicref href="topics/prohibited_maneuvers_in_the_b_25.dita" format="dita"/>

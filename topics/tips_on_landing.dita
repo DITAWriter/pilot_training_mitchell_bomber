@@ -2,7 +2,12 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_gf3_vl4_dgb">
     <title>Tips On Landing</title>
-    <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="19. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>Don't let the nosewheel strike immediately after landing.</p>
         <p>You can easily control the position of the nosewheel with the elevator.</p>
@@ -16,5 +21,6 @@
             plane as much as possible without brakes.</p>
         <p>Guard the throttles on all landings to prevent creeping.</p>
         <p>Never apply the brakes until the nosewheel is on the runway.</p>
+        <image keyref="cartoon-landing_crash"/>
     </conbody>
 </concept>

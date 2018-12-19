@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_hdk_cj4_dgb">
+<task id="post_landing_checklist">
     <title>Post-Landing Checklist</title>
-    <shortdesc>When the plane has slowed, complete this landing check.</shortdesc>
+    <shortdesc>On the runway, move the prop control to "<userinput>INC. RPM</userinput>." </shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="19. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <taskbody>
-        <context/>
+        <context>When the plane has slowed, complete this landing check:</context>
         <steps>
             <step>
-                <cmd>On the runway, move the prop control to "INC. RPM."</cmd>
+                <cmd>Booster Pumps "<userinput>OFF</userinput>."</cmd>
             </step>
             <step>
-                <cmd>Booster Pumps "OFF."</cmd>
+                <cmd>Cowl Flaps "<userinput>OPEN</userinput>."</cmd>
             </step>
             <step>
-                <cmd>Cowl Flaps "OPEN."</cmd>
-            </step>
-            <step>
-                <cmd>Wing Flaps "UP."</cmd>
+                <cmd>Wing Flaps "<userinput>UP</userinput>."</cmd>
             </step>
         </steps>
-        <postreq><p>Clear the runway quickly, freeing it for the next plane to land.</p></postreq>
+        <postreq>
+            <p>Clear the runway quickly, freeing it for the next plane to land.</p>
+        </postreq>
     </taskbody>
 </task>

@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_ld2_2sl_cgb">
+<concept id="notes_on_takeoff">
     <title>Notes on Takeoff</title>
-    <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="19. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>Do not dive the airplane after lifting it at the end of the takeoff run. When you level
             out to pick up CSE speed after takeoff release the stick pressure as the speed picks
             up.</p>
-        <p>Gain critical single engine speed immediately after takeoff. This is the slowest speed at
-            which the rudder has a safe margin of control over the unbalanced thrust of the live
-            engine at full power. In the B-25, it is 140 mph.</p>
+        <p><b>Gain critical single engine speed immediately after takeoff.</b> This is the slowest
+            speed at which the rudder has a safe margin of control over the unbalanced thrust of the
+            live engine at full power. In the B-25, it is <b>140 mph</b>.</p>
         <p>Don't be an instrument pilot on takeoff. Fly the airplane by feel and by visual reference
             to the ground. An occasional check of the instruments is a necessity, but make
             instrument takeoffs only when contact flight is impossible. Attention to the panel

@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_tlg_fg4_dgb">
+<task id="landing_checklist">
     <title>Landing Checklist</title>
     <shortdesc>On any landing, enter traffic as instructed by field regulations or as instructed by
         the control tower.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="19. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
             <p>Adjust the power settings to bring the speed below 170 mph but not below 150 mph.
@@ -13,16 +19,16 @@
         </context>
         <steps>
             <step>
-                <cmd>Trailing antenna "RETRACTED".</cmd>
+                <cmd>Trailing antenna "<userinput>RETRACTED</userinput>".</cmd>
             </step>
             <step>
-                <cmd>Wing de-icers "OFF".</cmd>
+                <cmd>Wing deicers "<userinput>OFF</userinput>".</cmd>
             </step>
             <step>
-                <cmd>Heaters "OFF".</cmd>
+                <cmd>Heaters "<userinput>OFF</userinput>".</cmd>
             </step>
             <step>
-                <cmd>Autopilot "OFF".</cmd>
+                <cmd>Autopilot "<userinput>OFF</userinput>".</cmd>
             </step>
             <step>
                 <cmd>Fuel pressure.</cmd>
@@ -31,38 +37,60 @@
                 <cmd>Fuel levels.</cmd>
             </step>
             <step>
-                <cmd>Booster pumps "ON".</cmd>
+                <cmd>Booster pumps "<userinput>ON</userinput>".</cmd>
             </step>
             <step>
-                <cmd>Transfer pumps "OFF".</cmd>
+                <cmd>Transfer pumps "<userinput>OFF</userinput>".</cmd>
             </step>
             <step>
-                <cmd>Mixture "FULL RICH".</cmd>
+                <cmd>Mixture "<userinput>FULL RICH</userinput>".</cmd>
             </step>
             <step>
-                <cmd>Carburetor heat "NORMAL" except in severe icing conditions.</cmd>
+                <cmd>Carburetor heat "<userinput>NORMAL</userinput>" except in severe icing
+                    conditions.</cmd>
             </step>
             <step>
                 <cmd>Propellers 2400 rpm&#8212; This permits the use of maximum climbing power in
                     the event of a go-around. (See power control charts.)</cmd>
             </step>
             <step>
-                <cmd>Landing gear "DOWN"&#8212;locked and safetied, visually and orally
-                    checked.</cmd>
-                <info>You can check the main gear visually and the nose gear on the selsyn
-                    indicator, and, if the prop hub is polished, you can check it by its reflection
-                    in the hub. There is a warning horn in some aircraft and a warning light in
-                    later models. This warning system operates when the throttles are
-                    retarded.</info>
+                <cmd>Landing gear "<userinput>DOWN</userinput>"&#8212;locked and safetied, visually
+                    and orally checked.</cmd>
+                <info><image keyref="landing_gear_selsyn" id="image_us2_djh_2gb"/><p>You can check
+                        the main gear visually and the nose gear on the selsyn indicator, and, if
+                        the prop hub is polished, you can check it by its reflection in the hub.
+                        There is a warning horn in some aircraft and a warning light in later
+                        models. This warning system operates when the throttles are
+                    retarded.</p></info>
             </step>
             <step>
                 <cmd>Brake and hydraulic pressure.</cmd>
             </step>
-            <step>
-                <cmd><option>Optional with local regulations, you may use 15° of flaps on the
-                        downwind leg to improve visibility and to improve handling characteristics
-                        at low speeds.</option></cmd>
+            <step importance="optional">
+                <cmd>Optional with local regulations, you may use 15° of flaps on the downwind leg
+                    to improve visibility and to improve handling characteristics at low
+                    speeds.</cmd>
             </step>
         </steps>
+        <postreq id="postreq_g4d_hjh_2gb">
+            <p>Final check before landing:<dl>
+                    <dlentry>
+                        <dt>G</dt>
+                        <dd>Gas</dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>U</dt>
+                        <dd>Undercarriage and Pressures</dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>M</dt>
+                        <dd>Mixture</dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>P</dt>
+                        <dd>Props</dd>
+                    </dlentry>
+                </dl></p>
+        </postreq>
     </taskbody>
 </task>

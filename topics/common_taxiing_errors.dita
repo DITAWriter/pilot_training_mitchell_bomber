@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_cmv_d4l_cgb">
+<concept id="common_taxiing_errors">
     <title>Common Taxiing Errors</title>
-    <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="19. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <p>Riding the brakes. Depress the toe pedals only when necessary.</p>
-        <p>Rough braking action. Avoid this by anticipating the need for brakes.</p>
-        <p>Rough or no use of the throttles.</p>
-        <p>Improper use of the rudders. There is a common tendency to forget that there are rudders.
-            When the runway and taxi strip are clear, let the plane roll free and control with
-            rudders.</p>
-        <p>Failure to clear the area. This is the cause of most taxi accidents. There is no excuse
-            for taxi accidents.</p>
-        <p>Fast taxiing in congested areas.</p>
-        <p>Turning with the inside wheel not moving.</p>
+        <p><b>Riding the brakes.</b> Depress the toe pedals only when necessary.</p>
+        <p><b>Rough braking action.</b> Avoid this by anticipating the need for brakes.</p>
+        <p><b>Rough or no use of the throttles.</b></p>
+        <p><b>Improper use of the rudders.</b> There is a common tendency to forget that there are
+            rudders. When the runway and taxi strip are clear, let the plane roll free and control
+            with rudders.</p>
+        <p><b>Failure to clear the area.</b> This is the cause of most taxi accidents. There is no
+            excuse for taxi accidents.</p>
+        <p><b>Fast taxiing in congested areas.</b></p>
+        <p><b>Turning with the inside wheel not moving.</b></p>
     </conbody>
 </concept>

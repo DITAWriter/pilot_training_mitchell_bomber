@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_qcl_4j4_dgb">
+<concept id="power_off_landing">
     <title>Power-Off Landing</title>
     <shortdesc>The B-25 is too large and heavy to practice the prescribed forced-landing procedures
         used in lighter planes.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="19. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
+        <image keyref="landing_power_off"/>
         <p>The power-off approach allows the pilot to become familiar with all the factors involved
             in a forced landing without the hazards involved in actually practicing them.</p>
         <p>The power-off approach duplicates exactly the conditions of a forced landing with these
@@ -15,10 +22,21 @@
                     power-off gliding characteristics of the B-25 and improve his judgment for an
                     actual forced landing.</p></li>
         </ol>
+        <p>Make a power-of approach and landing as follows:</p>
+        <ol>
+            <li>Fly a normal traffic pattern and hold your altitude through the last turn into the
+                field.</li>
+            <li>Hold your altitude until you are in position to make a glide to the end of the
+                runway.</li>
+            <li>Reduce the power and establish a normal glide short of the end of the rim way.</li>
+            <li>Lower the desired amount of fiaps.</li>
+            <li>Make a normal roundout and landing.</li>
+        </ol>
         <note type="caution">In an actual emergency make the landing with wheels up unless you are
             over a known airfield. This increases the gliding distance of the plane. Make allowances
             for the increased gliding distance.<p>In an emergency use the prop to vary the glide of
-                the airplane.</p><p>To increase drag, move the prop control to "INC. RPM."</p><p>To
-                decrease drag, move the prop control to "DEC. RPM."</p></note>
+                the airplane.</p><p>To increase drag, move the prop control to "<userinput>INC.
+                    RPM</userinput>."</p><p>To decrease drag, move the prop control to
+                    "<userinput>DEC. RPM</userinput>."</p></note>
     </conbody>
 </concept>

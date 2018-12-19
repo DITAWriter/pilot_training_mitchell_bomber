@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_bgf_j4l_cgb">
+<concept id="taxiing_tips">
     <title>Taxiing Tips</title>
-    <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="19. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>Never pivot on the inside wheel during a turn.</p>
         <p>Never turn sharply at high speeds.</p>

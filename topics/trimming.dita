@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_wdv_k5l_cgb">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="trimming">
     <title>Trimming</title>
     <shortdesc>When properly trimmed the B-25 flies with an ease that belies its weight and
         size.</shortdesc>
@@ -8,43 +8,60 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="13. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="19. Dec. 2018"/>
         </critdates>
     </prolog>
-    <conbody>
-        <p>Watch an old instructor pilot at the controls and you will see that he practically flies
-            the plane with the trim tabs.</p>
-        <p>Learning to trim a plane properly and to detect quickly when it is out of trim boosts
-            your ability as a pilot.</p>
-        <p>Every change of attitude, airspeed, and power settings, causes a corresponding change in
-            pressures on the controls. If the trim tabs are not adjusted for the varying pressures,
-            the resulting physical strain tires the strongest man in a surprisingly short time.</p>
-        <p>Always Keep the B-25 in trim</p>
-        <p>To execute any maneuver properly, you must keep the airplane in trim. Exercise particular
-            care in setting the trim tabs on takeoff.</p>
-        <p>Improperly set tabs make control difficult as the speed and Uft increase during the
-            takeoff run.</p>
-        <image keyref="trim_wings_level">
-            <alt>Keep the wings level by visual reference or by instruments.</alt>
-        </image>
-        <image keyref="trim_rudder">
-            <alt>Trim rudder until ball is centered or until directional gyro stops turning.</alt>
-        </image>
-        <image keyref="trim_aileron">
-            <alt>Trim aileron</alt>
-        </image>
-        <image keyref="trim_elevator">
-            <alt>Trim elevator</alt>
-        </image>
-        <p>Check the trim by releasing all controls, allowing the plane to fly for a short time
+    <taskbody>
+        <context>
+            <p>Watch an old instructor pilot at the controls and you will see that he practically
+                flies the plane with the trim tabs.</p>
+            <p>Learning to trim a plane properly and to detect quickly when it is out of trim boosts
+                your ability as a pilot.</p>
+            <p>Every change of attitude, airspeed, and power settings, causes a corresponding change
+                in pressures on the controls. If the trim tabs are not adjusted for the varying
+                pressures, the resulting physical strain tires the strongest man in a surprisingly
+                short time.</p>
+            <p><b>Always Keep the B-25 in trim</b></p>
+            <p>To execute any maneuver properly, you must keep the airplane in trim. Exercise
+                particular care in setting the trim tabs on takeoff.</p>
+            <p>Improperly set tabs make control difficult as the speed and lift increase during the
+                takeoff run.</p>
+        </context>
+        <steps id="steps_lkw_xgh_2gb">
+            <step>
+                <cmd>Keep the wings level by visual reference or by instruments.</cmd>
+                <info><image keyref="trim_wings_level" id="image_clw_xgh_2gb">
+                        <alt>Keep the wings level by visual reference or by instruments.</alt>
+                    </image></info>
+            </step>
+            <step>
+                <cmd>Trim rudder until ball is centered or until directional gyro stops
+                    turning.</cmd>
+                <info><image keyref="trim_rudder" id="image_dlw_xgh_2gb">
+                    <alt>Trim rudder until ball is centered or until directional gyro stops
+                        turning.</alt>
+                </image></info>
+            </step>
+            <step>
+                <cmd>Trim aileron</cmd><info><image keyref="trim_aileron" id="image_elw_xgh_2gb">
+                <alt>Trim aileron</alt>
+            </image></info></step>
+            <step>
+                <cmd>Trim elevator</cmd><info><image keyref="trim_elevator" id="image_flw_xgh_2gb">
+                <alt>Trim elevator</alt>
+            </image></info></step>
+        </steps>
+        <result><p>Check the trim by releasing all controls, allowing the plane to fly for a short time
             without guidance. Properly trimmed it holds course, altitude, and heading for some
-            time.</p>
-        <p>Some planes are difficult to trim properly. This is a result of improper rigging and you
+            time.</p></result>
+        <tasktroubleshooting><p>Some planes are difficult to trim properly. This is a result of improper rigging and you
             cannot correct it while in the air. If you encounter this difficulty, check the trim and
             the weight and balance of the plane to see that it is properly loaded. After assuring
             yourself that it is the plane and not the pilot, report this condition on the Form
             lA.</p>
         <p>The engineering officer will run a check flight on the plane. His findings may result in
             the re-rigging of the plane and subsequent improvement in its flying
-            characteristics.</p>
-    </conbody>
-</concept>
+            characteristics.</p></tasktroubleshooting>
+    </taskbody>
+</task>

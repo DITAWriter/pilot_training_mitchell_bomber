@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_vfb_jsl_cgb">
+<concept id="common_takeoff_errors">
     <title>Common Takeoff Errors</title>
-    <shortdesc/>
+    <shortdesc>Failure to keep the airplane straight ahead. Unfamiliarity with the airplane and
+        uneven power application cause this. Remember, there are 2 large rudders. It takes
+        considerable foot pressure to control them on takeoff.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="19. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <p>Failure to keep the airplane straight ahead. Unfamiliarity with the airplane and uneven
-            power application cause this. Remember, there are 2 large rudders. It takes considerable
-            foot pressure to control them on takeoff.</p>
         <p>Jockeying or blasting the throttles to maintain directional control.</p>
         <p>Using brakes to steer the plane</p>
         <p>Excessive manifold pressure</p>
