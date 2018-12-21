@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_kgh_d2p_dgb">
+<concept id="prohibited_maneuvers_in_the_b_25">
     <title>Prohibited Maneuvers in the B-25</title>
     <shortdesc>The following maneuvers are not prohibited because of the flying characteristics of
         the airplane, but because they impose severe structural stresses on it. The B-25 is a
         bomber, not a pursuit plane.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="21. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>The prohibited maneuvers in this airplane are:</p>
         <ul>
             <li>Loops</li>
-            <li>Spins </li>
-            <li>Rolls </li>
-            <li>Vertical dives </li>
-            <li>Immelmanns </li>
-            <li>Inverted flight </li>
+            <li>Spins</li>
+            <li>Rolls</li>
+            <li>Vertical dives</li>
+            <li>Immelmanns</li>
+            <li>Inverted flight</li>
             <li>Vertical banks</li>
         </ul>
         <p>Those pilots who try to make a pursuit plane out of a bomber succeed only in making a
@@ -30,6 +36,5 @@
             periodic inspections may show up in violent maneuvers.</p>
         <p>The pilot who flew the plane the previous day may have abused the airplane, so conquer
             that urge to show off.</p>
-
     </conbody>
 </concept>
