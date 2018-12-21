@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_kkx_w1p_dgb">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="carburetor_air_filter">
     <title>Carburetor Air Filter</title>
-    <body>
-        <p></p>
-    </body>
-</topic>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="21. Dec. 2018"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>The false impression exists among some pilots and mechanics that the carburetor air
+            filter affects airplane performance. Installation of a filter is merely equivalent to
+            closing the throttles slightly. This means that for all altitudes less than critical,
+            where manifold pressure limits prevent full throttle opening, the filter has no effect
+            at all on engine power output or airplane performance.</p>
+        <p>Manifold pressure gives the best indication of engine power output, and at a given
+            pressure the engine develops the same power regardless of whether a filter is installed.
+            The only time that removal of the filter benefits performance is when the throttle is
+            full open and .still more manifold pressure is permissible.</p>
+        <p>When the filter is installed, it affects only cold ram air. Heated air does not pass
+            through the filter element.</p>
+    </conbody>
+</concept>

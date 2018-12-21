@@ -1,8 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_p2t_fbp_dgb">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="operating_the_autopilot">
     <title>Operating the Autopilot</title>
-    <body>
-        <p></p>
-    </body>
-</topic>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="21. Dec. 2018"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <fig id="fig_OperatingAutopilot">
+            <title>Operating the autopilot</title>
+            <image placement="break" keyref="autopilot_diag"/>
+            <ol>
+                <li>Rudder Control Knob</li>
+                <li>Rudder Follow-up Card</li>
+                <li>Directional Gyro Card</li>
+                <li>Ball Bank Indicator</li>
+                <li>Caging Knobs</li>
+                <li>Installation Bolts </li>
+                <li>Banking Scale</li>
+                <li>Horizon Bar </li>
+                <li>Miniature Airplane</li>
+                <li>Horizon Dial</li>
+                <li>Directional Gyro Unit </li>
+                <li>Bank and Climb Gyro Unit </li>
+                <li>Valve Adjustment Reference Dial</li>
+                <li>Valve Adjustment Knobs</li>
+                <li>Miniature Airplane Adjusting Knob</li>
+                <li>Elevator Alignment Index</li>
+                <li>Elevator Follow-up Index</li>
+                <li>Suction Gage</li>
+                <li>Elevator Control Knob</li>
+                <li>Aileron Follow-up Index</li>
+                <li>Bank Index</li>
+                <li>Aileron Control Knob</li>
+            </ol>
+        </fig>
+        <p>It's OK to let Elmer take over and do some of your flying for you, particularly to
+            relieve you of the strain caused by long over-water flights. Or, if you are cruising
+            over the top and need to be very accurate in your cross country courses, let Elmer
+            fly.</p>
+        <p><b>Remember, though, that the autopilot is a machine. It cannot do your thinking for you.
+                Use it as an aid to flight, not to do your flying and particularly not your
+                thinking.</b></p>
+        <p>Experience has demonstrated that the instantaneous control responses of the autopilot
+            under flight conditions which might cause side-slip or stall, may result in a spin.
+            Because of this, the following restrictions are placed on its use.</p>
+        <p>Do not use it in extremely turbulent air. You can, if you choose, use it to aid you but
+            you must be on the controls also.</p>
+        <p>Do not use it when the deicer system is in operation.</p>
+        <p>Do not use it if both engines are not delivering normal power.</p>
+        <p>Do not turn it on until you are sure that flight conditions permit safe control by the
+            autopilot.</p>
+        <p>Maintain at least minimum cruise power settings. The B-25 is too sluggish at low speeds
+            to permit safe operation on autopilot.</p>
+        <p>Never operate the autopilot unless one rated pilot is on watch in the cockpit. You must
+            constantly check the instruments, and the trim of the plane must be accurate.</p>
+        <p>Never engage the autopilot unless the indices are lined up properly.</p>
+        <p>Never make course and altitude changes rapidly with the autopilot.</p>
+        <p>When the autopilot is engaged, never turn the speed valves to "O" setting. This will lock
+            the corresponding surface controls in their position.</p>
+        <section id="sect_GroundChecklist">
+            <title>Ground Checklist</title>
+            <ol>
+                <li>Check suction–3.75" to 4.25" Hg.</li>
+                <li>Check oil pressure–75 to 90 lb. sq. in.</li>
+                <li>Check bank-and-climb unit uncaged.</li>
+                <li>Check directional unit uncaged.</li>
+                <li>Engage autopilot and check operation by moving each control knob. Watch the
+                    surface controls for corresponding movements.</li>
+                <li>Check for air in the Servo units by moving the normal surface controls, A
+                    springy reaction shows the presence of air in the system.</li>
+                <li>Disengage autopilot, leave gyros uncaged.</li>
+            </ol>
+        </section>
+        <section id="sect_InFlight">
+            <title>In Flight</title>
+            <ol>
+                <li>Trim the plane hands-off.</li>
+                <li>Set Servo controls at No. 4.</li>
+                <li>Set rudder follow-up card to match directional gyro card.</li>
+                <li>Set aileron follow-up card to match bank index.<p>
+                        <image placement="break" keyref="autopilot_climb_limits">
+                            <alt>Autopilot climbing or gliding operating limits</alt>
+                        </image>
+                        <image placement="break" keyref="autopilot_bank_limits">
+                            <alt>Autopilot banking operating limits</alt>
+                        </image>
+                    </p></li>
+                <li>Set elevator follow-up card to match elevator alignment index.<note
+                        type="caution">Do not set the elevator follow-up card to match the horizon
+                        bar. Their relative movement is in opposite directions. </note></li>
+                <li>Move the "ON-OFF" control to the "<userinput>ON</userinput>" position
+                    slowly.</li>
+                <li>Adjust the Servo speed controls as needed.<p>These controls are calibrated from
+                        to 8, the speed range of operation is (locked) to 8 (high speed reaction).
+                        If the instrument is in good condition, the proper setting for the B-25 is
+                        between 2 and 4. These need not read the same for all controls.</p></li>
+                <li>Set fore and aft attitude with the elevator knob.</li>
+                <li>Set directional control with the rudder knob.</li>
+                <li>Set in bank when you want to turn more than 5 degrees.<note>Always keep the
+                        gyros uncaged except during maneuvers that exceed the operating limits of
+                        the autopilot. These are 50 degrees from the vertical for the bank-and-climb
+                        unit and 55 degrees for the directional gyro unit.</note></li>
+            </ol>
+            <note type="warning">During flight do not overcontrol the autopilot more than 15
+                degrees, This causes the autopilot to attempt an abrupt return to the original
+                position, with possible damage to the control surfaces and the autopilot. </note>
+            <p>The autopilot gives accurate control with a plus or minus tolerance of 1 degree- It
+                flies a far better course than a human pilot.</p>
+            <p>When the autopilot is in use for extended periods, be sure to disengage it at least
+                once every half hour to check the trim manually. This instrument will not give
+                efficient performance if it is operating against the pressures of the trim tabs.</p>
+            <p>If the Servo speed controls are improperly set, the plane oscillates or hunts for a
+                stable position. If this happens, open the Servo speed controls and slowly turn them
+                toward the closed position. Do not close them completely, but find the point at
+                which the oscillation stops. Adjust the controls slowly back and forth at this point
+                until you obtain the desired setting.</p>
+            <note type="warning">ALWAYS BE SURE YOU CAN OVER POWER THE AUTOPILOT MANUALLY. TRY IT ON
+                THE GROUND BEFORE YOU FLY.</note>
+        </section>
+    </conbody>
+</concept>

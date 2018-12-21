@@ -84,7 +84,6 @@
         <topicref href="topics/carburetor_air_filter.dita" format="dita"/>
         <topicref href="topics/priming.dita" format="dita"/>
         <topicref href="topics/operating_the_autopilot.dita" format="dita"/>
-        <topicref href="topics/autopilot_in_flight_checklist.dita" format="dita"/>
         <!-- end moved content -->
     </chapter>
     <chapter href="topics/inspection_and_checks.dita" format="dita">
@@ -116,6 +115,7 @@
         <topicref href="topics/go_around_procedure.dita" format="dita"/>
         <topicref href="topics/common_landing_errors.dita" type="concept" format="dita"
             keys="common_landing_errors"/>
+        <topicref href="topics/parking.dita" format="dita" type="task" keys="tk_parking"/>
     </chapter>
     <chapter href="topics/advanced_air_work.dita" format="dita">
         <topicref href="topics/prohibited_maneuvers_in_the_b_25.dita" format="dita"/>

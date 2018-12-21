@@ -1,8 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_nnv_h1p_dgb">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="fuel_system_operation">
     <title>Fuel System Operation</title>
-    <body>
-        <p></p>
-    </body>
-</topic>
+    <shortdesc>Every man on your crew must know the fuel system so thoroughly that a mistake in its
+        operation is impossible.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="19. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="20. Dec. 2018"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <context>
+            <image keyref="fuel_system_normal_ops" placement="break">
+                <alt>Normal operation</alt>
+            </image>
+            <image placement="break" keyref="fuel_aux_transfer">
+                <alt>Auxiliary fuel transfer</alt>
+            </image>
+            <p>To use auxiliary fuel you must first get it into the front main cells.</p>
+            <p>To transfer fuel from the auxiliary wing cells:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Check fuel levels in front cells to see that space is available for
+                    transfer.</cmd>
+            </step>
+            <step>
+                <cmd>Turn auxiliary fuel transfer switches ''<userinput>ON</userinput>.'' (On
+                    pilot's pedestal.)</cmd>
+            </step>
+            <step>
+                <cmd>Turn liquidometer to the front cell receiving fuel.</cmd>
+            </step>
+            <step>
+                <cmd>After front cell is full, turn transfer switch
+                    "<userinput>OFF</userinput>."</cmd>
+            </step>
+            <step>
+                <cmd>Repeat on opposite side.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

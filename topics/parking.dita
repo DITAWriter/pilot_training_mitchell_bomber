@@ -4,6 +4,12 @@
     <title>Parking</title>
     <shortdesc>When you park your plane after a flight, just remember that the Colonel may make the
         next flight in that particular airplane.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="19. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
             <p>As you approach the parking ramp stay alert and plan your taxiing so that you can
@@ -12,10 +18,10 @@
                 across the direction of roll you use in leaving. Furthermore, a buddy may snuggle up
                 on each side of you, locking you in position just as securely as if they used a
                 chain.</p>
-            <p>The nosewheel position indicator warns you when the nosewheel is more than 15" from
-                straight ahead. Release the brakes and allow the plane to roll forward. Correct the
-                alignment of the nosewheel, and re-park. Set the parking brakes and prepare to stop
-                the engines.</p>
+            <p>The nosewheel position indicator warns you when the nosewheel is more than 15 degrees
+                from straight ahead. Release the brakes and allow the plane to roll forward. Correct
+                the alignment of the nosewheel, and re-park. Set the parking brakes and prepare to
+                stop the engines.</p>
         </context>
         <steps>
             <step>
@@ -25,23 +31,30 @@
                 <cmd>Set engine at 1200 rpm.</cmd>
             </step>
             <step>
-                <cmd>Mixture control to "IDLE CUT-OFF."</cmd>
-                <info><p>Throttle full "OPEN" as rpm starts to drop. This prevents a tendency of the
-                        engines to backfire as the last of the fuel is running through the cylinder
-                        heads.</p></info>
+                <cmd>Mixture control to "<userinput>IDLE CUT-OFF</userinput>."</cmd>
+                <info>
+                    <p>Throttle full "<userinput>OPEN</userinput>" as rpm starts to drop. This
+                        prevents a tendency of the engines to backfire as the last of the fuel is
+                        running through the cylinder heads.</p>
+                </info>
             </step>
             <step>
-                <cmd>Ignition switches "OFF" when the props have stopped turning.</cmd>
-                <info><note type="important">Don't be careless about this. An engine with a cylinder
+                <cmd>Ignition switches "<userinput>OFF</userinput>" when the props have stopped
+                    turning.</cmd>
+                <info>
+                    <note type="important">Don't be careless about this. An engine with a cylinder
                         loaded is like a stick of dynamite with a fuse attached. Just a little
                         carelessness will set either one off with a bang. A pilot climbing into his
                         seat may nudge the ignition switch and an unlucky mechanic may lose the top
-                        of his head.</note></info>
+                        of his head.</note>
+                </info>
             </step>
             <step>
-                <cmd>Turn all switches "OFF."</cmd>
-                <info><note>Whenever necessary, dilute the oil before the engines are stopped. (See
-                        cold weather section.)</note></info>
+                <cmd>Turn all switches "<userinput>OFF</userinput>."</cmd>
+                <info>
+                    <note>Whenever necessary, dilute the oil before the engines are stopped. (See
+                        cold weather section.)</note>
+                </info>
             </step>
             <step>
                 <cmd>After the wheels have been chocked, release the parking brakes.</cmd>
@@ -51,14 +64,18 @@
                         brakes, and extensive repairs.</p></info>
             </step>
             <step>
-                <cmd>Make a complete check of the plane to see that trim tabs are set on "0,"
-                    switches and radios are ''OFF'' controls "LOCKED," etc. </cmd>
+                <cmd>Make a complete check of the plane to see that trim tabs are set on
+                        "<userinput>0</userinput>," switches and radios are
+                        ''<userinput>OFF</userinput>'' controls "<userinput>LOCKED</userinput>,"
+                    etc. </cmd>
             </step>
         </steps>
         <postreq>It is only common courtesy to leave the plane clean and neat for the next crew. See
             that carburetor air scoop covers are on to exclude dust from the engines. Complete the
             necessary local forms, gas forms, squadron reports, combat crew training report etc.
             Talk to the crew chief and tell him of the plane's performance. Give him any ideas you
-            have for improvements.</postreq>
+            have for improvements.<image keyref="parking" id="image_ldp_kwj_2gb">
+                <alt>Parking complete - nosewheel properly lined up.</alt>
+            </image></postreq>
     </taskbody>
 </task>
