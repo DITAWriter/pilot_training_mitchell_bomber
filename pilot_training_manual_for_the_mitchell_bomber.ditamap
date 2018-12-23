@@ -154,10 +154,18 @@
         <topicref href="topics/miscellaneous_emergency_equipment.dita" format="dita"/>
     </chapter>
     <chapter href="topics/emergency_situations.dita" format="dita">
-        <topicref href="topics/emer_fire_in_flight.dita" format="dita"/>
-        <topicref href="topics/emer_bailout.dita" format="dita"/>
-        <topicref href="topics/emer_forced_landing.dita" format="dita"/>
-        <topicref href="topics/emer_ditching.dita" format="dita"/>
+        <topicref href="topics/fire_in_flight.dita" format="dita">
+            <topicref href="topics/dealing_with_engine_fires.dita" format="dita"/>
+            <topicref href="topics/checklist_prior_to_using_co2_bottle_on_engine_fires.dita" format="dita"/>
+            <topicref href="topics/preventing_spontaneous_combustion.dita" format="dita"/>
+        </topicref>
+        <topicref href="topics/bailout.dita" format="dita">
+            <topicref href="topics/bailout_procedure.dita" format="dita"/>
+            <topicref href="topics/how_to_jump.dita" format="dita"/>
+            <topicref href="topics/procedure_for_reclosing_bomb_bay_doors.dita" format="dita"/>
+        </topicref>
+        <topicref href="topics/forced_landings.dita" format="dita"/>
+        <topicref href="topics/ditching.dita" format="dita"/>
     </chapter>
     <chapter href="topics/fuel.dita" format="dita">
         <topicref href="topics/grade_91_fuel.dita" format="dita"/>
