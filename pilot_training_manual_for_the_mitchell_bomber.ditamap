@@ -144,13 +144,14 @@
         <topicref href="topics/tactical_uses_of_the_b_25.dita"/>
     </chapter>
     <chapter href="topics/emergency_systems.dita" format="dita">
-        <topicref href="topics/emer_hydro_wheel_lower.dita" format="dita"/>
-        <topicref href="topics/emer_wing_flap_lower.dita" format="dita"/>
-        <topicref href="topics/emer_bomb_bay_doors.dita" format="dita"/>
-        <topicref href="topics/emer_salvo_release.dita" format="dita"/>
-        <topicref href="topics/emer_hydro_brake.dita" format="dita"/>
-        <topicref href="topics/emer_air_brakes.dita" format="dita"/>
-        <topicref href="topics/emer_misc_equip.dita" format="dita"/>
+        <topicref href="topics/emergency_hydraulic_wheel_lowering_system.dita" format="dita"/>
+        <topicref href="topics/procedure_in_event_of_complete_failure_of_hydraulic_system.dita" format="dita"/>
+        <topicref href="topics/wing_flap_emergency_lowering_system.dita" format="dita"/>
+        <topicref href="topics/emergency_operation_of_bomb_bay_doors.dita" format="dita"/>
+        <topicref href="topics/emergency_salvo_release.dita" format="dita"/>
+        <topicref href="topics/emergency_operation_hydraulic_brake.dita" format="dita"/>
+        <topicref href="topics/emergency_operation_air_brakes.dita" format="dita"/>
+        <topicref href="topics/miscellaneous_emergency_equipment.dita" format="dita"/>
     </chapter>
     <chapter href="topics/emergency_situations.dita" format="dita">
         <topicref href="topics/emer_fire_in_flight.dita" format="dita"/>
