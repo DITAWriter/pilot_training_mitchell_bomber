@@ -130,13 +130,18 @@
         <topicref href="topics/stalls.dita" format="dita"/>
         <topicref href="topics/slow_flying.dita" format="dita"/>
         <topicref href="topics/short_field_takeoff.dita" format="dita"/>
-        <topicref href="topics/short_field_landing.dita" format="dita"/>
+        <topicref href="topics/short_field_landings.dita" format="dita"/>
         <topicref href="topics/single_engine_operation.dita" format="dita"/>
-        <topicref href="topics/effect_power_airspeed_single_engine_operation.dita" format="dita"/>
+        <topicref href="topics/single_engine_operation_procedure.dita" format="dita"/>
+        <topicref href="topics/single_engine_trouble_search.dita" format="dita"/>
+        <topicref href="topics/single_engine_practice.dita" format="dita"/>
+        <topicref href="topics/engine_failure_on_takeoff.dita" format="dita"/>
+        <topicref href="topics/effect_of_power_and_airspeed_on_single_engine_operation.dita" format="dita"/>
         <topicref href="topics/single_engine_landing.dita" format="dita"/>
         <topicref href="topics/single_engine_go_around.dita" format="dita"/>
-        <topicref href="topics/tips_single_engine_ops.dita" format="dita"/>
-        <topicref href="topics/aux_hydro_pump.dita" format="dita"/>
+        <topicref href="topics/tips_on_single_engine_operation.dita" format="dita"/>
+        <topicref href="topics/auxiliary_hydraulic_pump_and_emergency_hydraulic_selector_valve.dita" format="dita"/>
+        <topicref href="topics/tactical_uses_of_the_b_25.dita"/>
     </chapter>
     <chapter href="topics/emergency_systems.dita" format="dita">
         <topicref href="topics/emer_hydro_wheel_lower.dita" format="dita"/>
