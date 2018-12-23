@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lc2_yyl_fgb">
+    <title>Dealing with Engine Fires</title>
+    <shortdesc>Formerly a great many fires started in the carburetor.</shortdesc>
+    <taskbody>
+        <context>
+            <p>At present, because of the many improvements in carburetion, few engine fires start
+                in this manner. The most common cause today is the mechanical failure of some
+                part.</p>
+            <p>To combat a carburetor fire:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Cut off gas to the engine.</cmd>
+            </step>
+            <step>
+                <cmd>Mixture control in "IDLE CUT-OFF."</cmd>
+            </step>
+            <step>
+                <cmd>Throttle full forward.</cmd>
+            </step>
+        </steps>
+        <result><p>This quickly empties the carburetor and exhausts the fuel that is burning. In
+                most cases no other action need be taken.</p></result>
+    </taskbody>
+</task>

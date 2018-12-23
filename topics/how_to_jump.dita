@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ubw_3cm_fgb">
+    <title>How to Jump</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Face rear of ship and place hands on structure above rear of hatch.</cmd>
+            </step>
+            <step>
+                <cmd>Lower legs through opening. The slip- stream will carry your legs up against
+                    the underpart of the fuselage. Twist your shoulder to the left to prevent injury
+                    to the head on the way out. Push away from the plane with your hands.</cmd>
+            </step>
+            <step>
+                <cmd>When you are sure that you are clear of the plane, look directly at the ripcord
+                    release and take hold of the handle.</cmd>
+            </step>
+            <step>
+                <cmd>Straighten your legs, keeping your feet together, and pull the release. In a
+                    low-altitude jump, pull the release as soon as possible.</cmd>
+                <info>For further information on bailout technique, consult your <cite>Pilot's
+                        Information File</cite>.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

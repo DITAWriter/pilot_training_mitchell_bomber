@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xbb_lzl_fgb">
+    <title>Checklist Prior to Using CO<b
+            id="docs-internal-guid-bf84ce21-7fff-e521-d821-a3ad523a935b">&lt;sub>2&lt;/sub></b>
+        Bottle on Engine Fires</title>
+    <shortdesc>An immediate use of your CO<sub>2</sub> bottle will only halt the fire
+        momentarily.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The danger of fire, other than the natural hazard of the flame, is that the heat may
+                melt or injure the control cables, wing spars, etc.</p>
+            <p>Do your best to combat engine fires, but don't stay with the ship so long that an
+                explosion traps you.</p>
+            <p>Don't use your CO<sub>2</sub> bottle on an engine fire until: </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Gasoline cut-off valves "OFF."</cmd>
+            </step>
+            <step>
+                <cmd>Prop at "TNC. RPM" to blow out the fire.</cmd>
+            </step>
+            <step>
+                <cmd>Open the throttle.</cmd>
+            </step>
+            <step>
+                <cmd>Feather the prop when the fuel runs out.</cmd>
+            </step>
+            <step>
+                <cmd>Cut switches after prop stops turning.</cmd>
+            </step>
+            <step>
+                <cmd>Now, if you need it, use the CO<sub>2</sub> bottle.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Set selector switch to desired engine.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Open the cowl flaps.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Pull the handle. This discharges the CO<sub>2</sub> on the
+                            flames.</cmd>
+                    </substep>
+                </substeps>
+                <info><note type="warning">Warning: Don't under any circumstances try to restart the
+                        engine under these conditions. Your CO<sub>2</sub> is exhausted and a
+                        recurrence of the fire will leave you with no defense at all.</note></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_zjv_s5l_fgb">
+    <title>Fire in Flight</title>
+    <shortdesc>The deadly enemy of all flyers is fire in the air.</shortdesc>
+    <conbody>
+        <p>All aircraft fires have three main causes:</p>
+        <ol>
+            <li>Fire caused by enemy action.</li>
+            <li>Engine fires.</li>
+            <li>Spontaneous combustion.</li>
+        </ol>
+        <section>
+            <title>Enemy Action</title>
+            <p>The best advice on this is preventive advice. Get them before they get you! If enemy
+                action starts a fire in one of your engines, use the following procedures for
+                fighting it.</p>
+        </section>
+    </conbody>
+</concept>

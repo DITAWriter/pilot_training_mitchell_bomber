@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_p2l_scm_fgb">
+    <title>Procedure for Reclosing Bomb Bay Doors</title>
+    <shortdesc>If you have had a hydraulic failure, be sure that the bomb bay doors are not
+        partially open when you jump.</shortdesc>
+    <taskbody>
+        <context>
+            <p>These doors fall open ⅔ of the way when the hydraulic system loses its pressure.</p>
+            <p>To close these doors, do the following:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open inner door&#8212; this door will not open with the bomb bay door crank
+                    installed.</cmd>
+            </step>
+            <step>
+                <cmd>Install crank on coupling.</cmd>
+            </step>
+            <step>
+                <cmd>Close doors and fasten crank to floor.</cmd>
+            </step>
+            <step>
+                <cmd>Complete bailout procedure.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

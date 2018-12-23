@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_t5m_gbm_fgb">
+    <title>Bailout Procedure</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>When you decide that the ship must be abandoned, give the alarm by interphone
+                    and alarm bell, at which time the engineer and rear gunner release the emergency
+                    doors.</cmd>
+            </step>
+            <step>
+                <cmd>The first warning informs the crew that they must prepare to bail out.</cmd>
+            </step>
+            <step>
+                <cmd>The second warning is an order to the crew to jump. As each crew member gets
+                    ready to leave the plane, he advises you by interphone that he is leaving.</cmd>
+            </step>
+            <step>
+                <cmd>The order in which the crew leaves the plane is as follows:</cmd>
+                <info><p>Forward Hatch:</p><ol>
+                        <li>Engineer</li>
+                        <li>Bombardier-navigator</li>
+                        <li>Copilot</li>
+                        <li>Pilot</li>
+                    </ol><p>Rear Hatch</p><ol>
+                        <li>Gunner</li>
+                        <li>Radio operator.</li>
+                    </ol></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
