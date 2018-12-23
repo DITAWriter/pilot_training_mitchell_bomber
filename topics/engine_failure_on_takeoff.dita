@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mg2_wdh_fgb">
+    <title>Engine Failure on Takeoff</title>
+    <shortdesc>This is a tricky proposition for any pilot to handle. When the engine fails before
+        you gain CSE speed, retract the wheels and land straight ahead. There is far less danger in
+        a belly landing than in attempting to go around with too low an airspeed.</shortdesc>
+    <taskbody>
+        <context>
+            <p>If you are in the air, however, and have CSE speed, you can go around without too
+                much difficulty.</p>
+            <p>You must know your procedure and your airplane Work quickly, accurately, and
+                efficiently. Don't get panicky.</p>
+            <p>Don't get featheritis&#8212; be sure the engine is out, not just spitting a
+                little.</p>
+            <p>Use the same procedure, but notice that the first three parts of it are already
+                accomplished.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Airspeed&#8212; You either have CSE speed or you land straight ahead.</cmd>
+            </step>
+            <step>
+                <cmd>Directional Control -This is an instinctive reaction. Use rudder pressure at
+                    the first feel of yaw.</cmd>
+            </step>
+            <step>
+                <cmd>Increase power&#8212; Takeoff power has already been applied. It may be
+                    necessary to reduce power to maintain control.</cmd>
+            </step>
+            <step>
+                <cmd>Reduce Drag.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Raise the wheels</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Feather the prop</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Close cowl flaps on dead engine</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Drop weight if necessary</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Reduce Fire Hazard</cmd>
+            </step>
+            <step>
+                <cmd>Trim.</cmd>
+            </step>
+            <step>
+                <cmd>Trouble Search.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

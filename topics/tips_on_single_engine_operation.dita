@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_uxx_lhh_fgb">
+    <title>Tips on Single Engine Operation</title>
+    <shortdesc/>
+    <conbody>
+        <ul>
+            <li>Practice single engine operation with the propellers feathered and unfeathered.</li>
+            <li>Keep the prop feathered for a maximum of 5 minutes in cold weather and 15 minutes in
+                warm weather. If you exceed these time limits the engine cools too much. The oil
+                drains into the bottom cylinders and makes starting difficult and dangerous.</li>
+            <li>Warm engines gradually when recovering from single engine practice.</li>
+            <li>Keep all experiments within safe bounds.</li>
+            <li>Don't allow your airspeed to vary in turns.</li>
+            <li>Don't blast the throttles to maintain airspeed in turns.</li>
+            <li>Hold the nose up when rolling out of turns or you will lose too much altitude.</li>
+            <li>Remember&#8212; When at high altitudes the B-25 may lose some altitude, but when you
+                reach denser air at lower altitudes it will hold altitude easily.</li>
+            <li>When attempting to make a medium turn, establish the proper degree of bank.
+                Otherwise the turn will be uncoordinated.</li>
+            <li>Hold the airspeed for which you have trimmed. This will save you a lot of wear and
+                tear mentally and physically. The B-23 flies easily on one engine if it is properly
+                trimmed.</li>
+            <li>Re-starting the dead engine.</li>
+            <li>Turn the ignition switches "ON."</li>
+            <li>Turn the gasoline "ON."</li>
+            <li>Prop control (bad engine) full "DEC. RPM." Mixture "FULL RICH."</li>
+            <li>Depress the feathering switch until the engine rpm is 800.</li>
+            <li>Release the feathering switch and resume control with the engine controls.</li>
+            <li>Move prop pitch and throttles forward slowly &#8212;not to exceed 1400 rpm and 15"
+                Hg. until the cylinder-head temperature starts to increase.</li>
+            <li>Warm the engine as you would on the ground and apply cruising power after
+                cylinder-head temperature is normal.</li>
+            <li>Oil shutters and cowl flaps as desired.</li>
+            <li>Re-trim.</li>
+        </ul>
+        <note type="warning">If no feathering action occurs within 90 seconds, release feathering
+            button to avoid burning out feathering motor.</note>
+    </conbody>
+</concept>

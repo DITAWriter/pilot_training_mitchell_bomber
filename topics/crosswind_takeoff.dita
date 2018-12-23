@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ltq_t3g_fgb">
+    <title>Crosswind Takeoff</title>
+    <shortdesc>Modern flying, with its heavy airplanes, demands a runway for safe operation. The
+        days when you taxied out, lined up parallel to the wind tee, and took off are gone
+        forever.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Instead of 360 of airfield available for takeoff, the modem airfield has three
+                runways, usually set to take advantage of the six cardinal points of the prevailing
+                winds. Using these runways, you encounter cross winds of varying degrees and
+                intensities. </p>
+            <p>The aids to a crosswind takeoff are the rudders, the throttles, the aileron, and, as
+                a last resort, the brakes.</p>
+            <p>The technique is:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Make the usual takeoff checks.</cmd>
+            </step>
+            <step>
+                <cmd>Advance the throttles, leading with the upwind throttle. The strength of the
+                    wind will determine the amount of lead.</cmd>
+            </step>
+            <step>
+                <cmd>As the speed increases and the rudders become effective, equalize the
+                    throttles.</cmd>
+            </step>
+            <step>
+                <cmd>Leave the ground with the throttles evenly set and use just enough rudder and
+                    aileron to make a coordinated turn into the wind, thus counteracting any
+                    drift.</cmd>
+                <info><note>The plane may skip as the speed increases toward the end of the takeoff
+                        roll. This is an indication that it is ready to fly. Help it along to
+                        prevent skipping and to keep the consequent side thrust from injuring the
+                        landing gear.</note></info>
+                <info><b>Common Errors</b>
+                    <ul>
+                        <li>Failure to recognize the drift.</li>
+                        <li>Trying to correct the drift by skidding instead of turning into the
+                            wind. This increases the stalling speed and if violent enough it will
+                            put the plane back on the ground. The bounce will be made with the drift
+                            applying a side thrust to the gear.</li>
+                        <li>Juggling the throttles, giving uneven control. Lead the upwind throttle,
+                            constantly reducing the lead. As the speed increases the rudder control
+                            is great enough to take off cleanly.</li>
+                    </ul></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

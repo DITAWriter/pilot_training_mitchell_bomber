@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_x15_qkg_fgb">
+    <title>Stalls</title>
+    <shortdesc>The B-25 stalls from the wing root to the wingtip. Thus there is no unstable tendency except a slight lateral rolling, easily corrected by coordinated control pressures.</shortdesc>
+    <conbody>
+         <p>The plane breaks cleanly through the stall, with no tendency to drop a wing, and makes a relatively rapid recovery.</p>
+        <p>When stalling with power on, the tail surfaces give a warning of the approaching stall by a pronounced buffeting. When stalling with power off there is no warning except the sluggish feel of the plane as it loses lift and control.</p>
+        <p>Stalls in the B-25 must be practiced because:</p>
+        <ul>
+            <li>You must determine for yourself the stalling characteristics of the plane.</li>
+            <li>You must know the speeds at which the plane stalls to set up properly the speeds for
+                slow flying, short field work and normal landing. <p>The stalling characteristics
+                    are not altered by changes in gross weight, amount of power used, raising or
+                    lowering the flaps, opening and closing the cowl flaps, or operating the de-icer
+                    boots, The stalling speed, however^ is changed by these
+                    variables.</p><p>Operation of the de-icer boots raises the indicated stalling
+                    speed 4 mph. With the wing flaps full down, the stalling speed drops
+                    approximately 20 mph at normal gross weight. The application of power lowers the
+                    stalling speed still further, depending on the amount of power used.</p>
+                <p>Changes of the CG position in the plane greatly affect the stall characteristics.
+                    Do not stall the plane when the center of gravity approaches its fore-and-aft
+                    limits.</p>
+                <p>The stall speeds of the B-25 are approximately:</p>
+                <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_bnz_vlg_fgb">
+                    <strow>
+                        <stentry>Level Flight</stentry>
+                        <stentry>101 MPH</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>30° Bank</stentry>
+                        <stentry>134 MPH</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>60° Bank</stentry>
+                        <stentry>154 MPH</stentry>
+                    </strow>
+                </simpletable></li>
+            <li>You must know the best recovery for the plane you fly.</li>
+        </ul>
+        <p>There are many more reasons, chief among them the confidence you derive from flying your plane through its low speed limits.</p>
+        <p>Furthermore, you will trust your plane completely and fly it more accurately in the precision maneuvers that come later in your training.</p>
+        <p>High-speed stalls and those brought on by rough and uncoordinated movement of the controls are dangerous in the B-25, If you try this type of stall, execute it at reduced power, and avoid it after the characteristics have been determined.</p>
+        <p>Practice at various flap settings, with wheels up and down, straight and level, and in turns.</p>
+        <p>When practicing power-on stalls, keep the power at a maximum of 20" Hg. If you exceed this power limit, the stalling attitude of the plane restricts visibility and tends to make the stall more vicious. This teaches you nothing and only adds unnecessary strain to the airplane.</p>
+        <p>Stalls and stalling speeds are directly related to maximum performance and to a wide variety of maneuvers you will meet later in training. Understand this relationship thoroughly.</p>
+        <p>It gives you a basis for setting up proper gliding attitudes, gliding speeds, approaches and landings. It determines the type and method of corrections to he made in changing gliding speeds.</p>
+        <p>A good method of determining correct gliding speed is to add 20% or 25% to the wheels-down, flaps-down, (45") power-off stalling speed and use that as a gliding speed to remain within safe flight limits.</p>
+        <p>Perform all stalls at an altitude to permit recovery 8000 feet above the terrain. Practice with the propeller set at the maximum climbing rpm and power settings varying as necessary.</p>
+        <p>Perform power-on stalls in this manner: from level flight, reduce the manifold pressure to a maximum of 20"; then bring the nose of the airplane slowly and smoothly to approximately a tail-low landing attitude, maintaining a constant back -pressure until the stall is reached. Do not pull up too rapidly, as this gives a false indicated stalling speed, caused by the momentum built up in flight. Hold the plane in a stalling attitude and allow it to fly into the stall.</p>
+        <p>Do not use excessive power, as this makes the reaction of the airplane violent.</p>
+        <p>As already mentioned, the B-25 stalls from the wing root to the tip; the stall is straight ahead and is not violent. You have aileron and rudder control all the way to the stall. When you reach the stall, recover by nosing down.</p>
+        <p>Counteract any rolling or yawing tendency by use of the rudders. Apply only enough aileron to keep the controls coordinated. Increase power slowly when control is regained.</p>
+        <p>Do not attempt to make a straight power recovery. The B-25 is too heavy to recover safely in this manner. You will get a series of secondary stalls and possibly an unintentional spin.</p>
+        <p>Don't hurry your recovery. Make it smooth and sure, with coordinated control pressures to prevent a secondary stall. Reach a safe air- speed before attempting to level out.</p>
+        <p>Use a power-off, nose-down recovery to recover from violent stalls in which the airplane starts to roll or spin out of control. You will lose a great deal of altitude in this type of recovery. Make the pullout gradually to keep a safe wingloading.</p>
+        <p>Practice glide stalls in the B-25 to familiarize yourself with the feel of the airplane under landing conditions.</p>
+        <p>Perform them by establishing a power-off glide at normal gliding speeds and then flaring od exactly as you would to make a landing. Hold The plane at a constant altitude in a landing attitude until it stalls. The stalling characteristics are the same as in a power-on stall except that the elevators and stabilizer will not buffet as they do in a power-on stall.</p>
+        <p>Again, the recovery is a combination of nose-down and increased power. This stall simulates landing conditions exactly when practised with the wheels and flaps full down. The recovery should be made above 8000 feet to give ample room for emergencies.</p>
+        
+    </conbody>
+</concept>

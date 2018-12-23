@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mm5_vcg_fgb">
+    <title>Night Flying</title>
+    <shortdesc>The technique of night flying is closely akin to instrument flying.</shortdesc>
+    <taskbody>
+        <context>
+            <p>A few tips on night flying:</p>
+            <note type="important">In night flying, a turn may suddenly change contact flight to
+                instrument flight. Be ready to fly instruments at any moment.</note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Know the location of your controls.</cmd>
+            </step>
+            <step>
+                <cmd>Always carry a flashlight.</cmd>
+            </step>
+            <step>
+                <cmd>Use extra care in taxiing.</cmd>
+            </step>
+            <step>
+                <cmd>Use landing lights alternately for taxiing, except in very congested
+                    areas.</cmd>
+            </step>
+            <step>
+                <cmd>Use the extension Ught rather than the dome light for reading maps and
+                    charts.</cmd>
+            </step>
+            <step>
+                <cmd>Check all lighting equipment and fluorescent lighting of instrument panel
+                    before leaving the ground.</cmd>
+            </step>
+            <step>
+                <cmd>Make an accurate check of your flight instruments.</cmd>
+            </step>
+            <step>
+                <cmd>Switch on the dome light if your eyes feel strained during prolonged instrument
+                    flight at night. This creates the illusion of flying under a hood and relieves
+                    strain.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
