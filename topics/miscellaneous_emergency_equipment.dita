@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_k4p_vkk_fgb">
+    <title>Miscellaneous Emergency Equipment</title>
+    <shortdesc/>
+    <refbody>
+        <section>
+            <title>Alarm Bells</title>
+            <p>The alarm bells are located at all crew stations. A switch on the lower left section
+                of the pilot's switch panel controls them.</p>
+        </section>
+        <section>
+            <title>Life Raft</title>
+            <p>A life raft equipped with a CO<sub>2</sub> cylinder for instantaneous inflation is
+                stowed in the upper forward left corner of the radio compartment. For proper use,
+                see ditching.</p>
+        </section>
+        <section>
+            <title>Life Preservers</title>
+            <p>The back cushions on the pilot's and copilot's seats are filled with kapok and will
+                serve as life preservers.</p>
+        </section>
+        <section>
+            <title>Emergency Fuel Pump</title>
+            <p>In late-series airplanes there is an emergency fuel transfer hand pump on the floor
+                of the navigator's compartment. If the electric fuel system fails, you can transfer
+                fuel from the bomb bay tanks to the wing tanks with this pump.</p>
+        </section>
+        <section>
+            <title>Pyrotechnic Signal Pistol</title>
+            <p>On later planes, an M-8 type pyrotechnic pistol is stowed in a canvas holster in the
+                navigator's compartment as loose equipment.</p>
+            <note type="warning">Don't load this pistol except when it has been placed in the mount
+                provided in the upper left corner of the navigator's compartment.</note>
+        </section>
+        <section>
+            <title>Radio Demolition Switch</title>
+            <p>On later airplanes, a switch controlling the charge for demolishing the
+                identification radio in an emergency is on the right instrument sub- panel. Depress
+                both buttons simultaneously to set off the charge.</p>
+        </section>
+        <section>
+            <title>Hand Ax</title>
+            <p>There is a hand ax on the right side of the fuselage in the radio operator's
+                compartment.</p>
+        </section>
+        <section>
+            <title>First-Aid Kits</title>
+            <p>Two first-aid kits are provided, one on the left side of the navigator's compartment,
+                the other on the right side of the radio compartment. The number of kits is often
+                increased when the ship engages in tactical operation.</p>
+        </section>
+        <section>
+            <title>Fire Extinguishers</title>
+            <p>Carbon dioxide fire extinguishers are at the right side of the navigator's
+                compartment and at the right side of the radio operator's compartment.</p>
+            <p>There is an engine fire extinguisher system for both engines. It is controllable from
+                the copilot's station. A safety fuse for indicating a premature discharge is on the
+                right side of the fuselage above the nosewheel.</p>
+        </section>
+    </refbody>
+</reference>
