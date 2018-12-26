@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lkn_sr3_ggb">
+    <title>Day Navigation, Photo-Reconnaissance, and Instrument Let-Down Mission</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>This mission will consist of a controlled ground speed day navigation and
+                photo-reconnaissance mission, at the end of which the pilot will orient himself by
+                the X Radio Range and simulate a let-down to Home Base. If first attempt is
+                unsuccessful, a second orientation and let-down will be accomplished.</p>
+        </context>
+        <steps>
+            <stepsection>Conduct of Mission:</stepsection>
+            <step>
+                <cmd>This mission will be briefed by the Squadron S-2. All crew members will take
+                    careful notes as directed by S-2, and will be interrogated upon return as to
+                    observation. Oblique and pinpoint photographs will be taken. Target maps are
+                    available for the localities directed below and photographs will be taken of
+                    each given target.</cmd>
+            </step>
+            <stepsection>Specific Duties of Crew Members</stepsection>
+            <step>
+                <cmd>Pilot&#8212; will aid and direct crew in obtaining observations; give careful
+                    attention to best photographic procedures; direct photographs be taken as
+                    briefed; and communicate on interphone at all times.</cmd>
+            </step>
+            <step>
+                <cmd>Copilot&#8212; will take notes on installation noted by himself and pilots and
+                    accomplish all normal copilot duties.</cmd>
+            </step>
+            <step>
+                <cmd>Navigator-Bombardier</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Will navigate by DR Navigation on a V-P chart except within 10 minutes
+                            of target area where pinpoint pilotage will be used on a sectional
+                            chart.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Act as observer and perform duties as briefed by S-2.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Maintain and submit navigation log, weather observations, and other
+                            data to Squadron Navigation Officer.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Radio Operator&#8212; will transmit position reports submitted by
+                    Bombardier-Navigator, and practice tracking from all gun positions.</cmd>
+            </step>
+            <step>
+                <cmd>Engineer-Gunner&#8212; will perform all normal duties and also act as
+                    observer.</cmd>
+            </step>
+            <step>
+                <cmd>Armorer-Gunner&#8212; will preflight and in- stall photo equipment; take photos
+                    as directed by pilot; make observations of ground activity; and man battle
+                    station at all times, taking careful observations and reporting to the pilot all
+                    aircraft and ground installations sighted.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

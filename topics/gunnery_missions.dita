@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cyx_1p3_ggb">
+    <title>Gunnery Missions</title>
+    <shortdesc>In this and all ensuing gunnery missions when both ground and water targets are used,
+        extreme care must be exercised to see that the field of fire is clear of other
+        planes.</shortdesc>
+    <conbody>
+        <simpletable frame="all" relcolwidth="1* 1* 1* 1*" id="simpletable_ehw_nq3_ggb">
+            <strow>
+                <stentry>X Base</stentry>
+                <stentry>To</stentry>
+                <stentry>
+                    <p>33°38'N; 80°32'W</p>
+                    <p>(Bridge over X River)</p>
+                </stentry>
+                <stentry>39 Miles</stentry>
+                </strow>
+            <strow>
+                <stentry>33°38'N; 80°32'W</stentry>
+                <stentry>To</stentry>
+                <stentry>
+                    <p>34°04'N; 79°56'W</p>
+                    <p>(Fork in H River)</p>
+                </stentry>
+                <stentry>46 Miles</stentry>
+            </strow>
+            <strow>
+                <stentry>34°04'N; 79°56'W</stentry>
+                <stentry>To</stentry>
+                <stentry>
+                    <p>34°08'N; 79°13'W</p>
+                    <p>(H River, 6 Miles after crossing railroad line)</p>
+                </stentry>
+                <stentry>42 Miles</stentry>
+            </strow>
+            <strow>
+                <stentry>34°08'N; 79°13'W</stentry>
+                <stentry>To</stentry>
+                <stentry>I.P. 33°39½'N; 79°09½'W</stentry>
+                <stentry>33 Miles</stentry>
+            </strow>
+            <strow>
+                <stentry>Initial Point</stentry>
+                <stentry>To</stentry>
+                <stentry>Gunnery Control</stentry>
+                <stentry>12 Miles</stentry>
+            </strow>
+            <strow>
+                <stentry>Total</stentry>
+                <stentry/>
+                <stentry/>
+                <stentry>172 Miles</stentry>
+            </strow>
+        </simpletable>
+    </conbody>
+</concept>

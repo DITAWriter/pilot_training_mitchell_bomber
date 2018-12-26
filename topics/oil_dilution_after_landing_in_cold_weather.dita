@@ -10,47 +10,53 @@
             cooled sufficiently for dilution by the time the airplane reaches the flight line.</p>
         <p>Dilute the engines at 1000 rpm for the time indicated below, consistent with the lowest
             expected air temperature.</p>
-        <table frame="all" rowsep="1" colsep="1" id="table_fv3_qwy_dgb">
-            <title>Oil Dilution After Landing in Cold Weather</title>
-            <tgroup cols="4">
-                <colspec colname="c1" colnum="1" colwidth="1*"/>
-                <colspec colname="c2" colnum="2" colwidth="1*"/>
-                <colspec colname="c3" colnum="3" colwidth="1*"/>
-                <colspec colname="c4" colnum="4" colwidth="1*"/>
-                <thead>
-                    <row>
-                        <entry morerows="1">Temperature</entry>
-                        <entry morerows="1">Time—Minutes</entry>
-                        <entry namest="c3" nameend="c4">Maximum Allowable Temperatures</entry>
-                    </row>
-                </thead>
-                <tbody>
-                    <row>
-                        <entry>Cyl. Head</entry>
-                        <entry>Oil</entry>
-                    </row>
-                    <row>
-                        <entry>+4 to -12°C<p>(+21 to 0°F)</p></entry>
-                        <entry>6</entry>
-                        <entry>150°C</entry>
-                        <entry>50°C</entry>
-                    </row>
-                    <row>
-                        <entry>-12 to -29°C<p>(0 to -20°F)</p></entry>
-                        <entry>10</entry>
-                        <entry>145°C</entry>
-                        <entry>45°C</entry>
-                    </row>
-                    <row>
-                        <entry>-29 to 46°C<p>(-20 to -40°F)</p></entry>
-                        <entry>14</entry>
-                        <entry>140°C</entry>
-                        <entry>40°C</entry>
-                    </row>
-                </tbody>
-            </tgroup>
-        </table>
-        <note type="warning">Unreliable dilution occurs at these temperatures if the oil tank is
+        <p>
+            <!-- if you span the "Temperature" and/or "Time—Minutes" rows, it blows up the DITA-OT for PDF output -->
+            <table frame="all" rowsep="1" colsep="1" id="table_vft_dt1_ggb">
+                <title>Oil Dilution After Landing in Cold Weather</title>
+                <tgroup cols="4">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c3" colnum="3" colwidth="1*"/>
+                    <colspec colname="c4" colnum="4" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Temperature</entry>
+                            <entry>Time—Minutes</entry>
+                            <entry namest="c3" nameend="c4">Maximum Allowable Temperatures</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry><b>Cyl. Head</b></entry>
+                            <entry><b>Oil</b></entry>
+                        </row>
+                        <row>
+                            <entry>+4 to -12°C<p>(+21 to 0°F)</p></entry>
+                            <entry>6</entry>
+                            <entry>150°C</entry>
+                            <entry>50°C</entry>
+                        </row>
+                        <row>
+                            <entry>-12 to -29°C<p>(0 to -20°F)</p></entry>
+                            <entry>10</entry>
+                            <entry>145°C</entry>
+                            <entry>45°C</entry>
+                        </row>
+                        <row>
+                            <entry>-29 to 46°C<p>(-20 to -40°F)</p></entry>
+                            <entry>14</entry>
+                            <entry>140°C</entry>
+                            <entry>40°C</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+ 
+<note type="warning">Unreliable dilution occurs at these temperatures if the oil tank is
             more than ¾ full.</note>
         <p>At the completion of the above dilution period, run both engines up to 1700 rpm,
             continuing dilution, and with propellers in full "INC. RPM" feather and un feather

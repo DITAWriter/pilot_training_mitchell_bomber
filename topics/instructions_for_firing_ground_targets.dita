@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_vmv_fp3_ggb">
+    <title>Instructions for Firing-Ground Targets</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Five rounds of 75MM ammunition from a range of 2000 yards, firing one round on
+                    each approach, plane to turn away from target immediately after firing while
+                    using additional evasive action.</cmd>
+            </step>
+            <step>
+                <cmd>Five rounds of 75MM ammunition from a range of 2000 yards, firing one round on
+                    each approach, using evasive action before and after reaching the 2000-yard
+                    point. Approach from 1000 yards and until passing over the target will be
+                    covered with short intermittent bursts of 50-Caliber fire.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
