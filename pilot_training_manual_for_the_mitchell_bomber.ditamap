@@ -77,14 +77,12 @@
         <topicref href="topics/photographic_equipment.dita" format="dita"/>
         <topicref href="topics/models_and_changes.dita" format="dita"/>
         <topicref href="topics/comparison_equipment_chart.dita" format="dita"/>
-        <!-- begin moved content -->
         <topicref href="topics/fuel_system_operation.dita" format="dita"/>
         <topicref href="topics/operating_instructions_for_the_supercharger.dita" format="dita"/>
         <topicref href="topics/carburetor_air_heat.dita" format="dita"/>
         <topicref href="topics/carburetor_air_filter.dita" format="dita"/>
         <topicref href="topics/priming.dita" format="dita"/>
         <topicref href="topics/operating_the_autopilot.dita" format="dita"/>
-        <!-- end moved content -->
     </chapter>
     <chapter href="topics/inspection_and_checks.dita" format="dita">
         <topicref href="topics/aaf_pilots_checklist.dita" format="dita"/>
@@ -172,20 +170,29 @@
         <topicref href="topics/power_control_chart_for_grade_91_fuel.dita" format="dita"/>
         <topicref href="topics/maximum_range_chart_for_b_25_c_d_and_g_aircraft.dita" format="dita"/>
         <topicref href="topics/maximum_range_chart_for_b_25_h_and_j_aircraft.dita" format="dita"/>
-    </chapter>
+    </chapter> 
     <chapter href="topics/cold_weather_operations.dita" format="dita">
-        <topicref href="topics/starting_engines_in_cold_weather.dita" format="dita"/>
+      <topicref href="topics/starting_engines_in_cold_weather.dita" format="dita"/>
         <topicref href="topics/takeoff_in_cold_weather.dita" format="dita"/>
-        <topicref href="topics/flight_in_cold_weather.dita" format="dita"/>
-        <topicref href="topics/anti_icing.dita" format="dita"/>
+        <topicref href="topics/flight_in_cold_weather.dita" format="dita"/> 
+       <topicref href="topics/anti_icing.dita" format="dita"/>
         <topicref href="topics/surface_de_icer_system.dita" format="dita"/>
         <topicref href="topics/defrosting_systems.dita" format="dita"/>
         <topicref href="topics/heating_system.dita" format="dita"/>
         <topicref href="topics/landing_in_cold_weather.dita" format="dita"/>
         <topicref href="topics/oil_dilution_after_landing_in_cold_weather.dita" format="dita"/>
     </chapter>
+    <chapter href="topics/some_typical_missions.dita" format="dita">
+        <topicref href="topics/formation_bombing.dita" format="dita"/>
+        <topicref href="topics/gunnery_missions.dita" format="dita">
+            <topicref href="topics/instructions_for_firing_ground_targets.dita" format="dita"/>
+            <topicref href="topics/instructions_for_firing_water_targets.dita" format="dita"/>           
+        </topicref>        
+        <topicref href="topics/day_navigation_photo_reconnaissance_and_instrument_let_down_mission.dita" format="dita"/>
+    </chapter>
     <backmatter>
         <!-- Reusable image references -->
         <mapref format="ditamap" href="m_reusableImageReferences.ditamap"/>
+
     </backmatter>
 </bookmap>
