@@ -43,7 +43,7 @@
         <topicref href="topics/the_bombardier_navigator.dita" format="dita"/>
         <topicref href="topics/radio_operator.dita" format="dita"/>
         <topicref href="topics/the_engineer.dita" format="dita"/>
-        <topicref href="topics/TheGunners.dita"/>
+        <topicref href="topics/the_gunners.dita"/>
         <topicref href="topics/rules_to_be_enforced_on_every_flight.dita" format="dita"/>
         <topicref href="topics/general_description.dita" format="dita"/>
     </chapter>
