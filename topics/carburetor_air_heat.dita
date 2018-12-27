@@ -14,9 +14,9 @@
         <p>Manual controls directly connect this gate to the position handles in the pilot's
             cockpit. It cannot be set in an intermediate position and it is spring loaded to return
             to "<userinput>NORMAL</userinput>" if the controls are shot away.</p>
-        <p>Keep controls at ''<userinput>NORMAL</userinput>" setting unless carburetor icing
+        <p>Keep controls at "<userinput>NORMAL</userinput>" setting unless carburetor icing
             conditions are suspected, as a loss of horsepower results with the controls in
-                ''<userinput>ICING</userinput>" This effect increases as power is increased.</p>
+                "<userinput>ICING</userinput>" This effect increases as power is increased.</p>
         <p>Whenever you observe a gradual loss of manifold pressure without a change in throttles or
             attitude, or the engine runs rough without apparent cause move the control to
                 "<userinput>ICING</userinput>."</p>
@@ -25,7 +25,7 @@
         <p>Operation in "<userinput>ICING</userinput>" will not harm the engines. Even in warm
             weather the carburetor air temperature rise is small. The engines lose efficiency,
             however, since fuel vaporization is impeded.</p>
-        <p>Takeoffs are made with the controls at ''<userinput>NORMAL</userinput>" to obtain maximum
+        <p>Takeoffs are made with the controls at "<userinput>NORMAL</userinput>" to obtain maximum
             power and prevent detonation at high power settings.</p>
         <p>Resistance-type carburetor air thermometers are installed in the intake air stream on
             each carburetor. They are electrically connected to a dual indicator on the right side

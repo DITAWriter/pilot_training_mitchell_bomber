@@ -20,9 +20,9 @@
                     blower. (There are no fields in the continental U.S. where "HIGH" blower
                     take-offs are necessary.) While in "LOW" blower operate the engine as a
                     single-speed supercharged engine.</li>
-                <li>Never operate in ''HIGH" blower below 9,000 feet. The power gained by operating
+                <li>Never operate in "HIGH" blower below 9,000 feet. The power gained by operating
                     in "HIGH" blower below this altitude is offset by the power required to operate
-                    in ''HIGH" blower. Make the shift from "LOW" to "HIGH" blower between 11,000 and
+                    in "HIGH" blower. Make the shift from "LOW" to "HIGH" blower between 11,000 and
                     13,000 feet depending on the need for additional power.</li>
             </ol>
         </context>
@@ -49,8 +49,8 @@
             <step>
                 <cmd>Reset the desired power setting.</cmd>
                 <info>
-                    <note type="warning">Never operate in ''HIGH" blower below 1500 rpm. During
-                        prolonged operation in ''HIGH" blower, change to ''LOW" blower for 15
+                    <note type="warning">Never operate in "HIGH" blower below 1500 rpm. During
+                        prolonged operation in "HIGH" blower, change to "LOW" blower for 15
                         minutes every 2 hours, (This removes sludge from the clutch.) </note>
                 </info>
             </step>

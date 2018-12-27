@@ -3,7 +3,7 @@
 <task id="task_zvj_jbk_fgb">
     <title>Emergency Salvo Release</title>
     <shortdesc>When your hydraulic system is in operation you can salvo all of your bomb load, both
-        internal and external, by moving the bomb control handle to the ''SALVO"
+        internal and external, by moving the bomb control handle to the "SALVO"
         position.</shortdesc>
     <taskbody>
         <context>

@@ -25,8 +25,8 @@
         <p>Consult the crew chief about the status of the plane. You will pick up many of valuable
             tips from him.</p>
         <section><title>Preflight</title><p>Enter cockpit and check that all switches are
-                ''off''</p><p>Check Form lA for status of the airplane. Surface controls locked.
-                Trim tabs set at ''0.''</p><p>Pull props through 12 to 15 blades if the airplane has
+                "off"</p><p>Check Form lA for status of the airplane. Surface controls locked.
+                Trim tabs set at "0."</p><p>Pull props through 12 to 15 blades if the airplane has
                 been standing for more than 30 minutes. This will work the oil from the lower
                 cylinders.</p><p>If you start the engine with excess oil present in the cylinders
                 this oil will form a pressure block, cracking the cylinder heads and bending the
@@ -94,7 +94,7 @@
         <section>
             <title>Bomb Bay</title>
             <p>Check doors for looseness. Check gasoline lines and plugs for leaks. Check bomb bay
-                for strong gasoline odors. Note: Turn booster pumps ''ON'' before making this
+                for strong gasoline odors. Note: Turn booster pumps "ON" before making this
                 check.</p>
         </section>
         <section><title>General</title><image keyref="preflight_general">
@@ -121,8 +121,8 @@
                 accumulator pressure 400 lb. sq. in. minimum.</p><p>Oxygen pressure (where
                 applicable).</p><image keyref="preflight_valves">
                 <alt>Preflight crossfeed and cut-off valves</alt>
-            </image><p>Crossfeed ''OFF."</p><p>Fuel transfer valve and switches "OFF." Right and
-                left engine fuel cut-off valves ''ON''</p><p>Generators and inverters "ON"&#8212;
+            </image><p>Crossfeed "OFF."</p><p>Fuel transfer valve and switches "OFF." Right and
+                left engine fuel cut-off valves "ON"</p><p>Generators and inverters "ON"&#8212;
                 External power should be used whenever possible. If external power is not available
                 for starting, keep inverters "OFF" until engine is operating.</p><p>Level of
                 Hydraulic fluid reservoir (spare fluid aboard).</p><p>Cabin heaters "OFF."</p><image
@@ -146,17 +146,17 @@
             </image><image keyref="preflight_controls">
                 <alt>Check controls for free and proper movement</alt>
             </image><p>Hydraulic selector "NORMAL." Air brake handle down and safetied. Landing gear
-                handle ''DOWN'' and locked. Wing flaps up, controls neutral. Cowl flaps open,
+                handle "DOWN" and locked. Wing flaps up, controls neutral. Cowl flaps open,
                 controls neutral. Set all hydraulic controls except landing gear at neutral when
                 they are not in use; this prevents loss of fluid and pressure in the entire system
-                if part of it fails.</p><p>Automatic pilot "OFF" and locked. Supercharger ''LOW
-                BLOWER" and locked. All takeoffs must he made in ''XOW BLOWER." Any attempt to do
+                if part of it fails.</p><p>Automatic pilot "OFF" and locked. Supercharger "LOW
+                BLOWER" and locked. All takeoffs must he made in "XOW BLOWER." Any attempt to do
                 otherwise robs the engines of power.</p><p>Oil shutters as required. Carburetor heat
                 "NORMAL"</p><image keyref="preflight_throttles">
                 <alt>Preflight throttles</alt>
             </image><p>Throttles cracked (V2 inch to 1 inch).</p><p>Propellers "INC.
-                RPM.''</p><p>Mixture "IDLE CUT-OFF."</p><p>Radios ''OFF.''</p><p>De-icers
-                "OFF."</p><p>Airspeed selector ''STATIC."</p><p>Altimeter set (station elevation).
+                RPM."</p><p>Mixture "IDLE CUT-OFF."</p><p>Radios "OFF."</p><p>De-icers
+                "OFF."</p><p>Airspeed selector "STATIC."</p><p>Altimeter set (station elevation).
                 This setting will enable you to check the radioed altimeter setting and detect any
                 scale error in your altimeter.</p><image keyref="preflight_gyros">
                 <alt>Preflight gyros</alt>

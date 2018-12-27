@@ -29,7 +29,7 @@
                     transfer.</cmd>
             </step>
             <step>
-                <cmd>Turn auxiliary fuel transfer switches ''<userinput>ON</userinput>.'' (On
+                <cmd>Turn auxiliary fuel transfer switches "<userinput>ON</userinput>." (On
                     pilot's pedestal.)</cmd>
             </step>
             <step>
