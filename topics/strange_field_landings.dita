@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_vzx_2fg_fgb">
+<concept id="strange_field_landings">
     <title>Strange Field Landings</title>
-    <shortdesc/>
+    <shortdesc>Flying above your home base you instinctively use familiar features of landscape to
+        orient yourself. Your judgment of distance, altitude, speedy and depth are
+        sharpened.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="27. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <p>Flying above your home base you instinctively use familiar features of landscape to
-            orient yourself. Your judgment of distance, altitude, speedy and depth are sharpened.
-            You have probably walked into the familiar front room at home, neatly sidestepped the
+        <image placement="break" keyref="landing_strange_field">
+            <alt>Look it over before you decide to land.</alt>
+        </image>
+        <p>You have probably walked into the familiar front room at home, neatly sidestepped the
             lamp, and continued on your way in total darkness. This same perception of familiar
             objects operates in every flight you make.</p>
         <p>When away from familiar terrain, however, you may have trouble in setting the base leg at
@@ -18,8 +27,8 @@
             tendency to fly the traffic pattern too fast and mismanage the landing.</p>
         <p>While the local pattern is well understood, it is harder to set up the same pattern or to
             conform to local regulations at another field. Plan your way clearly and confidently,-
-            use your head and your eyes; take things calmly,</p>
-        <p>In landing at a strange Beld, come in over the field and circle once above it in the
+            use your head and your eyes; take things calmly.</p>
+        <p>In landing at a strange field, come in over the field and circle once above it in the
             direction of traffic. Check carefully the altitude of the field and get the traffic
             altitude from the tower. If you cannot get specific instructions, fly the traffic
             pattern 1000 feet above the terrain, Obtain wind direction and velocity, line up the

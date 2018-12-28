@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_wk3_h2g_fgb">
+<concept id="formation">
     <title>Formation</title>
     <shortdesc>"You just gotta stay in there," Thus returning combat pilots pass on to you the most
         important thing they learned in the battle zones.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="27. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>"You just don't come back from a mission if you straggle from a formation. Even if you
             are hit and hurt badly, if the plane can stay in the air, stay in formation."</p>
@@ -32,7 +38,7 @@
                 practice, however to become competent in the technique.</p>
             <p>Your main problem is learning the difference between handling the B-25 and a light
                 training plane. Weight and momentum are your chief concerns.</p>
-            <p>The B-25 does not respond instantly to changes in power settings. </p>
+            <p><b>The B-25 does not respond instantly to changes in power settings.</b></p>
             <p>You have more than 26,000 lb. to control, and the momentum of thi5 weight must be
                 overcome before the plane responds to changes in power. When applying power, give
                 the plane a chance to respond. Don't be a throttle juggler&#8212;it is not
@@ -40,8 +46,8 @@
                 cutting it off. Tease your plane into its position by small, accurate corrections.
                 You can fly accurate, well-controlled formation and seldom need a great change in
                 power setting.</p>
-            <p>Learn to anticipate. This is the hardest part of formation flying in the B-25. The
-                ideal formation is one in which each man so anticipates his power needs that he
+            <p><b>Learn to anticipate.</b> This is the hardest part of formation flying in the B-25.
+                The ideal formation is one in which each man so anticipates his power needs that he
                 never has to make any but the slightest corrections in his power settings.</p>
             <p>Tactical formation places a high premium on a pilot's ability to move accurately from
                 one type of formation to another. You must be able to move quickly from a relatively
@@ -59,7 +65,7 @@
             <p>He is the boss of the formation as a captain is boss of his ship at sea; there is no
                 question of his orders and no recourse. Once you have landed, you&#8212; hke a
                 sailor&#8212; can take your complaint to a higher authority.</p>
-            <p>In the air&#8212; Obey.</p>
+            <p><b>In the air&#8212; Obey.</b></p>
         </section>
         <section>
             <title>Types of Formations</title>
@@ -67,6 +73,12 @@
                 sufficient to give you the primary elements of all formations.</p>
             <p>These formations are illustrated as squadron formations to allow you to see their
                 integration into larger groups.</p>
+            <image placement="break" keyref="formation_javelin_up" id="image_cvw_jt4_ggb">
+                <alt>Javelin Up</alt>
+            </image>
+            <image placement="break" keyref="formation_echelon_up" id="image_swd_lt4_ggb">
+                <alt>Echelon Up</alt>
+            </image>
         </section>
         <section>
             <title>Takeoff and Landing</title>
@@ -79,20 +91,22 @@
                 rear planes to turn inside him and close in to pick up position.</p>
             <p>Each plane takes an alternate side of the runway at takeoff to avoid the prop wash of
                 the preceding plane.</p>
-            <p>Warning&#8212; Watch wind direction closely to determine where you will encounter the
-                heaviest prop wash, and try to fly above or below it at that point.</p>
-            <p>Keep your nose inside the nose of the lead plane. You will delay the entire joining
-                procedure if you turn with the lead plane instead of inside him.</p>
+            <note type="warning">Watch wind direction closely to determine where you will encounter
+                the heaviest prop wash, and try to fly above or below it at that point.</note>
+            <p><image placement="break" keyref="formation_takeoff_landing" id="image_byt_st4_ggb"
+                    /><b>Keep your nose inside the nose of the lead plane.</b> You will delay the
+                entire joining procedure if you turn with the lead plane instead of inside him.</p>
             <p>To land information you must land accurately at varying distances on the runway. Land
                 on the side away from the plane ahead of you, and give the man behind you a little
                 room to get down. Don't blast your throttles on the approach. You only create
                 unnecessary prop wash. Plan your landing to get in without increasing power,</p>
-            <p>Don't be afraid to go around if you mess up a formation landing. Remember, there is a
-                man coming in right behind you. If you can't land accurately, go around.</p>
-            <p>Watch the plane ahead of you. If you see him make a low, dragging approach, you will
-                eat a lot of his prop wash as you land. Try to plan your landing to come in over his
-                prop wash, and let down to the runway where his power has been cut, thereby missing
-                the worst turbulence.</p>
+            <p>Don't be afraid to go around if you mess up a formation landing. <b>Remember, there
+                    is a man coming in right behind you.</b> If you can't land accurately, go
+                around.</p>
+            <p><b>Watch the plane ahead of you.</b> If you see him make a low, dragging approach,
+                you will eat a lot of his prop wash as you land. Try to plan your landing to come in
+                over his prop wash, and let down to the runway where his power has been cut, thereby
+                missing the worst turbulence.</p>
         </section>
         <section>
             <title>Leading a Formation</title>
@@ -120,7 +134,7 @@
         </section>
         <section>
             <title>Tips for a Wingman</title>
-            <p>Trust your leader. Stay in formation.</p>
+            <p><b>Trust your leader. Stay in formation.</b></p>
             <p>These two simple things will do more than anything else to bring you home safely from
                 the toughest missions. If you disagree with the formation leader, wait until you are
                 on the ground to say so.</p>
@@ -137,6 +151,9 @@
             <note type="caution">When operating on Grade 91 fuel, for additional safety, formation
                 leaders should reduce manifold pressure 2" Hg. and wingmen should increase rpm
                 settings by 100 rpm.</note>
+            <image placement="break" keyref="formation_squadron_stagger" id="image_cys_yt4_ggb">
+                <alt>Trust your leader. Stay in formation.</alt>
+            </image>
         </section>
     </conbody>
 </concept>

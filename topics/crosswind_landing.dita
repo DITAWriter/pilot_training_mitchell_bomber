@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_n3n_ckg_fgb">
+<concept id="crosswind_landing">
     <title>Crosswind Landing</title>
     <shortdesc>Crosswind landing in the B-25 requires accurate flying, to save the plane from
         unnecessary structural stresses. You must land the airplane smoothly to prevent blowing a
         tire, collapsing a struts or exerting side loads on the gear.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="27. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="28. Dec. 2018"/>
+        </critdates>
+    </prolog>
     <conbody>
+        <image placement="break" keyref="landing_crosswind_crab" id="image_efg_ldp_ggb">
+            <alt>Crab into wind</alt>
+        </image>
         <p>There are three possible ways to land crosswind: </p>
         <ul>
             <li>Hold the airplane straight and level toward the landing strip and drop one wing into
