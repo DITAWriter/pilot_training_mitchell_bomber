@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_kfg_p5m_fgb">
+    <title>Formation Bombing</title>
+    <shortdesc>This is a day, 6-ship formation bombing mission.</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>A Norden sight will be used in the lead ship on each element and D-8 sights
+                    will be used in wing ships. Bombardiers in lead ships will sight for both range
+                    and deflection. Bombardiers in wing ships will drop bombs on lead ship.</cmd>
+            </step>
+            <step>
+                <cmd>Flight leader will take off at a predetermined time; other ships will take off
+                    at 30 second intervals and join formation.</cmd>
+            </step>
+            <step>
+                <cmd>After formation has been satisfactorily joined, one circle will be made of the
+                    field. During this circle, formation will climb at 170 mph.</cmd>
+            </step>
+            <step>
+                <cmd>Flight leader should have an approximate power setting of 32" MP at 2200 rpm.
+                    Climb will continue on course until an altitude of 10,000 feet is obtained. High
+                    blower will not be used and all ships will keep mixture controls in "FULL RICH"
+                    position.</cmd>
+            </step>
+            <step>
+                <cmd>Upon reaching the desired altitude, the leader will assume that anti-aircraft
+                    fire has been encountered, and evasive action will be used.</cmd>
+            </step>
+            <step>
+                <cmd>Upon approaching the target, a gentle left turn, diving at 1000 feet per minute
+                    onto the target, will be executed. This final turn requires judgment and
+                    precision timing on the part of the lead ship. After diving to the correct
+                    bombing altitude (8000 feet), and onto the target, the lead ship should be in a
+                    position to allow approximately a 20 second bomb run, straight and level.
+                    Immediately upon the closing of the bomb bay doors, the leader will again make a
+                    left turn, diving at 1000 feet per minute with a bank not to exceed 15 degrees.
+                    This dive will be held until 7000 feet altitude is reached. The following data
+                    should be strictly observed:</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>The lead ship should climb at 170 MPH, with approximate power settings
+                            of 32" MP and 2200 RPM. The wing ships should use 2400 RPM.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>After altitude is reached, power settings of lead ship should not
+                            exceed 1900 RPM and 27" at any time. The wing ships should use at least
+                            2000 RPM,</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Copilots must be sure that RPM is increased if the MP dictates
+                            it.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>The bombing run should be made at an indicated airspeed of 230 MPH, and
+                            upon leaving the target, should not exceed 250 MPH.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Wing ships will open bomb bay doors immediately upon seeing doors of
+                            lead ship open, and bombs will be dropped on the lead ship, The
+                            Bombardier-Navigator must be quick in releasing bombs after he sees the
+                            first bomb Ieave the lead ship.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Caution must be used by the lead ship at all times. Turns and maneuvers
+                            must be gone into gently and slowly.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>After bombing is completed, flight will return to home base and break
+                            up into three-ship elements for landing.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
