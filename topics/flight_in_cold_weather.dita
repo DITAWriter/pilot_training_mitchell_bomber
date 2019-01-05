@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_r2d_pvs_dgb">
+<task id="flight_in_cold_weather">
     <title>Flight in Cold Weather</title>
     <shortdesc>Your anti-icing and de-icing equipment is primarily intended as a means of getting
         you out of icing levels.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
             <p>Don't fly in icing levels any longer than is absolutely necessary.</p>
@@ -19,12 +25,14 @@
                     in the up position.</cmd>
             </step>
             <step>
-                <cmd>Turn the pitot tube heater "ON" when moisture is present. Pitot tube heat
-                    should not be applied until the airplane is on the takeoff run or actually in
-                    the air, as there is insufficient cooling in the pitot head while the plane is
-                    stationary.</cmd>
-                <info><note>With pitot tube heat "ON" your magnetic compass may oscillate as much as
-                        15°.</note></info>
+                <cmd>Turn the pitot tube heater "<userinput>ON</userinput>" when moisture is
+                    present. Pitot tube heat should not be applied until the airplane is on the
+                    takeoff run or actually in the air, as there is insufficient cooling in the
+                    pitot head while the plane is stationary.</cmd>
+                <info>
+                    <note>With pitot tube heat "<userinput>ON</userinput>" your magnetic compass may
+                        oscillate as much as 15°.</note>
+                </info>
             </step>
         </steps>
     </taskbody>

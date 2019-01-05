@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_lng_xjk_fgb">
+<task id="emergency_operation_air_brakes">
     <title>Emergency Operation-Air Brakes</title>
     <shortdesc>Use this Air Brake System only in extreme emergencies.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
-            <p>Use it when normal hydraulic system has failed and you cannot develop sufficient
-                pressure with your auxiliary hydraulic hand pump.</p>
+            <p><b>Use it when normal hydraulic system has failed and you cannot develop sufficient
+                    pressure with your auxiliary hydraulic hand pump.</b></p>
             <p>When you are sure you must use the air brake system, choose the field with the
                 largest runways within range of your airplane. The runway should be at least one
                 mile long for a safe landing. Make a short-field landing.</p>
@@ -14,7 +22,7 @@
                 wait until you are out of runway!</p>
             <p>You cannot use these brakes selectively. Be ready to counteract any uneven braking
                 action with the throttles.</p>
-            <p>Operation:</p>
+            <p><b>Operation:</b></p>
         </context>
         <steps>
             <step>
@@ -45,11 +53,13 @@
                 <cmd>You must depend only on the original braking actions and should, on coming to a
                     stop, call the tower and have the plane towed in. Any attempt to taxi with the
                     limited braking action available is extremely dangerous.</cmd>
-                <info><note type="warning">Placing handle in neutral position must be done by hand;
+                <info>
+                    <note type="warning">Placing handle in neutral position must be done by hand;
                         the spring load on the handle will snap it into release position and exhaust
-                        the air pressure.<p>Chock wheels before brakes are released.</p>
-                        <p>Bleed hydraulic brake system after using the air brake
-                    system.</p></note></info>
+                        the air pressure.<p>Chock wheels before brakes are released.</p><p>Bleed
+                            hydraulic brake system after using the air brake system.</p></note>
+                    <image placement="break" keyref="emerg_air_brakes"/>
+                </info>
             </step>
         </steps>
     </taskbody>

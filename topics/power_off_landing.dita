@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="power_off_landing">
     <title>Power-Off Landing</title>
-    <shortdesc>The B-25 is too large and heavy to practice the prescribed forced-landing procedures
+    <shortdesc>The <keyword keyref="designator" /> is too large and heavy to practice the prescribed forced-landing procedures
         used in lighter planes.</shortdesc>
     <prolog>
         <critdates>
@@ -19,7 +19,7 @@
         <ol>
             <li>You make the landing with wheels down instead of up.</li>
             <li>You make the landing on a known field.<p>These landings acquaint the pilot with the
-                    power-off gliding characteristics of the B-25 and improve his judgment for an
+                    power-off gliding characteristics of the <keyword keyref="designator" /> and improve his judgment for an
                     actual forced landing.</p></li>
         </ol>
         <p>Make a power-of approach and landing as follows:</p>

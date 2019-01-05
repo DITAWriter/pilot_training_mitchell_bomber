@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_pjw_hzf_fgb">
+<concept id="tactical_uses_of_the_b_25">
     <title>Tactical Uses of the B-25</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
+        <image placement="break" keyref="B-25_tactical_uses" id="image_nvc_cxv_3gb">
+            <alt>Tactical Uses of the B-25</alt>
+        </image>
         <p>The combat record of the Mitchell has being printed in the newspapers of all the world
             for every man to see. Little can be added to that story except the developments of the
             future.</p>
         <p>You and your buddies will write that story in the skies of the world.</p>
         <p>You have been taught to fly the Mitchell accurately and safely under all conditions. Now
-            you must learn to use the B-25 as a weapon, for that is the ultimate purpose of military
-            flying.</p>
+            you must learn to use the <keyword keyref="designator"/> as a weapon, for that is the
+            ultimate purpose of military flying.</p>
         <p>All the skill and determination you can bring to this job will be none too much. How well
             you learn to punish the enemy and to protect yourself will in the final analysis
             determine whether you are a successful pilot.</p>
-        <p>The B-25 has been used for every purpose that need has demanded. Bombing, strafing,
-            torpedoing, and even the evacuation of wounded, are listed in her duty roster. Whatever
-            the need, the B-25 was either ready or quickly converted to do the job.</p>
+        <p>The <keyword keyref="designator"/> has been used for every purpose that need has
+            demanded. Bombing, strafing, torpedoing, and even the evacuation of wounded, are listed
+            in her duty roster. Whatever the need, the <keyword keyref="designator"/> was either
+            ready or quickly converted to do the job.</p>
         <p>Her primary duties have been many:</p>
         <ul>
             <li>Bombing, both low and medium altitude.</li>
@@ -25,8 +35,9 @@
             <li>Gunnery, both for defensive and offensive fire.</li>
         </ul>
         <p>The following pages illustrate the duties and responsibilities which are yours when using
-            the B-25 as a weapon. They are typical of the actual orders and instructions issued to
-            B-25 crews in training for combat duty.</p>
+            the <keyword keyref="designator"/> as a weapon. They are typical of the actual orders
+            and instructions issued to <keyword keyref="designator"/> crews in training for combat
+            duty.</p>
         <section>
             <title>Preparing for Your Mission</title>
             <p>Before a mission is undertaken, the entire crew will be briefed. Upon completion of
@@ -37,7 +48,7 @@
         </section>
         <section>
             <title>Duties of the Airplane Commander</title>
-            <ul>
+            <ol>
                 <li>Coordinates and supervises duties performed by crew members.</li>
                 <li>Pilot and copilot will practice hooded instruments (on day navigational
                     missions), pilotage navigation, or radio navigation on all missions. Either the
@@ -52,18 +63,18 @@
                 <li>Makes proper use of all pilot's checklists.</li>
                 <li>Flies at all times in accordance with rules and regulations as outlined in AAF
                     Regulation #60-16, and per scheduled Operations Orders.</li>
-                <li>Sends RON’s on X-Country Flights. Understands necessary security measures
+                <li>Sends RON's on X-Country Flights. Understands necessary security measures
                     regarding confidential equipment in the airplane.</li>
                 <li>When remaining overnight away from the home station, determines that crew
                     members are properly housed and fed and are readily available in event takeoff
                     is advanced.</li>
                 <li>Insures that each crew member is properly briefed on the mission to be
                     performed.</li>
-            </ul>
+            </ol>
         </section>
         <section>
             <title>Copilot</title>
-            <ul>
+            <ol>
                 <li>Is ready to assume the duties of pilot at any time during the flight and acts as
                     deputy airplane commander.</li>
                 <li>Aids pilot in his duties and remembers that the time will come when he assumes
@@ -72,11 +83,11 @@
                     discrepancy.</li>
                 <li>Makes preliminary check of airplane and crew prior to flight.</li>
                 <li>Aids pilot in accomplishing proper checklist.</li>
-            </ul>
+            </ol>
         </section>
         <section>
             <title>Bombardier-Navigator</title>
-            <ul>
+            <ol>
                 <li>Responsible for knowing exact position of the aircraft at all times.</li>
                 <li>Becomes proficient in his primary duty as bombardier and navigator.</li>
                 <li>Records weather report during mission.</li>
@@ -90,11 +101,11 @@
                     corrective action to be taken.</li>
                 <li>Understands importance of keeping navigation instruments correctly
                     calibrated.</li>
-            </ul>
+            </ol>
         </section>
         <section>
             <title>Radio Gunner</title>
-            <ul>
+            <ol>
                 <li>Thoroughly understands all communications equipment in the assigned airplane.
                     Understands failures that are likely to occur and supplies the corrective
                     action.</li>
@@ -106,11 +117,11 @@
                 <li>Furnishes pilot with courses from the D/F station.</li>
                 <li>Checks location of headsets, and operation and condition of all communications
                     equipment as per radio operator's checklist prior to takeoff.</li>
-            </ul>
+            </ol>
         </section>
         <section>
             <title>Engineer Gunner</title>
-            <ul>
+            <ol>
                 <li>Before each flight, checks airplane for proper loading, stowage of life rafts
                     and emergency equipment, and visually inspects the airplane as per engineer's
                     checklist.</li>
@@ -121,11 +132,11 @@
                 <li>Ready to assume duties of copilot at any time.</li>
                 <li>During flight will complete the engineer's log and practice fire control on all
                     missions. Engineer gunners will also practice turret operation in flight.</li>
-            </ul>
+            </ol>
         </section>
         <section>
             <title>Armorer Gunner</title>
-            <ul>
+            <ol>
                 <li>Before flight he is responsible that ammunition is properly loaded and that all
                     gun positions are in working order.</li>
                 <li>On way to target he checks with other crew members to see that guns are properly
@@ -133,7 +144,7 @@
                 <li>Acts as assistant observer, reporting via interphone to pilot any unusual
                     activities and all airplanes they see during flight while on cross-country.</li>
                 <li>Preflights airplane as per armorer gunner's checklist.</li>
-            </ul>
+            </ol>
         </section>
         <section>
             <title>Additional Information</title>

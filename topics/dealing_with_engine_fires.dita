@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_lc2_yyl_fgb">
+<task id="dealing_with_engine_fires">
     <title>Dealing with Engine Fires</title>
     <shortdesc>Formerly a great many fires started in the carburetor.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
             <p>At present, because of the many improvements in carburetion, few engine fires start
@@ -15,13 +23,15 @@
                 <cmd>Cut off gas to the engine.</cmd>
             </step>
             <step>
-                <cmd>Mixture control in "IDLE CUT-OFF."</cmd>
+                <cmd>Mixture control in "<userinput>IDLE CUT-OFF</userinput>."</cmd>
             </step>
             <step>
                 <cmd>Throttle full forward.</cmd>
             </step>
         </steps>
-        <result><p>This quickly empties the carburetor and exhausts the fuel that is burning. In
-                most cases no other action need be taken.</p></result>
+        <result>
+            <p>This quickly empties the carburetor and exhausts the fuel that is burning. In most
+                cases no other action need be taken.</p>
+        </result>
     </taskbody>
 </task>

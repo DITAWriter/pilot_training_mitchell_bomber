@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_mpr_4ml_cgb">
+<concept id="typical_air_work">
     <title>Typical Air Work</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <p></p>
+        <p/>
     </conbody>
 </concept>

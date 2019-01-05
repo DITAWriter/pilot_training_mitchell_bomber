@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_vwg_k5m_fgb">
+<concept id="some_typical_missions">
     <title>Some Typical Missions</title>
-    <shortdesc></shortdesc>
-    <conbody>
-        <p></p>
-    </conbody>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
 </concept>

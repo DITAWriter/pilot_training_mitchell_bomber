@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_mg2_wdh_fgb">
+<task id="engine_failure_on_takeoff">
     <title>Engine Failure on Takeoff</title>
     <shortdesc>This is a tricky proposition for any pilot to handle. When the engine fails before
         you gain CSE speed, retract the wheels and land straight ahead. There is far less danger in
         a belly landing than in attempting to go around with too low an airspeed.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
             <p>If you are in the air, however, and have CSE speed, you can go around without too
                 much difficulty.</p>
             <p>You must know your procedure and your airplane Work quickly, accurately, and
-                efficiently. Don't get panicky.</p>
+                efficiently. <b>Don't get panicky.</b></p>
             <p>Don't get featheritis&#8212; be sure the engine is out, not just spitting a
                 little.</p>
             <p>Use the same procedure, but notice that the first three parts of it are already
@@ -18,41 +26,70 @@
         </context>
         <steps>
             <step>
-                <cmd>Airspeed&#8212; You either have CSE speed or you land straight ahead.</cmd>
+                <cmd><b>Airspeed</b>&#8212; You either have CSE speed or you land straight
+                    ahead.</cmd>
             </step>
             <step>
-                <cmd>Directional Control -This is an instinctive reaction. Use rudder pressure at
-                    the first feel of yaw.</cmd>
+                <cmd><b>Directional Control</b>&#8212; This is an instinctive reaction. Use rudder
+                    pressure at the first feel of yaw.</cmd>
             </step>
             <step>
-                <cmd>Increase power&#8212; Takeoff power has already been applied. It may be
+                <cmd><b>Increase power</b>&#8212; Takeoff power has already been applied. It may be
                     necessary to reduce power to maintain control.</cmd>
             </step>
             <step>
-                <cmd>Reduce Drag.</cmd>
+                <cmd><b>Reduce Drag.</b></cmd>
                 <substeps>
                     <substep>
                         <cmd>Raise the wheels</cmd>
+                        <info>
+                            <image placement="break" keyref="single_eng_raise_wheels">
+                                <alt>Raise the wheels</alt>
+                            </image>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Feather the prop</cmd>
+                        <info>
+                            <image placement="break" keyref="single_eng_feather_prop">
+                                <alt>Feather the prop</alt>
+                            </image>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Raise flaps to 15 degrees</cmd>
+                        <info>
+                            <image placement="break" keyref="single_eng_raise_flaps_15deg">
+                                <alt>Raise flaps to 15 degrees</alt>
+                            </image>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Close cowl flaps on dead engine</cmd>
+                        <info>
+                            <image placement="break" keyref="single_eng_close_cowl_dead_eng">
+                                <alt>Close cowl flaps on dead engine</alt>
+                            </image>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Drop weight if necessary</cmd>
+                        <info>
+                            <image placement="break" keyref="single_eng_drop_weight">
+                                <alt>Drop weight if necessary</alt>
+                            </image>
+                        </info>
                     </substep>
                 </substeps>
             </step>
             <step>
-                <cmd>Reduce Fire Hazard</cmd>
+                <cmd><b>Reduce Fire Hazard</b>.</cmd>
             </step>
             <step>
-                <cmd>Trim.</cmd>
+                <cmd><b>Trim</b>.</cmd>
             </step>
             <step>
-                <cmd>Trouble Search.</cmd>
+                <cmd><b>Trouble Search</b>.</cmd>
             </step>
         </steps>
     </taskbody>

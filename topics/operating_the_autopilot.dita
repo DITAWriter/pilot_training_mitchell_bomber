@@ -53,7 +53,7 @@
         <p>Do not use it if both engines are not delivering normal power.</p>
         <p>Do not turn it on until you are sure that flight conditions permit safe control by the
             autopilot.</p>
-        <p>Maintain at least minimum cruise power settings. The B-25 is too sluggish at low speeds
+        <p>Maintain at least minimum cruise power settings. The <keyword keyref="designator" /> is too sluggish at low speeds
             to permit safe operation on autopilot.</p>
         <p>Never operate the autopilot unless one rated pilot is on watch in the cockpit. You must
             constantly check the instruments, and the trim of the plane must be accurate.</p>
@@ -96,7 +96,7 @@
                     slowly.</li>
                 <li>Adjust the Servo speed controls as needed.<p>These controls are calibrated from
                         to 8, the speed range of operation is (locked) to 8 (high speed reaction).
-                        If the instrument is in good condition, the proper setting for the B-25 is
+                        If the instrument is in good condition, the proper setting for the <keyword keyref="designator" /> is
                         between 2 and 4. These need not read the same for all controls.</p></li>
                 <li>Set fore and aft attitude with the elevator knob.</li>
                 <li>Set directional control with the rudder knob.</li>

@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_q52_k5s_dgb">
+<task id="starting_engines_in_cold_weather">
     <title>Starting Engines in Cold Weather</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
             <p>Make a normal start by following the procedure on the pilot's checklist. If you have
@@ -25,15 +31,17 @@
                     After Landing.)</cmd>
                 <info>
                     <note>Use this method only if time and extreme temperature conditions do not
-                        permit normal engine warm-up.</note></info>
+                        permit normal engine warm-up.</note>
+                </info>
             </step>
             <step>
                 <cmd>Do not run the engines at more than 1200 rpm until the oil has reached a
                     temperature of 20°C.</cmd>
             </step>
             <step>
-                <cmd>If icing conditions exist, place carburetor air control handles in "ICING"
-                    until the induction system is free of ice.</cmd>
+                <cmd>If icing conditions exist, place carburetor air control handles in
+                        "<userinput>ICING</userinput>" until the induction system is free of
+                    ice.</cmd>
             </step>
         </steps>
     </taskbody>

@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_oqh_zvj_fgb">
+<task id="procedure_in_event_of_complete_failure_of_hydraulic_system">
     <title>Procedure in Event of Complete Failure of Hydraulic System</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
             <p>In the event of complete failure of your landing gear hydraulic system, operate the
                 emergency controls as follows:</p>
         </context>
         <steps>
-            <stepsection><p><b>Operation</b></p></stepsection>
+            <stepsection>
+                <p><b>Operation</b></p>
+            </stepsection>
             <step>
                 <cmd>Establish effective interphone communication between the crew member operating
                     the mechanism and the pilot.</cmd>
@@ -24,7 +34,8 @@
                 <cmd>Reduce the airspeed below 150 mph (120-130 mph recommended.)</cmd>
             </step>
             <step>
-                <cmd>Place landing gear control handle in pilot's compartment "DOWN."</cmd>
+                <cmd>Place landing gear control handle in pilot's compartment
+                        "<userinput>DOWN</userinput>."</cmd>
             </step>
             <step>
                 <cmd>Swing screw jack in radio compartment to the operating position.</cmd>
@@ -41,14 +52,20 @@
             <step>
                 <cmd>Release the tension slightly on the screw jack after the gear is down and
                     locked.</cmd>
-                <info><note type="warning">Don't return this system to a stowed position until the
+                <info>
+                    <note type="warning">Don't return this system to a stowed position until the
                         plane is safely on the ground, with the landing gear locked to prevent its
-                        folding up.</note><p>You must stow this system before the wheels can again
-                        be operated hydraulic ally.</p></info>
+                        folding up.</note>
+                    <p>You must stow this system before the wheels can again be operated hydraulic
+                        ally.</p>
+                </info>
             </step>
-            <stepsection><p><b>Nosewheel</b></p><p>The lowering device for the nosewheel is in the
-                    navigator's compartment, on the step into the pilot's compartment.</p><p>To
-                    operate:</p></stepsection>
+            <stepsection>
+                <p><b>Nosewheel</b></p>
+                <p>The lowering device for the nosewheel is in the navigator's compartment, on the
+                    step into the pilot's compartment.</p>
+                <p>To operate:</p>
+            </stepsection>
             <step>
                 <cmd>Pull nose gear release.</cmd>
             </step>
@@ -63,12 +80,14 @@
             </step>
             <step>
                 <cmd>Check locked position normally after the gear is full down.</cmd>
-                <info><note type="warning">The nosewheel lowering cable operates every time the
+                <info>
+                    <note type="warning">The nosewheel lowering cable operates every time the
                         nosewheel is raised or lowered. It is engaged by the pawl to lower the
-                        wheels. If the pawl is accidently turned to "ON" the hydraulic system will
-                        tear the nose- wheel cable out of the plane.</note><p>This pawl must be left
-                        "ON" after it is used until the plane is on the ground and braced against
-                        mishap.</p></info>
+                        wheels. If the pawl is accidently turned to "<userinput>ON</userinput>" the
+                        hydraulic system will tear the nose- wheel cable out of the plane.</note>
+                    <p>This pawl must be left "<userinput>ON</userinput>" after it is used until the
+                        plane is on the ground and braced against mishap.</p>
+                </info>
             </step>
         </steps>
     </taskbody>

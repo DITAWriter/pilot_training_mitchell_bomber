@@ -9,18 +9,22 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
         </critdates>
     </prolog>
     <conbody>
-        <p>Jockeying or blasting the throttles to maintain directional control.</p>
-        <p>Using brakes to steer the plane</p>
-        <p>Excessive manifold pressure</p>
-        <p>Instrument flying instead of contact flying</p>
-        <p>Excessive airspeed on the ground</p>
-        <p>Retracting landing gear too soon</p>
-        <p>Failure to level off after takeoff</p>
-        <p>Failure to correct properly for drift</p>
-        <p>Skidding immediately after takeoff</p>
-        <p>Tenseness and overcontrolling</p>
+        <ul>
+            <li>Jockeying or blasting the throttles to maintain directional control.</li>
+            <li>Using brakes to steer the plane</li>
+            <li>Excessive manifold pressure</li>
+            <li>Instrument flying instead of contact flying</li>
+            <li>Excessive airspeed on the ground</li>
+            <li>Retracting landing gear too soon</li>
+            <li>Failure to level off after takeoff</li>
+            <li>Failure to correct properly for drift</li>
+            <li>Skidding immediately after takeoff</li>
+            <li>Tenseness and overcontrolling</li>
+        </ul>
     </conbody>
 </concept>

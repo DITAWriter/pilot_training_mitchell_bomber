@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
         </critdates>
     </prolog>
     <taskbody>
@@ -73,7 +75,7 @@
             </step>
         </steps>
         <postreq id="postreq_g4d_hjh_2gb">
-            <p>Final check before landing:<dl>
+            <p>Final <term keyref="gl_GUMPS">GUMPS</term>check before landing:<dl>
                     <dlentry>
                         <dt>G</dt>
                         <dd>Gas</dd>

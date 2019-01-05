@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_fcp_dyq_dgb">
+<concept id="grade_91_fuel">
     <title>Grade 91 Fuel</title>
     <shortdesc>With our entry into World War II, and our operations on fighting fronts the length
         and breadth of the world, it became apparent that we could not produce high-octane fuels
         quickly enough to meet the demand.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
+        <image placement="break" keyref="fuel_grade_91" id="image_njn_ttv_3gb">
+            <alt>Grade 91 fuel</alt>
+        </image>
         <p>For this reason, all training and operational flights in the continental United States
             are made on Grade 91 fuel whenever possible.</p>
-        <p>The operation of the B-25 on Grade 91 fuel is perfectly safe. With a thorough knowledge
-            of its operating limits you will have no trouble at all.</p>
+        <p>The operation of the <keyword keyref="designator"/> on Grade 91 fuel is perfectly safe.
+            With a thorough knowledge of its operating limits you will have no trouble at all.</p>
         <section>
             <title>What Is an Octane Rating?</title>
             <p>To properly understand the evaluation of fuels it is necessary to review some basic
                 facts, Let's start with some definitions:</p>
         </section>
         <section>
-            <title>Pre-ignition</title>
-            <p>Pre-ignition is a condition of premature firing. The fuel charge in the cylinder head
+            <title>Preignition</title>
+            <p>Preignition is a condition of premature firing. The fuel charge in the cylinder head
                 is ignited by a hot carbon deposit or other means before time for the electrical
                 firing to occur.</p>
         </section>
@@ -26,6 +35,12 @@
             <p>Normal combustion is the burning of the fuel charge in the cylinder head as a
                 slow-burning wave, creating power not as an explosion, but as an expansion of the
                 gases.</p>
+            <image placement="break" keyref="fuel_preignition" id="image_byl_xtv_3gb">
+                <alt>Preignition and power loss</alt>
+            </image>
+            <image placement="break" keyref="fuel_combustion" id="image_cnc_wtv_3gb">
+                <alt>Correct combustion and maximum power</alt>
+            </image>
         </section>
         <section>
             <title>Detonation</title>
@@ -34,11 +49,14 @@
                 the fuel charge to tremendous temperatures and pressures. If these forces are great
                 enough the remaining fuel charge explodes before it can burn, and the shock waves
                 from this explosion are great enough to blow the cylinder head off the engine.</p>
+            <image placement="break" keyref="fuel_detonation" id="image_j5y_ytv_3gb">
+                <alt>Detonation</alt>
+            </image>
         </section>
         <section>
             <title>Octane Rating</title>
             <p>Octane rating of a fuel is a mathematical grade assigned to a fuel in direct
-                proportion to its ability to withstand pre-ignition and detonation.</p>
+                proportion to its ability to withstand preignition and detonation.</p>
             <p>Two reference fuels were chosen, iso-octane and normal heptane. Run in a test engine,
                 these fuels respond identically under identical conditions.</p>
             <p>To rate a new fuel it is compared to these reference fuels. If it matches the
@@ -46,9 +64,12 @@
                 is less, normal heptane is added to the iso-octane. Thus, if a fuel matches in
                 performance a mixture of 87% iso-octane and 13% normal heptane it is rated as Grade
                 87 fuel.</p>
+            <image placement="break" keyref="fuel_combust_temps" id="image_hjm_c5v_3gb">
+                <alt>Relative combustion temperatures for different grades of fuel</alt>
+            </image>
         </section>
         <section>
-            <title>How Does this Affect the B-25?</title>
+            <title>How Does this Affect the <keyword keyref="designator"/>?</title>
             <p>You control the initial pressure that is allowed to enter the cylinders of the
                 engines. This pressure after entering the cylinders is compressed and fired at a
                 predetermined ratio.</p>
@@ -61,6 +82,9 @@
                 altitudes.</p>
             <p>The accompanying power control chart shows maximum limits, minimum limits, and the
                 desirable range to increase the life and efficiency of the engines.</p>
+            <image placement="break" keyref="fuel_rpm_mp_relation" id="image_mcs_35v_3gb">
+                <alt>Effects of relation between RPM and manifold pressure</alt>
+            </image>
         </section>
     </conbody>
 </concept>

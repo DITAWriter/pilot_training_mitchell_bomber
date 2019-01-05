@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_tjm_bw4_dgb">
+<task id="go_around_procedure">
     <title>Go-Around Procedure</title>
     <shortdesc>Don't hesitate to go around. Any doubt that the plane is under perfect control is
         sufficient cause to go around. If you have made a poor approach and know that the landing
@@ -9,6 +9,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
         </critdates>
     </prolog>
     <taskbody>
@@ -62,7 +64,6 @@
                         around. </note>
                 </info>
             </step>
-
         </steps>
     </taskbody>
 </task>

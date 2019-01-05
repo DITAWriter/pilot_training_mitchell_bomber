@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_b3k_pp2_cgb">
+<concept id="dual_ignition_system">
     <title>Dual Ignition System</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>The ignition system, except for the induction vibrator coil, is independent of all other
             electrical power sources.</p>

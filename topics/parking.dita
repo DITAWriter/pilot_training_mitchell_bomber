@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_z4h_2y4_dgb">
+<task id="parking">
     <title>Parking</title>
     <shortdesc>When you park your plane after a flight, just remember that the Colonel may make the
         next flight in that particular airplane.</shortdesc>
@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
         </critdates>
     </prolog>
     <taskbody>
@@ -58,16 +60,18 @@
             </step>
             <step>
                 <cmd>After the wheels have been chocked, release the parking brakes.</cmd>
-                <info><p>Never keep the parking brakes set after you return to the line. The
+                <info>
+                    <p>Never keep the parking brakes set after you return to the line. The
                         multiple-disc brakes get extremely hot when you taxi for long periods, and
                         if sufficiently hot, they lock, necessitating removal of the wheels and
-                        brakes, and extensive repairs.</p></info>
+                        brakes, and extensive repairs.</p>
+                </info>
             </step>
             <step>
                 <cmd>Make a complete check of the plane to see that trim tabs are set on
                         "<userinput>0</userinput>," switches and radios are
-                        "<userinput>OFF</userinput>" controls "<userinput>LOCKED</userinput>,"
-                    etc. </cmd>
+                        "<userinput>OFF</userinput>" controls "<userinput>LOCKED</userinput>," etc.
+                </cmd>
             </step>
         </steps>
         <postreq>It is only common courtesy to leave the plane clean and neat for the next crew. See

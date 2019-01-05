@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="carburetor_air_heat">
     <title>Carburetor Air Heat</title>
-    <shortdesc>The carburetor air heater on the B-25 is a 2-position gate in the air induction
+    <shortdesc>The carburetor air heater on the <keyword keyref="designator" /> is a 2-position gate in the air induction
         system.</shortdesc>
     <prolog>
         <critdates>

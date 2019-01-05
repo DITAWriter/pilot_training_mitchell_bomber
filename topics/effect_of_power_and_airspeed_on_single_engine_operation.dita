@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_cb2_52h_fgb">
+<concept id="effect_of_power_and_airspeed_on_single_engine_operation">
     <title>Effect of Power and Airspeed on Single Engine Operation</title>
-    <shortdesc/>
+    <shortdesc>To fly safely on single engine you must know the effect of power on rudder control at
+        various airspeeds. This is vital to your safety when practicing go-around procedures and
+        other maneuvers that require quick changes in power settings.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <p>To fly safely on single engine you must know the effect of power on rudder control at
-            various airspeeds. This is vital to your safety when practicing go-around procedures and
-            other maneuvers that require quick changes in power settings.</p>
         <p>At 140 mph (CSE speed) directional control can be maintained with takeoff power on the
             good engine. At airspeeds below 140 mph the plane will turn into the dead engine if
             power is not reduced. When power is reduced in accordance with the airspeed, directional
@@ -21,7 +28,7 @@
             perform it with wheels and flaps down after its effect is determined.</p>
         <p>With power set for normal climb reduce the airspeed below 140 mph until the plane starts
             to turn toward the dead engine > even though you are holding full opposite rudder.</p>
-        <p>Recover by reducing power and lowering the nose.</p>
+        <p><b>Recover by reducing power and lowering the nose.</b></p>
         <p>For practice, hold definite airspeeds (for example, 115 mph or 120 mph), and add as much
             power as you can control.</p>
         <p>This maneuver is excellent practice for single engine landings, and go-around procedures.

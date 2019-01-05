@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_lkn_sr3_ggb">
+<task id="day_navigation_photo_reconnaissance_and_instrument_let_down_mission">
     <title>Day Navigation, Photo-Reconnaissance, and Instrument Let-Down Mission</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
             <p>This mission will consist of a controlled ground speed day navigation and
@@ -11,7 +17,7 @@
                 unsuccessful, a second orientation and let-down will be accomplished.</p>
         </context>
         <steps>
-            <stepsection>Conduct of Mission:</stepsection>
+            <stepsection><b>Conduct of Mission:</b></stepsection>
             <step>
                 <cmd>This mission will be briefed by the Squadron S-2. All crew members will take
                     careful notes as directed by S-2, and will be interrogated upon return as to
@@ -19,7 +25,7 @@
                     available for the localities directed below and photographs will be taken of
                     each given target.</cmd>
             </step>
-            <stepsection>Specific Duties of Crew Members</stepsection>
+            <stepsection><b>Specific Duties of Crew Members</b></stepsection>
             <step>
                 <cmd>Pilot&#8212; will aid and direct crew in obtaining observations; give careful
                     attention to best photographic procedures; direct photographs be taken as

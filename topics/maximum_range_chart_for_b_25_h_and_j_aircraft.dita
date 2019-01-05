@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="reference_j5p_rcr_dgb">
-    <title>Maximum Range Chart for B-25 H &amp; J Aircraft</title>
-    <shortdesc></shortdesc>
+<reference id="maximum_range_chart_for_b_25_h_and_j_aircraft">
+    <title>Maximum Range Chart for <keyword keyref="designator"/> H &amp; J Aircraft</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <refbody>
         <table frame="all" rowsep="1" colsep="1" id="table_j1g_fbr_ref">
-            <title>Maximum Range Chart for B-25 H &amp;amp; J Aircraft</title>
+            <title>Maximum Range Chart for <keyword keyref="designator"/> H &amp; J Aircraft</title>
             <tgroup cols="9">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
                 <colspec colname="c2" colnum="2" colwidth="1*"/>

@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_tw4_sqg_fgb">
+<concept id="short_field_takeoff">
     <title>Short-Field Takeoff</title>
     <shortdesc>The short-field takeoff is an important operational maneuver. You can easily
         understand its importance if you stop to consider that the first Tokyo raid could never have
         been made without its use.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>Many tactical fields have been kept open after a severe bombing simply because our pilots
             were proficient in this maneuver.</p>
@@ -32,14 +40,20 @@
             <p>You will take off more quickly on soft runways if the nosewheel is lifted as quickly
                 as possible, and on hard runways if you allow the speed to build up; then apply lift
                 to the wings.</p>
-            <p>The airplane should leave the ground just after the flaps-down, wheels-down,
-                power-on stall speed is reached. When definitely airborne, retract the wheels, allow
-                the airspeed to build up slightly, and climb until clear of any obstacle. Lower the
-                nose to pick up CSE speed. When you have sufficient altitude, raise the flaps to
-                15°. When you attain a safe flying speed and altitude, reduce the power to maximum
-                climb and raise the remainder of the flaps.</p>
+            <p>The airplane should leave the ground just after the flaps-down, wheels-down, power-on
+                stall speed is reached. When definitely airborne, retract the wheels, allow the
+                airspeed to build up slightly, and climb until clear of any obstacle. Lower the nose
+                to pick up CSE speed. When you have sufficient altitude, raise the flaps to 15°.
+                When you attain a safe flying speed and altitude, reduce the power to maximum climb
+                and raise the remainder of the flaps.</p>
             <p>Prolonged climbs at low airspeeds raise the engine operating temperature
                 dangerously&#8212; do not practice them.</p>
+            <image placement="break" keyref="takeoff_short_field">
+                <alt>Short-Field Takeoff</alt>
+            </image>
+            <image placement="break" keyref="takeoff_muddy">
+                <alt>Muddy or Rough Ground Takeoff</alt>
+            </image>
         </section>
     </conbody>
 </concept>

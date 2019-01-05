@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_zlc_cth_cgb">
+<concept id="models_and_changes">
     <title>Models and Changes</title>
     <shortdesc>Combat problems in several theaters of war found the A, B, C, and D models of the
-        B-25 unsuited for certain tactical operations. A series of modifications were necessary to
-        overcome these problems.</shortdesc>
+            <keyword keyref="designator"/> unsuited for certain tactical operations. A series of
+        modifications were necessary to overcome these problems.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <p>The B-25 was originally designed for medium-altitude bombing, but combat theaters found
-            it maneuverable and fast, making it suitable for low-altitude bombing and strafing
-            missions. Additional firepower, armor plating, and re-arrangement of equipment were
-            necessary to equip the B-25 for this type mission.</p>
+        <p>The <keyword keyref="designator"/> was originally designed for medium-altitude bombing,
+            but combat theaters found it maneuverable and fast, making it suitable for low-altitude
+            bombing and strafing missions. Additional firepower, armor plating, and re-arrangement
+            of equipment were necessary to equip the <keyword keyref="designator"/> for this type
+            mission.</p>
         <p>The B-25G, basically a modified C or D, has a 75-mm. cannon and additional forward-firing
             .50-cal. guns. The B-25G carries no bombardier; therefore the pilot operates bombing
             mechanisms and all forward-firing guns. Later models of the B-25G have additional
@@ -32,8 +39,8 @@
             forward-firing .50-cal. guns. One fixed .50-cal. gun and one flexible .50-cal. gun in
             the bombardier's compartment- plus the four forward-firing blister guns- give the pilot
             highly effective firepower- The rest of the firepower is identical with that of the
-            B-25H. One excellent feature of the B-25J is the dual bombing controls, giving the
-            pilot or the bombardier individual control of all bombing equipment. With twelve
-            .50-cal. guns, it is one of the deadliest medium bombers in operation.</p>
+            B-25H. One excellent feature of the B-25J is the dual bombing controls, giving the pilot
+            or the bombardier individual control of all bombing equipment. With twelve .50-cal.
+            guns, it is one of the deadliest medium bombers in operation.</p>
     </conbody>
 </concept>

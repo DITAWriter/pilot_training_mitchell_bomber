@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_oyp_v1m_fgb">
+<concept id="bailout">
     <title>Bailout</title>
     <shortdesc>Take good care of your parachute, Keep it clean and free of grease and
         moisture.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
+        <image placement="break" keyref="bailout">
+            <alt>Bailout</alt>
+        </image>
         <note type="important">Preflight your chute before every flight.</note>
         <p>See that there are no loose threads, rips or tears in the case. Check that the seal is
             intact, the release pins straight, and that the chute has been recently inspected and
@@ -12,8 +21,12 @@
         <p>Instruct your crew in the use of their parachutes and on the necessity for instant
             obedience to the bailout order. A few seconds' delay at the escape hatch can easily
             prove fatal not only to the man who hesitates but to the rest of the crew.</p>
-        <p>You are the last man out. Have your crew well drilled and instructed.</p>
-        <p>Check with the ground crew on the condition and operation of the escape hatches. Spot
-            checks show that these hatches are often overlooked on the periodic inspections.</p>
+        <p><b>You are the last man out. Have your crew well drilled and instructed.</b></p>
+        <p><b>Check with the ground crew on the condition and operation of the escape hatches.</b>
+            Spot checks show that these hatches are often overlooked on the periodic
+            inspections.</p>
+        <image placement="break" keyref="emer_hatch_release">
+            <alt>Emergency hatch release</alt>
+        </image>
     </conbody>
 </concept>

@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_pxy_brv_dgb">
+<concept id="anti_icing">
     <title>Anti-Icing</title>
     <shortdesc>Emergency provision is made to prevent ice formation on the propellers, and on the
         bombsight window by an alcohol anti-icing system.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>The alcohol anti-icing system has two supply tanks, one in each engine nacelle against
             the outboard wall They carry isopropyl alcohol. The tank in the right-hand nacelle has a
@@ -35,7 +41,7 @@
                 mind the length of time you may have to use the pump and the fact that the fluid in
                 the reservoir must also be kept available for anti-icing the bombardier's window.
                 During missions on which the bomb window anti-icing system is not needed, the fluid
-                supply in the reservoir is sufficient for 1 hour and 20 minutes’ continual operation
+                supply in the reservoir is sufficient for 1 hour and 20 minutes' continual operation
                 with the rheostat turned to the fast-flow position. At the minimum flow setting, the
                 supply will last for 11 hours and 48 minutes.</p>
         </section>
@@ -46,21 +52,26 @@
                 from the same tank used for the operation of the propeller anti-icer. The available
                 supply includes the 1.5 gallons reserved by the standpipe within this tank. A
                 rheostat control mounted forward of the instrument panel on the left side of the
-                bombardier’s compartment regulates fluid flow.</p>
+                bombardier's compartment regulates fluid flow.</p>
             <p>The check valve in the fluid supply line to the bomb window tubes is in the
                 compartment ceiling and is readily available to the bombardier should minor
                 adjustments be necessary during flight. Turning the visible screw to the right
                 restricts the rate of flow.</p>
             <p>The electric motor which drives the windshield wiper through a flexible cable
                 assembly is controlled by two switches in the lower left corner of the box control
-                panel. The first switch may be set to "FAST" or "SLOW" and the motor turned "ON"
+                panel. The first switch may be set to "<userinput>FAST</userinput>" or
+                    "<userinput>SLOW</userinput>" and the motor turned "<userinput>ON</userinput>"
                 by means of the second switch. To prevent injury to the motor or the wiper, the
-                switch must not be turned "ON" while the bomb window is dry.</p>
+                switch must not be turned "<userinput>ON</userinput>" while the bomb window is
+                dry.</p>
             <p>The installation of this equipment precludes the use of a pilot's windshield spray. A
                 field service installation may, however, be made on these aircraft to provide a
                 clear-vision windshield. This is a 6-ply, chemically treated glass window. The
                 outboard sections are in a neutral pressure area and may be removed in extreme icing
                 conditions to provide direct vision ahead.</p>
+            <image placement="break" keyref="carb_deicer_system">
+                <alt>Carburetor de-icer system</alt>
+            </image>
         </section>
     </conbody>
 </concept>

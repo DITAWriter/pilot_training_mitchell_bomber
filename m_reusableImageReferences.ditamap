@@ -455,4 +455,6 @@
 <keydef keys="roll_correct" href="images/roll_correct.png" format="png"/>
 
 <keydef keys="maintenance_check" href="images/maintenance_check.png" format="png"/>
+    
+    <keydef keys="stalls" href="images/stalls.png" format="png"/>
 </map>

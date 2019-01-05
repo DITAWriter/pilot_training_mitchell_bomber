@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_umd_2wy_dgb">
+<concept id="oil_dilution_after_landing_in_cold_weather">
     <title>Oil Dilution After Landing in Cold Weather</title>
     <shortdesc>To obtain sufficient dilution of the oil to facilitate starting, allow the engine to
         cool either by idling or stopping after flight, before dilution begins.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>This will prevent rapid evaporation of the gasoline and insure that the viscosity of the
             oil has been reduced sufficiently. In most cases you will find that the engines have
@@ -55,13 +61,12 @@
                 </tgroup>
             </table>
         </p>
- 
-<note type="warning">Unreliable dilution occurs at these temperatures if the oil tank is
+        <note type="warning">Unreliable dilution occurs at these temperatures if the oil tank is
             more than ¾ full.</note>
         <p>At the completion of the above dilution period, run both engines up to 1700 rpm,
-            continuing dilution, and with propellers in full "INC. RPM" feather and un feather
-            each propeller through one complete cycle. Operate each propeller governor through one
-            complete cycle. Release dilution switch and decrease engine speed. Stop engines and
-            install engine covers.</p>
+            continuing dilution, and with propellers in full "<userinput>INC. RPM</userinput>"
+            feather and un feather each propeller through one complete cycle. Operate each propeller
+            governor through one complete cycle. Release dilution switch and decrease engine speed.
+            Stop engines and install engine covers.</p>
     </conbody>
 </concept>

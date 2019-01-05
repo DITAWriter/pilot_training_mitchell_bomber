@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_ubx_yp3_ggb">
+<task id="instructions_for_firing_water_targets">
     <title>Instructions for Firing-Water Targets</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
-        <context>
-            <p/>
-        </context>
         <steps>
             <step>
                 <cmd>Eleven rounds of 75MM ammunition from a range of 3000 yards, firing one round
@@ -17,6 +20,15 @@
                 <cmd>The following course will be flown to and from Gunnery Range at a minimum
                     altitude of 200 feet above the terrain. Flight will be made in 2- or 3-ship
                     formations. Formation will go into column for gunnery.</cmd>
+            </step>
+            <step>
+                <cmd>Ammunition</cmd>
+                <info>
+                    <ul>
+                        <li>21 rounds of 75 MM ammunition</li>
+                        <li>1000 rounds of 50-Cal. ammunition</li>
+                    </ul>
+                </info>
             </step>
         </steps>
     </taskbody>

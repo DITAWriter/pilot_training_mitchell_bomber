@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="reference_vmh_lxh_cgb">
+<reference id="aaf_pilots_checklist">
     <title>AAF Pilot's Checklist</title>
     <shortdesc>To be used only after thorough familiarization with Amplified Checklist</shortdesc>
-    <refbody> </refbody>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
+    <refbody/>
 </reference>

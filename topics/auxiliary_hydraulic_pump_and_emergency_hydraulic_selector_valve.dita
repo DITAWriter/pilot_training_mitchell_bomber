@@ -1,29 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_mss_d3h_fgb">
+<concept id="auxiliary_hydraulic_pump_and_emergency_hydraulic_selector_valve">
     <title>Auxiliary Hydraulic Pump and Emergency Hydraulic Selector Valve</title>
     <shortdesc>The auxiliary hydraulic pump is a double-action hand pump for use as a source of
         pressure if the main hydraulic system fails.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>It is between the pilot's and copilot's seats and either man uses it.</p>
         <p>A selector valve, directly behind the hand pump on the floor, distributes the pressure
             from the hand pump.</p>
-        <p>The selector valve has three positions, "NORMAL," "BRAKE" and "LATCH" In "NORMAL"
+        <image placement="break" keyref="emerg_hydraulic_pump" id="image_iyb_cfp_3gb"/>
+        <p>The selector valve has three positions, "<option>NORMAL</option>,"
+                "<option>BRAKE</option>" and "<option>LATCH</option>" In "<option>NORMAL</option>"
             position the pressure from the hand pump is distributed through the normal hydraulic
-            lines. In "BRAKE" position the pressure goes directly to the brake accumulator and
-            then to the brakes. In "LATCH" position the pressure goes directly to the landing gear
-            down-latch pins.</p>
+            lines. In "<option>BRAKE</option>" position the pressure goes directly to the brake
+            accumulator and then to the brakes. In "<option>LATCH</option>" position the pressure
+            goes directly to the landing gear down-latch pins.</p>
         <p>Use this auxiliary source of hydraulic pressure to make all normal hydraulic actions when
             the engine driven pumps fail.</p>
         <p>You can use it to aid or replace the engine-driven pumps.</p>
         <note>
             <p>If down-position latchpins of the main landing gear do not engage, turn emergency
-                hydraulic selector valve to "LATCH." Operate the hand pump until position indicator
-                shows main landing gear latchpins in place.</p>
+                hydraulic selector valve to "<option>LATCH</option>." Operate the hand pump until
+                position indicator shows main landing gear latchpins in place.</p>
             <p>Use this procedure regardless of whether you have employed the main or emergency
                 hydraulic systems for lowering the landing gear.</p>
             <p>The yellow flags which show up on the position indicator will always warn you if the
                 latchpins are not engaged.</p>
         </note>
+        <note type="important">Never pump the latch pins into place unless the main wheels are full
+            down.</note>
     </conbody>
 </concept>

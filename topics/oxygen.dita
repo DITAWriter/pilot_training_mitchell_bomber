@@ -2,8 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="oxygen">
     <title>Oxygen</title>
-    <shortdesc>The B-25 has two systems of oxygen supply. The first is a permanent installation in
-        the early-series aircraft, the second a portable system in later-series B-25's.</shortdesc>
+    <shortdesc>The <keyword keyref="designator" /> has two systems of oxygen supply. The first is a permanent installation in
+        the early-series aircraft, the second a portable system in later-series <keyword keyref="designator" /> aircraft.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

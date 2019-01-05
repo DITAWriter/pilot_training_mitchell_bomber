@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="DitchingEscapeProcedure">
+    <title>Escape procedure: Front Cockpit</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <steps>
+            <stepsection>
+                <p><b>Front Cockpit</b></p>
+            </stepsection>
+            <step>
+                <cmd>Copilot&#8212;through top escape hatch. Check, or manually release the life
+                    raft. Proceed to the rear of the plane to assist men in their escape.</cmd>
+            </step>
+            <step>
+                <cmd>Pilot&#8212;through top escape hatch. Aid the crew members in the front cockpit
+                    to escape. Take parachute to raft.</cmd>
+            </step>
+            <step>
+                <cmd>Engineer&#8212;through top escape hatch. Stand by to assist pilot and
+                    navigator. Carry equipment to the raft.</cmd>
+            </step>
+            <step>
+                <cmd>Navigator&#8212;through the top escape hatch. Stand by to assist pilot. Carry
+                    equipment to raft.</cmd>
+            </step>
+            <stepsection>
+                <p><b>Rear Compartment</b></p>
+            </stepsection>
+            <step>
+                <cmd>Radio operator&#8212;through lower right es- cape hatch. Take equipment to the
+                    raft.</cmd>
+            </step>
+            <step>
+                <cmd>Gunner&#8212;through lower right escape hatch. Take equipment to the
+                    raft.</cmd>
+            </step>
+        </steps>
+        <result id="result_nhm_q55_3gb">
+            <image placement="break" keyref="water_evac" id="image_p5y_r55_3gb"/>
+        </result>
+    </taskbody>
+</task>

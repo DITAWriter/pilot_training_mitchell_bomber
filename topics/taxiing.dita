@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
         </critdates>
     </prolog>
     <conbody>
@@ -55,14 +57,14 @@
                 <alt>In the vicinity of other planes and equipment, keep the speed down to that of a
                     walking man.</alt>
             </image><p>On straight-away taxiing let the plane roll free and maintain directional
-                control with the rudders. The twin tail assembly of the B-25 gives ample rudder
-                control even at relatively low taxiing speeds, although even when full rudder is
-                applied there is a slight delayed-action effect.</p><p>Never ride the brakes; this
-                causes them to heat up rapidly.</p><p>Apply the brakes by feel, not by the position
-                of the pedals.</p><p>Never allow the inside wheel to stop during a turn. To turn
-                sharply, slow the airplane to a low speed and coordinate the brake and throttle to
-                keep the inside wheel turning on an approximate 10-foot circle,</p><image
-                keyref="turn_radius" id="image_lqk_ppm_cgb">
+                control with the rudders. The twin tail assembly of the <keyword keyref="designator"
+                /> gives ample rudder control even at relatively low taxiing speeds, although even
+                when full rudder is applied there is a slight delayed-action effect.</p><p>Never
+                ride the brakes; this causes them to heat up rapidly.</p><p>Apply the brakes by
+                feel, not by the position of the pedals.</p><p>Never allow the inside wheel to stop
+                during a turn. To turn sharply, slow the airplane to a low speed and coordinate the
+                brake and throttle to keep the inside wheel turning on an approximate 10-foot
+                circle.</p><image keyref="turn_radius" id="image_lqk_ppm_cgb">
                 <alt>Turn radius</alt>
             </image><p>Any attempt to twist the plane on the inside wheel damages the wheel, tire,
                 and strut. Turning in this manner on soft ground, sand, or thin paved runways causes

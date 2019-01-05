@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="PrinciplesOfWeightAndBalance">
+    <title>Principles of weight and balance</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <section id="section_l1v_zdv_3gb">
+            <title>Proper Balance</title>
+            <p>An airplane is properly balanced when it will remain approximately level if suspended
+                from a definite point within its center of gravity range.</p>
+        </section>
+        <section id="section_nlp_12v_3gb">
+            <title>Center of Gravity Range</title>
+            <p>The center of gravity range is the maximum fore-and-aft limits within which the
+                balance of the airplane's weight must lie if the plane is to fly safely. This center
+                of gravity range is near the leading edge of the wing where the maxi- mum lift
+                occurs.</p>
+        </section>
+        <section id="section_uc1_b2v_3gb">
+            <title>Balancing the <keyword keyref="designator"/></title>
+            <p>Balancing the <keyword keyref="designator"/> is simply a matter of distributing the
+                weight so that the center of the airplane's loaded weight falls within the center of
+                gravity range.</p>
+        </section>
+        <section id="section_f1n_b2v_3gb">
+            <title>Weighing the <keyword keyref="designator"/></title>
+            <p>The <keyword keyref="designator"/> is weighed to determine the basic weight of the
+                airplane and to find the point at which this weight is balanced.</p>
+        </section>
+        <section id="section_plz_b2v_3gb">
+            <title>Charts and Forms</title>
+            <p>There are various charts and forms for con- trolling the weight and balance of the
+                    <keyword keyref="designator"/>. These may be found in T.O, Ol-lB-40. For
+                information on these charts and forms consult your weight and balance officer or
+                T.O. Ol-lB-40.</p>
+        </section>
+        <section id="section_l5j_c2v_3gb">
+            <title>Form F</title>
+            <p>The Form F vitally concerns the pilot. This is the record of the distribution of
+                weight in the airplane, it will tell you the CG step by step as each item is placed
+                in the plane.</p>
+            <p><b>You must fill out this Form F before every flight.</b> One copy is filed and one
+                copy remains in the <cite>Weight and Balance Handbook</cite> of the plane.</p>
+            <p>For instructions on the use of the load adjuster see the PIF or T.O. Ol-lB-40.</p>
+            <image placement="break" keyref="weight_form_F" id="image_b5r_ptv_3gb"/>
+        </section>
+    </conbody>
+</concept>

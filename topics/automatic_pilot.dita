@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="automatic_pilot">
     <title>Automatic Pilot</title>
-    <shortdesc>Most B-25's have A-3 or A-3A autopilots which operate on a pneumatic-hydraulic
+    <shortdesc>Most <keyword keyref="designator" /> aircraft have A-3 or A-3A autopilots which operate on a pneumatic-hydraulic
         principle. They fly the airplane automatically in straight and level flight and make the
         necessary corrections for holding a given course or altitude. </shortdesc>
     <prolog>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="DitchingEngineerSDuties">
+    <title>Ditching: Engineer's Duties</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Acknowledge the emergency bell.</cmd>
+            </step>
+            <step>
+                <cmd>Check the fuselage tank and inform the pilot of its condition.</cmd>
+            </step>
+            <step>
+                <cmd>Jettison all loose and unnecessary equipment, packages, parachutes, radio
+                    equipment, spare tools, parts&amp;#8212; everything that will come loose or that
+                    can be torn loose. Jettison through the bomb bay as the bombs and tank are
+                    dropped.</cmd>
+            </step>
+            <step>
+                <cmd>If bombs and tank are not dropped, jettison equipment through the entrance port
+                    in the lower part of the ship. This must be reclosed after the equipment has
+                    been thrown out.</cmd>
+            </step>
+            <step>
+                <cmd>Assist the navigator in preparing his equipment for ditching.</cmd>
+            </step>
+            <step>
+                <cmd>On the pilot's signal, assume ditching station and brace for impact.</cmd>
+            </step>
+            <step>
+                <cmd>Abandon the plane and stand by to assist pilot and navigator.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

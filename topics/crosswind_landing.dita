@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="crosswind_landing">
     <title>Crosswind Landing</title>
-    <shortdesc>Crosswind landing in the B-25 requires accurate flying, to save the plane from
+    <shortdesc>Crosswind landing in the <keyword keyref="designator" /> requires accurate flying, to save the plane from
         unnecessary structural stresses. You must land the airplane smoothly to prevent blowing a
         tire, collapsing a struts or exerting side loads on the gear.</shortdesc>
     <prolog>
@@ -11,13 +11,17 @@
             <revised modified="27. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="28. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
         </critdates>
     </prolog>
     <conbody>
         <image placement="break" keyref="landing_crosswind_crab" id="image_efg_ldp_ggb">
             <alt>Crab into wind</alt>
         </image>
-        <p>There are three possible ways to land crosswind: </p>
+        <p>There are three possible ways to land crosswind:</p>
         <ul>
             <li>Hold the airplane straight and level toward the landing strip and drop one wing into
                 the wind to counteract drift.</li>
@@ -49,6 +53,9 @@
             throttles increases the length of roll considerably.</p>
         <p>Where there is a strong drift, land on the upwind side of the runway. The drift will
             carry you toward the center of the runway.</p>
+        <image placement="break" keyref="landing_correct_for_drift" id="image_m5t_kxn_3gb">
+            <alt>Correct for Drift. Land on the runway.</alt>
+        </image>
         <section>
             <title>Common Errors</title>
             <ul>

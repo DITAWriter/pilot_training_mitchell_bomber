@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_p2l_scm_fgb">
+<task id="procedure_for_reclosing_bomb_bay_doors">
     <title>Procedure for Reclosing Bomb Bay Doors</title>
     <shortdesc>If you have had a hydraulic failure, be sure that the bomb bay doors are not
         partially open when you jump.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
             <p>These doors fall open ⅔ of the way when the hydraulic system loses its pressure.</p>

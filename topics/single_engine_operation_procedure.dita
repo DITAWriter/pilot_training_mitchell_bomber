@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_y2q_fxg_fgb">
+<task id="single_engine_operation_procedure">
     <title>Single Engine Operation Procedure</title>
-    <shortdesc/>
+    <shortdesc>Critical single engine airspeed must be maintained at the sacrifice of all other
+        considerations.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
-        <context>
-            <p/>
-        </context>
         <steps>
             <step>
                 <cmd>Airspeed&#8212; Maintain or get 140 mph by diving if necessary.</cmd>
             </step>
             <step>
-                <cmd>Directional control&#8212; Obtain and hold directional control by using rudder.
-                    Slight aileron aids coordination but excessive use raises the stalling
-                    speed.</cmd>
-            </step>
-            <step>
-                <cmd>Use the trim tabs to help you hold the plane if manual control is too
-                    difficult. Make these checks:</cmd>
-                <substeps>
+                <cmd>Directional control&#8212; Obtain and hold directional control by using
+                    rudder.</cmd>
+                <info> Slight aileron aids coordination but excessive use raises the stalling
+                        speed.<p>Use the trim tabs to help you hold the plane if manual control is
+                        too difficult. Make these checks:</p></info>
+                <substeps id="substeps_cjn_mbp_3gb">
                     <substep>
                         <cmd>Check your ignition switches.</cmd>
                     </substep>
@@ -30,28 +34,32 @@
                         <cmd>Move mixture control to "FULL RICH." </cmd>
                     </substep>
                     <substep>
-                        <cmd>Turn the booster pumps "ON." You can make these checks in far less time
-                            than it takes to read these lines; they may save the engine, and they
-                            prevent featheritis.</cmd>
+                        <cmd>Turn the booster pumps "ON." </cmd>
                     </substep>
                 </substeps>
+                <info><image placement="break" keyref="single_eng_before_feather"
+                        id="image_szw_kcp_3gb">
+                        <alt>Before you feather: ignition, fuel cut-off, mixture, booster
+                            pumps.</alt>
+                    </image>You can make these checks in far less time than it takes to read these
+                    lines; they may save the engine, and they prevent featheritis.</info>
             </step>
-
             <step>
                 <cmd>Increase power to the limit allowed by airspeed and rudder control&#8212;
-                    Advance both prop controls and both throttles. It is sometimes difficult to tell
-                    which engine is out. As a precaution, apply power to both engines.</cmd>
+                    Advance both prop controls and both throttles.</cmd>
+                <info> It is sometimes difficult to tell which engine is out. As a precaution, apply
+                    power to both engines.</info>
+                <steptroubleshooting>A good method when you are not sure: If the plane wants to turn
+                    to the right, the right engine is dead; to the left, the left engine is dead. If
+                    you are on instruments, your bank-and-tum needle points to the dead
+                    engine.</steptroubleshooting>
             </step>
             <step>
-                <cmd>A good method when you are not sure: If the plane wants to turn to the right,
-                    the right engine is dead; to the left, the left engine is dead. If you are on
-                    instruments, your bank-and- tum needle points to the dead engine,</cmd>
-            </step>
-            <step>
-                <cmd>Reduce drag. Throttle back. Decrease rpm. or feather the prop. Mixture "IDLE
-                    CUT-OFF" gear and flaps up, generators on&#8212; Feather the propeller by
-                    pushing the feathering button down. The prop will feather, and when it does the
-                    button will return to normal position.</cmd>
+                <cmd>Reduce drag. <b>Throttle back. Decrease rpm. or feather the prop. Mixture
+                            "<userinput>IDLE CUT-OFF</userinput>"</b> gear and flaps up, generators
+                    on&#8212; Feather the propeller by pushing the feathering button down.</cmd>
+                <stepresult>The prop will feather, and when it does the button will return to normal
+                    position.</stepresult>
             </step>
             <step>
                 <cmd>Close cowl flaps on dead engine.</cmd>
@@ -62,11 +70,11 @@
                     if a fire breaks out.</cmd>
             </step>
             <step>
-                <cmd>Trim&#8212; Trim the plane for hands-off flight. This may seem a complicated
-                    procedure; how- ever, when you have practiced it a few times, when you know
-                    exactly what you are going to do, the entire procedure requires less than 10
-                    seconds.</cmd>
+                <cmd>Trim&#8212; Trim the plane for hands-off flight.</cmd>
             </step>
         </steps>
+        <result id="result_z21_ccp_3gb"> This may seem a complicated procedure; how- ever, when you
+            have practiced it a few times, when you know exactly what you are going to do, the
+            entire procedure requires less than 10 seconds.</result>
     </taskbody>
 </task>

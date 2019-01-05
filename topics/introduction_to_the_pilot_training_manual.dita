@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="introduction_to_the_pilot_training_manual">
     <title>Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25</title>
-    <shortdesc>This manual is the text for your training as a B-25 pilot and airplane
+    <shortdesc>This manual is the text for your training as a <keyword keyref="designator" /> pilot and airplane
         commander.</shortdesc>
     <prolog>
         <critdates>
@@ -21,7 +21,7 @@
             review will not only advance your training, but will alleviate the burden of your
             already overburdened instructors.</p>
         <p>This training manual does not replace the Technical Orders for the airplane, which will
-            always be your primary source of information concerning the B-25 so long as you fly it.
+            always be your primary source of information concerning the <keyword keyref="designator" /> so long as you fly it.
             This is essentially the textbook of the B-25. Used properly, it will enable you to
             utilize the pertinent Technical Orders to even greater advantage.</p>
     </conbody>

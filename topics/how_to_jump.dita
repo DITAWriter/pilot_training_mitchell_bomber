@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_ubw_3cm_fgb">
+<task id="how_to_jump">
     <title>How to Jump</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
-            <p/>
+            <image placement="break" keyref="how_to_jump"/>
         </context>
         <steps>
             <step>

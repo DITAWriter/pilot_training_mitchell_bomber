@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_xbb_lzl_fgb">
+<task id="checklist_prior_to_using_co2_bottle_on_engine_fires">
     <title>Checklist Prior to Using CO<b
             id="docs-internal-guid-bf84ce21-7fff-e521-d821-a3ad523a935b">&lt;sub>2&lt;/sub></b>
         Bottle on Engine Fires</title>
     <shortdesc>An immediate use of your CO<sub>2</sub> bottle will only halt the fire
         momentarily.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
             <p>The danger of fire, other than the natural hazard of the flame, is that the heat may
@@ -16,10 +24,10 @@
         </context>
         <steps>
             <step>
-                <cmd>Gasoline cut-off valves "OFF."</cmd>
+                <cmd>Gasoline cut-off valves "<userinput>OFF</userinput>."</cmd>
             </step>
             <step>
-                <cmd>Prop at "TNC. RPM" to blow out the fire.</cmd>
+                <cmd>Prop at "<userinput>TNC. RPM</userinput>" to blow out the fire.</cmd>
             </step>
             <step>
                 <cmd>Open the throttle.</cmd>
@@ -44,9 +52,11 @@
                             flames.</cmd>
                     </substep>
                 </substeps>
-                <info><note type="warning">Warning: Don't under any circumstances try to restart the
+                <info>
+                    <note type="warning">Warning: Don't under any circumstances try to restart the
                         engine under these conditions. Your CO<sub>2</sub> is exhausted and a
-                        recurrence of the fire will leave you with no defense at all.</note></info>
+                        recurrence of the fire will leave you with no defense at all.</note>
+                </info>
             </step>
         </steps>
     </taskbody>

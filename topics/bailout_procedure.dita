@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_t5m_gbm_fgb">
+<task id="bailout_procedure">
     <title>Bailout Procedure</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
-            <p/>
+            <image placement="break" keyref="emer_exits"/>
         </context>
         <steps>
             <step>
@@ -22,15 +28,20 @@
             </step>
             <step>
                 <cmd>The order in which the crew leaves the plane is as follows:</cmd>
-                <info><p>Forward Hatch:</p><ol>
+                <info>
+                    <p>Forward Hatch:</p>
+                    <ol>
                         <li>Engineer</li>
                         <li>Bombardier-navigator</li>
                         <li>Copilot</li>
                         <li>Pilot</li>
-                    </ol><p>Rear Hatch</p><ol>
+                    </ol>
+                    <p>Rear Hatch:</p>
+                    <ol>
                         <li>Gunner</li>
                         <li>Radio operator.</li>
-                    </ol></info>
+                    </ol>
+                </info>
             </step>
         </steps>
     </taskbody>

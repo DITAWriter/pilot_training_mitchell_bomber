@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_m2y_zsv_dgb">
+<concept id="heating_system">
     <title>Heating System</title>
     <shortdesc>The airplane has two independent heating systems; one for heating the navigator's,
         pilot's, and bombardier's compartments, the other for heating the radio operator's
         compartment and the interior of the fuselage aft of it.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>Each of these two systems has a Stewart-Warner heater burning a mixture of fuel and air.
             The forward heating system will operate only when the left engine is running, and the
@@ -15,8 +21,8 @@
             side of his seat. The air travels from the intake scoop on the leading edge, through the
             heaters, to valve equipped outlets in each forward compartment.</p>
         <p>Controllable cold air scoops are provided for the pilot, copilot, and bombardier.</p>
-        <p>Do not open any of the three escape hatches during flight to obtain ventilation. The drag
-            these open hatches create lowers the efficiency of the plane and in some flight
+        <p><b>Do not open any of the three escape hatches during flight to obtain ventilation.</b>
+            The drag these open hatches create lowers the efficiency of the plane and in some flight
             attitudes will cause unstable flight characteristics,</p>
         <p>A direct control for the aft heater system, mounted on the heater itself, is just aft of
             the lower turret on the left wall of the radio operator's compartment.</p>
@@ -28,7 +34,7 @@
             air when either heater is on or off, respectively, by opening air outlets in the
             compartment. The temperature of the air is regulated by the air temperature control in
             the navigator's compartment, which sets the heater in operation and governs its heat
-            output. Both the air temperature control and the pilot’s air flow control regulate the
+            output. Both the air temperature control and the pilot's air flow control regulate the
             heating and defrosting air simultaneously.</p>
         <p>The first movement of the heater control in the radio operator's compartment actuates a
             micro-switch turning the heater igniter on and starting the blower. Additional movement
@@ -39,6 +45,8 @@
             heater will automatically shut off but will not restart until it has been serviced.</p>
         <note type="warning">When taking off or landing, in order to have full power available,
             heating system must be off.</note>
-
+        <image placement="break" keyref="engine_heating_system">
+            <alt>Engine heating systems</alt>
+        </image>
     </conbody>
 </concept>

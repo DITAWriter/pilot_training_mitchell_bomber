@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="WeightAndBalance">
+    <title>Weight and Balance</title>
+    <shortdesc>The day when a pilot flew by guesswork is past. One by one the decisions that were
+        made by intuition, hunches, and guesswork have been taken over by an orderly system based on
+        knowledge and understanding. Invariably this has resulted in greater safety and operating
+        efficiency.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <image placement="break" keyref="weight_and_balance" id="image_akk_ddv_3gb">
+            <alt>Weight and Balance</alt>
+        </image>
+        <p>In the loading of heavy bombers this is especially true. Ever-changing tactical
+            requirements, calling for more and more complex combinations of cargo, fuel, crew, and
+            armament, have made any but precise, accurate methods too dangerous to consider. This
+            need to get the utmost in efficiency from every flight high- lights the need for precise
+            control of weight and balance.</p>
+        <p>Improper loading, at best, cuts down the efficiency of an airplane. Maneuverability, rate
+            of climb, speed, and ceiling suffer greatly.</p>
+        <p>At its worst, it may mean failure to complete a flight, and sometimes failure even to
+            start a flight, in most cases with a loss of life and destruction of valuable equipment.</p>
+        <image placement="break" keyref="weight_cg" id="image_gft_2dv_3gb"/>
+        <section><title>Overload</title>
+            <image placement="break" keyref="weight_overload" id="image_gyz_gdv_3gb">
+                <alt>Structural failure</alt>
+            </image>
+            <ol id="ol_q34_rcv_3gb">
+                <li>Causes higher stalling speeds.</li>
+                <li>Lowers structural safety Limits.</li>
+                <li>Reduces maneuverability.</li>
+                <li>Increases length of the takeoff run.</li>
+                <li>Lowers the angle and rate of climb.</li>
+                <li>Decreases ceiling.</li>
+                <li>Increases fuel consumption for a given speed.</li>
+                <li>Overloads the tires.</li>
+            </ol></section>
+       <section> <title>CG Too Far Forward</title>
+            <image placement="break" keyref="weight_nose_heavy" id="image_fjt_3dv_3gb">
+                <alt>Nose heavy</alt>
+            </image>
+            <ol id="ol_d4w_rcv_3gb">
+                <li>Increases dives beyond control.</li>
+                <li>Causes unstable, nose-down tendencies when flaps are lowered.</li>
+                <li>Increases difficulty in raising nose on landing.</li>
+                <li>Overloads nosewheel and tire.</li>
+                <li>Increases pilot strain in instrument flying.</li>
+                <li>Dangerous if tail structure is damaged.</li>
+            </ol></section>
+       <section> <title>CG Too Far Aft</title>
+            <image placement="break" keyref="weight_tail_heavy" id="image_t5d_4dv_3gb">
+                <alt>Tail heavy</alt>
+            </image>
+            <ol id="ol_vjd_scv_3gb">
+                <li>Increases stall tendency.</li>
+                <li>Limits low power operation.</li>
+                <li>Decreases speed.</li>
+                <li>Decreases range.</li>
+                <li>Increases pilot strain in instrument flying.</li>
+                <li>Dangerous if tail structure is damaged.</li>
+            </ol></section>
+    </conbody>
+</concept>

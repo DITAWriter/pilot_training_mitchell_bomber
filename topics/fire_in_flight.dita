@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_zjv_s5l_fgb">
+<concept id="fire_in_flight">
     <title>Fire in Flight</title>
     <shortdesc>The deadly enemy of all flyers is fire in the air.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
+        <image placement="break" keyref="fire_in_flight">
+            <alt>Fire in Flight</alt>
+        </image>
         <p>All aircraft fires have three main causes:</p>
         <ol>
             <li>Fire caused by enemy action.</li>

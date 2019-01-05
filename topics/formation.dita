@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="27. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
         </critdates>
     </prolog>
     <conbody>
@@ -21,7 +23,7 @@
         <section>
             <title>Why Fly in Formation?</title>
             <p>Bombardment units fly in formation for mariy reasons, and mutual defense is only one
-                of them. Other reasons are: </p>
+                of them. Other reasons are:</p>
             <ul>
                 <li>Concentrate the power of the attack.</li>
                 <li>Concentrate the power of the defense.</li>
@@ -34,11 +36,11 @@
             <p>The basic formation procedures you have learned remain the same. The difference in
                 tactical training is slight; it is primarily in the accuracy of your technique, and
                 the limitations of your airplane.</p>
-            <p>The B-25 is easy to fly in formation. You need good instruction and plenty of
+            <p>The <keyword keyref="designator" /> is easy to fly in formation. You need good instruction and plenty of
                 practice, however to become competent in the technique.</p>
-            <p>Your main problem is learning the difference between handling the B-25 and a light
+            <p>Your main problem is learning the difference between handling the <keyword keyref="designator" /> and a light
                 training plane. Weight and momentum are your chief concerns.</p>
-            <p><b>The B-25 does not respond instantly to changes in power settings.</b></p>
+            <p><b>The <keyword keyref="designator" /> does not respond instantly to changes in power settings.</b></p>
             <p>You have more than 26,000 lb. to control, and the momentum of thi5 weight must be
                 overcome before the plane responds to changes in power. When applying power, give
                 the plane a chance to respond. Don't be a throttle juggler&#8212;it is not

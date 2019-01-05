@@ -2,18 +2,20 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="duties_and_responsibilites_of_the_airplane_commander">
     <title>Duties and Responsibilites of the Airplane Commander</title>
-    <shortdesc>The commander of the B-25 must be more than a pilot.</shortdesc>
+    <shortdesc>The commander of the <keyword keyref="designator" /> must be more than a pilot.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
         </critdates>
     </prolog>
     <conbody>
         <image keyref="crew_boarding" id="image_yky_4zl_cgb">
             <alt>Air crew, boarding their Mitchell Bomber</alt>
         </image>
-        <p>The commander of the B-25 must be more than a pilot. As his title implies, he must be a
+        <p>The commander of the <keyword keyref="designator" /> must be more than a pilot. As his title implies, he must be a
             leader of men&#8212; a leader in a special sense. He must not train his crew as
             automatons, but as a team which will use initiative and perform its tasks to one end
             only . . . the success of the mission.</p>
@@ -25,7 +27,7 @@
         <p>The second half of the battle consists in knowing your men as individuals as well as
             members of the crew. Do you know where your tail gunner was born? Is your crew chief
             married? What work was your navigator doing before he got in the Army? How does your
-            bombardier like his job on the B-25? </p>
+            bombardier like his job on the <keyword keyref="designator"/>?</p>
         <p>Naturally, you don't ask these questions of your crew as if you were a desk sergeant at
             the night court. If you're going about things the right way, you may never have to ask.
             Your men will volunteer the information. Men always talk about themselves when they're
@@ -70,7 +72,7 @@
                 to warm up his bombsight to prevent fogging at the critical moment?</p>
             <p>You can't know the precise answers to all the questions involved in having your plane
                 ready for action- but you can know most of the important questions. Learn enough
-                about every man’s job so that you can ask the right questions, and you'll find that
+                about every man's job so that you can ask the right questions, and you'll find that
                 your crew will be there with the right answers at the right time.</p>
         </section>
     </conbody>

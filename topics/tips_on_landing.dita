@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_gf3_vl4_dgb">
+<concept id="tips_on_landing">
     <title>Tips On Landing</title>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
         </critdates>
     </prolog>
     <conbody>
@@ -17,8 +19,8 @@
         <p>Use the brakes in accordance with the amount of runway available.</p>
         <p>The speed decreases considerably during the roll. Therefore, emergency operations with
             the brakes can be delayed to prevent damage to the airplane.</p>
-        <p>On slick runways the B-25 is exceedingly difficult to control. Land short, and slow the
-            plane as much as possible without brakes.</p>
+        <p>On slick runways the <keyword keyref="designator"/> is exceedingly difficult to control.
+            Land short, and slow the plane as much as possible without brakes.</p>
         <p>Guard the throttles on all landings to prevent creeping.</p>
         <p>Never apply the brakes until the nosewheel is on the runway.</p>
         <image keyref="cartoon-landing_crash"/>

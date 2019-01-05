@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="reference_afs_wyq_dgb">
+<reference id="power_control_chart_for_grade_91_fuel">
     <title>Power Control Chart for Grade 91 Fuel</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <refbody>
         <table frame="all" rowsep="1" colsep="1" id="table_ypf_czq_dgb">
             <title>Power control settings listed in T. O. 02-1-38:</title>
@@ -42,7 +48,6 @@
             </tgroup>
         </table>
         <section>
-            <title/>
             <note type="remember">These settings are maximum manifold pressure and minimum rpm. To
                 increase the life of your engine^ the following settings are recommended.</note>
         </section>
@@ -104,7 +109,7 @@
         </table>
         <table frame="all" rowsep="1" colsep="1" id="table_qmk_c1r_dgb">
             <title>Cruise</title>
-            <tgroup cols="7">
+            <tgroup cols="5">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
                 <colspec colname="c2" colnum="2" colwidth="1*"/>
                 <colspec colname="c3" colnum="3" colwidth="1*"/>
@@ -165,9 +170,5 @@
                 </tbody>
             </tgroup>
         </table>
-        
-
-
-
     </refbody>
 </reference>

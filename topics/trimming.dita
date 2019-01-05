@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="trimming">
     <title>Trimming</title>
-    <shortdesc>When properly trimmed the B-25 flies with an ease that belies its weight and
+    <shortdesc>When properly trimmed the <keyword keyref="designator" /> flies with an ease that belies its weight and
         size.</shortdesc>
     <prolog>
         <critdates>
@@ -22,7 +22,7 @@
                 in pressures on the controls. If the trim tabs are not adjusted for the varying
                 pressures, the resulting physical strain tires the strongest man in a surprisingly
                 short time.</p>
-            <p><b>Always Keep the B-25 in trim</b></p>
+            <p><b>Always Keep the <keyword keyref="designator" /> in trim</b></p>
             <p>To execute any maneuver properly, you must keep the airplane in trim. Exercise
                 particular care in setting the trim tabs on takeoff.</p>
             <p>Improperly set tabs make control difficult as the speed and lift increase during the

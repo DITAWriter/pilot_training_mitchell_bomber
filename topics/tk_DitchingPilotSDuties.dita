@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="tk_DitchingPilotSDuties">
+    <title>Ditching: Pilot's Duties</title>
+    <shortdesc>Make the decision to ditch.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <context>The rest of the crew must coordinate their duties with those of the pilot. Crew
+            members can practice their duties, and go through a drill, each performing a defined
+            action on a number called by the pilot. For simplification these duties are listed in
+            the order in which they should be done.</context>
+        <steps>
+            <step>
+                <cmd>Warn the crew by alarm bell&#8212; this bell is attached to all positive leads
+                    on the plane. If either battery-disconnect is on and any current remains in the
+                    battery, it will operate. </cmd>
+            </step>
+            <step>
+                <cmd>Use the interphone&#8212; get an acknowledgment from each crew member. </cmd>
+            </step>
+            <step>
+                <cmd>Turn IFF to "<userinput>EMERGENCY</userinput>"</cmd>
+            </step>
+            <step>
+                <cmd>Check the fuselage tanks and bombs, and salvo if necessary. Close the bomb bay
+                    doors&#8212; they must not be open for the landing.</cmd>
+            </step>
+            <step>
+                <cmd>Landing gear up&#8212; check it! </cmd>
+            </step>
+            <step>
+                <cmd>Get wind direction and velocity from navigator. </cmd>
+            </step>
+            <step>
+                <cmd>Signal copilot to lower flaps as required. </cmd>
+            </step>
+            <step>
+                <cmd>Notify crew to brace for the impact (interphone or bell). </cmd>
+            </step>
+            <step>
+                <cmd>Cut mixture, cut switches just prior to landing. Leave battery-disconnect
+                    switches "<userinput>ON</userinput>."</cmd>
+            </step>
+            <step>
+                <cmd>Notify navigator to cut gas supply, unless gas cut-off switches are in the
+                    pilot's cockpit.</cmd>
+            </step>
+            <step>
+                <cmd>Give alarm bell signal to abandon plane after landing.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

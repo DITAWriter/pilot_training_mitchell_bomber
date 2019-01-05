@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_cyx_1p3_ggb">
+<concept id="gunnery_missions">
     <title>Gunnery Missions</title>
     <shortdesc>In this and all ensuing gunnery missions when both ground and water targets are used,
         extreme care must be exercised to see that the field of fire is clear of other
         planes.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
         <simpletable frame="all" relcolwidth="1* 1* 1* 1*" id="simpletable_ehw_nq3_ggb">
             <strow>
@@ -15,7 +21,7 @@
                     <p>(Bridge over X River)</p>
                 </stentry>
                 <stentry>39 Miles</stentry>
-                </strow>
+            </strow>
             <strow>
                 <stentry>33°38'N; 80°32'W</stentry>
                 <stentry>To</stentry>
@@ -53,5 +59,6 @@
                 <stentry>172 Miles</stentry>
             </strow>
         </simpletable>
+        <image placement="break" keyref="B-25_typical_missions" id="image_gxl_21w_3gb"/>
     </conbody>
 </concept>

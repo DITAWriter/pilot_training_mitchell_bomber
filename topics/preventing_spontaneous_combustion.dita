@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_jxr_k1m_fgb">
+<concept id="preventing_spontaneous_combustion">
     <title>Preventing Spontaneous Combustion</title>
     <shortdesc>A good, clean airplane prevents spontaneous combustion.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
         <p>Clean off all oil and gas whenever it gets on, or in, a plane. Oily rags, etc., must not
             be allowed to accumulate. To combat such fires close off the compartment in which they
@@ -14,7 +22,7 @@
             localized.</p>
         <p>On late-series planes automatic circuit breakers replace the fuses. Excessive heat breaks
             the electrical contacts and disconnects the source of trouble.</p>
-        <p>If flames are visible do not reset the cut-outs.</p>
+        <p><b>If flames are visible do not reset the cut-outs.</b></p>
         <p>To combat fire caused by enemy action use the techniques described above, depending, of
             course, on where they start.</p>
     </conbody>

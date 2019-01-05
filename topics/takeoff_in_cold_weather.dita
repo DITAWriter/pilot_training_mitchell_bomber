@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_ovb_z5s_dgb">
+<task id="takeoff_in_cold_weather">
     <title>Takeoff in Cold Weather</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
-            <note type="warning">Your cabin heaters must be "OFF" before takeoff.</note>
+            <note type="warning">Your cabin heaters must be "<userinput>OFF</userinput>" before
+                    takeoff.<image placement="break" href="../images/preflight_cabin_heaters.png"
+                /></note>
         </context>
         <steps>
             <step>
@@ -16,13 +24,16 @@
                     surfaces.</cmd>
             </step>
             <step>
-                <cmd>In ordinary operation, carburetor air controls should be in "NORMAL" for
-                    takeoff. In extremely cold weather, however, it is often advisable to place
-                    carburetor air control in "ICING" during takeoff to insure proper fuel
+                <cmd>In ordinary operation, carburetor air controls should be in
+                        "<userinput>NORMAL</userinput>" for takeoff. In extremely cold weather,
+                    however, it is often advisable to place carburetor air control in
+                        "<userinput>ICING</userinput>" during takeoff to insure proper fuel
                     vaporization.</cmd>
-                <info><note>(You will seldom find these extreme conditions in the continental United
+                <info>
+                    <note>(You will seldom find these extreme conditions in the continental United
                         States. In arctic zones, consult experienced pilots before employing this
-                        procedure.)</note></info>
+                        procedure.)</note>
+                </info>
             </step>
         </steps>
     </taskbody>

@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_ovn_rzj_fgb">
+<task id="wing_flap_emergency_lowering_system">
     <title>Wing Flap Emergency Lowering System</title>
-    <shortdesc>In the event of complete failure of the main hydraulic system, an emergency
+    <shortdesc>In the event of <b>complete</b> failure of the main hydraulic system, an emergency
         mechanical flap lowering mechanism is available.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
             <p>It is important to remember to use the emergency mechanism only when the hydraulic
-                system failure is complete, as the two systems oppose each other. Use of the
+                system failure is <b>complete</b>, as the two systems oppose each other. Use of the
                 emergency system while hydraulic pressure is still available will seriously damage
                 the mechanical system.</p>
             <p>The emergency mechanism is in the radio compartment. Be sure the interphone
@@ -15,14 +23,14 @@
                 effective.</p>
             <p>Before entering the traffic pattern it is advisable to lower partial flaps. This
                 enables you to get desired amount of flaps earlier on the final approach.</p>
-            <p>Operation:</p>
+            <p><b>Operation</b></p>
         </context>
         <steps>
             <step>
                 <cmd>Reduce airspeed below 150 mph.</cmd>
             </step>
             <step>
-                <cmd>Move pilot's flap control "DOWN."</cmd>
+                <cmd>Move pilot's flap control "<userinput>DOWN</userinput>."</cmd>
             </step>
             <step>
                 <cmd>Remove hand crank from stowage position on forward wall of radio compartment
@@ -34,13 +42,16 @@
             </step>
             <step>
                 <cmd>To lock flaps in position, remove the crank.</cmd>
-                <info><note>If go-around is necessary, turn crank counterclockwise to full stop
+                <info>
+                    <note>If go-around is necessary, turn crank counterclockwise to full stop
                         position. (This operation does not raise the flaps, but releases the
-                        pressure on them and the force of the slipstream raises them.)</note><note
-                        type="warning">Before operating the flaps hydraulically again, be sure that
-                        your mechanical system is fully disengaged. To disengage, rotate crank
+                        pressure on them and the force of the slipstream raises them.)</note>
+                    <note type="warning">Before operating the flaps hydraulically again, be sure
+                        that your mechanical system is fully disengaged. To disengage, rotate crank
                         counter-clockwise until checked. Remove crank and return to its stowage
-                        position.</note></info>
+                        position.</note>
+                    <image placement="break" keyref="emerg_flap_lower"/>
+                </info>
             </step>
         </steps>
     </taskbody>

@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_g1b_kyg_fgb">
+<task id="single_engine_trouble_search">
     <title>Single Engine Trouble Search</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
-        <context>
-            <p/>
-        </context>
         <steps>
             <step>
                 <cmd>First&#8212; Switch the vacuum selector to the good engine to get accurate

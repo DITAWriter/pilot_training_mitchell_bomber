@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_shy_yfp_dgb">
+<concept id="emergency_systems">
     <title>Emergency Systems</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
-        <p></p>
+        <p/>
     </conbody>
 </concept>

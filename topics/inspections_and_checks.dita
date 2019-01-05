@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
         </critdates>
     </prolog>
     <conbody>
@@ -49,7 +51,7 @@
                 and tension (40 lb.). Spring tension closes this door when the airplane is in
                 flight. If it closes improperly the slip-stream forces it open, and the resulting
                 air blast may tear it of! and damage other parts of the airplane.</p><p>Nose hood
-                locked and safetied (B-25 G, H, and TB-25).</p><p>Check engine fire extinguisher
+                locked and safetied (<keyword keyref="designator" /> G, H, and TB-25).</p><p>Check engine fire extinguisher
                 fuse if installed.</p></section>
         <section><title>Right Engine Section</title><p>Carburetor air scoop cover
                 removed.</p><p>Propeller for nicks, propeller dome and governor for
@@ -129,12 +131,12 @@
                 keyref="preflight_cabin_heaters">
                 <alt>Preflight cabin heaters to &quot;OFF&quot;</alt>
             </image><p>Check the load and balance of the ship. Check Form F with the load adjuster.
-                The B-25 carries great loads and is unstable and dangerous if the weight is not
+                The <keyword keyref="designator" /> carries great loads and is unstable and dangerous if the weight is not
                 properly distributed. (For detailed information, see the PIF and the Weights and
                 Balance section of this manual.)</p></section>
         <section><title>Cockpit</title><p>Have your parachute fitted to your body and always wear
                 it.</p><p>An improperly fitted chute will cause serious physical injury&#8212;
-                protect yourself,</p><p>Adjust seat and belt&#8212;If the seat is not locked the
+                protect yourself.</p><p>Adjust seat and belt&#8212;If the seat is not locked the
                 acceleration of takeoff will force the seat away from the controls. You cannot reach
                 the controls properly even for taxiing if the seat is not forward and
                 locked.</p><p>Escape hatch unlocked, hatch secure.</p><p>Controls unlocked, check
@@ -146,13 +148,13 @@
             </image><image keyref="preflight_controls">
                 <alt>Check controls for free and proper movement</alt>
             </image><p>Hydraulic selector "NORMAL." Air brake handle down and safetied. Landing gear
-                handle "DOWN" and locked. Wing flaps up, controls neutral. Cowl flaps open,
-                controls neutral. Set all hydraulic controls except landing gear at neutral when
-                they are not in use; this prevents loss of fluid and pressure in the entire system
-                if part of it fails.</p><p>Automatic pilot "OFF" and locked. Supercharger "LOW
-                BLOWER" and locked. All takeoffs must he made in "XOW BLOWER." Any attempt to do
-                otherwise robs the engines of power.</p><p>Oil shutters as required. Carburetor heat
-                "NORMAL"</p><image keyref="preflight_throttles">
+                handle "DOWN" and locked. Wing flaps up, controls neutral. Cowl flaps open, controls
+                neutral. Set all hydraulic controls except landing gear at neutral when they are not
+                in use; this prevents loss of fluid and pressure in the entire system if part of it
+                fails.</p><p>Automatic pilot "OFF" and locked. Supercharger "LOW BLOWER" and locked.
+                All takeoffs must he made in "XOW BLOWER." Any attempt to do otherwise robs the
+                engines of power.</p><p>Oil shutters as required. Carburetor heat "NORMAL"</p><image
+                keyref="preflight_throttles">
                 <alt>Preflight throttles</alt>
             </image><p>Throttles cracked (V2 inch to 1 inch).</p><p>Propellers "INC.
                 RPM."</p><p>Mixture "IDLE CUT-OFF."</p><p>Radios "OFF."</p><p>De-icers

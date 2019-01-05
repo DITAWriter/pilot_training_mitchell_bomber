@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_kfg_p5m_fgb">
+<task id="formation_bombing">
     <title>Formation Bombing</title>
     <shortdesc>This is a day, 6-ship formation bombing mission.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
-            <p/>
+            <image placement="break" keyref="formation_bombing">
+                <alt>Formation bombing</alt>
+            </image>
         </context>
         <steps>
             <step>
@@ -24,8 +32,8 @@
             <step>
                 <cmd>Flight leader should have an approximate power setting of 32" MP at 2200 rpm.
                     Climb will continue on course until an altitude of 10,000 feet is obtained. High
-                    blower will not be used and all ships will keep mixture controls in "FULL RICH"
-                    position.</cmd>
+                    blower will not be used and all ships will keep mixture controls in
+                        "<userinput>FULL RICH</userinput>" position.</cmd>
             </step>
             <step>
                 <cmd>Upon reaching the desired altitude, the leader will assume that anti-aircraft
@@ -61,9 +69,9 @@
                     </substep>
                     <substep>
                         <cmd>Wing ships will open bomb bay doors immediately upon seeing doors of
-                            lead ship open, and bombs will be dropped on the lead ship, The
-                            Bombardier-Navigator must be quick in releasing bombs after he sees the
-                            first bomb Ieave the lead ship.</cmd>
+                            lead ship open, and bombs will be dropped on the lead ship, <b>The
+                                Bombardier-Navigator must be quick in releasing bombs after he sees
+                                the first bomb Ieave the lead ship.</b></cmd>
                     </substep>
                     <substep>
                         <cmd>Caution must be used by the lead ship at all times. Turns and maneuvers

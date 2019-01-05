@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
         </critdates>
     </prolog>
     <conbody>
@@ -88,7 +90,7 @@
             <title>Post-flight Critique</title>
             <p>After every flight, get together with the navigator and discuss the flight and
                 compare notes.</p>
-            <p>Go over the navigator’s log. If there have been serious navigational errors, discuss
+            <p>Go over the navigator's log. If there have been serious navigational errors, discuss
                 them with the navigator and determine their cause. If the navigator is at fault,
                 caution him that it is his job to see that the same mistake does not occur again. If
                 faulty instruments have caused the error, see that they are corrected before
@@ -134,7 +136,7 @@
                 bombardier to do his job, you must place the airplane in the proper position to
                 arrive at a point from which he can release his bombs to hit the target.</p><image
                 keyref="bomb_drop" id="image_xgf_2bm_cgb">
-                <alt>B-25 dropping bombs</alt>
+                <alt><keyword keyref="designator" /> dropping bombs</alt>
             </image><p>Unless the pilot performs his part of the bombing run correctly, even the
                 best bombardier in the world cannot bomb accurately.</p></section>
     </conbody>

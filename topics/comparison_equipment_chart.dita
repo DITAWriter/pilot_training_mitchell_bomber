@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="reference_f4h_r5h_cgb">
+<reference id="comparison_equipment_chart">
     <title>Comparison Equipment Chart</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <refbody>
         <table frame="all" rowsep="1" colsep="1" id="table_bkf_y5h_cgb">
             <title>Comparison Equipment Chart</title>
@@ -38,42 +44,43 @@
                     <row>
                         <entry/>
                         <entry>One .50-cal. fixed gun</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                         <entry/>
-                        <entry>*</entry>
+                        <entry><fn id="InAirplane">In Airplane</fn></entry>
                     </row>
                     <row>
                         <entry/>
                         <entry>Two .50-cal. fixed guns</entry>
                         <entry/>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita"
+                                scope="local"/></entry>
                         <entry/>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry/>
                         <entry>Four .50-cal. fixed guns</entry>
                         <entry/>
                         <entry/>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                     </row>
                     <row>
                         <entry/>
                         <entry>One .50-cal. flexible gun</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                         <entry/>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry/>
                         <entry>Bombing controls &amp; equipment</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                         <entry/>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry namest="c1" nameend="c2"><b
@@ -87,20 +94,20 @@
                     <row>
                         <entry/>
                         <entry>
-                            <p dir="ltr">Pilot’s and copilot’s controls</p>
+                            <p dir="ltr">Pilot's and copilot's controls</p>
                         </entry>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry/>
                         <entry>75-mm cannon &amp;amp; mount</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                         <entry/>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry/>
@@ -108,8 +115,8 @@
                             <p dir="ltr">Drift meter</p>
                         </entry>
                         <entry/>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                     </row>
                     <row>
@@ -117,21 +124,21 @@
                         <entry>Bombing controls &amp;amp; equipment</entry>
                         <entry/>
                         <entry/>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry/>
                         <entry>Astrocompass &amp;amp; mount</entry>
                         <entry/>
                         <entry/>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry namest="c1" nameend="c2"><b
                                 id="docs-internal-guid-9524595d-7fff-b14c-54b1-a5fa88e00563"
-                                >Navigator’s Compartment</b></entry>
+                                >Navigator's Compartment</b></entry>
                         <entry/>
                         <entry/>
                         <entry/>
@@ -140,8 +147,8 @@
                     <row>
                         <entry/>
                         <entry>Navigator’s table &amp;amp; equipment</entry>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                         <entry/>
                     </row>
@@ -149,8 +156,8 @@
                         <entry/>
                         <entry>75-mm. Cannon storage</entry>
                         <entry/>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                     </row>
                     <row>
@@ -158,38 +165,38 @@
                         <entry>50-cal. supply for blister guns</entry>
                         <entry/>
                         <entry/>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry/>
                         <entry>Four .50-cal. blister guns</entry>
                         <entry/>
                         <entry/>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry/>
                         <entry>Upper turret (two .50-cal. guns)</entry>
                         <entry/>
                         <entry/>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry/>
                         <entry>Drift meter</entry>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                         <entry/>
                     </row>
                     <row>
                         <entry/>
                         <entry>Astrocompass &amp;amp; mount</entry>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                         <entry/>
                     </row>
@@ -205,8 +212,8 @@
                     <row>
                         <entry/>
                         <entry>Upper turret (two .50-cal. guns)</entry>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                         <entry/>
                     </row>
@@ -215,29 +222,29 @@
                         <entry>Waist guns (two .50-cal. guns)</entry>
                         <entry/>
                         <entry/>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry/>
                         <entry>Camera &amp;amp; mounting brackets</entry>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                         <entry/>
                     </row>
                     <row>
                         <entry/>
                         <entry>Liaison radio</entry>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry namest="c1" nameend="c2"><b
                                 id="docs-internal-guid-59bc27b9-7fff-7621-f64c-54708dc08c13">Camera
-                                &amp;amp; Ammunition Compartment</b></entry>
+                                &amp; Ammunition Compartment</b></entry>
                         <entry/>
                         <entry/>
                         <entry/>
@@ -246,8 +253,8 @@
                     <row>
                         <entry/>
                         <entry>Camera &amp;amp; mounting brackets</entry>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                         <entry/>
                     </row>
@@ -256,14 +263,14 @@
                         <entry>.50-cal. supply for tail guns</entry>
                         <entry/>
                         <entry/>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry/>
                         <entry>Chemical toilet</entry>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                         <entry/>
                     </row>
@@ -283,23 +290,19 @@
                         </entry>
                         <entry/>
                         <entry/>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                     </row>
                     <row>
                         <entry/>
                         <entry>Observation floor</entry>
-                        <entry>*</entry>
-                        <entry>*</entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
+                        <entry><xref href="#comparison_equipment_chart/InAirplane" format="dita" scope="local"/></entry>
                         <entry/>
                         <entry/>
                     </row>
                 </tbody>
             </tgroup>
         </table>
-        <section>
-            <title/>
-            <p>* - In Airplane</p>
-        </section>
     </refbody>
 </reference>

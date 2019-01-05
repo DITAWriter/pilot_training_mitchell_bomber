@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="reference_pns_z1r_dgb">
-    <title>Maximum Range Chart For B-25 C, D, &amp;amp; G Aircraft</title>
+<reference id="maximum_range_chart_for_b_25_c_d_and_g_aircraft">
+    <title>Maximum Range Chart For <keyword keyref="designator"/> C, D, &amp; G Aircraft</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <refbody>
         <table frame="all" rowsep="1" colsep="1" id="table_j1g_fbr_dgb">
-            <title>Maximum Range Chart for B-25 C, D, &amp;amp; G Aircraft</title>
+            <title>Maximum Range Chart for <keyword keyref="designator"/> C, D, &amp; G
+                Aircraft</title>
             <tgroup cols="9">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
                 <colspec colname="c2" colnum="2" colwidth="1*"/>
@@ -147,7 +154,6 @@
             </tgroup>
         </table>
         <section>
-            <title/>
             <note>Climb at 2400 rpm, 38" Hg at 155 IAS. Fuel Consumption for Takddff and Climbs:
                     <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_dnj_kcr_dgb">
                     <strow>
@@ -156,6 +162,5 @@
                     </strow>
                 </simpletable></note>
         </section>
-
     </refbody>
 </reference>

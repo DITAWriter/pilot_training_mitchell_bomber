@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_sjf_lm4_dgb">
+<concept id="making_a_go_around">
     <title>Making a Go-Around</title>
     <shortdesc>There is a common reluctance among pilots to go around. They feel it implies a lack
         of ability to meet an unusual situation.</shortdesc>
@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
         </critdates>
     </prolog>
     <conbody>

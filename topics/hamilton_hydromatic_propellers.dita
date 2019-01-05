@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="hamilton_hydromatic_propellers">
     <title>Hamilton Hydromatic Propellers</title>
-    <shortdesc>The Hamilton hydromatic propellers of the B-25 are hydraulically operated. </shortdesc>
+    <shortdesc>The Hamilton hydromatic propellers of the <keyword keyref="designator" /> are hydraulically operated. </shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

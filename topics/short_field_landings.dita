@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_q3p_nrg_fgb">
+<concept id="short_field_landings">
     <title>Short-Field Landings</title>
     <shortdesc>You have all heard a lot of discussion on the importance of accurate short-field
         landings. Combat requires that you be able to operate under conditions that are close to the
         absolute limit of the airplane's performance.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
+        <image placement="break" keyref="landing_short_field">
+            <alt>Short-field landings</alt>
+        </image>
         <p>But even at home, if you took off this afternoon and the hydraulic system failed in
             flight, you would have a perfect example of the necessity for short-field landings in
             everyday flying. You would have to make an accurate short-field landing to be sure that
@@ -24,7 +35,7 @@
         <ol>
             <li>Place the base leg farther from the field than normal.</li>
             <li>Establish a normal full-flap glide.</li>
-            <li>Undershoot the field.</li>
+            <li><b>Undershoot the field.</b></li>
             <li>Hold the usual speed to the roundout and gradually pull up the nose, increase the
                 power and go directly into slow flying.</li>
         </ol>
@@ -37,7 +48,7 @@
         <p>Remember&#8212; You are deliberately flying toward a chosen point of landing at
             approximately power-off stalling speed. When power is cut, you must be ready to
             land.</p>
-        <p>For the field with obstructions;</p>
+        <p>For the field with obstructions:</p>
         <p>The type of approach you just made is obviously impractical for this landing.</p>
         <ol>
             <li>Establish a normal full-flap power glide.</li>
@@ -54,8 +65,8 @@
         <note type="caution">Do not use a dragging approach. Study the diagrams carefully and use
             them in your planning.</note>
         <p>Maintain at all times on the approach a speed not less than the power-off stalling speed
-            of your plane. The exaggerated attitude of the B-25 at lower speeds makes recovery
-            difficult.</p>
+            of your plane. The exaggerated attitude of the <keyword keyref="designator"/> at lower
+            speeds makes recovery difficult.</p>
         <p>In this type of maneuver, don't cut your power suddenly. The plane stops flying and
             starts falling when the power is completely cut. If the power is reduced gradually, the
             airplane slowly settles down to a soft, short landing.</p>
@@ -75,7 +86,12 @@
                     in. This is extremely dangerous with the B-25.</li>
                 <li>Poor coordination of throttle and airspeed.</li>
             </ul>
+            <image placement="break" keyref="landing_approach_no_obstruct">
+                <alt>Approach without obstructions</alt>
+            </image>
+            <image placement="break" keyref="landing_approach_with_obstructs">
+                <alt>Approach over obstructions</alt>
+            </image>
         </section>
-
     </conbody>
 </concept>

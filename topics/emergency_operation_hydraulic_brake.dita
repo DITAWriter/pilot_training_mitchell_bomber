@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_zv3_ljk_fgb">
+<task id="emergency_operation_hydraulic_brake">
     <title>Emergency Operation-Hydraulic Brake</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <taskbody>
         <context>
-            <p>Before landings if there is less than 1000 lb. pressure indicated on the brake system
-                pressure gage:</p>
+            <p><image placement="break" keyref="emerg_hydraulic_brake">
+                    <alt>Emergency hydraulic selector valve</alt>
+                </image>Before landings if there is less than 1000 lb. pressure indicated on the
+                brake system pressure gage:</p>
         </context>
         <steps>
             <step>
-                <cmd>Turn hydraulic selector valve to "BRAKE."</cmd>
+                <cmd>Turn hydraulic selector valve to "<userinput>BRAKE</userinput>."</cmd>
             </step>
             <step>
                 <cmd>Operate the hand pump until indicator shows 1000 lb. sq. in. minimum and no

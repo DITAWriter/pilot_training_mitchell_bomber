@@ -1,26 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_fjm_b2m_fgb">
+<concept id="ditching">
     <title>Ditching</title>
     <shortdesc>With the tactical needs of World War II calling for the operation of land planes over
         vast stretches of water, airmen faced a new hazard: ditching&#8212; the forced landing of
         land planes at sea.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
     <conbody>
+        <image placement="break" keyref="ditching">
+            <alt>Ditching</alt>
+        </image>
         <p>From the analysis of actual ditching reports, plus the results of tests made with scale
             models, there has come a body of information so comprehensive that today ditching is a
             matter of tried and proven procedure.</p>
         <p>Like any procedure, it must be practiced to be effective. Safeguard yourself and your
             crew by consistent practice.</p>
-        <p>Successful ditching depends on the speed and efficiency with which each crew member
-            carries out his duties, and on the coordination of all efforts.</p>
+        <p><b>Successful ditching depends on the speed and efficiency with which each crew member
+                carries out his duties, and on the coordination of all efforts.</b></p>
         <p>The two major factors which may necessitate ditching your airplane are lack of fuel and
             mechanical failure. It is well to bear in mind, however, that many ditchings have been
             avoided by thorough knowledge of the airplane and its characteristics under all
-            conditions. </p>
+            conditions.</p>
         <section>
             <title>When to Ditch</title>
-            <p>Start preparation for ditching as soon as you feel the slightest doubt that your
-                mission will be completed successfully.</p>
+            <p><b>Start preparation for ditching as soon as you feel the slightest doubt that your
+                    mission will be completed successfully.</b></p>
             <p>You are responsible for the welfare of your crew. It is your duty to see that they
                 are prepared well in advance of the actual ditching.</p>
             <p>Do not delay your decision too long. Your crew must have as much time as possible to
@@ -29,26 +38,29 @@
         </section>
         <section>
             <title>Radio Procedure</title>
-            <p>Start emergency radio procedure immediately. Your best chance for rescue lies in
-                correct and speedy radio procedure before ditching. Radio operator and pilot must
+            <p><b>Start emergency radio procedure immediately.</b> Your best chance for rescue lies
+                in correct and speedy radio procedure before ditching. Radio operator and pilot must
                 fully understand the specific radio procedure in their particular theater of
                 operations.</p>
             <p>If you transmit distress signals that you are ditching, but are lucky enough to make
                 land, be sure to notify the Air-Sea Rescue Unit as soon as possible to avoid danger
                 and loss of time (or other crews who may be out searching for you.</p>
+            <image placement="break" keyref="radio_sos"/>
         </section>
         <section>
             <title>Prepare the Plane</title>
-            <p>When ditched, the B-25 loses its forward speed after the second impact in slightly
-                more than its own length. This sudden deceleration makes deadly missiles of all
-                loose objects in the airplane, Jettison loose equipment. Also jettison all objects
-                likely to be torn loose by the impact. Lightening the plane reduces the landing
-                speed and lessens the impact. Get rid of oxygen walk-around bottles, kitbags, extra
-                sidcarms, cargo. Strip turrets of ammunition, dismantle and jettison guns and radio
-                sets mounted over the bomb bay. Save at least one parachute for each raft. The silk
-                and shroud lines will prove handy in the raft for sail, cover, and extra line.</p>
+            <p>When ditched, the <keyword keyref="designator"/> loses its forward speed after the
+                second impact in slightly more than its own length. This sudden deceleration makes
+                deadly missiles of all loose objects in the airplane. <b>Jettison loose
+                    equipment.</b> Also jettison all objects likely to be torn loose by the impact.
+                Lightening the plane reduces the landing speed and lessens the impact. Get rid of
+                oxygen walk-around bottles, kitbags, extra sidcarms, cargo. Strip turrets of
+                ammunition, dismantle and jettison guns and radio sets mounted over the bomb bay.
+                Save at least one parachute for each raft. The silk and shroud lines will prove
+                handy in the raft for sail, cover, and extra line.</p>
             <p>Salvo bombs and the fuselage tank if it is more than half full. If fuselage tank is
                 less than half full, keep it in the plane for added buoyancy.</p>
+            <image placement="break" keyref="jettison_loose_equip"/>
             <p>Once the plane is in the water, only the emergency kits and signaling devices are
                 valuable to you. Collect Very cartridges, pistol, smoke flares, all signaling
                 devices and keep them on your person. Don't hesitate to throw out everything else
@@ -57,9 +69,12 @@
             <p>Drop all equipment through the lower and side hatches. Be careful to avoid damage to
                 tail surfaces.</p>
             <p>Before the landing, close all bottom hatches. Leave the right side hatch open to
-                prevent jamming on impact. If there is not enough time to salvo bombs and fuselage
-                tank (30 seconds), keep the bomb bay doors closed. Open the pilot's escape hatch
-                only when below 1000 feet. Open hatches create drag. Prepare the Crew</p>
+                prevent jamming on impact. <b>If there is not enough time to salvo bombs and
+                    fuselage tank (30 seconds), keep the bomb bay doors closed.</b> Open the pilot's
+                escape hatch only when below 1000 feet. Open hatches create drag. </p>
+        </section>
+        <section>
+            <title>Prepare the Crew</title>
             <p>Remove all entangling cords and lines, parachute harness, radio cords, oxygen masks
                 when below 12,000 feet, and throat microphones- Remove flying boots. Wear all other
                 clothing, regardless of temperature. Loosen the clothing about your neck,
@@ -69,11 +84,11 @@
             <p>Accomplish your prearranged duties and go to your ditching station at once. Remain
                 there until the landing is completed. Moving around unnecessarily will change the
                 trim of the plane and make the pilot's job more difficult.</p>
-            <p>Fasten all safety belts and harness before the landing. Use your headsets and mike at
-                your ditching station but do not fasten them to your body.</p>
-            <p>Above all, remain in your ditching station until the plane has stopped moving. More
-                men are injured during the deceleration than at any other time. Terrific forces are
-                generated then; the human body cannot absorb these forces if it is not
+            <p><b>Fasten all safety belts and harness before the landing.</b> Use your headsets and
+                mike at your ditching station but do not fasten them to your body.</p>
+            <p><b>Above all, remain in your ditching station until the plane has stopped moving.</b>
+                More men are injured during the deceleration than at any other time. Terrific forces
+                are generated then; the human body cannot absorb these forces if it is not
                 protected.</p>
         </section>
         <section>
@@ -82,11 +97,11 @@
             <p>Copilot - in his seat, seat full back and locked to provide easy access to the escape
                 hatch. If his seat is forward it may block the exit of the entire crew. On
                 late-series planes with low-backed copilot's seat, it can be full forward. Copilot
-                braces with his hands on the rubber crash ring on the instrument panel. Keep elbows
-                flexed.</p>
+                braces with his hands on the rubber crash ring on the instrument panel.<b> Keep
+                    elbows flexed.</b></p>
             <p>Engineer&#8212;behind the pilot's seat, facing the rear of the plane, braced and
                 cushioned.</p>
-            <p>Navigator&#8212; on the floor of the navigator’s compartment, facing aftj braced and
+            <p>Navigator&#8212; on the floor of the navigator's compartment, facing aft, braced and
                 cushioned.</p>
             <p>Radio operator&#8212;on his seat, back against the bomb bay wall, safety belt
                 fastened.</p>
@@ -97,6 +112,7 @@
                 the hands across the base of the skull, pulling down firmly against the neck
                 muscles. It has been found that the body in this position will absorb shocks far
                 greater than those encountered in ditching.</p>
+            <image placement="break" keyref="brace"/>
         </section>
     </conbody>
 </concept>
