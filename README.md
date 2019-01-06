@@ -1,12 +1,17 @@
 # pilot_training_mitchell_bomber
 A DITA-fied version of the Pilot Training Manual for the Mitchell Bomber B-25
 
-This is a placeholder for a version of the original Pilot Training Manual for the Mitchell Bomber (B-25) that will be converted over to DITA 1.3.
-Some of the things this manual will showcase:
-- provide a sample avaiation document based in DITA
+This is an ongoing project to convert the original Pilot Training Manual for the Mitchell Bomber (B-25) to DITA 1.3, designed to provide a sample aviation document that has been optimized using DITA best practices.
+
+Some of the things this manual will showcase when complete:
 - implement a keystore containing keys of commonly-used features
 - a key-based image repository
+- common phrases rendered in conrefs
 - include acronym elements to spell out inline terms
+- topics fully indexed
 - keyword elements to be used in an appendix
 
-At the time of writing (December 2018) this project is in the early stages, and not yet ready for prime time. Watch this space!
+
+At the time of writing (January 2018) this project is now content- and image-complete, but still has some way to go. 
+
+Much thanks to Scott Hudson for his considerable contributions to this project.
