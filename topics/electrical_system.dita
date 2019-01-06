@@ -8,10 +8,21 @@
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>electrics</indexterm>
+                <indexterm>electrical system</indexterm>
+                <indexterm>electrical power</indexterm>
+                <indexterm>nacelle</indexterm>
+                <indexterm>generator</indexterm>
+                <indexterm>inverter</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
-        <p>The electrical power which operates and controls the various units of the <keyword keyref="designator" /> is
-            supplied by 2 generators, supplemented by 2 storage batteries connected in parallel.</p>
+        <p>The electrical power which operates and controls the various units of the <keyword
+                keyref="designator"/> is supplied by 2 generators, supplemented by 2 storage
+            batteries connected in parallel.</p>
         <p>The batteries, behind the firewall in each nacelle, furnish 24-volt current to the
             electrical equipment when the generators are not operating.</p>
         <image keyref="storage_battery" id="image_cp2_y3m_cgb">

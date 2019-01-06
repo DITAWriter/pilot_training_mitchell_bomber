@@ -3,6 +3,13 @@
 <concept id="concept_emf_kx4_dgb">
     <title>Common Go-Around Errors</title>
     <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>go-around</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <conbody>
         <ul>
             <li>A reluctance to go around or failure to anticipate the necessity.</li>

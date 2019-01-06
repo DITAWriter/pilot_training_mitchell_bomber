@@ -8,6 +8,13 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>dual ignition system</indexterm>
+                <indexterm>ignition system</indexterm>
+                <indexterm>magneto</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>The ignition system, except for the induction vibrator coil, is independent of all other

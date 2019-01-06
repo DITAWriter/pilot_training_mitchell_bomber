@@ -2,14 +2,22 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="automatic_pilot">
     <title>Automatic Pilot</title>
-    <shortdesc>Most <keyword keyref="designator" /> aircraft have A-3 or A-3A autopilots which operate on a pneumatic-hydraulic
-        principle. They fly the airplane automatically in straight and level flight and make the
-        necessary corrections for holding a given course or altitude. </shortdesc>
+    <shortdesc>Most <keyword keyref="designator"/> aircraft have A-3 or A-3A autopilots which
+        operate on a pneumatic-hydraulic principle. They fly the airplane automatically in straight
+        and level flight and make the necessary corrections for holding a given course or altitude. </shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>autopilot</indexterm>
+                <indexterm>automatic pilot</indexterm>
+                <indexterm>A-3 autopilot</indexterm>
+                <indexterm>A-3A autopilot</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image keyref="auto_pilot" id="image_r4j_1km_cgb">

@@ -3,6 +3,13 @@
 <task id="task_npr_drl_cgb">
     <title>Raising the Wheels Once Airborne</title>
     <shortdesc>When the airplane is definitely airborne, raise the wheels.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>raising wheels</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <taskbody>
         <context>
             <p>Be sure there is no possibility of further contact with the ground. Good airplanes

@@ -9,6 +9,14 @@
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>fuel system</indexterm>
+                <indexterm>fuel cell</indexterm>
+                <indexterm>nacelle</indexterm>
+                <indexterm>fuselage tank</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>The main fuel supply is carried in 4 large fuel cells, 2 in each wing center section

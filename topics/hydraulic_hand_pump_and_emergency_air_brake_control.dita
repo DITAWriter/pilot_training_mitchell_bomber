@@ -9,6 +9,12 @@
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>hydraulic hand pump</indexterm>
+                <indexterm>emergency air brake</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <refbody>
         <section>

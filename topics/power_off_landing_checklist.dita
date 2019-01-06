@@ -3,6 +3,15 @@
 <task id="task_ij1_tk4_dgb">
     <title>Power-Off Landing Checklist</title>
     <shortdesc>Make a power-off approach and landing as follows:</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>checklist</indexterm>
+                <indexterm>landing</indexterm>
+                <indexterm>power-off</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <taskbody>
         <context/>
         <steps>

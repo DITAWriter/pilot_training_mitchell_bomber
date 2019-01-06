@@ -3,12 +3,23 @@
 <concept id="oil_system">
     <title>Oil System</title>
     <shortdesc>Each engine has an independent oil supply. The self-sealing oil tank mounted behind
-        the firewall on each nacelle ha5 a capacity of 34 gallons. </shortdesc>
+        the firewall on each nacelle has a capacity of 34 gallons. </shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>oil system</indexterm>
+                <indexterm>self-sealing oil tank</indexterm>
+                <indexterm>firewall</indexterm>
+                <indexterm>nacelle</indexterm>
+                <indexterm>hopper tank</indexterm>
+                <indexterm>oil warming</indexterm>
+                <indexterm>oil dilution</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>It contains a hopper tank to accelerate oil warming and facilitate oil dilution. A sump

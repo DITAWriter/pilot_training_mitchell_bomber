@@ -8,6 +8,13 @@
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>pilot's switch panel</indexterm>
+                <indexterm>switch panel</indexterm>
+                <indexterm>control pedestal panel</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <refbody>
         <section>

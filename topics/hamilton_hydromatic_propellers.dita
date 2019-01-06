@@ -2,12 +2,23 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="hamilton_hydromatic_propellers">
     <title>Hamilton Hydromatic Propellers</title>
-    <shortdesc>The Hamilton hydromatic propellers of the <keyword keyref="designator" /> are hydraulically operated. </shortdesc>
+    <shortdesc>The Hamilton hydromatic propellers of the <keyword keyref="designator"/> are
+        hydraulically operated. </shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>propellers</indexterm>
+                <indexterm>Hamilton hydromatic props</indexterm>
+                <indexterm>Hamilton hydromatic propellers</indexterm>
+                <indexterm>propeller governor</indexterm>
+                <indexterm>unfeather</indexterm>
+                <indexterm>unfeathering</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image keyref="hamilton_hydromatic_props" id="image_vxf_3jm_cgb">

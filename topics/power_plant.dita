@@ -2,13 +2,22 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="power_plant">
     <title>Power Plant</title>
-    <shortdesc>The <keyword keyref="designator" /> is powered by two Wright Cyclone R-2G00-13 or R-2G00-29, 14-cylinder,
-        double-row radial engines. </shortdesc>
+    <shortdesc>The <keyword keyref="designator"/> is powered by two Wright Cyclone R-2G00-13 or
+        R-2G00-29, 14-cylinder, double-row radial engines. </shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>power plant</indexterm>
+                <indexterm>Wright cyclone</indexterm>
+                <indexterm>R-2G00-13</indexterm>
+                <indexterm>R-2G00-29</indexterm>
+                <indexterm>radial engine</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image keyref="power_plant" id="image_bqn_hhm_cgb">

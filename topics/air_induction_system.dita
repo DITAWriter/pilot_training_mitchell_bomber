@@ -9,6 +9,11 @@
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>air induction system</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image keyref="air_induction_system" id="image_gvn_13m_cgb">
