@@ -3,7 +3,7 @@
 <task id="operating_instructions_for_the_supercharger">
     <title>Operating Instructions for the Supercharger</title>
     <shortdesc>The supercharger is an integral part of your engine at all altitudes. Don't fall into
-        the trap^ of assuming that because you are operating at medium and low altitudes, your
+        the trap of assuming that because you are operating at medium and low altitudes, your
         supercharger is not important. Your supercharger must have proper care all the time,
         regardless of whether you intend to use high blower.</shortdesc>
     <prolog>
@@ -11,6 +11,11 @@
             <!--scott.hudson-->
             <revised modified="21. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>supercharger</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <context>
@@ -50,8 +55,8 @@
                 <cmd>Reset the desired power setting.</cmd>
                 <info>
                     <note type="warning">Never operate in "HIGH" blower below 1500 rpm. During
-                        prolonged operation in "HIGH" blower, change to "LOW" blower for 15
-                        minutes every 2 hours, (This removes sludge from the clutch.) </note>
+                        prolonged operation in "HIGH" blower, change to "LOW" blower for 15 minutes
+                        every 2 hours, (This removes sludge from the clutch.) </note>
                 </info>
             </step>
             <stepsection>

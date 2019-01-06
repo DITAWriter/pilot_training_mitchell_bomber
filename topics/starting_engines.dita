@@ -10,6 +10,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>engines</indexterm>
+                <indexterm>starting engines</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>Use the checklist for starting.</p>

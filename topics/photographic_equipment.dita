@@ -9,6 +9,14 @@
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>photographic equipment</indexterm>
+                <indexterm>photography station</indexterm>
+                <indexterm>fuselage</indexterm>
+                <indexterm>camera operator</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image keyref="photographic_equipment" id="image_k1c_rmm_cgb">

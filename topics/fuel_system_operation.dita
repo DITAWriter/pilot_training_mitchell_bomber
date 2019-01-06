@@ -11,6 +11,13 @@
             <!--scott.hudson-->
             <revised modified="20. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>fuel system</indexterm>
+                <indexterm>fuel transfer</indexterm>
+                <indexterm>auxiliary fuel transfer</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <context>
@@ -29,8 +36,8 @@
                     transfer.</cmd>
             </step>
             <step>
-                <cmd>Turn auxiliary fuel transfer switches "<userinput>ON</userinput>." (On
-                    pilot's pedestal.)</cmd>
+                <cmd>Turn auxiliary fuel transfer switches "<userinput>ON</userinput>." (On pilot's
+                    pedestal.)</cmd>
             </step>
             <step>
                 <cmd>Turn liquidometer to the front cell receiving fuel.</cmd>

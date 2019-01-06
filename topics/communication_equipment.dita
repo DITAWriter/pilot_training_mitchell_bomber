@@ -8,6 +8,17 @@
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>communication equipment</indexterm>
+                <indexterm>command set</indexterm>
+                <indexterm>liaison set</indexterm>
+                <indexterm>radio compass receiver</indexterm>
+                <indexterm>marker beacon receiver</indexterm>
+                <indexterm>interphone</indexterm>
+                <indexterm>transmitter</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <fig id="fig_k25_3km_cgb">
@@ -29,8 +40,8 @@
                 <li>COMMAND ANTENNA</li>
             </ol>
         </fig>
-        <p>The communication equipment on the <keyword keyref="designator" /> is basically the same as that on all Army
-            bombardment airplanes.</p>
+        <p>The communication equipment on the <keyword keyref="designator"/> is basically the same
+            as that on all Army bombardment airplanes.</p>
         <p>The following radio sets are installed:</p>
         <ul>
             <li>Command set</li>
@@ -90,19 +101,19 @@
                     <alt>Radio compass receiver</alt>
                 </image>
                 <ol id="ol_r1q_pkm_cgb">
-                    <li>RADIO COMPASS LOOP</li>
-                    <li>RADIO COMPASS RECEIVER</li>
-                    <li>RADIO COMPASS AND RELAY JUNCTION BOX</li>
-                    <li>NAVIGATOR'S AZIMUTH INDICATOR</li>
-                    <li>NAVIGATOR'S INTERPHONE JACK BOX</li>
-                    <li>NAVIGATOR'S HEADPHONE EXTENSION CORD</li>
-                    <li>NAVIGATOR'S RADIO COMPASS CONTROL BOX</li>
-                    <li>INTERPHONE DYNAMOTOR</li>
-                    <li>FILTER BOX</li>
-                    <li>PILOT'S INTERPHONE JACK BOX</li>
-                    <li>PILOT'S HEADPHONE EXTENSION CORD</li>
-                    <li>PILOT'S RADIO COMPASS CONTROL BOX</li>
-                    <li>PILOT'S AZIMUTH INDICATOR</li>
+                    <li>Radio compass loop</li>
+                    <li>Radio compass receiver</li>
+                    <li>Radio compass and relay junction box</li>
+                    <li>Navigator's azimuth indicator</li>
+                    <li>Navigator's interphone jack box</li>
+                    <li>Navigator's headphone extension cord</li>
+                    <li>Navigator's radio compass control box</li>
+                    <li>Interphone dynamotor</li>
+                    <li>Filter box</li>
+                    <li>Pilot's interphone jack box</li>
+                    <li>Pilot's headphone extension cord</li>
+                    <li>Pilot's radio compass control box</li>
+                    <li>Pilot's azimuth indicator</li>
                 </ol>
             </fig>
             <p>The radio compass receiver has 2 control stations, one in the pilot's compartment and
@@ -119,12 +130,12 @@
                 panel is connected to the receiver, blinking on when the airplane passes a 75 Mc
                 transmitter.</p>
         </section>
-        <section><title>Interphone</title><p>The interphone system of the B'25 is a standard
-                installation. It operates whenever the battery-disconnect switches are "ON." It is
-                used by every crew member to communicate with all other crew members.</p><p>The
-                interphone plays a vital part in crew coordination. Used effectively in combat, it
-                serves as the eyes of the entire crew.</p><image keyref="interphone_jack_box"
-                id="image_c4z_skm_cgb">
+        <section><title>Interphone</title><p>The interphone system of the <keyword
+                    keyref="designator"/> is a standard installation. It operates whenever the
+                battery-disconnect switches are "ON." It is used by every crew member to communicate
+                with all other crew members.</p><p>The interphone plays a vital part in crew
+                coordination. Used effectively in combat, it serves as the eyes of the entire
+                crew.</p><image keyref="interphone_jack_box" id="image_c4z_skm_cgb">
                 <alt>Inerphone jack box</alt>
             </image></section>
     </conbody>

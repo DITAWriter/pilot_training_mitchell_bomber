@@ -2,13 +2,23 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="oxygen">
     <title>Oxygen</title>
-    <shortdesc>The <keyword keyref="designator" /> has two systems of oxygen supply. The first is a permanent installation in
-        the early-series aircraft, the second a portable system in later-series <keyword keyref="designator" /> aircraft.</shortdesc>
+    <shortdesc>The <keyword keyref="designator"/> has two systems of oxygen supply. The first is a
+        permanent installation in the early-series aircraft, the second a portable system in
+        later-series <keyword keyref="designator"/> aircraft.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>oxygen</indexterm>
+                <indexterm>oxygen supply</indexterm>
+                <indexterm>oxygen regulators</indexterm>
+                <indexterm>portable oxygen</indexterm>
+                <indexterm>portable oxygen unit</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image keyref="oxygen_mask" id="image_bq3_bmm_cgb">
@@ -32,14 +42,14 @@
                 <alt>Oxygen regulator locations</alt>
             </image>
             <ol>
-                <li>BOMBARDIER</li>
-                <li>NAVIGATOR</li>
-                <li>PILOT</li>
-                <li>COPILOT</li>
-                <li>ENGINEER-GUNNER</li>
-                <li>RADIO OPERATOR</li>
-                <li>TURRET GUNNER</li>
-                <li>PHOTOGRAPHER</li>
+                <li>Bombardier</li>
+                <li>Navigator</li>
+                <li>Pilot</li>
+                <li>Copilot</li>
+                <li>Engineer-Gunner</li>
+                <li>Radio Operator</li>
+                <li>Turret Gunner</li>
+                <li>Photographer</li>
             </ol>
         </fig>
         <p>An outlet tube extends outward from the bottom of each regulator, and the hose from the

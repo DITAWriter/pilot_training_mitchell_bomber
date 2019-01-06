@@ -11,6 +11,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>inspections</indexterm>
+                <indexterm>checks</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>That reason is you. If anything happens to the plane, it also happens to you and your
@@ -27,9 +33,9 @@
         <p>Consult the crew chief about the status of the plane. You will pick up many of valuable
             tips from him.</p>
         <section><title>Preflight</title><p>Enter cockpit and check that all switches are
-                "off"</p><p>Check Form lA for status of the airplane. Surface controls locked.
-                Trim tabs set at "0."</p><p>Pull props through 12 to 15 blades if the airplane has
-                been standing for more than 30 minutes. This will work the oil from the lower
+                "off"</p><p>Check Form lA for status of the airplane. Surface controls locked. Trim
+                tabs set at "0."</p><p>Pull props through 12 to 15 blades if the airplane has been
+                standing for more than 30 minutes. This will work the oil from the lower
                 cylinders.</p><p>If you start the engine with excess oil present in the cylinders
                 this oil will form a pressure block, cracking the cylinder heads and bending the
                 connecting rods.</p><p>Always pull the props through in the direction of rotation.
@@ -51,8 +57,8 @@
                 and tension (40 lb.). Spring tension closes this door when the airplane is in
                 flight. If it closes improperly the slip-stream forces it open, and the resulting
                 air blast may tear it of! and damage other parts of the airplane.</p><p>Nose hood
-                locked and safetied (<keyword keyref="designator" /> G, H, and TB-25).</p><p>Check engine fire extinguisher
-                fuse if installed.</p></section>
+                locked and safetied (<keyword keyref="designator"/> G, H, and TB-25).</p><p>Check
+                engine fire extinguisher fuse if installed.</p></section>
         <section><title>Right Engine Section</title><p>Carburetor air scoop cover
                 removed.</p><p>Propeller for nicks, propeller dome and governor for
                 leaks.</p><p>Check pulleys, cables, and safety wires.</p><p>Colws, cowl flaps, and
@@ -123,17 +129,17 @@
                 accumulator pressure 400 lb. sq. in. minimum.</p><p>Oxygen pressure (where
                 applicable).</p><image keyref="preflight_valves">
                 <alt>Preflight crossfeed and cut-off valves</alt>
-            </image><p>Crossfeed "OFF."</p><p>Fuel transfer valve and switches "OFF." Right and
-                left engine fuel cut-off valves "ON"</p><p>Generators and inverters "ON"&#8212;
-                External power should be used whenever possible. If external power is not available
-                for starting, keep inverters "OFF" until engine is operating.</p><p>Level of
-                Hydraulic fluid reservoir (spare fluid aboard).</p><p>Cabin heaters "OFF."</p><image
+            </image><p>Crossfeed "OFF."</p><p>Fuel transfer valve and switches "OFF." Right and left
+                engine fuel cut-off valves "ON"</p><p>Generators and inverters "ON"&#8212; External
+                power should be used whenever possible. If external power is not available for
+                starting, keep inverters "OFF" until engine is operating.</p><p>Level of Hydraulic
+                fluid reservoir (spare fluid aboard).</p><p>Cabin heaters "OFF."</p><image
                 keyref="preflight_cabin_heaters">
                 <alt>Preflight cabin heaters to &quot;OFF&quot;</alt>
             </image><p>Check the load and balance of the ship. Check Form F with the load adjuster.
-                The <keyword keyref="designator" /> carries great loads and is unstable and dangerous if the weight is not
-                properly distributed. (For detailed information, see the PIF and the Weights and
-                Balance section of this manual.)</p></section>
+                The <keyword keyref="designator"/> carries great loads and is unstable and dangerous
+                if the weight is not properly distributed. (For detailed information, see the PIF
+                and the Weights and Balance section of this manual.)</p></section>
         <section><title>Cockpit</title><p>Have your parachute fitted to your body and always wear
                 it.</p><p>An improperly fitted chute will cause serious physical injury&#8212;
                 protect yourself.</p><p>Adjust seat and belt&#8212;If the seat is not locked the

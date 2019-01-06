@@ -2,20 +2,26 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="priming">
     <title>Priming</title>
+    <shortdesc>Priming is necessary to supply a sufficiently rich fuel air mixture to the cylinder
+        heads to facilitate starting of a cold motor.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="21. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>priming</indexterm>
+                <indexterm>cold motor</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
-        <p>Priming is necessary to supply a sufficiently rich fuel air mixture to the cylinder heads
-            to facilitate starting of a cold motor.</p>
         <p>Prime by operating the 3-position spring-loaded toggle switch on the pilot's pedestal.
             This actuates the 2 primary active solenoids on the carburetors.</p>
         <p>For manual priming, press the small pin next to the solenoid on the carburetor.</p>
         <p>The primer allows fuel under pressure to pass through a valve and enter the adapter
-            section at 3 different points. On some late- model carburetors no provision it, made for
+            section at 3 different points. On some late-model carburetors no provision it, made for
             manual priming.</p>
     </conbody>
 </concept>

@@ -7,6 +7,12 @@
             <!--scott.hudson-->
             <revised modified="21. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>autopilot</indexterm>
+                <indexterm>elmer</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <fig id="fig_OperatingAutopilot">
@@ -53,8 +59,8 @@
         <p>Do not use it if both engines are not delivering normal power.</p>
         <p>Do not turn it on until you are sure that flight conditions permit safe control by the
             autopilot.</p>
-        <p>Maintain at least minimum cruise power settings. The <keyword keyref="designator" /> is too sluggish at low speeds
-            to permit safe operation on autopilot.</p>
+        <p>Maintain at least minimum cruise power settings. The <keyword keyref="designator"/> is
+            too sluggish at low speeds to permit safe operation on autopilot.</p>
         <p>Never operate the autopilot unless one rated pilot is on watch in the cockpit. You must
             constantly check the instruments, and the trim of the plane must be accurate.</p>
         <p>Never engage the autopilot unless the indices are lined up properly.</p>
@@ -96,8 +102,9 @@
                     slowly.</li>
                 <li>Adjust the Servo speed controls as needed.<p>These controls are calibrated from
                         to 8, the speed range of operation is (locked) to 8 (high speed reaction).
-                        If the instrument is in good condition, the proper setting for the <keyword keyref="designator" /> is
-                        between 2 and 4. These need not read the same for all controls.</p></li>
+                        If the instrument is in good condition, the proper setting for the <keyword
+                            keyref="designator"/> is between 2 and 4. These need not read the same
+                        for all controls.</p></li>
                 <li>Set fore and aft attitude with the elevator knob.</li>
                 <li>Set directional control with the rudder knob.</li>
                 <li>Set in bank when you want to turn more than 5 degrees.<note>Always keep the
@@ -108,7 +115,7 @@
             <note type="warning">During flight do not overcontrol the autopilot more than 15
                 degrees, This causes the autopilot to attempt an abrupt return to the original
                 position, with possible damage to the control surfaces and the autopilot. </note>
-            <p>The autopilot gives accurate control with a plus or minus tolerance of 1 degree- It
+            <p>The autopilot gives accurate control with a plus or minus tolerance of 1 degree. It
                 flies a far better course than a human pilot.</p>
             <p>When the autopilot is in use for extended periods, be sure to disengage it at least
                 once every half hour to check the trim manually. This instrument will not give
@@ -118,8 +125,8 @@
                 toward the closed position. Do not close them completely, but find the point at
                 which the oscillation stops. Adjust the controls slowly back and forth at this point
                 until you obtain the desired setting.</p>
-            <note type="warning">ALWAYS BE SURE YOU CAN OVER POWER THE AUTOPILOT MANUALLY. TRY IT ON
-                THE GROUND BEFORE YOU FLY.</note>
+            <note type="warning">Always be sure you can overpower the autopilot manually. Try it on
+                the ground before you fly.</note>
         </section>
     </conbody>
 </concept>

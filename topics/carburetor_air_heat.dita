@@ -2,13 +2,19 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="carburetor_air_heat">
     <title>Carburetor Air Heat</title>
-    <shortdesc>The carburetor air heater on the <keyword keyref="designator" /> is a 2-position gate in the air induction
-        system.</shortdesc>
+    <shortdesc>The carburetor air heater on the <keyword keyref="designator"/> is a 2-position gate
+        in the air induction system.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="21. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>carburetor air heater</indexterm>
+                <indexterm>air induction system</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>Manual controls directly connect this gate to the position handles in the pilot's
