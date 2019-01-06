@@ -8,15 +8,20 @@
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>landing</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
-        <p>Thus the old-timer will start his answer to your query on how to land the B-25. After a
-            few landings you, too, will decide that the Mitchell is indeed an easy plane to
-            land.</p>
+        <p>Thus the old-timer will start his answer to your query on how to land the <keyword
+                keyref="designator"/>. After a few landings you, too, will decide that the Mitchell
+            is indeed an easy plane to land.</p>
         <p>Always land as close to the stalling speed as possible, to reduce the wear and tear
             caused by excessive speed. However, if tricky wind conditions, faulty instruments, or
-            other abnormal conditions require a fast landing, the <keyword keyref="designator" /> will let you land in a speed
-            range of from 85 to 125 mph.</p>
+            other abnormal conditions require a fast landing, the <keyword keyref="designator"/>
+            will let you land in a speed range of from 85 to 125 mph.</p>
         <p>You can use power on the approach to shallow the glide. By using power you also get a
             greater spread of stalling speed, greater safety and more accurate landings. You also
             keep the engines from loading up, thus insuring power when you need it.</p>

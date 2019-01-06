@@ -3,6 +3,18 @@
 <task id="task_r3d_dq3_ggb">
     <title>Chemical Spray Mission</title>
     <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="12. Dec. 2018"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>mission</indexterm>
+                <indexterm>chemical spray</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <taskbody>
         <context>
             <p>This is a chemical mission, using MR and FS.</p>

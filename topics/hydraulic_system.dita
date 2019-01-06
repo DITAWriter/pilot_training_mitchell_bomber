@@ -3,12 +3,18 @@
 <concept id="hydraulic_system">
     <title>Hydraulic System</title>
     <shortdesc>The hydraulic system provides quick and easy operation of the following equipment on
-        the B-25:</shortdesc>
+        the <keyword keyref="designator"/>.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>hydraulics</indexterm>
+                <indexterm>hydraulic systems</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <ol>

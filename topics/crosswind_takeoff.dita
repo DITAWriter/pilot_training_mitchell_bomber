@@ -10,6 +10,12 @@
             <!--scott.hudson-->
             <revised modified="27. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>takeoff</indexterm>
+                <indexterm>crosswind takeoff</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <context>

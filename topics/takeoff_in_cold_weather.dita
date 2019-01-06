@@ -8,6 +8,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>cold weather</indexterm>
+                <indexterm>takeoff</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <context>

@@ -10,6 +10,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>cold weather</indexterm>
+                <indexterm>heating system</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>Each of these two systems has a Stewart-Warner heater burning a mixture of fuel and air.

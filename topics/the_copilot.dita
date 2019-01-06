@@ -9,6 +9,11 @@
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>copilot</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image keyref="copilot" id="image_alt_zzl_cgb">

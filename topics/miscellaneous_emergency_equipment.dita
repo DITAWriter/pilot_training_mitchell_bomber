@@ -10,6 +10,11 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>emergency equipment</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <refbody>
         <section>

@@ -2,12 +2,18 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="DitchingEngineerSDuties">
     <title>Ditching: Engineer's Duties</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>ditching</indexterm>
+                <indexterm>engineer's duties</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <steps>

@@ -10,6 +10,12 @@
             <!--scott.hudson-->
             <revised modified="27. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>landing</indexterm>
+                <indexterm>strange field</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image placement="break" keyref="landing_strange_field">
@@ -36,10 +42,10 @@
             the traffic pattern.</p>
         <p>Get a normal base leg, establish your glide at the proper angle and airspeed, and make a
             power approach landing.</p>
-        <p>The power approach is important in handling the B-25. The longer you maintain the power
-            and the closer to the ground you cut it off, the more exact is your judgment of where
-            the airplane will land. Use the power, however, only as an aid, and not to make a low
-            dragging approach.</p>
+        <p>The power approach is important in handling the <keyword keyref="designator"/>. The
+            longer you maintain the power and the closer to the ground you cut it off, the more
+            exact is your judgment of where the airplane will land. Use the power, however, only as
+            an aid, and not to make a low dragging approach.</p>
         <p>After landing, call the control tower for taxiing and parking instructions.</p>
         <section>
             <title>Common Errors</title>

@@ -2,44 +2,71 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="ChemicalSprayMission">
     <title>Chemical spray mission</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>mission</indexterm>
+                <indexterm>chemical spray</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <steps>
-            <step><cmd>This is a chemical mission, using MR and FS.</cmd></step>
-            <step><cmd>The plane will be equipped for the mission with a bomb bay chemical spray tank
-                containing MR and two chemical wing tanks&#8212; one on each wing&#8212;
-                containing FS.</cmd></step>
+            <step>
+                <cmd>This is a chemical mission, using MR and FS.</cmd>
+            </step>
+            <step>
+                <cmd>The plane will be equipped for the mission with a bomb bay chemical spray tank
+                    containing MR and two chemical wing tanks&#8212; one on each wing&#8212;
+                    containing FS.</cmd>
+            </step>
             <step>
                 <cmd>The MR target for the mission will be the X Target. The FS target will be the Z
                     target.</cmd>
             </step>
-            <step><cmd>The MR target is located approximately in the middle of the target area and is
-                marked by an orange cross in its center.</cmd></step>
-            <step><cmd>Chemical tanks will be loaded into the plane. Plane will then be flown to the Z
-                target, making an attack with FS, using one wing tank, from an altitude of 100 ft
-                normally, with the intention of covering the center of the target with a screen of
-                smoke.</cmd></step>
+            <step>
+                <cmd>The MR target is located approximately in the middle of the target area and is
+                    marked by an orange cross in its center.</cmd>
+            </step>
+            <step>
+                <cmd>Chemical tanks will be loaded into the plane. Plane will then be flown to the Z
+                    target, making an attack with FS, using one wing tank, from an altitude of 100
+                    ft normally, with the intention of covering the center of the target with a
+                    screen of smoke.</cmd>
+            </step>
             <step>
                 <cmd>The plane will then fly to X target, making an attack with MR from an altitude
                     of 150 ft. after inspecting the field to see that the target is in place.</cmd>
             </step>
-            <step><cmd>The plane will then return to Z target and release the second smoke screen from
-                the remaining FS wing tank.</cmd></step>
-            <step><cmd>All crew members will be equipped with gas masks while in the performance of this
-                mission. Copilot will wear gas mask beginning 30 seconds before release of chemical
-                until ship has been landed and brought to a stop.</cmd></step>
-            <step><cmd>This mission will not be flown when the wind velocity is greater than 20 mph.</cmd></step>
-            <step><cmd>Magnetic course to X target, 197 degrees; distance 50 miles.</cmd></step>
-            <step><cmd>Special attention should be given to direction of wind. Chemicals should be
-                dropped from a flight path perpendicular to the wind.</cmd></step>
-            <step><cmd>Mission will be flown at 500 feet above terrain. Towns along route will be
-                avoided.</cmd></step>
+            <step>
+                <cmd>The plane will then return to Z target and release the second smoke screen from
+                    the remaining FS wing tank.</cmd>
+            </step>
+            <step>
+                <cmd>All crew members will be equipped with gas masks while in the performance of
+                    this mission. Copilot will wear gas mask beginning 30 seconds before release of
+                    chemical until ship has been landed and brought to a stop.</cmd>
+            </step>
+            <step>
+                <cmd>This mission will not be flown when the wind velocity is greater than 20
+                    mph.</cmd>
+            </step>
+            <step>
+                <cmd>Magnetic course to X target, 197 degrees; distance 50 miles.</cmd>
+            </step>
+            <step>
+                <cmd>Special attention should be given to direction of wind. Chemicals should be
+                    dropped from a flight path perpendicular to the wind.</cmd>
+            </step>
+            <step>
+                <cmd>Mission will be flown at 500 feet above terrain. Towns along route will be
+                    avoided.</cmd>
+            </step>
             <step>
                 <cmd>The crew will be interrogated upon return to Home Base as to results of the
                     mission.</cmd>

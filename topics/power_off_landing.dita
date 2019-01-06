@@ -2,13 +2,19 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="power_off_landing">
     <title>Power-Off Landing</title>
-    <shortdesc>The <keyword keyref="designator" /> is too large and heavy to practice the prescribed forced-landing procedures
-        used in lighter planes.</shortdesc>
+    <shortdesc>The <keyword keyref="designator"/> is too large and heavy to practice the prescribed
+        forced-landing procedures used in lighter planes.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>power-off landing</indexterm>
+                <indexterm>landing</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image keyref="landing_power_off"/>
@@ -19,8 +25,8 @@
         <ol>
             <li>You make the landing with wheels down instead of up.</li>
             <li>You make the landing on a known field.<p>These landings acquaint the pilot with the
-                    power-off gliding characteristics of the <keyword keyref="designator" /> and improve his judgment for an
-                    actual forced landing.</p></li>
+                    power-off gliding characteristics of the <keyword keyref="designator"/> and
+                    improve his judgment for an actual forced landing.</p></li>
         </ol>
         <p>Make a power-of approach and landing as follows:</p>
         <ol>

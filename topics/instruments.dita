@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="instruments">
     <title>Instruments</title>
-    <shortdesc>The following instruments are installed on the B-25. You need no special instructions
+    <shortdesc>The following instruments are installed on the <keyword keyref="designator"/>. You need no special instructions
         for their operation, as they are basically the same as those on any 2-engine bombardment or
         training airplane.</shortdesc>
     <prolog>
@@ -10,6 +10,15 @@
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>instruments</indexterm>
+                <indexterm>flight instruments</indexterm>
+                <indexterm>vacuum instruments</indexterm>
+                <indexterm>engine instruments</indexterm>
+                <indexterm>miscellaneous instruments</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <section>
@@ -97,8 +106,8 @@
             <p>Pressure forces in the pressure transmitting instruments actuate a diaphragm. This
                 diaphragm transmits the pressure through a line filled with compass fluid to an
                 indicator on the instrument panel, where it is converted to the desired reading.</p>
-            <p>The pressure transmitting instruments on the <keyword keyref="designator" /> are fuel pressure and oil
-                pressure.</p>
+            <p>The pressure transmitting instruments on the <keyword keyref="designator"/> are fuel
+                pressure and oil pressure.</p>
             <p>Aircraft with these instruments have direct reading manifold pressure gages and
                 electric tachometers.</p>
         </section>

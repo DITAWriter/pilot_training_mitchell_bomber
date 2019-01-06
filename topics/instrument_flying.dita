@@ -10,5 +10,10 @@
             <!--scott.hudson-->
             <revised modified="27. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>instrument flying</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
 </concept>

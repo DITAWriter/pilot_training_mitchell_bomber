@@ -9,6 +9,14 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>cold weather</indexterm>
+                <indexterm>flight</indexterm>
+                <indexterm>de-icing</indexterm>
+                <indexterm>anti-icing</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <context>

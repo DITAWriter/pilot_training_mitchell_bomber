@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="duties_and_responsibilites_of_the_airplane_commander">
     <title>Duties and Responsibilites of the Airplane Commander</title>
-    <shortdesc>The commander of the <keyword keyref="designator" /> must be more than a pilot.</shortdesc>
+    <shortdesc>The commander of the <keyword keyref="designator"/> must be more than a
+        pilot.</shortdesc> 
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -10,15 +11,22 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>duties</indexterm>
+                <indexterm>responsibilities</indexterm>
+                <indexterm>airplane commander</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image keyref="crew_boarding" id="image_yky_4zl_cgb">
             <alt>Air crew, boarding their Mitchell Bomber</alt>
         </image>
-        <p>The commander of the <keyword keyref="designator" /> must be more than a pilot. As his title implies, he must be a
-            leader of men&#8212; a leader in a special sense. He must not train his crew as
-            automatons, but as a team which will use initiative and perform its tasks to one end
-            only . . . the success of the mission.</p>
+        <p>The commander of the <keyword keyref="designator"/> must be more than a pilot. As his
+            title implies, he must be a leader of men&#8212; a leader in a special sense. He must
+            not train his crew as automatons, but as a team which will use initiative and perform
+            its tasks to one end only . . . the success of the mission.</p>
         <p>You are the leader. The successful coordination of the work involved in getting your
             plane to its objective and back to its base depends a great deal on the way in which you
             lead.</p>
@@ -44,13 +52,13 @@
             his crap-shooting is blistering his trigger finger. But you're not overdoing it if you
             pull a plate of gas-forming food out from under his hungry eyes just before a
             high-altitude mission.</p>
-        <section id="crew_discipline"><title>Crew Discipline</title><p>Discipline in an air crew means that you are
-                commanding respect and getting your orders obeyed. It also means that a lot of the
-                time you're not finding it necessary to give orders at all. Your crew members are
-                performing their duties without having to be told.</p><p>A good way to develop the
-                jitters about your plane and your crew is by keeping them at a distance, talking to
-                them pompously, and by showing favoritism or uncertainty in your
-                decisions.</p><image keyref="crew_discipline" id="image_k1k_tzl_cgb">
+        <section id="crew_discipline"><title>Crew Discipline</title><p>Discipline in an air crew
+                means that you are commanding respect and getting your orders obeyed. It also means
+                that a lot of the time you're not finding it necessary to give orders at all. Your
+                crew members are performing their duties without having to be told.</p><p>A good way
+                to develop the jitters about your plane and your crew is by keeping them at a
+                distance, talking to them pompously, and by showing favoritism or uncertainty in
+                your decisions.</p><image keyref="crew_discipline" id="image_k1k_tzl_cgb">
                 <alt>In a little while you'll find yourself working on one side of a 10-foot wall
                     while your crew works on the other.</alt>
             </image><p>On the other hand, you won't get discipline by dropping all distinctions

@@ -12,6 +12,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>go-around</indexterm>
+                <indexterm>go-around procedure</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <context>
@@ -61,7 +67,7 @@
                     <note>Don't hesitate to go around. Any doubt that the plane is under perfect
                         control is sufficient cause to go around. If you have made a poor approach
                         and know that the landing will be too long, or too rough&amp;#8212; go
-                        around. </note>
+                        around.</note>
                 </info>
             </step>
         </steps>

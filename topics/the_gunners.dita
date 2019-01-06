@@ -11,6 +11,13 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>gunners</indexterm>
+                <indexterm>turret gunner</indexterm>
+                <indexterm>flexible gunner</indexterm>
+            </keywords>
+        </metadata> 
     </prolog>
     <conbody>
         <image keyref="gunner" id="image_syz_d2m_cgb">

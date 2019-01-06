@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="checklist_prior_to_using_co2_bottle_on_engine_fires">
-    <title>Checklist Prior to Using CO<b
-            id="docs-internal-guid-bf84ce21-7fff-e521-d821-a3ad523a935b">&lt;sub>2&lt;/sub></b>
-        Bottle on Engine Fires</title>
+    <title>Checklist Prior to Using CO₂ Bottle on Engine Fires</title>
     <shortdesc>An immediate use of your CO<sub>2</sub> bottle will only halt the fire
         momentarily.</shortdesc>
     <prolog>
@@ -13,6 +11,13 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>checklist</indexterm>
+                <indexterm>CO2 bottle</indexterm>
+                <indexterm>engine fire</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <context>

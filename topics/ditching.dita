@@ -10,6 +10,11 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>ditching</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image placement="break" keyref="ditching">

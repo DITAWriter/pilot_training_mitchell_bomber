@@ -12,6 +12,13 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>singe engine operation</indexterm>
+                <indexterm>power</indexterm>
+                <indexterm>airspeed</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>At 140 mph (CSE speed) directional control can be maintained with takeoff power on the

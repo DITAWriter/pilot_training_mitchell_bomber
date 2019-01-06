@@ -2,24 +2,50 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="DitchingCopilotSDuties">
     <title>Ditching: Copilot's Duties</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>ditching</indexterm>
+                <indexterm>copilot's duties</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <steps>
-            <step><cmd>On the emergency signal switch to inter- phone and acknowledge the emergency bell.</cmd></step>
-            <step><cmd>Help the pilot salvo bombs and fuselage tank.</cmd></step>
-            <step><cmd>Check to see that the gear is up.</cmd></step>
-            <step><cmd>Assist the pilot in getting wind's direction and velocity from the navigator.</cmd></step>
-            <step><cmd>Release the pilot's emergency hatch.</cmd></step>
-            <step><cmd>Lower flaps as required on pilot's signal.</cmd></step>
-            <step><cmd>Notify the crew to brace for impact.</cmd></step>
-            <step><cmd>Cut the mixture, cut switches on pilot's signal.</cmd></step>
-            <step><cmd>Brace for impact.</cmd></step>
+            <step>
+                <cmd>On the emergency signal switch to inter- phone and acknowledge the emergency
+                    bell.</cmd>
+            </step>
+            <step>
+                <cmd>Help the pilot salvo bombs and fuselage tank.</cmd>
+            </step>
+            <step>
+                <cmd>Check to see that the gear is up.</cmd>
+            </step>
+            <step>
+                <cmd>Assist the pilot in getting wind's direction and velocity from the
+                    navigator.</cmd>
+            </step>
+            <step>
+                <cmd>Release the pilot's emergency hatch.</cmd>
+            </step>
+            <step>
+                <cmd>Lower flaps as required on pilot's signal.</cmd>
+            </step>
+            <step>
+                <cmd>Notify the crew to brace for impact.</cmd>
+            </step>
+            <step>
+                <cmd>Cut the mixture, cut switches on pilot's signal.</cmd>
+            </step>
+            <step>
+                <cmd>Brace for impact.</cmd>
+            </step>
             <step>
                 <cmd>Abandon ship after it has stopped, check to see that the life raft has released
                     properly. If not, <b>release it manually</b>. Proceed to the rear of the ship

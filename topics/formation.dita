@@ -11,6 +11,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>formation</indexterm>
+                <indexterm>formation flying</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>"You just don't come back from a mission if you straggle from a formation. Even if you
@@ -36,11 +42,14 @@
             <p>The basic formation procedures you have learned remain the same. The difference in
                 tactical training is slight; it is primarily in the accuracy of your technique, and
                 the limitations of your airplane.</p>
-            <p>The <keyword keyref="designator" /> is easy to fly in formation. You need good instruction and plenty of
-                practice, however to become competent in the technique.</p>
-            <p>Your main problem is learning the difference between handling the <keyword keyref="designator" /> and a light
-                training plane. Weight and momentum are your chief concerns.</p>
-            <p><b>The <keyword keyref="designator" /> does not respond instantly to changes in power settings.</b></p>
+            <p>The <keyword keyref="designator"/> is easy to fly in formation. You need good
+                instruction and plenty of practice, however to become competent in the
+                technique.</p>
+            <p>Your main problem is learning the difference between handling the <keyword
+                    keyref="designator"/> and a light training plane. Weight and momentum are your
+                chief concerns.</p>
+            <p><b>The <keyword keyref="designator"/> does not respond instantly to changes in power
+                    settings.</b></p>
             <p>You have more than 26,000 lb. to control, and the momentum of thi5 weight must be
                 overcome before the plane responds to changes in power. When applying power, give
                 the plane a chance to respond. Don't be a throttle juggler&#8212;it is not
@@ -48,9 +57,10 @@
                 cutting it off. Tease your plane into its position by small, accurate corrections.
                 You can fly accurate, well-controlled formation and seldom need a great change in
                 power setting.</p>
-            <p><b>Learn to anticipate.</b> This is the hardest part of formation flying in the B-25.
-                The ideal formation is one in which each man so anticipates his power needs that he
-                never has to make any but the slightest corrections in his power settings.</p>
+            <p><b>Learn to anticipate.</b> This is the hardest part of formation flying in the
+                    <keyword keyref="designator"/>. The ideal formation is one in which each man so
+                anticipates his power needs that he never has to make any but the slightest
+                corrections in his power settings.</p>
             <p>Tactical formation places a high premium on a pilot's ability to move accurately from
                 one type of formation to another. You must be able to move quickly from a relatively
                 loose route formation to a tight defensive formation. If you are in proper position

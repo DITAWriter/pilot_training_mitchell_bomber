@@ -2,9 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="crosswind_landing">
     <title>Crosswind Landing</title>
-    <shortdesc>Crosswind landing in the <keyword keyref="designator" /> requires accurate flying, to save the plane from
-        unnecessary structural stresses. You must land the airplane smoothly to prevent blowing a
-        tire, collapsing a struts or exerting side loads on the gear.</shortdesc>
+    <shortdesc>Crosswind landing in the <keyword keyref="designator"/> requires accurate flying, to
+        save the plane from unnecessary structural stresses. You must land the airplane smoothly to
+        prevent blowing a tire, collapsing a struts or exerting side loads on the gear.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -16,6 +16,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>landing</indexterm>
+                <indexterm>crosswind landing</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image placement="break" keyref="landing_crosswind_crab" id="image_efg_ldp_ggb">

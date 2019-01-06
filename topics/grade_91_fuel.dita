@@ -10,6 +10,17 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>grade 91</indexterm>
+                <indexterm>fuel</indexterm>
+                <indexterm>preignition</indexterm>
+                <indexterm>combustion</indexterm>
+                <indexterm>detonation</indexterm>
+                <indexterm>octane</indexterm>
+                <indexterm>octane rating</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image placement="break" keyref="fuel_grade_91" id="image_njn_ttv_3gb">

@@ -11,6 +11,11 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>go-around</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image keyref="landing_go_around"/>

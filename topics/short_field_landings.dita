@@ -12,6 +12,13 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>landing</indexterm>
+                <indexterm>field</indexterm>
+                <indexterm>short-field</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image placement="break" keyref="landing_short_field">

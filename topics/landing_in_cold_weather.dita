@@ -8,6 +8,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>cold weather</indexterm>
+                <indexterm>landing</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>Temperature inversions are common in winter and the ground air may be 15° to 30°C colder

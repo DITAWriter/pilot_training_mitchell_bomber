@@ -9,6 +9,11 @@
             <!--scott.hudson-->
             <revised modified="21. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>spins</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>Cut power completely and use conventional control movement to recover. You need a lot of

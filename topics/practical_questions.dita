@@ -3,12 +3,18 @@
 <concept id="practical_questions">
     <title>Practical Questions</title>
     <shortdesc>These are some of the practical questions which you as airplane commander must be
-        able to answer. </shortdesc>
+        able to answer.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>practical questions</indexterm>
+                <indexterm>airplane commander</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <ul>

@@ -8,6 +8,13 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>power controle</indexterm>
+                <indexterm>grade 91</indexterm>
+                <indexterm>fuel</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <refbody>
         <table frame="all" rowsep="1" colsep="1" id="table_ypf_czq_dgb">

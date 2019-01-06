@@ -2,21 +2,26 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="dives">
     <title>Dives</title>
-    <shortdesc>The diving characteristics of the B-25, like all its flight characteristics; are
-        exceptionally good. The first thing for you to remember, as a new pilot in the B-25, is
-        this: the plane is not a dive bomber.</shortdesc>
+    <shortdesc>The diving characteristics of the <keyword keyref="designator"/>, like all its flight
+        characteristics; are exceptionally good. The first thing for you to remember, as a new pilot
+        in the <keyword keyref="designator"/>, is this: the plane is not a dive bomber.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="21. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>dives</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>It was designed and built to carry a load of bombs to a target and return to its base.
             The fact that the plane can exceed these minimum requirements is no excuse to abuse
             it.</p>
-        <p>The red-lined diving speed on the <keyword keyref="designator" /> is 340 mph. This maximum speed is possible only
-            under definite weight limits.</p>
+        <p>The red-lined diving speed on the <keyword keyref="designator"/> is 340 mph. This maximum
+            speed is possible only under definite weight limits.</p>
         <p>Recover from a dive gradually. The structural load on the airplane increases in direct
             relation to the abruptness of the pullout.</p>
         <p>Be careful if you dive the plane in rough air, because the roughness increases the load
@@ -37,7 +42,7 @@
                 <colspec colname="c7" colnum="7" colwidth="1*"/>
                 <thead>
                     <row>
-                        <entry></entry>
+                        <entry/>
                         <entry>Normal</entry>
                         <entry namest="c3" nameend="c7">Overload</entry>
                     </row>
@@ -62,7 +67,7 @@
                         <entry>+2.67 <p>-1.67</p></entry>
                     </row>
                     <row>
-                        <entry>Maximum allowable diving  speed (indicated) MPH</entry>
+                        <entry>Maximum allowable diving speed (indicated) MPH</entry>
                         <entry>340</entry>
                         <entry>340</entry>
                         <entry>340</entry>

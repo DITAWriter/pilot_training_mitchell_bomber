@@ -10,6 +10,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>mission</indexterm>
+                <indexterm>gunnery mission</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <simpletable frame="all" relcolwidth="1* 1* 1* 1*" id="simpletable_ehw_nq3_ggb">

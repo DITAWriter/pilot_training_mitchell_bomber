@@ -2,32 +2,46 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="DitchingRadioOperatorSDuties">
     <title>Ditching: Radio Operator's Duties</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>ditching</indexterm>
+                <indexterm>radio operator's duties</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <steps id="steps_bg2_hr5_3gb">
-                <step>
+            <step>
                 <cmd>Switch to interphone and acknowledge the emergency bell.</cmd>
             </step>
-                <step>
+            <step>
                 <cmd>Immediately begin sending the distress signal.</cmd>
             </step>
-                <step><cmd>Receive position from the navigator and transmit it. </cmd></step>
-                <step><cmd>Receive the probable time and position of ditching from the navigator and
-                    transmit it. </cmd></step>
-                <step>
+            <step>
+                <cmd>Receive position from the navigator and transmit it. </cmd>
+            </step>
+            <step>
+                <cmd>Receive the probable time and position of ditching from the navigator and
+                    transmit it. </cmd>
+            </step>
+            <step>
                 <cmd>Obtain first-aid kit. Keep it in your pos- session.</cmd>
             </step>
-                <step><cmd>Continue the radio transmission of dis- tress signal, position, course, and
-                    probable point of ditching until some further action is necessary. </cmd></step>
-                <step><cmd>On a signal from pilot to brace for impact, lock the transmitting key, swing
-                    around to the side and brace for impact. </cmd></step>
-                <step>
+            <step>
+                <cmd>Continue the radio transmission of dis- tress signal, position, course, and
+                    probable point of ditching until some further action is necessary. </cmd>
+            </step>
+            <step>
+                <cmd>On a signal from pilot to brace for impact, lock the transmitting key, swing
+                    around to the side and brace for impact. </cmd>
+            </step>
+            <step>
                 <cmd>Abandon ship.</cmd>
                 <info>During this period release life raft after the ship has stopped moving, carry
                     out the First-aid kit, and exit through the right lower rear hatch.</info>

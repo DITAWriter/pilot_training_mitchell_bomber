@@ -2,8 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="trimming">
     <title>Trimming</title>
-    <shortdesc>When properly trimmed the <keyword keyref="designator" /> flies with an ease that belies its weight and
-        size.</shortdesc>
+    <shortdesc>When properly trimmed the <keyword keyref="designator"/> flies with an ease that
+        belies its weight and size.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -11,6 +11,12 @@
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>trim</indexterm>
+                <indexterm>trimming</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <context>
@@ -22,7 +28,7 @@
                 in pressures on the controls. If the trim tabs are not adjusted for the varying
                 pressures, the resulting physical strain tires the strongest man in a surprisingly
                 short time.</p>
-            <p><b>Always Keep the <keyword keyref="designator" /> in trim</b></p>
+            <p><b>Always Keep the <keyword keyref="designator"/> in trim</b></p>
             <p>To execute any maneuver properly, you must keep the airplane in trim. Exercise
                 particular care in setting the trim tabs on takeoff.</p>
             <p>Improperly set tabs make control difficult as the speed and lift increase during the
@@ -39,29 +45,33 @@
                 <cmd>Trim rudder until ball is centered or until directional gyro stops
                     turning.</cmd>
                 <info><image keyref="trim_rudder" id="image_dlw_xgh_2gb">
-                    <alt>Trim rudder until ball is centered or until directional gyro stops
-                        turning.</alt>
-                </image></info>
+                        <alt>Trim rudder until ball is centered or until directional gyro stops
+                            turning.</alt>
+                    </image></info>
             </step>
             <step>
-                <cmd>Trim aileron</cmd><info><image keyref="trim_aileron" id="image_elw_xgh_2gb">
-                <alt>Trim aileron</alt>
-            </image></info></step>
+                <cmd>Trim aileron</cmd>
+                <info><image keyref="trim_aileron" id="image_elw_xgh_2gb">
+                        <alt>Trim aileron</alt>
+                    </image></info>
+            </step>
             <step>
-                <cmd>Trim elevator</cmd><info><image keyref="trim_elevator" id="image_flw_xgh_2gb">
-                <alt>Trim elevator</alt>
-            </image></info></step>
+                <cmd>Trim elevator</cmd>
+                <info><image keyref="trim_elevator" id="image_flw_xgh_2gb">
+                        <alt>Trim elevator</alt>
+                    </image></info>
+            </step>
         </steps>
-        <result><p>Check the trim by releasing all controls, allowing the plane to fly for a short time
-            without guidance. Properly trimmed it holds course, altitude, and heading for some
-            time.</p></result>
-        <tasktroubleshooting><p>Some planes are difficult to trim properly. This is a result of improper rigging and you
-            cannot correct it while in the air. If you encounter this difficulty, check the trim and
-            the weight and balance of the plane to see that it is properly loaded. After assuring
-            yourself that it is the plane and not the pilot, report this condition on the Form
-            lA.</p>
-        <p>The engineering officer will run a check flight on the plane. His findings may result in
-            the re-rigging of the plane and subsequent improvement in its flying
-            characteristics.</p></tasktroubleshooting>
+        <result><p>Check the trim by releasing all controls, allowing the plane to fly for a short
+                time without guidance. Properly trimmed it holds course, altitude, and heading for
+                some time.</p></result>
+        <tasktroubleshooting><p>Some planes are difficult to trim properly. This is a result of
+                improper rigging and you cannot correct it while in the air. If you encounter this
+                difficulty, check the trim and the weight and balance of the plane to see that it is
+                properly loaded. After assuring yourself that it is the plane and not the pilot,
+                report this condition on the Form lA.</p>
+            <p>The engineering officer will run a check flight on the plane. His findings may result
+                in the re-rigging of the plane and subsequent improvement in its flying
+                characteristics.</p></tasktroubleshooting>
     </taskbody>
 </task>

@@ -8,6 +8,12 @@
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>post-landing</indexterm>
+                <indexterm>checklist</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <context>When the plane has slowed, complete this landing check:</context>

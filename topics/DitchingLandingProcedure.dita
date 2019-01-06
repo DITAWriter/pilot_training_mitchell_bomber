@@ -2,12 +2,18 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="DitchingLandingProcedure">
     <title>Ditching: Landing procedure</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>ditching</indexterm>
+                <indexterm>emergency landing</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>Consult the PIF and your personal equipment officer for general information on landing in

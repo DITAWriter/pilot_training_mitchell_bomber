@@ -8,6 +8,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>cold weather</indexterm>
+                <indexterm>surface de-icer</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image placement="break" keyref="surface_deicer_system" id="image_glg_tvv_3gb">

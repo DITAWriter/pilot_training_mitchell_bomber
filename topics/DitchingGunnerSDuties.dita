@@ -2,18 +2,28 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="DitchingGunnerSDuties">
     <title>Ditching: Gunner's Duties</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>ditching</indexterm>
+                <indexterm>gunner's duties</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <steps>
-            <step><cmd>Switch to interphone and acknowledge the emergency bell</cmd></step>
-            <step><cmd>Remove the rear escape hatch. Jettison all loose equipment ammunition cans, guns,
-                chutes, spare coils^ etc.,</cmd></step>
+            <step>
+                <cmd>Switch to interphone and acknowledge the emergency bell</cmd>
+            </step>
+            <step>
+                <cmd>Remove the rear escape hatch. Jettison all loose equipment ammunition cans,
+                    guns, chutes, spare coils^ etc.,</cmd>
+            </step>
             <step>
                 <cmd>Close the hatch. This must foe closed for landing, otherwise it will act as a
                     scoop and allow entry of a great mass of water into the rear of the ship. This
@@ -24,12 +34,20 @@
                 <cmd>See that all rear personnel have their life vests on and that the vests <b>are
                         not inflated</b>.</cmd>
             </step>
-            <step><cmd>Lock rear armor bulkhead open, so that tail position and side windows may be used
-                for escape.</cmd></step>
-            <step><cmd>Obtain the thermos bottle and keep it in your possession.</cmd></step>
-            <step><cmd>Brace for the impact on the pilot's signal.</cmd></step>
-            <step><cmd>Abandon ship. Remove the escape hatch. See that the radio operator releases the
-                life raft. Carry the thermos bottle out and proceed to the raft.</cmd></step>
+            <step>
+                <cmd>Lock rear armor bulkhead open, so that tail position and side windows may be
+                    used for escape.</cmd>
+            </step>
+            <step>
+                <cmd>Obtain the thermos bottle and keep it in your possession.</cmd>
+            </step>
+            <step>
+                <cmd>Brace for the impact on the pilot's signal.</cmd>
+            </step>
+            <step>
+                <cmd>Abandon ship. Remove the escape hatch. See that the radio operator releases the
+                    life raft. Carry the thermos bottle out and proceed to the raft.</cmd>
+            </step>
         </steps>
     </taskbody>
 </task>

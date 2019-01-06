@@ -8,6 +8,16 @@
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>monoplane</indexterm>
+                <indexterm>Mitchell bomber</indexterm>
+                <indexterm>description</indexterm>
+                <indexterm>airplane dimensions</indexterm>
+                <indexterm>airplane weight</indexterm>
+                <indexterm>armament</indexterm>
+            </keywords>
+        </metadata> 
     </prolog>
     <refbody>
         <section><image keyref="mitchell_bomber_front_view_angled">
@@ -38,12 +48,12 @@
                 emergency operations.</p><p>Two 24-volt batteries supply electric power for starting
                 and initial operation. Two generators recharge the batteries and supply power when
                 engine speed permits their operation. Each engine has a dual-ignition
-                system.</p><p>The <keyword keyref="designator" /> has standard communication and bombardment equipment. Its
-                armament is varied but follows AAF standards. Models of the plane have been
-                converted for varying tactical needs by the addition of .50-cal. machine guns and
-                the 75-mm. cannon.</p><p>There are electrically driven power turrets on some models
-                and a hydraulically driven tail turret on others.</p><p>The plane has standard
-                lighting, heating and hydraulic systems.</p><image
+                system.</p><p>The <keyword keyref="designator"/> has standard communication and
+                bombardment equipment. Its armament is varied but follows AAF standards. Models of
+                the plane have been converted for varying tactical needs by the addition of .50-cal.
+                machine guns and the 75-mm. cannon.</p><p>There are electrically driven power
+                turrets on some models and a hydraulically driven tail turret on others.</p><p>The
+                plane has standard lighting, heating and hydraulic systems.</p><image
                 keyref="plane_dimensions_top_view">
                 <alt>Plane dimensions, top view</alt>
             </image><image keyref="plane_dimensions_front_view">

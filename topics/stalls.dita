@@ -12,6 +12,11 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>stall</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image placement="break" keyref="stalls"/>
@@ -57,8 +62,9 @@
         <p>Furthermore, you will trust your plane completely and fly it more accurately in the
             precision maneuvers that come later in your training.</p>
         <p>High-speed stalls and those brought on by rough and uncoordinated movement of the
-            controls are dangerous in the B-25, If you try this type of stall, execute it at reduced
-            power, and avoid it after the characteristics have been determined.</p>
+            controls are dangerous in the <keyword keyref="designator"/>, If you try this type of
+            stall, execute it at reduced power, and avoid it after the characteristics have been
+            determined.</p>
         <p>Practice at various flap settings, with wheels up and down, straight and level, and in
             turns.</p>
         <p>When practicing power-on stalls, keep the power at a maximum of 20" Hg. If you exceed

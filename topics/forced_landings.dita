@@ -9,6 +9,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>landing</indexterm>
+                <indexterm>forced landing</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image placement="break" keyref="forced_landing" id="image_rt3_y25_3gb">

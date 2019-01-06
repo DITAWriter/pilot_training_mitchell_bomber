@@ -9,6 +9,13 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>bailout</indexterm>
+                <indexterm>parachute</indexterm>
+                <indexterm>emergency hatch</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image placement="break" keyref="bailout">

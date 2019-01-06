@@ -2,12 +2,18 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="DitchingEscapeProcedure">
     <title>Escape procedure: Front Cockpit</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
     <prolog>
+        <metadata>
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+            <keywords>
+                <indexterm>escape prodcedure</indexterm>
+                <indexterm>cockpit</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <steps>

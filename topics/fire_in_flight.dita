@@ -10,6 +10,14 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>fire</indexterm>
+                <indexterm>enemy action</indexterm>
+                <indexterm>engine fire</indexterm>
+                <indexterm>spontaneous combustion</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image placement="break" keyref="fire_in_flight">

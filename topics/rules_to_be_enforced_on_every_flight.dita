@@ -8,6 +8,18 @@
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>rules</indexterm>
+                <indexterm>smoking</indexterm>
+                <indexterm>cigarette</indexterm>
+                <indexterm>parachute</indexterm>
+                <indexterm>propellers</indexterm>
+                <indexterm>oxygen masks</indexterm>
+                <indexterm>inspections</indexterm>
+                <indexterm>interphone</indexterm>
+            </keywords>
+        </metadata> 
     </prolog>
     <refbody>
         <section id="smoking"><title>Smoking</title><image

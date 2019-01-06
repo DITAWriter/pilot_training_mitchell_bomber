@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="power_on_landings">
-    <title>Power-On landings</title>
+    <title>Power-On Landings</title>
     <shortdesc>Before turning onto the base leg, one landing is much like another. The variations in
         procedure start as you leave the downwind leg.</shortdesc>
     <prolog>
@@ -9,74 +9,93 @@
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>power-on landings</indexterm>
+                <indexterm>landing</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>Before turning onto the base leg, one landing is much like another. The variations in
             procedure start as you leave the downwind leg.</p>
-        <section id="sect_NormalLanding"><title>Normal landing procedure</title><p>The first of the
-                techniques discussed is a normal landing procedure.</p><p>Turn onto the base leg and
-                make your final radio check unless the tower has given other instructions. Play the
-                turn into the runway from the base leg to allow a straight approach.</p><p>When you
-                are lined up, lower the flaps full down and di*op the nose to a point short of the
-                runway, Adjust the power and glide angle to keep the nose traveling along a line
-                that would, if not corrected, put the nose of your plane squarely on the point you
-                have selected. Maintain a predetermined speed all through the approach and to the
-                point at which your roundout starts. This gliding speed varies with the load, but on
-                most planes it is from 120 to 130 mph.</p><p>Adjust the trim tabs to ease the load
-                on the controls. Keep the speed constant and the nose on the point, thus setting up
-                a constant glide path. As you approach the runway, flare off and reduce the power
-                and speed. When over the runway, hold the throttles completely closed to prevent
-                them from creeping open and stretching the glide.</p><image
-                keyref="landing_speed_constant"/><p>Land in a tail-low attitude. Make contact with
-                the main wheels touching down at the same time. The landing gear is designed to
-                absorb great loads if they are applied straight ahead. Tremendous thrust is
-                generated in landing, and if it is applied in a side thrust it can easily collapse
-                the gear.</p><p>The landing speed depends on your skill and on weight
-                conditions.</p><image keyref="landing_lower_nosewheel_slowly"/><p>Hold the nosewheel
-                in the air with the elevators, thus reducing the length of the landing roll. The
-                increased angle of attack of the wings, plus the 45" of flaps, ^cts as an air
-                brake.</p><p><b>Lower the nosewheel slowly with elevator control as you lose
-                    airspeed on the landing roll.</b> Do not allow the nosewheel to drop heavily
-                onto the runway. It was not designed to absorb this type of load.</p><p><b>Never use
-                    the brakes when the nosewheel is off the ground.</b> This throws the nosewheel
-                to the ground suddenly and will collapse it, seriously damaging the airplane. Keep
-                your heels on the floor to avoid unintentional braking.</p></section>
-        <section id="sect_NightLanding"><title>Power-On landing procedure</title><p>The second
-                technique for power-on landing is a procedure for use at night, under strong wind
-                conditions, or whenever you want more positive control. In this you fly the airplane
-                all the way to the ground.</p><p>Set the approach in exactly the same manner as for
-                the first technique.</p><p>As you approach the runway, reduce the power at a point
-                farther out from the end of the runway. Reduce power gradually, slowing the pUne as
-                you come in. The use of power lowers your stall speed and the speed must be low to
-                prevent overshooting the runway.</p><p>As you reach the end of the runways your
-                speed should be slightly above the power-off stalling speed, with the plane in a
-                landing attitude. Now reduce power slowly until the plane settles onto the ground.
-                Close the throttles completely only when the plane is on the ground.</p><p><b>Don't
-                    make a dragging approach in this type of landing.</b></p><p>This is not a
-                short-field landing&#8212; there is no place in it for slow flying. The plane is
-                never below power-off stall speed until it is over the runway. The maneuver is
-                designed to give you maximum control of the airplane. You lose this advantage if you
-                do not execute it properly.</p><p>The remainder of the ground roll and landing check
-                are identical with the first procedure.</p><image keyref="landing_direct_approach"
-            /></section>
-        <section id="sect_CombatLanding"><title>Combat landing procedure</title><p>The third
-                technique is commonly called a combat landing. It is the product of combat theatres,
-                where the difference between life and death is often the amount of time it takes you
-                to get out of the traffic pattern and onto the ground.</p><p>A slow-flying bomber
-                with wheels and flaps down is a setup for any fighter which spots it.</p><p>This is
-                a precision maneuver requiring a lot of skill and judgment.</p><p>Fly the downwind
-                leg in the same way as the two other power-on landing techniques. The rest of the
-                procedure is entirely different.</p><p>When you are opposite the end of the runway
-                on your downwind leg, start a turn into the field.</p><p>Play your speed and
-                altitude in a constantly descending turn. Lower your flaps in the turn so that they
-                will be full down as you roll out above the runway.</p><p>Properly executed, you can
-                complete this roll-out just above the end of the runway at a speed that permits the
-                minimum amount of float above the runway before touching down.</p><p>If you
-                visualize a chandelle and then reverse it so that you picture a diving turn through
-                180°, you have an accurate picture of this landing.</p><image
-                keyref="landing_combat"/><note type="caution">This maneuver requires the touch and
-                skill of an experienced pilot. Have an instructor pilot demonstrate it to you and
-                practice it when he is present. The rest of the landing procedure is identical with
-                the others.</note></section>
+        <section id="sect_NormalLanding">
+            <title>Normal landing procedure</title>
+            <p>The first of the techniques discussed is a normal landing procedure.</p>
+            <p>Turn onto the base leg and make your final radio check unless the tower has given
+                other instructions. Play the turn into the runway from the base leg to allow a
+                straight approach.</p>
+            <p>When you are lined up, lower the flaps full down and di*op the nose to a point short
+                of the runway, Adjust the power and glide angle to keep the nose traveling along a
+                line that would, if not corrected, put the nose of your plane squarely on the point
+                you have selected. Maintain a predetermined speed all through the approach and to
+                the point at which your roundout starts. This gliding speed varies with the load,
+                but on most planes it is from 120 to 130 mph.</p>
+            <p>Adjust the trim tabs to ease the load on the controls. Keep the speed constant and
+                the nose on the point, thus setting up a constant glide path. As you approach the
+                runway, flare off and reduce the power and speed. When over the runway, hold the
+                throttles completely closed to prevent them from creeping open and stretching the
+                glide.</p>
+            <image keyref="landing_speed_constant"/>
+            <p>Land in a tail-low attitude. Make contact with the main wheels touching down at the
+                same time. The landing gear is designed to absorb great loads if they are applied
+                straight ahead. Tremendous thrust is generated in landing, and if it is applied in a
+                side thrust it can easily collapse the gear.</p>
+            <p>The landing speed depends on your skill and on weight conditions.</p><image
+                keyref="landing_lower_nosewheel_slowly"/><p>Hold the nosewheel in the air with the
+                elevators, thus reducing the length of the landing roll. The increased angle of
+                attack of the wings, plus the 45" of flaps, ^cts as an air brake.</p>
+            <p><b>Lower the nosewheel slowly with elevator control as you lose airspeed on the
+                    landing roll.</b> Do not allow the nosewheel to drop heavily onto the runway. It
+                was not designed to absorb this type of load.</p>
+            <p><b>Never use the brakes when the nosewheel is off the ground.</b> This throws the
+                nosewheel to the ground suddenly and will collapse it, seriously damaging the
+                airplane. Keep your heels on the floor to avoid unintentional braking.</p>
+        </section>
+        <section id="sect_NightLanding">
+            <title>Power-On landing procedure</title>
+            <p>The second technique for power-on landing is a procedure for use at night, under
+                strong wind conditions, or whenever you want more positive control. In this you fly
+                the airplane all the way to the ground.</p>
+            <p>Set the approach in exactly the same manner as for the first technique.</p>
+            <p>As you approach the runway, reduce the power at a point farther out from the end of
+                the runway. Reduce power gradually, slowing the pUne as you come in. The use of
+                power lowers your stall speed and the speed must be low to prevent overshooting the
+                runway.</p>
+            <p>As you reach the end of the runways your speed should be slightly above the power-off
+                stalling speed, with the plane in a landing attitude. Now reduce power slowly until
+                the plane settles onto the ground. Close the throttles completely only when the
+                plane is on the ground.</p>
+            <p><b>Don't make a dragging approach in this type of landing.</b></p>
+            <p>This is not a short-field landing&#8212; there is no place in it for slow flying. The
+                plane is never below power-off stall speed until it is over the runway. The maneuver
+                is designed to give you maximum control of the airplane. You lose this advantage if
+                you do not execute it properly.</p><p>The remainder of the ground roll and landing
+                check are identical with the first procedure.</p><image
+                keyref="landing_direct_approach"/>
+        </section>
+        <section id="sect_CombatLanding"><title>Combat landing procedure</title>
+            <p>The third technique is commonly called a combat landing. It is the product of combat
+                theatres, where the difference between life and death is often the amount of time it
+                takes you to get out of the traffic pattern and onto the ground.</p>
+            <p>A slow-flying bomber with wheels and flaps down is a setup for any fighter which
+                spots it.</p>
+            <p>This is a precision maneuver requiring a lot of skill and judgment.</p>
+            <p>Fly the downwind leg in the same way as the two other power-on landing techniques.
+                The rest of the procedure is entirely different.</p>
+            <p>When you are opposite the end of the runway on your downwind leg, start a turn into
+                the field.</p>
+            <p>Play your speed and altitude in a constantly descending turn. Lower your flaps in the
+                turn so that they will be full down as you roll out above the runway.</p>
+            <p>Properly executed, you can complete this roll-out just above the end of the runway at
+                a speed that permits the minimum amount of float above the runway before touching
+                down.</p>
+            <p>If you visualize a chandelle and then reverse it so that you picture a diving turn
+                through 180°, you have an accurate picture of this landing.</p>
+            <image keyref="landing_combat"/>
+            <note type="caution">This maneuver requires the touch and skill of an experienced pilot.
+                Have an instructor pilot demonstrate it to you and practice it when he is present.
+                The rest of the landing procedure is identical with the others.</note>
+        </section>
     </conbody>
 </concept>

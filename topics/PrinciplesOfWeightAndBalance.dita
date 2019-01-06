@@ -2,12 +2,20 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="PrinciplesOfWeightAndBalance">
     <title>Principles of weight and balance</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>weight</indexterm>
+                <indexterm>balance</indexterm>
+                <indexterm>balancing</indexterm>
+                <indexterm>center of gravity</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <section id="section_l1v_zdv_3gb">

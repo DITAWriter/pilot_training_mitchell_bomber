@@ -9,6 +9,14 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>cold weather</indexterm>
+                <indexterm>anti-icing</indexterm>
+                <indexterm>bombsight window</indexterm>
+                <indexterm>carburetor de-icer</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>The alcohol anti-icing system has two supply tanks, one in each engine nacelle against
@@ -24,7 +32,7 @@
         <p>There is no fluid level gage inside the airplane. The fluid level is checked by means of
             overflow plugs mounted on the tank.</p>
         <section>
-            <title>Propeller Anti-lcing</title>
+            <title>Propeller Anti-icing</title>
             <p>Conventional slinger rings are provided for the propellers. A fluid metering pump in
                 the right-hand nacelle forward of the tank is controlled by a rheostat on the
                 pilot's switch panel with a slight turn to the right, the control operates the pump

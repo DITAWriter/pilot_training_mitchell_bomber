@@ -11,6 +11,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>bombardier-navigator</indexterm>
+                <indexterm>navigator</indexterm>
+            </keywords>
+        </metadata> 
     </prolog>
     <conbody>
         <image keyref="bombadier_nav" id="image_zpn_m1m_cgb">
@@ -136,7 +142,7 @@
                 bombardier to do his job, you must place the airplane in the proper position to
                 arrive at a point from which he can release his bombs to hit the target.</p><image
                 keyref="bomb_drop" id="image_xgf_2bm_cgb">
-                <alt><keyword keyref="designator" /> dropping bombs</alt>
+                <alt><keyword keyref="designator"/> dropping bombs</alt>
             </image><p>Unless the pilot performs his part of the bombing run correctly, even the
                 best bombardier in the world cannot bomb accurately.</p></section>
     </conbody>

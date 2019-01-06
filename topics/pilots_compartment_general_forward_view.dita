@@ -8,6 +8,11 @@
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>pilot's compartment</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <refbody>
         <section>

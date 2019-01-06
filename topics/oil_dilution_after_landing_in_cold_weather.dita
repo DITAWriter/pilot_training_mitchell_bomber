@@ -9,6 +9,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>cold weather</indexterm>
+                <indexterm>oil dilution</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>This will prevent rapid evaporation of the gasoline and insure that the viscosity of the

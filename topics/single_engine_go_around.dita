@@ -12,6 +12,12 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>go-around</indexterm>
+                <indexterm>single engine</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <context>
