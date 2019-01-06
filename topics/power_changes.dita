@@ -9,6 +9,12 @@
             <!--scott.hudson-->
             <revised modified="13. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>changing power</indexterm>
+                <indexterm>power changes</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>Move the controls slowly and smoothly to the desired settings rather than attempting to

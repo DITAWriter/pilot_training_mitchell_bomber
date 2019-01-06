@@ -2,14 +2,20 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="climb">
     <title>Climb</title>
-    <shortdesc>How do you climb the B-25? Simple, you say &#8212;just pull her nose up. That is a
-        definite part of the procedure, but unless a little more thought and a little less muscle
-        accompanies the pulling you will ruin a good airplane.</shortdesc>
+    <shortdesc>How do you climb the <keyword keyref="designator"/>? Simple, you say &#8212;just pull
+        her nose up. That is a definite part of the procedure, but unless a little more thought and
+        a little less muscle accompanies the pulling you will ruin a good airplane.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="13. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>climb</indexterm>
+                <indexterm>climbing</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <image keyref="climb_turn_as_you_climb" id="image_vzq_mhs_cgb">

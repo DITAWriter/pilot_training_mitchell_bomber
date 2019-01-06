@@ -7,6 +7,11 @@
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>takeoff</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>Do not dive the airplane after lifting it at the end of the takeoff run. When you level
@@ -14,7 +19,8 @@
             up.</p>
         <p><b>Gain critical single engine speed immediately after takeoff.</b> This is the slowest
             speed at which the rudder has a safe margin of control over the unbalanced thrust of the
-            live engine at full power. In the B-25, it is <b>140 mph</b>.</p>
+            live engine at full power. In the <keyword keyref="designator"/>, it is <b>140
+            mph</b>.</p>
         <p>Don't be an instrument pilot on takeoff. Fly the airplane by feel and by visual reference
             to the ground. An occasional check of the instruments is a necessity, but make
             instrument takeoffs only when contact flight is impossible. Attention to the panel

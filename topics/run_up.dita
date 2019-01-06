@@ -8,6 +8,11 @@
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>run-up</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
         <context>
@@ -32,8 +37,8 @@
                 <cmd>Advance the throttle on your coolest engine until the rpm is set at 2000.
                     Maximum manifold pressure 28.5" Hg. Check the right and left mags. For a
                     thorough check, the time on one mag is 2 to 3 seconds. Between checks on "L" and
-                    "R" settings return the switch to "BOTH" and allow the engine to regain speed.
-                    A loss of 73 to 100 rpm does not necessarily mean that the plane is unsafe for
+                    "R" settings return the switch to "BOTH" and allow the engine to regain speed. A
+                    loss of 73 to 100 rpm does not necessarily mean that the plane is unsafe for
                     flight. If the engine does not vibrate excessively during the check, and if it
                     will put out rated power, a drop of 75 to 100 rpm is considered safe for
                     takeoff. However, he on the lookout for a drop in rpm. If the drop is sudden, or

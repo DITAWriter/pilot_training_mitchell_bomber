@@ -12,6 +12,11 @@
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
         </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>takeoff errors</indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <ul>
