@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -16,9 +18,6 @@
         </metadata>
     </prolog>
     <taskbody>
-        <context>
-            <p/>
-        </context>
         <steps>
             <step>
                 <cmd>Five rounds of 75MM ammunition from a range of 2000 yards, firing one round on

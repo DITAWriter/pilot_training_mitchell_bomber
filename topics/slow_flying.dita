@@ -11,6 +11,8 @@
             <revised modified="3. Jan. 2019"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -57,7 +59,7 @@
             precision maneuver; make it one. Practice it at a safe altitude and perfect your
             technique. Do not attempt to use it in turbulent air unless it is an emergency
             landing.</p>
-        <section>
+        <section id="sect_CommonErrors">
             <title>Common Errors</title>
             <ol>
                 <li>A reluctance to keep a low airspeed.</li>

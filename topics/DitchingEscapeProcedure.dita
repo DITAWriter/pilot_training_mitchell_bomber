@@ -4,11 +4,11 @@
     <title>Escape procedure: Front Cockpit</title>
     <shortdesc/>
     <prolog>
-        <metadata>
         <critdates>
             <!--scott.hudson-->
-            <revised modified="4. Jan. 2019"/>
+            <revised modified="7. Jan. 2019"/>
         </critdates>
+        <metadata>
             <keywords>
                 <indexterm>escape prodcedure</indexterm>
                 <indexterm>cockpit</indexterm>

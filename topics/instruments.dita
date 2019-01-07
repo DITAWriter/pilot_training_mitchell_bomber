@@ -9,6 +9,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -21,7 +23,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <section>
+        <section id="sect_FlightInstruments">
             <title>Flight Instruments</title>
             <p>Pilot Static Instruments</p>
             <ol>
@@ -34,7 +36,7 @@
                 static side of the pitot tube fails because of damage or unusual air conditions,
                 such as might be encountered during a thunderstorm.</p>
         </section>
-        <section>
+        <section id="sect_VacuumInstruments">
             <title>Vacuum Instruments</title>
             <p>Vacuum pumps, one on each engine, supply the pressure to operate these instruments
                 and also the autopilot and the de-icer boots.</p>
@@ -49,7 +51,7 @@
                 needle- width deflection. Adjust the suction pressures until this deflection is
                 accurate.</p>
         </section>
-        <section>
+        <section id="sect_EngineInstruments">
             <title>Engine Instruments</title>
             <ol>
                 <li>Cylinder-head temperature gage</li>
@@ -61,7 +63,7 @@
                 <li>Carburetor air temperature gage</li>
             </ol>
         </section>
-        <section>
+        <section id="sect_MiscInstruments">
             <title>Miscellaneous Instruments</title>
             <ol>
                 <li>Suction gage</li>
@@ -83,7 +85,7 @@
                 as you operate the gear and flaps. Thus the resistance varies and is converted to an
                 indication of position on the instrument dial.</p>
         </section>
-        <section>
+        <section id="sect_AutosynInstruments">
             <title>Autosyn Instruments</title>
             <p>Autosyn instruments are electrically operated. Each instrument consists of two
                 motors, one of which is a transmitter and the other an indicator. The transmitter is
@@ -101,7 +103,7 @@
             <p>On late series aircraft, pressure transmitting instruments replace all autosyn
                 instruments, except the remote reading compass.</p>
         </section>
-        <section>
+        <section id="sect_PressureTransmitInstruments">
             <title>Pressure Transmitting Instruments</title>
             <p>Pressure forces in the pressure transmitting instruments actuate a diaphragm. This
                 diaphragm transmits the pressure through a line filled with compass fluid to an

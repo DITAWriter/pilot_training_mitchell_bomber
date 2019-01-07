@@ -9,6 +9,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -31,7 +33,7 @@
             mechanical failure. It is well to bear in mind, however, that many ditchings have been
             avoided by thorough knowledge of the airplane and its characteristics under all
             conditions.</p>
-        <section>
+        <section id="sect_WhenToDitch">
             <title>When to Ditch</title>
             <p><b>Start preparation for ditching as soon as you feel the slightest doubt that your
                     mission will be completed successfully.</b></p>
@@ -41,7 +43,7 @@
                 prepare. Once your decision i.s made, notify the crew by interphone and the alarm
                 bell "Prepare to ditch!"</p>
         </section>
-        <section>
+        <section id="sect_RadioProcedure">
             <title>Radio Procedure</title>
             <p><b>Start emergency radio procedure immediately.</b> Your best chance for rescue lies
                 in correct and speedy radio procedure before ditching. Radio operator and pilot must
@@ -52,7 +54,7 @@
                 and loss of time (or other crews who may be out searching for you.</p>
             <image placement="break" keyref="radio_sos"/>
         </section>
-        <section>
+        <section id="sect_PreparePlane">
             <title>Prepare the Plane</title>
             <p>When ditched, the <keyword keyref="designator"/> loses its forward speed after the
                 second impact in slightly more than its own length. This sudden deceleration makes
@@ -78,7 +80,7 @@
                     fuselage tank (30 seconds), keep the bomb bay doors closed.</b> Open the pilot's
                 escape hatch only when below 1000 feet. Open hatches create drag. </p>
         </section>
-        <section>
+        <section id="sect_PrepareCrew">
             <title>Prepare the Crew</title>
             <p>Remove all entangling cords and lines, parachute harness, radio cords, oxygen masks
                 when below 12,000 feet, and throat microphones- Remove flying boots. Wear all other
@@ -96,7 +98,7 @@
                 are generated then; the human body cannot absorb these forces if it is not
                 protected.</p>
         </section>
-        <section>
+        <section id="sect_PersonnelPosition">
             <title>Position of Personnel</title>
             <p>Pilot&#8212; in his seat, seat full forward and locked, cushion protecting chest.</p>
             <p>Copilot - in his seat, seat full back and locked to provide easy access to the escape

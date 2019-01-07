@@ -9,6 +9,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -30,18 +32,18 @@
             are made on Grade 91 fuel whenever possible.</p>
         <p>The operation of the <keyword keyref="designator"/> on Grade 91 fuel is perfectly safe.
             With a thorough knowledge of its operating limits you will have no trouble at all.</p>
-        <section>
+        <section id="sect_WhatIsOctaneRating">
             <title>What Is an Octane Rating?</title>
             <p>To properly understand the evaluation of fuels it is necessary to review some basic
                 facts, Let's start with some definitions:</p>
         </section>
-        <section>
+        <section id="sect_Preignition">
             <title>Preignition</title>
             <p>Preignition is a condition of premature firing. The fuel charge in the cylinder head
                 is ignited by a hot carbon deposit or other means before time for the electrical
                 firing to occur.</p>
         </section>
-        <section>
+        <section id="sect_NormalCombust">
             <title>Normal Combustion</title>
             <p>Normal combustion is the burning of the fuel charge in the cylinder head as a
                 slow-burning wave, creating power not as an explosion, but as an expansion of the
@@ -53,7 +55,7 @@
                 <alt>Correct combustion and maximum power</alt>
             </image>
         </section>
-        <section>
+        <section id="sect_Detonation">
             <title>Detonation</title>
             <p>Detonation, as the name implies, is an explosion in the cylinder head. The normal
                 burning wave as it travels across the cylinder head subjects the unburned portion of
@@ -64,7 +66,7 @@
                 <alt>Detonation</alt>
             </image>
         </section>
-        <section>
+        <section id="sect_OctaneRating">
             <title>Octane Rating</title>
             <p>Octane rating of a fuel is a mathematical grade assigned to a fuel in direct
                 proportion to its ability to withstand preignition and detonation.</p>
@@ -79,7 +81,7 @@
                 <alt>Relative combustion temperatures for different grades of fuel</alt>
             </image>
         </section>
-        <section>
+        <section id="sect_FuelAffectsB-25">
             <title>How Does this Affect the <keyword keyref="designator"/>?</title>
             <p>You control the initial pressure that is allowed to enter the cylinders of the
                 engines. This pressure after entering the cylinders is compressed and fired at a

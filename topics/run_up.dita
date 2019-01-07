@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -15,9 +17,6 @@
         </metadata>
     </prolog>
     <taskbody>
-        <context>
-            <p/>
-        </context>
         <steps>
             <step>
                 <cmd>Advance the throttles to 1600 rpm.</cmd>

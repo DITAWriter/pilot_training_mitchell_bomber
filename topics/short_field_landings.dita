@@ -11,6 +11,8 @@
             <revised modified="3. Jan. 2019"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -83,7 +85,7 @@
             field at the lowest safe airspeed and land accurately as soon as the power is cut.</p>
         <p>If you lack sufficient feel of the airplane to do this, practice slow flying, stalls, and
             this type of approach at a safe altitude before it is used.</p>
-        <section>
+        <section id="sect_CommonErrors">
             <title>Common Errors:</title>
             <ul>
                 <li>Excessive speed on the approach.</li>

@@ -10,6 +10,8 @@
             <revised modified="12. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -32,23 +34,23 @@
             definite procedure.</p>
         <p>Consult the crew chief about the status of the plane. You will pick up many of valuable
             tips from him.</p>
-        <section><title>Preflight</title><p>Enter cockpit and check that all switches are
-                "off"</p><p>Check Form lA for status of the airplane. Surface controls locked. Trim
-                tabs set at "0."</p><p>Pull props through 12 to 15 blades if the airplane has been
-                standing for more than 30 minutes. This will work the oil from the lower
-                cylinders.</p><p>If you start the engine with excess oil present in the cylinders
-                this oil will form a pressure block, cracking the cylinder heads and bending the
-                connecting rods.</p><p>Always pull the props through in the direction of rotation.
-                Otherwise fuel and oil will be forced back into the intake section. This will cause
-                an unknown and possibly dangerous fuel-air ratio and make starting
+        <section id="sect_Preflight"><title>Preflight</title><p>Enter cockpit and check that all
+                switches are "off"</p><p>Check Form lA for status of the airplane. Surface controls
+                locked. Trim tabs set at "0."</p><p>Pull props through 12 to 15 blades if the
+                airplane has been standing for more than 30 minutes. This will work the oil from the
+                lower cylinders.</p><p>If you start the engine with excess oil present in the
+                cylinders this oil will form a pressure block, cracking the cylinder heads and
+                bending the connecting rods.</p><p>Always pull the props through in the direction of
+                rotation. Otherwise fuel and oil will be forced back into the intake section. This
+                will cause an unknown and possibly dangerous fuel-air ratio and make starting
                 difficult.</p><image keyref="preflight_prop">
                 <alt>Preflight prop</alt>
             </image></section>
-        <section><title>Nose Section</title><p>Bombardier's escape hatch unlocked. Check
-                bombardier's compartment for proper stowage.</p><p>Shimmy damper pin (⅜-inch
-                extension). Nosewheel towing lockpin engaged&#8212;Red acorn-nut covering this pin
-                must be in place and secure. Rotate clockwise until hand-tight. The towing lockpin
-                locks the nosewheel into position. (The cover will not engage if this pin is
+        <section id="sect_NoseSection"><title>Nose Section</title><p>Bombardier's escape hatch
+                unlocked. Check bombardier's compartment for proper stowage.</p><p>Shimmy damper pin
+                (⅜-inch extension). Nosewheel towing lockpin engaged&#8212;Red acorn-nut covering
+                this pin must be in place and secure. Rotate clockwise until hand-tight. The towing
+                lockpin locks the nosewheel into position. (The cover will not engage if this pin is
                 unlocked.)</p><p>Nosewheel oleo strut for proper clearance.</p><image
                 keyref="preflight_nosewheel">
                 <alt>Preflight nosewheel oleo strut for proper clearance</alt>
@@ -59,8 +61,8 @@
                 air blast may tear it of! and damage other parts of the airplane.</p><p>Nose hood
                 locked and safetied (<keyword keyref="designator"/> G, H, and TB-25).</p><p>Check
                 engine fire extinguisher fuse if installed.</p></section>
-        <section><title>Right Engine Section</title><p>Carburetor air scoop cover
-                removed.</p><p>Propeller for nicks, propeller dome and governor for
+        <section id="sect_RightEngineSection"><title>Right Engine Section</title><p>Carburetor air
+                scoop cover removed.</p><p>Propeller for nicks, propeller dome and governor for
                 leaks.</p><p>Check pulleys, cables, and safety wires.</p><p>Colws, cowl flaps, and
                 Dzus fasteners secure&#8212; a loose cowl section can be a serious hazard in
                 flight.</p><p>Exhaust stacks, fingers, gaskets and studs, for looseness and
@@ -71,20 +73,20 @@
                 <alt>Preflight tire</alt>
             </image><p>Battery jar in nacelle for proper servicing.</p><p>Wheel chocks in
                 place.</p><p>Gasoline drain plugs properly safe tied.</p></section>
-        <section><title>Right Wing Section</title><p>De-icer boots for cuts, tears, worn spots, and
-                proper installation.</p><p>Pitot head cover removed.</p><image
-                keyref="preflight_pitot_head_cover">
+        <section id="sect_RightWingSection"><title>Right Wing Section</title><p>De-icer boots for
+                cuts, tears, worn spots, and proper installation.</p><p>Pitot head cover
+                removed.</p><image keyref="preflight_pitot_head_cover">
                 <alt>Preflight, remove pitot head cover</alt>
             </image><p>Wing surfaces for wrinkles, dents, or loose rivets. This is an important
                 check. Wrinkles in the metal surface indicate excessive strain.</p><p>Control
                 surfaces for general condition.</p><p>Trim tabs neutral at "0"
             settings.</p></section>
-        <section>
+        <section id="sect_Empennage">
             <title>Empennage</title>
             <p>Check for wrinkles, dents, loose rivets, de-icer installation.</p>
             <p>Trim tabs neutral at "0" settings.</p>
         </section>
-        <section>
+        <section id="sect_RearCompartment">
             <title>Rear Compartment</title>
             <p>Loading and stowage&#8212; In the photographer's compartment sections of the control
                 cables are exposed on the sidewalls of the fuselage. Check the stowage carefully at
@@ -94,18 +96,18 @@
                 mechanisms stowed.</p>
             <p>Trailing antenna fully retracted. Entrance hatch closed and latched.</p>
         </section>
-        <section>
+        <section id="sect_LeftWingSection">
             <title>Left Wing Section</title>
             <p>Repeat the right engine section inspection. Check left nacelle for stowage of the
                 hand energizer.</p>
         </section>
-        <section>
+        <section id="sect_BombBay">
             <title>Bomb Bay</title>
             <p>Check doors for looseness. Check gasoline lines and plugs for leaks. Check bomb bay
                 for strong gasoline odors. Note: Turn booster pumps "ON" before making this
                 check.</p>
         </section>
-        <section><title>General</title><image keyref="preflight_general">
+        <section id="sect_General"><title>General</title><image keyref="preflight_general">
                 <alt>General preflight inspection</alt>
             </image><p>Check visually the amount of fuel in each tank.</p><p>Check fuel caps for
                 proper installation.</p><p>Check visually the amount of oil in tanks and see that
@@ -117,7 +119,7 @@
                 hatches.</p><p>Testing and operation of oxygen equipment-check crew on knowledge of
                 proper usage. (Consult your Pilots' Information File.)</p><p>Interphone
                 operation.</p></section>
-        <section><title>Navigator's Compartment</title><image
+        <section id="sect_NavCompartment"><title>Navigator's Compartment</title><image
                 keyref="preflight_emer_air_brake_press">
                 <alt>Preflight emergency air brake pressure</alt>
             </image><p>Emergency air brake pressure (550-600 lb. sq. in.).</p><p>Nosewheel pawl
@@ -140,11 +142,11 @@
                 The <keyword keyref="designator"/> carries great loads and is unstable and dangerous
                 if the weight is not properly distributed. (For detailed information, see the PIF
                 and the Weights and Balance section of this manual.)</p></section>
-        <section><title>Cockpit</title><p>Have your parachute fitted to your body and always wear
-                it.</p><p>An improperly fitted chute will cause serious physical injury&#8212;
-                protect yourself.</p><p>Adjust seat and belt&#8212;If the seat is not locked the
-                acceleration of takeoff will force the seat away from the controls. You cannot reach
-                the controls properly even for taxiing if the seat is not forward and
+        <section id="sect_Cockpit"><title>Cockpit</title><p>Have your parachute fitted to your body
+                and always wear it.</p><p>An improperly fitted chute will cause serious physical
+                injury&#8212; protect yourself.</p><p>Adjust seat and belt&#8212;If the seat is not
+                locked the acceleration of takeoff will force the seat away from the controls. You
+                cannot reach the controls properly even for taxiing if the seat is not forward and
                 locked.</p><p>Escape hatch unlocked, hatch secure.</p><p>Controls unlocked, check
                 for free and proper movement. This insures the release of the lock, and reveals the
                 presence of obstructions to free movement of the controls.</p><p>Parking brakes

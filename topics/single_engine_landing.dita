@@ -10,6 +10,8 @@
             <revised modified="3. Jan. 2019"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -73,7 +75,7 @@
             This in turn greatly reduces the possibility of overshooting or undershooting.</p>
         <p>Never try to recover from a bad approach with one engine. Once the power has been cut and
             the speed is below 140 mph, go ahead and land.</p>
-        <section>
+        <section id="sect_CommonErrors">
             <title>Common Errors</title>
             <ul>
                 <li>Overshooting &#8212; a combination of errors. Setting the base leg improperly.

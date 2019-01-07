@@ -10,6 +10,8 @@
             <revised modified="27. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -26,7 +28,7 @@
             possible the operations over enemy territory today.</p>
         <p>As a trainee pilot it is a lesson you can learn from the experiences of other men.
             Prepare yourself for the job to come by mastering the elements of formation flying.</p>
-        <section>
+        <section id="sect_WhyFormation">
             <title>Why Fly in Formation?</title>
             <p>Bombardment units fly in formation for mariy reasons, and mutual defense is only one
                 of them. Other reasons are:</p>
@@ -70,7 +72,7 @@
                 down into the familiar 3-plane combinations. Learn these fundamentals well and you
                 will feel at home and be in position in any formation.</p>
         </section>
-        <section>
+        <section id="sect_AirDiscipline">
             <title>Air Discipline</title>
             <p>A formation in the air is no place for a difference of opinion. You are in a
                 formation to enable the formation leader to exercise his right of command.</p>
@@ -79,7 +81,7 @@
                 sailor&#8212; can take your complaint to a higher authority.</p>
             <p><b>In the air&#8212; Obey.</b></p>
         </section>
-        <section>
+        <section id="sect_FormationTypes">
             <title>Types of Formations</title>
             <p>There are many types of formations; for simplicity, the three basic groupings are
                 sufficient to give you the primary elements of all formations.</p>
@@ -92,7 +94,7 @@
                 <alt>Echelon Up</alt>
             </image>
         </section>
-        <section>
+        <section id="sect_TakeoffLanding">
             <title>Takeoff and Landing</title>
             <p>Many variations of takeoff and landing procedures are used in the different Air
                 Forces. The fundamentals are the same wherever you go.</p>
@@ -111,7 +113,7 @@
             <p>To land information you must land accurately at varying distances on the runway. Land
                 on the side away from the plane ahead of you, and give the man behind you a little
                 room to get down. Don't blast your throttles on the approach. You only create
-                unnecessary prop wash. Plan your landing to get in without increasing power,</p>
+                unnecessary prop wash. Plan your landing to get in without increasing power.</p>
             <p>Don't be afraid to go around if you mess up a formation landing. <b>Remember, there
                     is a man coming in right behind you.</b> If you can't land accurately, go
                 around.</p>
@@ -120,7 +122,7 @@
                 over his prop wash, and let down to the runway where his power has been cut, thereby
                 missing the worst turbulence.</p>
         </section>
-        <section>
+        <section id="sect_LeadingFormation">
             <title>Leading a Formation</title>
             <p>Leading a formation requires accurate, precise flying and excellent judgment. It is
                 similar to instrument flying. A definite planned procedure is the secret of leading
@@ -144,7 +146,7 @@
                 extra speed.</p>
             <p>Use the best judgment you are able to exercise.</p>
         </section>
-        <section>
+        <section id="sect_WingmanTips">
             <title>Tips for a Wingman</title>
             <p><b>Trust your leader. Stay in formation.</b></p>
             <p>These two simple things will do more than anything else to bring you home safely from

@@ -9,6 +9,8 @@
             <revised modified="3. Jan. 2019"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -36,7 +38,7 @@
                 tear mentally and physically. <b>The <keyword keyref="designator"/> flies easily on
                     one engine if it is properly trimmed.</b></li>
         </ul>
-        <section>
+        <section id="sect_RestartDeadEngine">
             <title>Re-starting the dead engine</title>
             <ul>
                 <li>Turn the ignition switches "<userinput>ON</userinput>."</li>
@@ -50,7 +52,7 @@
                 <li>Warm the engine as you would on the ground and apply cruising power after
                     cylinder-head temperature is normal.</li>
                 <li>Oil shutters and cowl flaps as desired.</li>
-                <li>Re-trim.</li>
+                <li>Retrim.</li>
             </ul>
             <note type="warning">If no feathering action occurs within 90 seconds, release
                 feathering button to avoid burning out feathering motor.</note>

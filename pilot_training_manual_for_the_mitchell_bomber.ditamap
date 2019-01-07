@@ -218,7 +218,10 @@
     <backmatter>
         <booklists>
             <glossarylist>
-                <topicref keys="gl_GUMPS" href="gl_GUMPS.dita"/>
+                <topicref>
+                    <topicmeta><navtitle>G</navtitle></topicmeta>
+                    <topicref keys="gl_GUMPS" href="gl_GUMPS.dita"/>
+                </topicref>
             </glossarylist>
             <indexlist/>
         </booklists>

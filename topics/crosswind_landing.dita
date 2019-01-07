@@ -15,6 +15,8 @@
             <revised modified="3. Jan. 2019"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -62,7 +64,7 @@
         <image placement="break" keyref="landing_correct_for_drift" id="image_m5t_kxn_3gb">
             <alt>Correct for Drift. Land on the runway.</alt>
         </image>
-        <section>
+        <section id="sect_CommonErrors">
             <title>Common Errors</title>
             <ul>
                 <li>Failure to correct properly for drift when turning into the approach.</li>

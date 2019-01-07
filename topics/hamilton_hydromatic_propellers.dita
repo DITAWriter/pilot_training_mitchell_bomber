@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -34,14 +36,14 @@
             a boosted pressure of 180-200 lb. sq. in. pressure increases blade angle.</p>
         <p>Feathering and unfeathering is accomplished by an independent auxiliary oil system
             controlled from the cockpit.</p>
-        <section>
+        <section id="sect_PrincipleOperation">
             <title>Principle of Operation</title>
             <p>Angular blade movement of the propellers is obtained by converting the straight-line
                 motion of the piston to circular movement by the cams. Oil pressure drives the
                 piston forward or backward.</p>
         </section>
-        <section><title>Constant-speed Control</title><image keyref="constant_speed_control"
-                id="image_er4_kjm_cgb">
+        <section id="sect_ConstantSpeedCtrl"><title>Constant-speed Control</title><image
+                keyref="constant_speed_control" id="image_er4_kjm_cgb">
                 <alt>Costant speed control</alt>
             </image><p>The propeller governor assembly maintains rpm settings established by the
                 pilot.</p><p>The governor consists of 2 flyweights geared to the operation of the
@@ -63,7 +65,8 @@
                 the blades, plus engine oil pressure on the outboard side of the piston, moves the
                 blades to a lower angle, thus increasing engine rpm to the selected
             setting.</p></section>
-        <section><title>Feathering</title><image keyref="feathering" id="image_zcc_mjm_cgb">
+        <section id="sect_Feathering"><title>Feathering</title><image keyref="feathering"
+                id="image_zcc_mjm_cgb">
                 <alt>Feathering</alt>
             </image><p>You feather a propeller by actuating the feathering control button on the
                 pilot's pedestal. An electric feathering pump supplies oil at 400 lb. sq. in.
@@ -72,7 +75,7 @@
                 twisting the blades to the full-feathered position (90°.) When the blades are at
                 this angle, pressure increases sufficiently to operate a cut-out switch, disengaging
                 the feathering pump.</p></section>
-        <section>
+        <section id="sect_Unfeathering">
             <title>Unfeathering</title>
             <p>To unfeather a propeller hold the control button down. This operates the feathering
                 pump, applying pressure through the same passages used for feathering. Since further

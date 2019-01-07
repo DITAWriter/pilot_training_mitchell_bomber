@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -122,8 +124,6 @@
                 <colspec colname="c3" colnum="3" colwidth="1*"/>
                 <colspec colname="c4" colnum="4" colwidth="1*"/>
                 <colspec colname="c5" colnum="5" colwidth="1*"/>
-                <colspec colname="c6" colnum="6" colwidth="1*"/>
-                <colspec colname="c7" colnum="7" colwidth="1*"/>
                 <tbody>
                     <row>
                         <entry>1000 ft to 5000 ft</entry>

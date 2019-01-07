@@ -9,6 +9,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="27. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -47,7 +49,7 @@
             exact is your judgment of where the airplane will land. Use the power, however, only as
             an aid, and not to make a low dragging approach.</p>
         <p>After landing, call the control tower for taxiing and parking instructions.</p>
-        <section>
+        <section id="sect_CommonErrors">
             <title>Common Errors</title>
             <ol>
                 <li>Low dragging approach with no clear conception of the field altitude. This is

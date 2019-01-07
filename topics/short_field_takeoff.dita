@@ -11,6 +11,8 @@
             <revised modified="3. Jan. 2019"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -31,7 +33,7 @@
             future as an operational pilot.</p>
         <p>The short-field takeoff is a maximum performance maneuver. Know your stalls and slow
             flying before practicing it.</p>
-        <section>
+        <section id="sect_HowTo">
             <title>How</title>
             <p>After completing the cockpit check, line up at the extreme end of the runway and set
                 the flaps to the maximum lift-drag position&#8212; 30 Set the parking brakes,

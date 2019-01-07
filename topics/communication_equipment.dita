@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -53,7 +55,7 @@
         <p>On some models the tactical use of the airplane requires the installation of VHF and IFF
             equipment. Special training in this equipment will be given when missions require its
             use.</p>
-        <section>
+        <section id="sect_CommandSet">
             <title>Command Set</title>
             <p>The command set has 2 transmitters with a range of 4 to 5.3 Mc on one transmitter and
                 a range of 7 to 9.1 Mc on the other.</p>
@@ -62,7 +64,7 @@
             <p>The command set allows transmission and reception by voice and code for air-to-air
                 and air-to-ground stations over short ranges.</p>
         </section>
-        <section>
+        <section id="sect_LiaisonSet">
             <title>Liaison Set</title>
             <p>The liaison set has one transmitter with 7 interchangeable tuning units, covering
                 frequency ranges of 150 to 600 Kc and from 1500 Kc to 12,500 Kc.</p>
@@ -94,7 +96,7 @@
                 </ol>
             </fig>
         </section>
-        <section>
+        <section id="sect_RadioCompassReceiver">
             <title>Radio Compass Receiver</title>
             <fig id="fig_spv_pkm_cgb">
                 <image keyref="radio_compass_receiver" id="image_tww_qkm_cgb">
@@ -122,7 +124,7 @@
                 direction of incoming signals. It covers a range of 200 to 1750 Kc.</p>
             <p>For detailed instructions in the use of this equipment see T.O. 30-100 series.</p>
         </section>
-        <section>
+        <section id="sect_MarkerBeaconReceiver">
             <title>Marker Beacon Receiver</title>
             <p>The marker beacon receiver is a specialist. It performs only one job. Operating on a
                 frequency of 75 Mc, it detects signals transmitted by fan marker beacons, and by Z
@@ -130,13 +132,13 @@
                 panel is connected to the receiver, blinking on when the airplane passes a 75 Mc
                 transmitter.</p>
         </section>
-        <section><title>Interphone</title><p>The interphone system of the <keyword
-                    keyref="designator"/> is a standard installation. It operates whenever the
-                battery-disconnect switches are "ON." It is used by every crew member to communicate
-                with all other crew members.</p><p>The interphone plays a vital part in crew
-                coordination. Used effectively in combat, it serves as the eyes of the entire
+        <section id="sect_Interphone"><title>Interphone</title><p>The interphone system of the
+                    <keyword keyref="designator"/> is a standard installation. It operates whenever
+                the battery-disconnect switches are "ON." It is used by every crew member to
+                communicate with all other crew members.</p><p>The interphone plays a vital part in
+                crew coordination. Used effectively in combat, it serves as the eyes of the entire
                 crew.</p><image keyref="interphone_jack_box" id="image_c4z_skm_cgb">
-                <alt>Inerphone jack box</alt>
+                <alt>Interphone jack box</alt>
             </image></section>
     </conbody>
 </concept>

@@ -10,6 +10,8 @@
             <revised modified="12. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -33,7 +35,7 @@
         <p>Operate the throttles as smoothly as possible, and when you stop the plane for any reason
             set the rpm at 1000. This prevents fouling and creates enough propeller blast to help
             cool the engines.</p>
-        <section>
+        <section id="sect_DirectionOfRoll">
             <title>Direction of Roll</title>
             <image keyref="roll_direction" id="image_fbl_1pm_cgb">
                 <alt>Direction of roll</alt>
@@ -90,7 +92,7 @@
                 for cooling is never available during ground operation. Take advantage of every
                 opportunity to aid the engines in cooling.</p>
         </section>
-        <section>
+        <section id="sect_NosewheelPositionInd">
             <title>Nosewheel Position Indicator</title>
             <image keyref="nosewheel_position_ind" id="image_bdb_spm_cgb">
                 <alt>Nosewheel position indicator</alt>
@@ -98,11 +100,12 @@
             <p>A nosewheel position indicator is on the lower center section of the pilot's
                 instrument panel. It warns you of the position of the nose- wheel by flashing on one
                 of two lights when the nosewheel turns past 15° in either direction.</p>
-            <p>You can adjust the brilliancy of these lights by turning the jeweled cap to "DAY" or
-                "NIGHT" Check this indicator constantly when taxiing under abnormal conditions and
-                when recovering from sharp turns.</p>
+            <p>You can adjust the brilliancy of these lights by turning the jeweled cap to
+                    "<userinput>DAY</userinput>" or "<userinput>NIGHT</userinput>" Check this
+                indicator constantly when taxiing under abnormal conditions and when recovering from
+                sharp turns.</p>
         </section>
-        <section>
+        <section id="sect_CrosswindTaxi">
             <title>Crosswind Taxiing</title><p>The windvane effect so noticeable in lighter
                 airplanes will still be with you in the <keyword keyref="designator"/>, but not to
                 the same extent. The airplane tends to turn into the wind.</p><p>To prevent this

@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -37,7 +39,7 @@
         <p><b>Pick your spot carefully.</b> If you have any control over where you are to land, pick
             a spot near a road, phone line, small town, or other settlement. This will insure
             immediate medical attention or quick communication if medical aid is not on hand.</p>
-        <section>
+        <section id="sect_PreparePlane">
             <title>Prepare the Plane</title>
             <p>Throw out excess weight, thus lowering the landing speed.</p>
             <p>Throw out loose objects to prevent them from flying through the plane on impact.</p>
@@ -46,13 +48,13 @@
             <p>Open the escape hatches to prevent jamming on impact.</p>
             <p>Inflate your Mae West to help you absorb the shock of landing.</p>
         </section>
-        <section>
+        <section id="sect_PrepareCrew">
             <title>Prepare the Crew</title>
             <p>Remove loose cords, parachute harness, radio cords, etc.</p>
             <p>Fasten safety belts and shoulder harness.</p>
             <p>Proceed to crash stations and remain throughout landing.</p>
         </section>
-        <section>
+        <section id="sect_LandingPlane">
             <title>Landing the Plane</title>
             <p>Make a normal full-flap approach to the landing.</p>
             <p>Do not feather propellers unless it is necessary to stretch the glide. If the props

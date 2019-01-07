@@ -9,6 +9,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -36,7 +38,7 @@
             lower part of the regulator, adjusts the amount of oxygen flow. A dial on the face of
             the regulator indicates the oxygen flow in thousands of feet of altitude, thereby
             simplifying regulator adjustment.</p>
-        <fig>
+        <fig id="fig_OxyRegulators">
             <title>Oxygen Regulators</title>
             <image keyref="oxygen_regulator_location">
                 <alt>Oxygen regulator locations</alt>

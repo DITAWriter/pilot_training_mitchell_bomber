@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -31,7 +33,7 @@
             fluid during dives.</p>
         <p>There is no fluid level gage inside the airplane. The fluid level is checked by means of
             overflow plugs mounted on the tank.</p>
-        <section>
+        <section id="sect_PropAntiIcing">
             <title>Propeller Anti-icing</title>
             <p>Conventional slinger rings are provided for the propellers. A fluid metering pump in
                 the right-hand nacelle forward of the tank is controlled by a rheostat on the
@@ -53,7 +55,7 @@
                 with the rheostat turned to the fast-flow position. At the minimum flow setting, the
                 supply will last for 11 hours and 48 minutes.</p>
         </section>
-        <section>
+        <section id="sect_BombsightWindow">
             <title>Bombsight Window</title>
             <p>The bombardier's compartment window has perforated anti-icing tubes across the top of
                 the center panel, plus a vertical wiper assembly. Fluid for the spray tube comes

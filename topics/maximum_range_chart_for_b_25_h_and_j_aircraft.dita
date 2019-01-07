@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -158,8 +160,7 @@
             </tgroup>
         </table>
         <section>
-            <title/>
-            <note>Climb at 2400 rpm, 38" Hg at 115 IAS. Fuel Consumption for Takddff and Climbs:
+            <note>Climb at 2400 rpm, 38" Hg at 115 IAS. Fuel Consumption for Takeoff and Climbs:
                     <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_dnj_kcr_dgb">
                     <strow>
                         <stentry>To 1000 Feet 24 Gals.</stentry>

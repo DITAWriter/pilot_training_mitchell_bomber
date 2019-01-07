@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -43,7 +45,7 @@
             the <keyword keyref="designator"/> as a weapon. They are typical of the actual orders
             and instructions issued to <keyword keyref="designator"/> crews in training for combat
             duty.</p>
-        <section>
+        <section id="sect_PreparingForMission">
             <title>Preparing for Your Mission</title>
             <p>Before a mission is undertaken, the entire crew will be briefed. Upon completion of
                 the mission the entire crew will again report to the S-2 officer for
@@ -51,7 +53,7 @@
             <p>As commander of your airplane, it is your duty to brief your crew before the flight,
                 pointing out to each crew member the specific duties he is expected to perform.</p>
         </section>
-        <section>
+        <section id="sect_DutiesCommander">
             <title>Duties of the Airplane Commander</title>
             <ol>
                 <li>Coordinates and supervises duties performed by crew members.</li>
@@ -77,7 +79,7 @@
                     performed.</li>
             </ol>
         </section>
-        <section>
+        <section id="sect_Copilot">
             <title>Copilot</title>
             <ol>
                 <li>Is ready to assume the duties of pilot at any time during the flight and acts as
@@ -90,7 +92,7 @@
                 <li>Aids pilot in accomplishing proper checklist.</li>
             </ol>
         </section>
-        <section>
+        <section id="sect_BomberNav">
             <title>Bombardier-Navigator</title>
             <ol>
                 <li>Responsible for knowing exact position of the aircraft at all times.</li>
@@ -108,7 +110,7 @@
                     calibrated.</li>
             </ol>
         </section>
-        <section>
+        <section id="sect_RadioGunner">
             <title>Radio Gunner</title>
             <ol>
                 <li>Thoroughly understands all communications equipment in the assigned airplane.
@@ -124,7 +126,7 @@
                     equipment as per radio operator's checklist prior to takeoff.</li>
             </ol>
         </section>
-        <section>
+        <section id="sect_EngGunner">
             <title>Engineer Gunner</title>
             <ol>
                 <li>Before each flight, checks airplane for proper loading, stowage of life rafts
@@ -139,7 +141,7 @@
                     missions. Engineer gunners will also practice turret operation in flight.</li>
             </ol>
         </section>
-        <section>
+        <section id="sect_ArmorerGunner">
             <title>Armorer Gunner</title>
             <ol>
                 <li>Before flight he is responsible that ammunition is properly loaded and that all

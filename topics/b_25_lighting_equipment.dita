@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -21,7 +23,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <section><title>Exterior Lighting</title>
+        <section id="sect_ExtLighting"><title>Exterior Lighting</title>
             <image keyref="lighting_equipment">
                 <alt><keyword keyref="designator"/> lighting equipment</alt>
             </image>
@@ -53,7 +55,7 @@
             <note type="caution">Do not keep the recognition lights on for more than a few seconds
                 with the airplane on the ground, as serious damage to the lenses will
             result.</note></section>
-        <section>
+        <section id="sect_IntLighting">
             <title>Interior Lighting</title>
             <p>Dome lights are located in the pilot's, bombardier's, navigator's, bomb bay, and
                 radio compartments. The controls for the dome lights are in their respective
@@ -62,11 +64,11 @@
                 Switch controls of these lights are on each unit. They can be extended approximately
                 4 feet.</p>
         </section>
-        <section><title>Instrument Lighting</title><p>Fluorescent lamps are in the bombardier's
-                compartment and on the pilot's and copilot's control columns. Intensity of these
-                lights is adjustable by rheostats, adjacent to the lamps.</p><p>The pilot's magnetic
-                compass light is in the compass itself; a rheostat on the pilot's switch panel
-                controls it.</p>
+        <section id="sect_InstLighting"><title>Instrument Lighting</title><p>Fluorescent lamps are
+                in the bombardier's compartment and on the pilot's and copilot's control columns.
+                Intensity of these lights is adjustable by rheostats, adjacent to the
+                lamps.</p><p>The pilot's magnetic compass light is in the compass itself; a rheostat
+                on the pilot's switch panel controls it.</p>
             <p>All optical gunsight lights are inside the sights. The rheostats which control them
                 are near each unit.</p>
             <image keyref="landing_lights">

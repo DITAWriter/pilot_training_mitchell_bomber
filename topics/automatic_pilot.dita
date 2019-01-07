@@ -9,6 +9,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -33,12 +35,13 @@
             Properly adjusted, it will neither overcontrol nor undercontrol the airplane, but will
             keep it flying straight and level with all controls operating in complete
             coordination.</p>
-        <section><title>How It Works</title><p>The principle of operation of the autopilot is the
-                same for correcting all off-movements.</p><p>Suppose that an airplane is in straight
-                and level flight and that the autopilot is operating. So long as the airplane
-                continues to fly straight and level, equal amounts of air pass through two channels
-                around the spinning wheel of the bank-and-climb control unit.</p><image
-                keyref="auto_pilot_level_flight_diag" id="image_s2d_2km_cgb">
+        <section id="sect_HowAutoPilotWorks"><title>How It Works</title><p>The principle of
+                operation of the autopilot is the same for correcting all
+                off-movements.</p><p>Suppose that an airplane is in straight and level flight and
+                that the autopilot is operating. So long as the airplane continues to fly straight
+                and level, equal amounts of air pass through two channels around the spinning wheel
+                of the bank-and-climb control unit.</p><image keyref="auto_pilot_level_flight_diag"
+                id="image_s2d_2km_cgb">
                 <alt>Auto pilot, level flight diagram</alt>
             </image><p>Suddenly rough air causes one wing to drop. Immediately, a ring around the
                 spinning wheel shuts air off from one of the channels. This unequalizes the air in
