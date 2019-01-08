@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -17,7 +19,8 @@
     <refbody>
         <section>
             <fig id="fig_el5_3gm_cgb">
-                <image keyref="pilots_compartment-left-side" id="image_ahw_kgm_cgb">
+                <image keyref="pilots_compartment-left-side" id="image_ahw_kgm_cgb"
+                    placement="break" width="4in">
                     <alt>Pilot's compartment, left side</alt>
                 </image>
                 <ol id="ol_ol5_3gm_cgb">

@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -19,7 +21,8 @@
         <p>Consult the PIF and your personal equipment officer for general information on landing in
             the water. They will help you determine wind direction, wind speeds, surface conditions,
             and other valuable information.</p>
-        <image placement="break" keyref="landing_ditch_20deg_flaps" id="image_thq_kt5_3gb">
+        <image placement="break" keyref="landing_ditch_20deg_flaps" id="image_thq_kt5_3gb"
+            width="3in">
             <alt>20° to 30° Flaps</alt>
         </image>
         <p>Trim the ship for hands-off flight and establish a normal power approach. Lower the flaps
@@ -55,7 +58,8 @@
         <p>Don't make an exaggerated tail-low landing, as the impact of the tail will rupture the
             rear fuselage and may snap the nose into the water violently before the plane can lose
             its excess speed.</p>
-        <image placement="break" keyref="landing_ditch_tail_low_full_flaps" id="image_yrp_mt5_3gb">
+        <image placement="break" keyref="landing_ditch_tail_low_full_flaps" id="image_yrp_mt5_3gb"
+            width="3in">
             <alt>Land tail low with full flaps</alt>
         </image>
     </conbody>

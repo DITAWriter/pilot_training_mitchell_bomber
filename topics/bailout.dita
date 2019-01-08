@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -32,7 +34,7 @@
         <p><b>Check with the ground crew on the condition and operation of the escape hatches.</b>
             Spot checks show that these hatches are often overlooked on the periodic
             inspections.</p>
-        <image placement="break" keyref="emer_hatch_release">
+        <image placement="break" keyref="emer_hatch_release" width="3in">
             <alt>Emergency hatch release</alt>
         </image>
     </conbody>

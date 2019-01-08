@@ -42,8 +42,7 @@
                 motion of the piston to circular movement by the cams. Oil pressure drives the
                 piston forward or backward.</p>
         </section>
-        <section id="sect_ConstantSpeedCtrl"><title>Constant-speed Control</title><image
-                keyref="constant_speed_control" id="image_er4_kjm_cgb">
+        <section id="sect_ConstantSpeedCtrl"><title>Constant-speed Control</title><image keyref="constant_speed_control" id="image_er4_kjm_cgb" placement="break" width="6in">
                 <alt>Costant speed control</alt>
             </image><p>The propeller governor assembly maintains rpm settings established by the
                 pilot.</p><p>The governor consists of 2 flyweights geared to the operation of the
@@ -58,15 +57,14 @@
                 increases pressure of the oil to 180-200 lb. per sq. in. Entry of this oil to the
                 inboard side of the propeller dome is permitted when the pilot valve opens the
                 pressure port, moving the piston forward and thus increasing blade angle and
-                decreasing engine rpm.</p><p><b>Underspeesd&#8212;</b> An underspeed condition
-                indicates that the engine is running slower than the selected rpm. To correct this,
-                the pilot valve is forced downward, opening the drain port. Oil drains from the
-                inboard side of the piston in the propeller dome. The centrifugal twisting moment of
-                the blades, plus engine oil pressure on the outboard side of the piston, moves the
-                blades to a lower angle, thus increasing engine rpm to the selected
-            setting.</p></section>
+                decreasing engine rpm.</p><p><b>Underspeed&#8212;</b> An underspeed condition indicates that the engine is running slower than
+                the selected rpm. To correct this, the pilot valve is forced downward, opening the
+                drain port. Oil drains from the inboard side of the piston in the propeller dome.
+                The centrifugal twisting moment of the blades, plus engine oil pressure on the
+                outboard side of the piston, moves the blades to a lower angle, thus increasing
+                engine rpm to the selected setting.</p></section>
         <section id="sect_Feathering"><title>Feathering</title><image keyref="feathering"
-                id="image_zcc_mjm_cgb">
+                id="image_zcc_mjm_cgb" width="3in">
                 <alt>Feathering</alt>
             </image><p>You feather a propeller by actuating the feathering control button on the
                 pilot's pedestal. An electric feathering pump supplies oil at 400 lb. sq. in.

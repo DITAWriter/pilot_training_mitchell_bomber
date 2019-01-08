@@ -9,6 +9,8 @@
             <revised modified="12. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -17,7 +19,7 @@
         </metadata> 
     </prolog>
     <conbody>
-        <image keyref="preflight_general">
+        <image keyref="preflight_general" placement="break" width="3in">
             <alt>The Engineer</alt>
         </image>
         <p>This man should know more about the airplane you are to fly than any other member of the

@@ -10,6 +10,8 @@
             <revised modified="19. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -63,12 +65,15 @@
             <step>
                 <cmd>Landing gear "<userinput>DOWN</userinput>"&#8212;locked and safetied, visually
                     and orally checked.</cmd>
-                <info><image keyref="landing_gear_selsyn" id="image_us2_djh_2gb"/><p>You can check
-                        the main gear visually and the nose gear on the selsyn indicator, and, if
-                        the prop hub is polished, you can check it by its reflection in the hub.
-                        There is a warning horn in some aircraft and a warning light in later
-                        models. This warning system operates when the throttles are
-                    retarded.</p></info>
+                <info>
+                    <image keyref="landing_gear_selsyn" id="image_us2_djh_2gb" placement="break"
+                        width="3in"/>
+                    <p>You can check the main gear visually and the nose gear on the selsyn
+                        indicator, and, if the prop hub is polished, you can check it by its
+                        reflection in the hub. There is a warning horn in some aircraft and a
+                        warning light in later models. This warning system operates when the
+                        throttles are retarded.</p>
+                </info>
             </step>
             <step>
                 <cmd>Brake and hydraulic pressure.</cmd>

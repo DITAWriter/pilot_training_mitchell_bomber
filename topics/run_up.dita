@@ -51,9 +51,12 @@
                 <cmd>Following the mag check, run the engines up singly to 30" Hg. At this manifold
                     pressure you will get an approximate reading of 2400 rpm, which means that the
                     plane should give you sufficient power for takeoff.</cmd>
-                <info><image keyref="takeoff_speed" id="image_fjr_hqm_cgb">
+                <info>
+                    <image keyref="takeoff_speed" id="image_fjr_hqm_cgb" placement="break"
+                        width="3in">
                         <alt>Do not hurry a takeoff</alt>
-                    </image></info>
+                    </image>
+                </info>
             </step>
         </steps>
     </taskbody>

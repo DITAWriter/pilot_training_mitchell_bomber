@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -22,15 +24,19 @@
         </metadata> 
     </prolog>
     <refbody>
-        <section id="smoking"><title>Smoking</title><image
-                keyref="cartoon-no_smoking_under_1000_feet" id="image_att_5cm_cgb">
+        <section id="smoking">
+            <title>Smoking</title>
+            <image keyref="cartoon-no_smoking_under_1000_feet" id="image_att_5cm_cgb"
+                placement="break" width="3in">
                 <alt>No smoking under 1000 feet!</alt>
-            </image><ol>
+            </image>
+            <ol>
                 <li>No smoking in airplane at an altitude below 1000 feet.</li>
                 <li>No smoking during fuel transfer.</li>
                 <li>Never attempt to throw a lighted cigarette from the airplane. Put it out
                     first.</li>
-            </ol></section>
+            </ol>
+        </section>
         <section id="parachutes">
             <title>Parachutes</title>
             <ol>

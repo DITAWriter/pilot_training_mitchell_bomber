@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -17,7 +19,7 @@
     <refbody>
         <section id="section_rzr_phm_cgb">
             <fig id="fig_erh_qhm_cgb">
-                <image keyref="navigators_compartment-front_view" id="image_xd2_thm_cgb">
+                <image keyref="navigators_compartment-front_view" id="image_xd2_thm_cgb" width="3in">
                     <alt>Navigator's compartment, front view</alt>
                 </image>
             </fig>

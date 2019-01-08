@@ -11,6 +11,8 @@
             <revised modified="19. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -30,7 +32,10 @@
             </step>
             <step>
                 <cmd>Advance the power smoothly to climbing power.</cmd>
-                <info><image keyref="landing_go_around_adv_throttle_raise_wheels"/></info>
+                <info>
+                    <image keyref="landing_go_around_adv_throttle_raise_wheels" placement="break"
+                        width="3in"/>
+                </info>
             </step>
             <step>
                 <cmd>Keep the nose of the plane down.</cmd>
@@ -40,7 +45,10 @@
             </step>
             <step>
                 <cmd>Raise the flaps to 15°</cmd>
-                <info><image keyref="landing_go_around_raise_flap_15deg"/></info>
+                <info>
+                    <image keyref="landing_go_around_raise_flap_15deg" placement="break" width="3in"
+                    />
+                </info>
             </step>
             <step>
                 <cmd>Allow the plane to settle to a slightly lower altitude, if necessary, to
@@ -55,9 +63,11 @@
                 <cmd>When the plane has gained sufficient airspeed to lift and gain altitude, pull
                     over to one side of the runway, thus clearing the runway for any plane
                     attempting to take off or land.</cmd>
-                <info><image keyref="landing_go_around_clear_area"/><note type="important">Keep an
-                        eye on all planes near you! The pilot taking off under you may not know that
-                        you are there.</note></info>
+                <info>
+                    <image keyref="landing_go_around_clear_area" placement="break" width="3in"/>
+                    <note type="important">Keep an eye on all planes near you! The pilot taking off
+                        under you may not know that you are there.</note>
+                </info>
             </step>
             <step>
                 <cmd>As soon as you gain sufficient speed, raise the balance of your flaps.

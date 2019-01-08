@@ -10,6 +10,8 @@
             <revised modified="3. Jan. 2019"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -36,14 +38,14 @@
                         <cmd>Check your fuel cut-off valves.</cmd>
                     </substep>
                     <substep>
-                        <cmd>Move mixture control to "FULL RICH." </cmd>
+                        <cmd>Move mixture control to "<userinput>FULL RICH</userinput>." </cmd>
                     </substep>
                     <substep>
-                        <cmd>Turn the booster pumps "ON." </cmd>
+                        <cmd>Turn the booster pumps "<userinput>ON</userinput>." </cmd>
                     </substep>
                 </substeps>
                 <info><image placement="break" keyref="single_eng_before_feather"
-                        id="image_szw_kcp_3gb">
+                        id="image_szw_kcp_3gb" width="3in">
                         <alt>Before you feather: ignition, fuel cut-off, mixture, booster
                             pumps.</alt>
                     </image>You can make these checks in far less time than it takes to read these
@@ -78,7 +80,7 @@
                 <cmd>Trim&#8212; Trim the plane for hands-off flight.</cmd>
             </step>
         </steps>
-        <result id="result_z21_ccp_3gb"> This may seem a complicated procedure; how- ever, when you
+        <result id="result_z21_ccp_3gb"> This may seem a complicated procedure; however, when you
             have practiced it a few times, when you know exactly what you are going to do, the
             entire procedure requires less than 10 seconds.</result>
     </taskbody>

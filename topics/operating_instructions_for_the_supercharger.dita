@@ -21,14 +21,16 @@
             low altitudes, your supercharger is not important. Your supercharger must have proper
             care all the time, regardless of whether you intend to use high blower.<p><b>Flight
                     Instructions</b></p><ol>
-                <li>Except where airfields are at extremely high altitudes, always take off in "LOW"
-                    blower. (There are no fields in the continental U.S. where "HIGH" blower
-                    take-offs are necessary.) While in "LOW" blower operate the engine as a
-                    single-speed supercharged engine.</li>
-                <li>Never operate in "HIGH" blower below 9,000 feet. The power gained by operating
-                    in "HIGH" blower below this altitude is offset by the power required to operate
-                    in "HIGH" blower. Make the shift from "LOW" to "HIGH" blower between 11,000 and
-                    13,000 feet depending on the need for additional power.</li>
+                <li>Except where airfields are at extremely high altitudes, always take off in
+                        "<option>LOW</option>" blower. (There are no fields in the continental U.S.
+                    where "<option>HIGH</option>" blower take-offs are necessary.) While in
+                        "<option>LOW</option>" blower operate the engine as a single-speed
+                    supercharged engine.</li>
+                <li>Never operate in "<option>HIGH</option>" blower below 9,000 feet. The power
+                    gained by operating in "<option>HIGH</option>" blower below this altitude is
+                    offset by the power required to operate in "<option>HIGH</option>" blower. Make
+                    the shift from "<option>LOW</option>" to "<option>HIGH</option>" blower between
+                    11,000 and 13,000 feet depending on the need for additional power.</li>
             </ol></context>
         <steps>
             <stepsection>
@@ -53,9 +55,10 @@
             <step>
                 <cmd>Reset the desired power setting.</cmd>
                 <info>
-                    <note type="warning">Never operate in "HIGH" blower below 1500 rpm. During
-                        prolonged operation in "HIGH" blower, change to "LOW" blower for 15 minutes
-                        every 2 hours, (This removes sludge from the clutch.) </note>
+                    <note type="warning">Never operate in "<option>HIGH</option>" blower below 1500
+                        rpm. During prolonged operation in "<option>HIGH</option>" blower, change to
+                            "<option>LOW</option>" blower for 15 minutes every 2 hours, (This
+                        removes sludge from the clutch.) </note>
                 </info>
             </step>
             <stepsection>
@@ -72,7 +75,8 @@
                 <cmd>Set rpm at <userinput>1700</userinput>.</cmd>
             </step>
             <step>
-                <cmd>Shift the controls from "HIGH" to "LOW" in a quick, positive action.</cmd>
+                <cmd>Shift the controls from "<option>HIGH</option>" to "<option>LOW</option>" in a
+                    quick, positive action.</cmd>
             </step>
             <step>
                 <cmd>Reset the desired power setting.</cmd>
@@ -83,10 +87,10 @@
             </step>
         </steps>
         <example>
-            <image placement="break" keyref="low_blower_to_high_blower"/>
+            <image placement="break" keyref="low_blower_to_high_blower" width="3in"/>
         </example>
         <example>
-            <image placement="break" keyref="high_blower_to_low_blower"/>
+            <image placement="break" keyref="high_blower_to_low_blower" width="3in"/>
         </example>
     </taskbody>
 </task>

@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="13. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -23,7 +25,7 @@
             wheels, lower partial flaps and increase the power settings to prevent rapid
             cooling.</p>
         <p>Level off at the desired altitude and adjust power and trim.</p>
-        <image keyref="cartoon-engine_cough" id="image_dlq_phs_cgb">
+        <image keyref="cartoon-engine_cough" id="image_dlq_phs_cgb" placement="break" width="3in">
             <alt>Keep engine warm. If it cools off, it may cough at the wrong time</alt>
         </image>
     </conbody>

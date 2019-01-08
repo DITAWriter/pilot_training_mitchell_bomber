@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -33,9 +35,9 @@
             standpipe in the reservoir retains a reserve of 2.33 gallons for the emergency hand
             pump.</p>
         <p>This reservoir, made of aluminum alloy, has a sight gage which shows the level of the
-            fluid. The gage has only 2 markings&#8212; "FULL" and "REFILL." There is a removable
-            screen in the filler neck which must be cleaned whenever the reservoir is
-            re-serviced.</p>
+            fluid. The gage has only 2 markings&#8212; "<option>FULL</option>" and
+                "<option>REFILL</option>." There is a removable screen in the filler neck which must
+            be cleaned whenever the reservoir is re-serviced.</p>
         <p>Two lines lead from the reservoir to a foam tank, built into the system to allow for
             expansion of the fluid caused by temperature changes. A vent line maintains constant
             atmospheric pressure in the system, allowing excess fluid or pressure bubbles to

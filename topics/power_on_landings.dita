@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -44,7 +46,7 @@
             <p>The landing speed depends on your skill and on weight conditions.</p><image
                 keyref="landing_lower_nosewheel_slowly"/><p>Hold the nosewheel in the air with the
                 elevators, thus reducing the length of the landing roll. The increased angle of
-                attack of the wings, plus the 45" of flaps, ^cts as an air brake.</p>
+                attack of the wings, plus the 45" of flaps, acts as an air brake.</p>
             <p><b>Lower the nosewheel slowly with elevator control as you lose airspeed on the
                     landing roll.</b> Do not allow the nosewheel to drop heavily onto the runway. It
                 was not designed to absorb this type of load.</p>
@@ -70,9 +72,10 @@
             <p>This is not a short-field landing&#8212; there is no place in it for slow flying. The
                 plane is never below power-off stall speed until it is over the runway. The maneuver
                 is designed to give you maximum control of the airplane. You lose this advantage if
-                you do not execute it properly.</p><p>The remainder of the ground roll and landing
-                check are identical with the first procedure.</p><image
-                keyref="landing_direct_approach"/>
+                you do not execute it properly.</p>
+            <p>The remainder of the ground roll and landing check are identical with the first
+                procedure.</p>
+            <image keyref="landing_direct_approach" placement="break" width="3in"/>
         </section>
         <section id="sect_CombatLanding"><title>Combat landing procedure</title>
             <p>The third technique is commonly called a combat landing. It is the product of combat

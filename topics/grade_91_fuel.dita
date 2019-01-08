@@ -48,10 +48,10 @@
             <p>Normal combustion is the burning of the fuel charge in the cylinder head as a
                 slow-burning wave, creating power not as an explosion, but as an expansion of the
                 gases.</p>
-            <image placement="break" keyref="fuel_preignition" id="image_byl_xtv_3gb">
+            <image placement="break" keyref="fuel_preignition" id="image_byl_xtv_3gb" width="3in">
                 <alt>Preignition and power loss</alt>
             </image>
-            <image placement="break" keyref="fuel_combustion" id="image_cnc_wtv_3gb">
+            <image placement="break" keyref="fuel_combustion" id="image_cnc_wtv_3gb" width="3in">
                 <alt>Correct combustion and maximum power</alt>
             </image>
         </section>
@@ -62,7 +62,7 @@
                 the fuel charge to tremendous temperatures and pressures. If these forces are great
                 enough the remaining fuel charge explodes before it can burn, and the shock waves
                 from this explosion are great enough to blow the cylinder head off the engine.</p>
-            <image placement="break" keyref="fuel_detonation" id="image_j5y_ytv_3gb">
+            <image placement="break" keyref="fuel_detonation" id="image_j5y_ytv_3gb" width="3in">
                 <alt>Detonation</alt>
             </image>
         </section>
@@ -77,7 +77,7 @@
                 is less, normal heptane is added to the iso-octane. Thus, if a fuel matches in
                 performance a mixture of 87% iso-octane and 13% normal heptane it is rated as Grade
                 87 fuel.</p>
-            <image placement="break" keyref="fuel_combust_temps" id="image_hjm_c5v_3gb">
+            <image placement="break" keyref="fuel_combust_temps" id="image_hjm_c5v_3gb" width="3in">
                 <alt>Relative combustion temperatures for different grades of fuel</alt>
             </image>
         </section>
@@ -95,7 +95,8 @@
                 altitudes.</p>
             <p>The accompanying power control chart shows maximum limits, minimum limits, and the
                 desirable range to increase the life and efficiency of the engines.</p>
-            <image placement="break" keyref="fuel_rpm_mp_relation" id="image_mcs_35v_3gb">
+            <image placement="break" keyref="fuel_rpm_mp_relation" id="image_mcs_35v_3gb"
+                width="3in">
                 <alt>Effects of relation between RPM and manifold pressure</alt>
             </image>
         </section>

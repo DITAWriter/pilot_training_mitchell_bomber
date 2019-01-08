@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -15,7 +17,7 @@
         </metadata> 
     </prolog>
     <conbody>
-        <image keyref="radio_operator" id="image_b5v_hbm_cgb">
+        <image keyref="radio_operator" id="image_b5v_hbm_cgb" placement="break" width="3in">
             <alt>Radio operator</alt>
         </image>
         <p>There is a lot of radio equipment in today's <keyword keyref="designator"/> aircraft.

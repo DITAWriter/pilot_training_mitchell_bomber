@@ -9,6 +9,8 @@
             <revised modified="12. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -19,16 +21,17 @@
     </prolog>
     <conbody>
         <p>Use the checklist for starting.</p>
-        <image keyref="startup_fire_guard" id="image_e3r_44m_cgb">
+        <image keyref="startup_fire_guard" id="image_e3r_44m_cgb" placement="break" width="3in">
             <alt>Startup fire guard posted</alt>
         </image>
         <p>Fire guard posted.</p>
         <p>Props clear.</p>
-        <image keyref="startup_ignition" id="image_iww_q4m_cgb">
+        <image keyref="startup_ignition" id="image_iww_q4m_cgb" placement="break" width="3in">
             <alt>Startup ignition switches, one at a time</alt>
         </image>
-        <p>Ignition switches "ON" one at a time Booster pumps "ON"&#8212; operate only the switch on
-            the engine you are starting.</p>
+        <p>Ignition switches "<userinput>ON</userinput>" one at a time Booster pumps
+                "<userinput>ON</userinput>"&#8212; operate only the switch on the engine you are
+            starting.</p>
         <p>Energize 10 seconds when using an external power source, 20 seconds when using the
             plane's batteries.</p>
         <p>Prime&#8212; Use primer for 2 seconds while energizing. This is not a priming action; it
@@ -36,29 +39,32 @@
             engaged.</p>
         <p>Engage&#8212; Hold down energizer, primer and engaging switch until the engine starts.
             Mesh for reasonable time. If engine does not fire, repeat starting procedure.</p>
-        <p>Move mixture control to "FULL RICH" when engine starts.</p>
+        <p>Move mixture control to "<userinput>FULL RICH</userinput>" when engine starts.</p>
         <p>Check oil pressure&#8212; (40 lb. in 30 seconds).</p>
         <p>If the oil pressure does not reach 40 lb. in 30 seconds stop the engine and
             investigate.</p>
         <p>Repeat procedure on the left engine.</p>
-        <image keyref="startup_booster" id="image_jjp_t4m_cgb">
+        <image keyref="startup_booster" id="image_jjp_t4m_cgb" placement="break" width="3in">
             <alt>Startup booster</alt>
         </image>
-        <p>Booster pumps "OFF"&#8212; check fuel pressure. There must be 6-7 lb. sq. in.</p>
+        <p>Booster pumps "<userinput>OFF</userinput>"&#8212; check fuel pressure. There must be 6-7
+            lb. sq. in.</p>
         <p>Warm up at approximately 1200 rpm.</p>
-        <p>Battery-disconnect switches "ON" (if external power is used).</p>
+        <p>Battery-disconnect switches "<userinput>ON</userinput>" (if external power is used).</p>
         <p>Hydraulic pressure&#8212; (800-1100 lb. sq. in.).</p>
         <p>Brake pressure&#8212; (1000-1200 lb. sq. in.).</p>
         <p>Suction&#8212; (3,75-4.25" Hg.).</p>
-        <p>Radio "ON."</p>
+        <p>Radio "<userinput>ON</userinput>."</p>
         <p>If the engine backfires and excess fuel in the intake section catches fire, move the
-            mixture control to "IDLE CUT-OFF" and advance the throttles to full open.</p>
+            mixture control to "<userinput>IDLE CUT-OFF</userinput>" and advance the throttles to
+            full open.</p>
         <p>Keep the engine turning over with the starter if the fire is small. Keep the throttles
-            open wide and the mixture in "IDLE CUT-OFF" until the fire burns out.</p>
+            open wide and the mixture in "<userinput>IDLE CUT-OFF</userinput>" until the fire burns
+            out.</p>
         <p>If the fire continues to burn, flaring out of the air scoop and the cowl flaps » turn the
-            engine fuel cut-off valve "OFF" and use the hand extinguisher (CO<sub>2</sub>) on the
-            base of the flame. Always keep the throttles open wide to exhaust all the fuel that can
-            reach the engine.</p>
+            engine fuel cut-off valve "<userinput>OFF</userinput>" and use the hand extinguisher
+                (CO<sub>2</sub>) on the base of the flame. Always keep the throttles open wide to
+            exhaust all the fuel that can reach the engine.</p>
         <p>if this fails, use the Lux system if it is installed in the airplane. When you encounter
             fires of this type and have used the Lux system, do not attempt to restart the engine.
             If in attempting to restart the engine you start another fire, you will have no positive

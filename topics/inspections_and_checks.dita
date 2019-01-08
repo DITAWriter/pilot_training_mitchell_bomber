@@ -34,57 +34,78 @@
             definite procedure.</p>
         <p>Consult the crew chief about the status of the plane. You will pick up many of valuable
             tips from him.</p>
-        <section id="sect_Preflight"><title>Preflight</title><p>Enter cockpit and check that all
-                switches are "off"</p><p>Check Form lA for status of the airplane. Surface controls
-                locked. Trim tabs set at "0."</p><p>Pull props through 12 to 15 blades if the
-                airplane has been standing for more than 30 minutes. This will work the oil from the
-                lower cylinders.</p><p>If you start the engine with excess oil present in the
-                cylinders this oil will form a pressure block, cracking the cylinder heads and
-                bending the connecting rods.</p><p>Always pull the props through in the direction of
-                rotation. Otherwise fuel and oil will be forced back into the intake section. This
-                will cause an unknown and possibly dangerous fuel-air ratio and make starting
-                difficult.</p><image keyref="preflight_prop">
+        <section id="sect_Preflight">
+            <title>Preflight</title>
+            <p>Enter cockpit and check that all switches are "<option>OFF</option>"</p>
+            <p>Check Form lA for status of the airplane. Surface controls locked. Trim tabs set at
+                    "<option>0</option>."</p>
+            <p>Pull props through 12 to 15 blades if the airplane has been standing for more than 30
+                minutes. This will work the oil from the lower cylinders.</p>
+            <p>If you start the engine with excess oil present in the cylinders this oil will form a
+                pressure block, cracking the cylinder heads and bending the connecting rods.</p>
+            <p>Always pull the props through in the direction of rotation. Otherwise fuel and oil
+                will be forced back into the intake section. This will cause an unknown and possibly
+                dangerous fuel-air ratio and make starting difficult.</p>
+            <image keyref="preflight_prop" placement="break" width="3in">
                 <alt>Preflight prop</alt>
-            </image></section>
-        <section id="sect_NoseSection"><title>Nose Section</title><p>Bombardier's escape hatch
-                unlocked. Check bombardier's compartment for proper stowage.</p><p>Shimmy damper pin
-                (⅜-inch extension). Nosewheel towing lockpin engaged&#8212;Red acorn-nut covering
-                this pin must be in place and secure. Rotate clockwise until hand-tight. The towing
-                lockpin locks the nosewheel into position. (The cover will not engage if this pin is
-                unlocked.)</p><p>Nosewheel oleo strut for proper clearance.</p><image
-                keyref="preflight_nosewheel">
+            </image>
+        </section>
+        <section id="sect_NoseSection">
+            <title>Nose Section</title>
+            <p>Bombardier's escape hatch unlocked. Check bombardier's compartment for proper
+                stowage.</p>
+            <p>Shimmy damper pin (⅜-inch extension). Nosewheel towing lockpin engaged&#8212;Red
+                acorn-nut covering this pin must be in place and secure. Rotate clockwise until
+                hand-tight. The towing lockpin locks the nosewheel into position. (The cover will
+                not engage if this pin is unlocked.)</p>
+            <p>Nosewheel oleo strut for proper clearance.</p>
+            <image keyref="preflight_nosewheel" placement="break" width="3in">
                 <alt>Preflight nosewheel oleo strut for proper clearance</alt>
-            </image><p>Tires for cuts, wear, blisters, slippage, and proper inflation.</p><p>Ground
-                tire on nosewheel for contact with ground.</p><p>Nosewheel door for proper fitting
-                and tension (40 lb.). Spring tension closes this door when the airplane is in
-                flight. If it closes improperly the slip-stream forces it open, and the resulting
-                air blast may tear it of! and damage other parts of the airplane.</p><p>Nose hood
-                locked and safetied (<keyword keyref="designator"/> G, H, and TB-25).</p><p>Check
-                engine fire extinguisher fuse if installed.</p></section>
-        <section id="sect_RightEngineSection"><title>Right Engine Section</title><p>Carburetor air
-                scoop cover removed.</p><p>Propeller for nicks, propeller dome and governor for
-                leaks.</p><p>Check pulleys, cables, and safety wires.</p><p>Colws, cowl flaps, and
-                Dzus fasteners secure&#8212; a loose cowl section can be a serious hazard in
-                flight.</p><p>Exhaust stacks, fingers, gaskets and studs, for looseness and
-                cracks.</p><p>Oil sump magnetic plugs safetied.</p><p>Oleo strut (extension 2⅞
-                inches), brake lines for leaks, torque arm scissors, main wheel down-lock
-                engaged.</p><p>Tire for cuts, bruises, excessive wear, slippage, and proper
-                inflation.</p><image keyref="preflight_tire">
+            </image>
+            <p>Tires for cuts, wear, blisters, slippage, and proper inflation.</p>
+            <p>Ground tire on nosewheel for contact with ground.</p>
+            <p>Nosewheel door for proper fitting and tension (40 lb.). Spring tension closes this
+                door when the airplane is in flight. If it closes improperly the slip-stream forces
+                it open, and the resulting air blast may tear it of! and damage other parts of the
+                airplane.</p>
+            <p>Nose hood locked and safetied (<keyword keyref="designator"/> G, H, and TB-25).</p>
+            <p>Check engine fire extinguisher fuse if installed.</p>
+        </section>
+        <section id="sect_RightEngineSection">
+            <title>Right Engine Section</title>
+            <p>Carburetor air scoop cover removed.</p>
+            <p>Propeller for nicks, propeller dome and governor for leaks.</p>
+            <p>Check pulleys, cables, and safety wires.</p>
+            <p>Colws, cowl flaps, and Dzus fasteners secure&#8212; a loose cowl section can be a
+                serious hazard in flight.</p>
+            <p>Exhaust stacks, fingers, gaskets and studs, for looseness and cracks.</p>
+            <p>Oil sump magnetic plugs safetied.</p>
+            <p>Oleo strut (extension 2⅞ inches), brake lines for leaks, torque arm scissors, main
+                wheel down-lock engaged.</p>
+            <p>Tire for cuts, bruises, excessive wear, slippage, and proper inflation.</p>
+            <image keyref="preflight_tire" placement="break" width="3in">
                 <alt>Preflight tire</alt>
-            </image><p>Battery jar in nacelle for proper servicing.</p><p>Wheel chocks in
-                place.</p><p>Gasoline drain plugs properly safe tied.</p></section>
-        <section id="sect_RightWingSection"><title>Right Wing Section</title><p>De-icer boots for
-                cuts, tears, worn spots, and proper installation.</p><p>Pitot head cover
-                removed.</p><image keyref="preflight_pitot_head_cover">
+            </image>
+            <p>Battery jar in nacelle for proper servicing.</p>
+            <p>Wheel chocks in place.</p>
+            <p>Gasoline drain plugs properly safe tied.</p>
+        </section>
+        <section id="sect_RightWingSection">
+            <title>Right Wing Section</title>
+            <p>De-icer boots for cuts, tears, worn spots, and proper installation.</p>
+            <p>Pitot head cover removed.</p>
+            <image keyref="preflight_pitot_head_cover" placement="break" width="3in">
                 <alt>Preflight, remove pitot head cover</alt>
-            </image><p>Wing surfaces for wrinkles, dents, or loose rivets. This is an important
-                check. Wrinkles in the metal surface indicate excessive strain.</p><p>Control
-                surfaces for general condition.</p><p>Trim tabs neutral at "0"
-            settings.</p></section>
+            </image>
+            <p>Wing surfaces for wrinkles, dents, or loose rivets. This is an important check.
+                Wrinkles in the metal surface indicate excessive strain.</p>
+            <p>Control surfaces for general condition.</p>
+            <p>Trim tabs neutral at "<option>0</option>" settings.</p>
+        </section>
         <section id="sect_Empennage">
             <title>Empennage</title>
             <p>Check for wrinkles, dents, loose rivets, de-icer installation.</p>
-            <p>Trim tabs neutral at "0" settings.</p>
+            <p>Trim tabs neutral at "<option>0</option>" settings.</p>
         </section>
         <section id="sect_RearCompartment">
             <title>Rear Compartment</title>
@@ -104,44 +125,63 @@
         <section id="sect_BombBay">
             <title>Bomb Bay</title>
             <p>Check doors for looseness. Check gasoline lines and plugs for leaks. Check bomb bay
-                for strong gasoline odors. Note: Turn booster pumps "ON" before making this
-                check.</p>
+                for strong gasoline odors. Note: Turn booster pumps "<userinput>ON</userinput>"
+                before making this check.</p>
         </section>
-        <section id="sect_General"><title>General</title><image keyref="preflight_general">
+        <section id="sect_General">
+            <title>General</title>
+            <image keyref="preflight_general" placement="break" width="3in">
                 <alt>General preflight inspection</alt>
-            </image><p>Check visually the amount of fuel in each tank.</p><p>Check fuel caps for
-                proper installation.</p><p>Check visually the amount of oil in tanks and see that
-                caps and Dzus fasteners are secure.</p><p>Check life raft storage compartment
-                release handle "LOCKED."</p><p>Crew briefing&#8212; Location and operation of escape
-                hatches.</p><p>Proper use of parachutes.</p><p>Abandon-ship procedure and
-                signals.</p><p>Escape hatches&#8212; Emergency operation. Check with crew chief to
-                determine the time of the last check on the emergency operation of the escape
-                hatches.</p><p>Testing and operation of oxygen equipment-check crew on knowledge of
-                proper usage. (Consult your Pilots' Information File.)</p><p>Interphone
-                operation.</p></section>
-        <section id="sect_NavCompartment"><title>Navigator's Compartment</title><image
-                keyref="preflight_emer_air_brake_press">
+            </image>
+            <p>Check visually the amount of fuel in each tank.</p>
+            <p>Check fuel caps for proper installation.</p>
+            <p>Check visually the amount of oil in tanks and see that caps and Dzus fasteners are
+                secure.</p>
+            <p>Check life raft storage compartment release handle
+                "<userinput>LOCKED</userinput>."</p>
+            <p>Crew briefing&#8212; Location and operation of escape hatches.</p>
+            <p>Proper use of parachutes.</p>
+            <p>Abandon-ship procedure and signals.</p>
+            <p>Escape hatches&#8212; Emergency operation. Check with crew chief to determine the
+                time of the last check on the emergency operation of the escape hatches.</p>
+            <p>Testing and operation of oxygen equipment-check crew on knowledge of proper usage.
+                (Consult your Pilots' Information File.)</p>
+            <p>Interphone operation.</p>
+        </section>
+        <section id="sect_NavCompartment">
+            <title>Navigator's Compartment</title>
+            <image keyref="preflight_emer_air_brake_press" placement="break" width="3in">
                 <alt>Preflight emergency air brake pressure</alt>
-            </image><p>Emergency air brake pressure (550-600 lb. sq. in.).</p><p>Nosewheel pawl
-                "OFF" handle stowed. The cable on this system moves as the nosewheel is raised and
-                lowered. If the engaging pawl is "ON" the movement of the nosewheel will tear the
-                cable out of the system. (On later-series aircraft, hydraulic emergency systems
-                replace this type. When you operate ships with these installed, safety the handle
-                "UP.")</p><p>Brake accumulator pressure 400 lb. sq. in. minimum.</p><p>Hydraulic
-                accumulator pressure 400 lb. sq. in. minimum.</p><p>Oxygen pressure (where
-                applicable).</p><image keyref="preflight_valves">
+            </image>
+            <p>Emergency air brake pressure (550-600 lb. sq. in.).</p>
+            <p>Nosewheel pawl "<option>OFF</option>" handle stowed. The cable on this system moves
+                as the nosewheel is raised and lowered. If the engaging pawl is
+                "<option>ON</option>" the movement of the nosewheel will tear the cable out of the
+                system. (On later-series aircraft, hydraulic emergency systems replace this type.
+                When you operate ships with these installed, safety the handle
+                "<option>UP</option>.")</p>
+            <p>Brake accumulator pressure 400 lb. sq. in. minimum.</p>
+            <p>Hydraulic accumulator pressure 400 lb. sq. in. minimum.</p>
+            <p>Oxygen pressure (where applicable).</p>
+            <image keyref="preflight_valves" placement="break" width="3in">
                 <alt>Preflight crossfeed and cut-off valves</alt>
-            </image><p>Crossfeed "OFF."</p><p>Fuel transfer valve and switches "OFF." Right and left
-                engine fuel cut-off valves "ON"</p><p>Generators and inverters "ON"&#8212; External
-                power should be used whenever possible. If external power is not available for
-                starting, keep inverters "OFF" until engine is operating.</p><p>Level of Hydraulic
-                fluid reservoir (spare fluid aboard).</p><p>Cabin heaters "OFF."</p><image
-                keyref="preflight_cabin_heaters">
+            </image>
+            <p>Crossfeed "<option>OFF</option>."</p>
+            <p>Fuel transfer valve and switches "<option>OFF</option>." Right and left engine fuel
+                cut-off valves "<option>ON</option>"</p>
+            <p>Generators and inverters "<option>ON</option>"&#8212; External power should be used
+                whenever possible. If external power is not available for starting, keep inverters
+                    "<option>OFF</option>" until engine is operating.</p>
+            <p>Level of Hydraulic fluid reservoir (spare fluid aboard).</p>
+            <p>Cabin heaters "<option>OFF</option>."</p>
+            <image keyref="preflight_cabin_heaters" placement="break" width="3in">
                 <alt>Preflight cabin heaters to &quot;OFF&quot;</alt>
-            </image><p>Check the load and balance of the ship. Check Form F with the load adjuster.
-                The <keyword keyref="designator"/> carries great loads and is unstable and dangerous
+            </image>
+            <p>Check the load and balance of the ship. Check Form F with the load adjuster. The
+                    <keyword keyref="designator"/> carries great loads and is unstable and dangerous
                 if the weight is not properly distributed. (For detailed information, see the PIF
-                and the Weights and Balance section of this manual.)</p></section>
+                and the Weights and Balance section of this manual.)</p>
+        </section>
         <section id="sect_Cockpit"><title>Cockpit</title><p>Have your parachute fitted to your body
                 and always wear it.</p><p>An improperly fitted chute will cause serious physical
                 injury&#8212; protect yourself.</p><p>Adjust seat and belt&#8212;If the seat is not
@@ -150,30 +190,36 @@
                 locked.</p><p>Escape hatch unlocked, hatch secure.</p><p>Controls unlocked, check
                 for free and proper movement. This insures the release of the lock, and reveals the
                 presence of obstructions to free movement of the controls.</p><p>Parking brakes
-                "SET." Brake pressure 500 lb. sq. in. minimum.</p><image
-                keyref="preflight_parking_brakes">
+                    "<option>SET</option>." Brake pressure 500 lb. sq. in. minimum.</p><image
+                keyref="preflight_parking_brakes" placement="break" width="3in">
                 <alt>Preflight parking brakes</alt>
             </image><image keyref="preflight_controls">
                 <alt>Check controls for free and proper movement</alt>
-            </image><p>Hydraulic selector "NORMAL." Air brake handle down and safetied. Landing gear
-                handle "DOWN" and locked. Wing flaps up, controls neutral. Cowl flaps open, controls
-                neutral. Set all hydraulic controls except landing gear at neutral when they are not
-                in use; this prevents loss of fluid and pressure in the entire system if part of it
-                fails.</p><p>Automatic pilot "OFF" and locked. Supercharger "LOW BLOWER" and locked.
-                All takeoffs must he made in "XOW BLOWER." Any attempt to do otherwise robs the
-                engines of power.</p><p>Oil shutters as required. Carburetor heat "NORMAL"</p><image
-                keyref="preflight_throttles">
+            </image><p>Hydraulic selector "<option>NORMAL</option>." Air brake handle down and
+                safetied. Landing gear handle "<option>DOWN</option>" and locked. Wing flaps up,
+                controls neutral. Cowl flaps open, controls neutral. Set all hydraulic controls
+                except landing gear at neutral when they are not in use; this prevents loss of fluid
+                and pressure in the entire system if part of it fails.</p><p>Automatic pilot
+                    "<option>OFF</option>" and locked. Supercharger "<option>LOW BLOWER</option>"
+                and locked. All takeoffs must he made in "<option>LOW BLOWER</option>." Any attempt
+                to do otherwise robs the engines of power.</p><p>Oil shutters as required.
+                Carburetor heat "<option>NORMAL</option>"</p><image keyref="preflight_throttles"
+                placement="break" width="3in">
                 <alt>Preflight throttles</alt>
-            </image><p>Throttles cracked (V2 inch to 1 inch).</p><p>Propellers "INC.
-                RPM."</p><p>Mixture "IDLE CUT-OFF."</p><p>Radios "OFF."</p><p>De-icers
-                "OFF."</p><p>Airspeed selector "STATIC."</p><p>Altimeter set (station elevation).
-                This setting will enable you to check the radioed altimeter setting and detect any
-                scale error in your altimeter.</p><image keyref="preflight_gyros">
+            </image><p>Throttles cracked (V2 inch to 1 inch).</p><p>Propellers "<option>INC.
+                    RPM</option>."</p><p>Mixture "<option>IDLE CUT-OFF</option>."</p><p>Radios
+                    "<option>OFF</option>."</p><p>De-icers "<option>OFF</option>."</p><p>Airspeed
+                selector "<option>STATIC</option>."</p><p>Altimeter set (station elevation). This
+                setting will enable you to check the radioed altimeter setting and detect any scale
+                error in your altimeter.</p><image keyref="preflight_gyros" placement="break"
+                width="3in">
                 <alt>Preflight gyros</alt>
-            </image><p>Gyros "UNCAGED."</p><image keyref="preflight_battery">
+            </image><p>Gyros "<option>UNCAGED</option>."</p><image keyref="preflight_battery"
+                placement="break" width="3in">
                 <alt>Preflight battery</alt>
-            </image><p>Battery-disconnect switches "ON" (unless external power is used). Light
-                switches as required.</p><image keyref="preflight_fuel">
+            </image><p>Battery-disconnect switches "<option>ON</option>" (unless external power is
+                used). Light switches as required.</p><image keyref="preflight_fuel"
+                placement="break" width="3in">
                 <alt>Preflight fuel</alt>
             </image><p>Check fuel levels&#8212; the visual preflight check acts as a check on the
                 instrument reading.</p></section>

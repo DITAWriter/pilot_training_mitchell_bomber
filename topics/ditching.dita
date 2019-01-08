@@ -52,7 +52,7 @@
             <p>If you transmit distress signals that you are ditching, but are lucky enough to make
                 land, be sure to notify the Air-Sea Rescue Unit as soon as possible to avoid danger
                 and loss of time (or other crews who may be out searching for you.</p>
-            <image placement="break" keyref="radio_sos"/>
+            <image placement="break" keyref="radio_sos" width="3in"/>
         </section>
         <section id="sect_PreparePlane">
             <title>Prepare the Plane</title>
@@ -67,7 +67,7 @@
                 handy in the raft for sail, cover, and extra line.</p>
             <p>Salvo bombs and the fuselage tank if it is more than half full. If fuselage tank is
                 less than half full, keep it in the plane for added buoyancy.</p>
-            <image placement="break" keyref="jettison_loose_equip"/>
+            <image placement="break" keyref="jettison_loose_equip" width="3in"/>
             <p>Once the plane is in the water, only the emergency kits and signaling devices are
                 valuable to you. Collect Very cartridges, pistol, smoke flares, all signaling
                 devices and keep them on your person. Don't hesitate to throw out everything else

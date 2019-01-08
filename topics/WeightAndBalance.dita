@@ -36,10 +36,10 @@
         <p>At its worst, it may mean failure to complete a flight, and sometimes failure even to
             start a flight, in most cases with a loss of life and destruction of valuable
             equipment.</p>
-        <image placement="break" keyref="weight_cg" id="image_gft_2dv_3gb"/>
+        <image placement="break" keyref="weight_cg" id="image_gft_2dv_3gb" width="4in"/>
         <section id="sect_Overload">
             <title>Overload</title>
-            <image placement="break" keyref="weight_overload" id="image_gyz_gdv_3gb">
+            <image placement="break" keyref="weight_overload" id="image_gyz_gdv_3gb" width="3in">
                 <alt>Structural failure</alt>
             </image>
             <ol id="ol_q34_rcv_3gb">
@@ -55,7 +55,7 @@
         </section>
         <section id="sect_NoseTooHeavy">
             <title>CG Too Far Forward</title>
-            <image placement="break" keyref="weight_nose_heavy" id="image_fjt_3dv_3gb">
+            <image placement="break" keyref="weight_nose_heavy" id="image_fjt_3dv_3gb" width="3in">
                 <alt>Nose heavy</alt>
             </image>
             <ol id="ol_d4w_rcv_3gb">
@@ -69,7 +69,7 @@
         </section>
         <section id="sect_CGTooFarAft">
             <title>CG Too Far Aft</title>
-            <image placement="break" keyref="weight_tail_heavy" id="image_t5d_4dv_3gb">
+            <image placement="break" keyref="weight_tail_heavy" id="image_t5d_4dv_3gb" width="3in">
                 <alt>Tail heavy</alt>
             </image>
             <ol id="ol_vjd_scv_3gb">

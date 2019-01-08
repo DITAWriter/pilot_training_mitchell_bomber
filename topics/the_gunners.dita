@@ -10,6 +10,8 @@
             <revised modified="12. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -20,7 +22,7 @@
         </metadata> 
     </prolog>
     <conbody>
-        <image keyref="gunner" id="image_syz_d2m_cgb">
+        <image keyref="gunner" id="image_syz_d2m_cgb" placement="break" width="3in">
             <alt>The Gunners</alt>
         </image>
         <p>The power turret gunners must have good coordination.</p>

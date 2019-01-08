@@ -8,6 +8,8 @@
             <revised modified="19. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -28,6 +30,6 @@
             Land short, and slow the plane as much as possible without brakes.</p>
         <p>Guard the throttles on all landings to prevent creeping.</p>
         <p>Never apply the brakes until the nosewheel is on the runway.</p>
-        <image keyref="cartoon-landing_crash"/>
+        <image keyref="cartoon-landing_crash" placement="break" width="3in"/>
     </conbody>
 </concept>

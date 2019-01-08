@@ -10,6 +10,8 @@
             <revised modified="19. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -83,7 +85,8 @@
             that carburetor air scoop covers are on to exclude dust from the engines. Complete the
             necessary local forms, gas forms, squadron reports, combat crew training report etc.
             Talk to the crew chief and tell him of the plane's performance. Give him any ideas you
-            have for improvements.<image keyref="parking" id="image_ldp_kwj_2gb">
+            have for improvements.<image keyref="parking" id="image_ldp_kwj_2gb" placement="break"
+                width="6in">
                 <alt>Parking complete - nosewheel properly lined up.</alt>
             </image></postreq>
     </taskbody>

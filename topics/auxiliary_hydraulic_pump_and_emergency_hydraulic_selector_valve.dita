@@ -10,6 +10,8 @@
             <revised modified="3. Jan. 2019"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -21,7 +23,7 @@
         <p>It is between the pilot's and copilot's seats and either man uses it.</p>
         <p>A selector valve, directly behind the hand pump on the floor, distributes the pressure
             from the hand pump.</p>
-        <image placement="break" keyref="emerg_hydraulic_pump" id="image_iyb_cfp_3gb"/>
+        <image placement="break" keyref="emerg_hydraulic_pump" id="image_iyb_cfp_3gb" width="3in"/>
         <p>The selector valve has three positions, "<option>NORMAL</option>,"
                 "<option>BRAKE</option>" and "<option>LATCH</option>" In "<option>NORMAL</option>"
             position the pressure from the hand pump is distributed through the normal hydraulic

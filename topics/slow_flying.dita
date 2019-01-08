@@ -21,7 +21,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="slow_flying">
+        <image placement="break" keyref="slow_flying" width="6in">
             <alt>Slow flying</alt>
         </image>
         <p>You can fly the plane at almost a stall attitude and at low airspeed, and by the
@@ -39,14 +39,14 @@
             power to prevent a stall. Approximately ⅔ power is the maximum to be used in the
                 <keyword keyref="designator"/> in this type of maneuver. Do not get into an
             exaggerated attitude, as the airplane is heavy and slow to respond.</p>
-        <p>Hold the airplane in this attitude, Increasing power when needed to prevent a stall and
+        <p>Hold the airplane in this attitude, increasing power when needed to prevent a stall and
             decreasing power when the airspeed becomes too great. Smooth coordination of stick and
             throttle is needed to hold the airplane in this landing attitude just above the stalling
             speed.</p>
         <p><b>During a maneuver of this type, the engines have a tendency to overheat; watch the
                 cylinder-head temperature carefully, and do not allow it to rise
             dangerously.</b></p>
-        <image placement="break" keyref="slow_flying_turn">
+        <image placement="break" keyref="slow_flying_turn" width="3in">
             <alt>Practice slow flying turns</alt>
         </image>
         <p>Practice this maneuver, checking the airspeed indicator only occasionally. Learn to fly

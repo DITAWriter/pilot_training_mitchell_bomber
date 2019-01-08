@@ -10,6 +10,8 @@
             <revised modified="12. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -19,7 +21,7 @@
         </metadata> 
     </prolog>
     <conbody>
-        <image keyref="bombadier_nav" id="image_zpn_m1m_cgb">
+        <image keyref="bombadier_nav" id="image_zpn_m1m_cgb" placement="break" width="3in">
             <alt>The Bombardier-Navigator</alt>
         </image>
         <p>As a navigator it is the bombardier-navigator's job to direct your flight from departure

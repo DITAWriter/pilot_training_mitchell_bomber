@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -22,7 +24,7 @@
             </step>
             <step>
                 <cmd>Remove the rear escape hatch. Jettison all loose equipment ammunition cans,
-                    guns, chutes, spare coils^ etc.,</cmd>
+                    guns, chutes, spare coils, etc.,</cmd>
             </step>
             <step>
                 <cmd>Close the hatch. This must foe closed for landing, otherwise it will act as a

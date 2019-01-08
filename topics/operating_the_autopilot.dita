@@ -6,6 +6,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="21. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -88,10 +90,10 @@
                 <li>Set Servo controls at No. 4.</li>
                 <li>Set rudder follow-up card to match directional gyro card.</li>
                 <li>Set aileron follow-up card to match bank index.<p>
-                        <image placement="break" keyref="autopilot_climb_limits">
+                        <image placement="break" keyref="autopilot_climb_limits" width="3in">
                             <alt>Autopilot climbing or gliding operating limits</alt>
                         </image>
-                        <image placement="break" keyref="autopilot_bank_limits">
+                        <image placement="break" keyref="autopilot_bank_limits" width="3in">
                             <alt>Autopilot banking operating limits</alt>
                         </image>
                     </p></li>

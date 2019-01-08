@@ -132,13 +132,17 @@
                 panel is connected to the receiver, blinking on when the airplane passes a 75 Mc
                 transmitter.</p>
         </section>
-        <section id="sect_Interphone"><title>Interphone</title><p>The interphone system of the
-                    <keyword keyref="designator"/> is a standard installation. It operates whenever
-                the battery-disconnect switches are "ON." It is used by every crew member to
-                communicate with all other crew members.</p><p>The interphone plays a vital part in
-                crew coordination. Used effectively in combat, it serves as the eyes of the entire
-                crew.</p><image keyref="interphone_jack_box" id="image_c4z_skm_cgb">
+        <section id="sect_Interphone">
+            <title>Interphone</title>
+            <p>The interphone system of the <keyword keyref="designator"/> is a standard
+                installation. It operates whenever the battery-disconnect switches are
+                    "<option>ON</option>." It is used by every crew member to communicate with all
+                other crew members.</p>
+            <p>The interphone plays a vital part in crew coordination. Used effectively in combat,
+                it serves as the eyes of the entire crew.</p>
+            <image keyref="interphone_jack_box" id="image_c4z_skm_cgb" placement="break" width="3in">
                 <alt>Interphone jack box</alt>
-            </image></section>
+            </image>
+        </section>
     </conbody>
 </concept>

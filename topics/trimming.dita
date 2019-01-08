@@ -10,6 +10,8 @@
             <revised modified="13. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -37,29 +39,40 @@
         <steps id="steps_lkw_xgh_2gb">
             <step>
                 <cmd>Keep the wings level by visual reference or by instruments.</cmd>
-                <info><image keyref="trim_wings_level" id="image_clw_xgh_2gb">
+                <info>
+                    <image keyref="trim_wings_level" id="image_clw_xgh_2gb" placement="break"
+                        width="3in">
                         <alt>Keep the wings level by visual reference or by instruments.</alt>
-                    </image></info>
+                    </image>
+                </info>
             </step>
             <step>
                 <cmd>Trim rudder until ball is centered or until directional gyro stops
                     turning.</cmd>
-                <info><image keyref="trim_rudder" id="image_dlw_xgh_2gb">
+                <info>
+                    <image keyref="trim_rudder" id="image_dlw_xgh_2gb" placement="break" width="3in">
                         <alt>Trim rudder until ball is centered or until directional gyro stops
                             turning.</alt>
-                    </image></info>
+                    </image>
+                </info>
             </step>
             <step>
                 <cmd>Trim aileron</cmd>
-                <info><image keyref="trim_aileron" id="image_elw_xgh_2gb">
+                <info>
+                    <image keyref="trim_aileron" id="image_elw_xgh_2gb" placement="break"
+                        width="3in">
                         <alt>Trim aileron</alt>
-                    </image></info>
+                    </image>
+                </info>
             </step>
             <step>
                 <cmd>Trim elevator</cmd>
-                <info><image keyref="trim_elevator" id="image_flw_xgh_2gb">
+                <info>
+                    <image keyref="trim_elevator" id="image_flw_xgh_2gb" placement="break"
+                        width="3in">
                         <alt>Trim elevator</alt>
-                    </image></info>
+                    </image>
+                </info>
             </step>
         </steps>
         <result><p>Check the trim by releasing all controls, allowing the plane to fly for a short

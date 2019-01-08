@@ -11,6 +11,8 @@
             <revised modified="3. Jan. 2019"/>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -21,7 +23,7 @@
     </prolog>
     <taskbody>
         <context>
-            <image placement="break" keyref="emerg_salvo_release">
+            <image placement="break" keyref="emerg_salvo_release" width="3in">
                 <alt>Bomb control handle</alt>
             </image>
             <p>All bombs are dropped safe when salvoed, unless you have an arming control in use on
@@ -52,8 +54,8 @@
                 <cmd>If the pilot's emergency release has been used: </cmd>
                 <substeps>
                     <substep>
-                        <cmd>Move the bombardier's control handle to "SALVO"; this recocks pilot's
-                            emergency release.</cmd>
+                        <cmd>Move the bombardier's control handle to "<userinput>SALVO</userinput>";
+                            this recocks pilot's emergency release.</cmd>
                     </substep>
                     <substep>
                         <cmd>Move control to "<userinput>CLOSED</userinput>."</cmd>
@@ -79,7 +81,7 @@
                     <note>On some <keyword keyref="designator"/>J and <keyword keyref="designator"/>H airplanes the bombing controls are electrical. In
                         the event of electrical failure you cannot salvo the bombs or bomb bay
                         tank.</note>
-                    <image placement="break" keyref="bomb_control_panel">
+                    <image placement="break" keyref="bomb_control_panel" width="3in">
                         <alt>Pilot's bomb control panel</alt>
                     </image>
                 </info>

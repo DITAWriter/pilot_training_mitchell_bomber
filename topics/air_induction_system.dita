@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -24,7 +26,7 @@
         <p>Normally there is a baffle in the air-mixing chamber. Air entering horizontally through
             the cold-air intake is deflected down into the carburetor inlet. Under dusty atmospheric
             conditions an air filter in the air-mixing chamber replaces the baffle.</p>
-        <image keyref="carburetor_air_flow" id="image_lnp_d3m_cgb">
+        <image keyref="carburetor_air_flow" id="image_lnp_d3m_cgb" width="3in">
             <alt>Carburetor air flow</alt>
         </image>
     </conbody>
