@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="LandingGear">
+    <title>Landing gear</title>
+    <shortdesc>The <keyword keyref="designator"/> has retractable, tricycle landing gear,
+        hydraulically operated. The landing gear retracts aft, the main gear into the engine
+        nacelles, the nose gear into the fuselage. Doors cover the gear openings in both the
+        retracted and extended positions.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <image placement="break" keyref="landing_gear" id="image_ozw_2sr_jgb"/>
+        <p>The landing gear control handle is on the lower section of the pilot's control pedestal.
+            Three distinct safety devices prevent accidental movement of the control handle:</p>
+        <p>1. A latch on the pedestal that must be set in the correct position before you can move
+            the handle.</p>
+        <p>2. A wire hook fastened to the pedestal which is placed over the control handle whenever
+            the handle is in the ''<option>DOWN</option>'' position.</p>
+        <image placement="break" keyref="landing_gear_control" width="3in" id="image_vvy_gsr_jgb"/>
+        <p>3. A locking plate that the pilot attaches to the pedestal whenever he leaves the
+            airplane.</p>
+        <image placement="break" keyref="landing_gear_control_locking" id="image_u1q_ksr_jgb"
+            width="3in"/>
+        <p>The swivel-type nose gear strut incorporates a centering device. It functions when weight
+            is removed from the nosewheel. There is a shimmy damper on the nosewheel strut to absorb
+            the vibrations created in taxiing. The nosewheel may be released from the shimmy damper
+            for towing purposes. A static ground wire is attached to the nosewheel.</p>
+        <p>There is a position indicator for the landing gear on the instrument panel. A warning
+            horn, replaced on later models by a warning light, indicates whether landing gear is
+            down and locked when throttles are retarded.</p>
+        <p>You can check the position of the main wheels visually from the cockpit. Check the
+            position of the nosewheel visually by use of the drift meter or by removing the
+            inspection plate from the floor in front of the copilot.</p>
+        <p>The landing gear has smooth-contour wheels and tires. The nose wheel tire has a dual-seal
+            tube, but the main wheel tires use regular lube.</p>
+        <p>The main wheels have hydraulically operated, multiple-disc brakes. Varying pressures on
+            the toe pedals produce braking action.</p>
+        <p>Conventional parking brakes permit setting the brakes in a locked position.</p>
+        <p>For emergency operation of landing gear and brakes, see Emergency Section.</p>
+        <image placement="break" keyref="landing_gear_ind_up_locked_flaps_up" width="3in"
+            id="image_ecx_4sr_jgb">
+            <alt>landing gear up and locked, flaps up</alt>
+        </image>
+        <image placement="break" keyref="landing_gear_ind_part_down_flaps_15deg" width="3in"
+            id="image_qhb_rsr_jgb">
+            <alt>landing gear part down, flaps 15deg</alt>
+        </image>
+        <image placement="break" keyref="landing_gear_ind_down_not_locked_flaps_15deg" width="3in"
+            id="image_asl_5sr_jgb">
+            <alt>landing gear down not locked, flaps 15deg</alt>
+        </image>
+        <image placement="break" keyref="landing_gear_ind_down_locked_flaps_45deg" width="3in"
+            id="image_gsr_wsr_jgb">
+            <alt>landing gear down and locked, flaps 45deg</alt>
+        </image>
+    </conbody>
+</concept>
