@@ -13,6 +13,6 @@
         </critdates>
     </prolog>
     <conbody>
-        <image placement="break" keyref="adv_air_work"/>
+        <image placement="break" keyref="img_adv_air_work"/>
     </conbody>
 </concept>

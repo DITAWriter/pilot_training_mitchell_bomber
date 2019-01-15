@@ -87,10 +87,10 @@
             </step>
         </steps>
         <example>
-            <image placement="break" keyref="low_blower_to_high_blower" width="3in"/>
+            <image placement="break" keyref="img_low_blower_to_high_blower" width="3in"/>
         </example>
         <example>
-            <image placement="break" keyref="high_blower_to_low_blower" width="3in"/>
+            <image placement="break" keyref="img_high_blower_to_low_blower" width="3in"/>
         </example>
     </taskbody>
 </task>

@@ -44,7 +44,7 @@
                         <cmd>Turn the booster pumps "<userinput>ON</userinput>." </cmd>
                     </substep>
                 </substeps>
-                <info><image placement="break" keyref="single_eng_before_feather"
+                <info><image placement="break" keyref="img_single_eng_before_feather"
                         id="image_szw_kcp_3gb" width="3in">
                         <alt>Before you feather: ignition, fuel cut-off, mixture, booster
                             pumps.</alt>

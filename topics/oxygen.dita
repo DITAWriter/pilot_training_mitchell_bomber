@@ -23,7 +23,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="oxygen_mask" id="image_bq3_bmm_cgb" placement="break" width="3in">
+        <image keyref="img_oxygen_mask" id="image_bq3_bmm_cgb" placement="break" width="3in">
             <alt>Oxygen mask</alt>
         </image>
         <p>The permanent oxygen system is of the low-pressure type, operating at an average starting
@@ -40,7 +40,7 @@
             simplifying regulator adjustment.</p>
         <fig id="fig_OxyRegulators">
             <title>Oxygen Regulators</title>
-            <image keyref="oxygen_regulator_location" placement="break" width="6in">
+            <image keyref="img_oxygen_regulator_location" placement="break" width="6in">
                 <alt>Oxygen regulator locations</alt>
             </image>
             <ol>
@@ -57,7 +57,7 @@
         <p>An outlet tube extends outward from the bottom of each regulator, and the hose from the
             oxygen mask slips over this tube. The outlet tube of the upper turret operator's
             regulator is on the upper turret support column.</p>
-        <image keyref="oxygen_regulator" id="image_cdr_mmm_cgb" placement="break" width="3in">
+        <image keyref="img_oxygen_regulator" id="image_cdr_mmm_cgb" placement="break" width="3in">
             <alt>Oxygen regulator</alt>
         </image>
         <p>When oxygen is not being drawn from a regulator, be sure that the valve is completely
@@ -87,7 +87,7 @@
         <p>An A-10 revised or A-14 type mask may be used with the portable oxygen unit. Before any
             flight on which you expect to use oxygen, see that the mask is of the proper type and is
             the correct size and shape for your face.</p>
-        <image keyref="oxygen_portable_unit" id="image_es4_4mm_cgb" placement="break" width="3in">
+        <image keyref="img_oxygen_portable_unit" id="image_es4_4mm_cgb" placement="break" width="3in">
             <alt>Portable oxygen unit</alt>
         </image>
         <note type="danger">Keep all oxygen equipment free from contact with oil or grease. Failure

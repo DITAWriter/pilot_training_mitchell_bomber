@@ -23,23 +23,23 @@
     </prolog>
     <refbody>
         <section>
-            <image keyref="mitchell_bomber_front_view_angled" placement="break" width="6in">
+            <image keyref="img_mitchell_bomber_front_view_angled" placement="break" width="6in">
                 <alt>Mitchell Bomber, front view, angled</alt>
             </image>
-            <image keyref="mitchell_bomber_back_view_angled" placement="break" width="6in">
+            <image keyref="img_mitchell_bomber_back_view_angled" placement="break" width="6in">
                 <alt>Mitchell Bomber, back view, angled</alt>
             </image>
-            <image keyref="mitchell_bomber_side_view" placement="break" width="6in">
+            <image keyref="img_mitchell_bomber_side_view" placement="break" width="6in">
                 <alt>Mitchell Bomber, side view</alt>
             </image>
-            <image keyref="mitchell_bomber_front_view" placement="break" width="6in">
+            <image keyref="img_mitchell_bomber_front_view" placement="break" width="6in">
                 <alt>Mitchell Bomber, front view</alt>
             </image>
             <p>Positive dihedral in the inner and negative dihedral in the outer wing panels give
                 the plane a gull-wing appearance, while adding control and maneuverability.</p>
             <p>A twin tail section with large rudders increases stability and maneuverability and
                 allows a greater concentration of firepower to the rear.</p>
-            <image keyref="mitchell_bomber_twin_tail_section" placement="break" width="4in">
+            <image keyref="img_mitchell_bomber_twin_tail_section" placement="break" width="4in">
                 <alt>Mitchell Bomber, twin tail section</alt>
             </image>
             <p>A tricycle landing gear adds to the case of landing, prevents groundlooping, and
@@ -64,13 +64,13 @@
             <p>There are electrically driven power turrets on some models and a hydraulically driven
                 tail turret on others.</p>
             <p>The plane has standard lighting, heating and hydraulic systems.</p>
-            <image keyref="plane_dimensions_top_view" placement="break" width="3in">
+            <image keyref="img_plane_dimensions_top_view" placement="break" width="3in">
                 <alt>Plane dimensions, top view</alt>
             </image>
-            <image keyref="plane_dimensions_front_view" placement="break" width="3in">
+            <image keyref="img_plane_dimensions_front_view" placement="break" width="3in">
                 <alt>Plane dimensions, front view</alt>
             </image>
-            <image keyref="plane_dimensions_side_view" placement="break" width="3in">
+            <image keyref="img_plane_dimensions_side_view" placement="break" width="3in">
                 <alt>Plane dimensions, side view</alt>
             </image>
             <p>The airplane dimensions are: Span 67 feet 6 inches, length 54 height 15 feet 9

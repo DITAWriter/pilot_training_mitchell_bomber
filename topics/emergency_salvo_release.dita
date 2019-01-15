@@ -23,7 +23,7 @@
     </prolog>
     <taskbody>
         <context>
-            <image placement="break" keyref="emerg_salvo_release" width="3in">
+            <image placement="break" keyref="img_emerg_salvo_release" width="3in">
                 <alt>Bomb control handle</alt>
             </image>
             <p>All bombs are dropped safe when salvoed, unless you have an arming control in use on
@@ -81,7 +81,7 @@
                     <note>On some <keyword keyref="designator"/>J and <keyword keyref="designator"/>H airplanes the bombing controls are electrical. In
                         the event of electrical failure you cannot salvo the bombs or bomb bay
                         tank.</note>
-                    <image placement="break" keyref="bomb_control_panel" width="3in">
+                    <image placement="break" keyref="img_bomb_control_panel" width="3in">
                         <alt>Pilot's bomb control panel</alt>
                     </image>
                 </info>

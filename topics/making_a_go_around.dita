@@ -20,7 +20,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="landing_go_around"/>
+        <image keyref="img_landing_go_around"/>
         <p>A pilot admires a buddy who has sufficient moral courage to go around when the situation
             seems to call for it. Yet he believes his fellow pilots will censure him for the very
             thing he admires in another.</p>
@@ -39,6 +39,6 @@
         <p><b>The most important part of the go-around procedure is determining its necessity and
                 starting it soon enough. </b>When it is necessary to go around, the sooner you start
             the procedure the easier it is.</p>
-        <image keyref="turn_full_flap" placement="break" width="3in"/>
+        <image keyref="img_turn_full_flap" placement="break" width="3in"/>
     </conbody>
 </concept>

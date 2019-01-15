@@ -17,7 +17,7 @@
     </prolog>
     <taskbody>
         <context>
-            <image placement="break" keyref="how_to_jump"/>
+            <image placement="break" keyref="img_how_to_jump"/>
         </context>
         <steps>
             <step>

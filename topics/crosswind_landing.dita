@@ -26,7 +26,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="landing_crosswind_crab" id="image_efg_ldp_ggb">
+        <image placement="break" keyref="img_landing_crosswind_crab" id="image_efg_ldp_ggb">
             <alt>Crab into wind</alt>
         </image>
         <p>There are three possible ways to land crosswind:</p>
@@ -61,7 +61,7 @@
             throttles increases the length of roll considerably.</p>
         <p>Where there is a strong drift, land on the upwind side of the runway. The drift will
             carry you toward the center of the runway.</p>
-        <image placement="break" keyref="landing_correct_for_drift" id="image_m5t_kxn_3gb">
+        <image placement="break" keyref="img_landing_correct_for_drift" id="image_m5t_kxn_3gb">
             <alt>Correct for Drift. Land on the runway.</alt>
         </image>
         <section id="sect_CommonErrors">

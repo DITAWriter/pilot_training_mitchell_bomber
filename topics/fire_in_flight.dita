@@ -22,7 +22,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="fire_in_flight">
+        <image placement="break" keyref="img_fire_in_flight">
             <alt>Fire in Flight</alt>
         </image>
         <p>All aircraft fires have three main causes:</p>

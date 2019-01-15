@@ -20,7 +20,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="bailout">
+        <image placement="break" keyref="img_bailout">
             <alt>Bailout</alt>
         </image>
         <note type="important">Preflight your chute before every flight.</note>
@@ -34,7 +34,7 @@
         <p><b>Check with the ground crew on the condition and operation of the escape hatches.</b>
             Spot checks show that these hatches are often overlooked on the periodic
             inspections.</p>
-        <image placement="break" keyref="emer_hatch_release" width="3in">
+        <image placement="break" keyref="img_emer_hatch_release" width="3in">
             <alt>Emergency hatch release</alt>
         </image>
     </conbody>

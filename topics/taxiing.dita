@@ -20,7 +20,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="taxiing" id="image_dc1_w4m_cgb">
+        <image keyref="img_taxiing" id="image_dc1_w4m_cgb">
             <alt>Taxiing</alt>
         </image>
         <p>The primary controls for taxiing are the throttles, rudders, and the brakes when
@@ -37,7 +37,7 @@
             cool the engines.</p>
         <section id="sect_DirectionOfRoll">
             <title>Direction of Roll</title>
-            <image keyref="roll_direction" id="image_fbl_1pm_cgb" placement="break" width="3in">
+            <image keyref="img_roll_direction" id="image_fbl_1pm_cgb" placement="break" width="3in">
                 <alt>Direction of roll</alt>
             </image>
             <p>Don't try to guide the plane for the first few feet of its roll. If you do a great
@@ -50,7 +50,7 @@
             <p>When the direction of roll is established, make corrections by coordinating the
                 rudder and the throttle and using the brakes only when necessary. Use the brakes
                 lightly, working to achieve accurate control with minimum pressure.</p>
-            <image keyref="roll_correct" id="image_ndg_dpm_cgb" placement="break" width="3in">
+            <image keyref="img_roll_correct" id="image_ndg_dpm_cgb" placement="break" width="3in">
                 <alt>Correct roll</alt>
             </image>
             <p>You will never need hard, rough braking action if you use the brakes properly.</p>
@@ -60,13 +60,13 @@
             <p>Do not use excessive power. When one throttle is advanced, retard the opposite
                 throttle. Don't let power accumulate by jockeying first one throttle and then the
                 other.</p>
-            <image keyref="turn_left" id="image_fmp_hpm_cgb" placement="break" width="3in">
+            <image keyref="img_turn_left" id="image_fmp_hpm_cgb" placement="break" width="3in">
                 <alt>Left turn</alt>
             </image>
-            <image keyref="turn_right" id="image_qvs_3pm_cgb" placement="break" width="3in">
+            <image keyref="img_turn_right" id="image_qvs_3pm_cgb" placement="break" width="3in">
                 <alt>Right turn</alt>
             </image>
-            <image keyref="taxi_speed" id="image_g1d_npm_cgb" placement="break" width="3in">
+            <image keyref="img_taxi_speed" id="image_g1d_npm_cgb" placement="break" width="3in">
                 <alt>In the vicinity of other planes and equipment, keep the speed down to that of a
                     walking man.</alt>
             </image>
@@ -79,7 +79,7 @@
             <p>Never allow the inside wheel to stop during a turn. To turn sharply, slow the
                 airplane to a low speed and coordinate the brake and throttle to keep the inside
                 wheel turning on an approximate 10-foot circle.</p>
-            <image keyref="turn_radius" id="image_lqk_ppm_cgb" placement="break" width="3in">
+            <image keyref="img_turn_radius" id="image_lqk_ppm_cgb" placement="break" width="3in">
                 <alt>Turn radius</alt>
             </image>
             <p>Any attempt to twist the plane on the inside wheel damages the wheel, tire, and
@@ -96,7 +96,7 @@
         </section>
         <section id="sect_NosewheelPositionInd">
             <title>Nosewheel Position Indicator</title>
-            <image keyref="nosewheel_position_ind" id="image_bdb_spm_cgb" placement="break"
+            <image keyref="img_nosewheel_position_ind" id="image_bdb_spm_cgb" placement="break"
                 width="3in">
                 <alt>Nosewheel position indicator</alt>
             </image>
@@ -118,7 +118,7 @@
                 but the most violent winds. Use a small amount of downwind brake when necessary.
                 Don't let this become a habit, however, as in all ordinary conditions the throttles
                 and rudders provide good directional control.</p>
-            <image keyref="taxi_crosswind" id="image_pnn_5pm_cgb" placement="break" width="3in">
+            <image keyref="img_taxi_crosswind" id="image_pnn_5pm_cgb" placement="break" width="3in">
                 <alt>Crosswind taxiing</alt>
             </image>
         </section>
@@ -157,7 +157,7 @@
             <note type="caution">If the wheels are mired too deeply the propeller tips will strike
                 the ground. When there is danger of this, the airplane must be moved by a
                 tractor.</note>
-            <image keyref="takeoff_mud_sand" id="image_lds_ypm_cgb" placement="break" width="3in">
+            <image keyref="img_takeoff_mud_sand" id="image_lds_ypm_cgb" placement="break" width="3in">
                 <alt>Get the nosewheel up quick on takeoff in mud or sand.</alt>
             </image>
             <p>Don't try to move the airplane over soft ground with the nosewheel towbar alone. This

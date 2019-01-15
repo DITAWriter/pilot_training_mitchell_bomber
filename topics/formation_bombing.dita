@@ -19,7 +19,7 @@
     </prolog>
     <taskbody>
         <context>
-            <image placement="break" keyref="formation_bombing">
+            <image placement="break" keyref="img_formation_bombing">
                 <alt>Formation bombing</alt>
             </image>
         </context>

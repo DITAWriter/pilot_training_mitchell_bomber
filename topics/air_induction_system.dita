@@ -18,7 +18,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="air_induction_system" id="image_gvn_13m_cgb">
+        <image keyref="img_air_induction_system" id="image_gvn_13m_cgb">
             <alt>Air induction system</alt>
         </image>
         <p>A carburetor heat control provides an alternate source of air, allowing heated air to
@@ -26,7 +26,7 @@
         <p>Normally there is a baffle in the air-mixing chamber. Air entering horizontally through
             the cold-air intake is deflected down into the carburetor inlet. Under dusty atmospheric
             conditions an air filter in the air-mixing chamber replaces the baffle.</p>
-        <image keyref="carburetor_air_flow" id="image_lnp_d3m_cgb" width="3in">
+        <image keyref="img_carburetor_air_flow" id="image_lnp_d3m_cgb" width="3in">
             <alt>Carburetor air flow</alt>
         </image>
     </conbody>

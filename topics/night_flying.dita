@@ -17,7 +17,7 @@
     </prolog>
     <taskbody>
         <context>
-            <image placement="break" keyref="night_flying" id="image_ljg_ss4_ggb"/>
+            <image placement="break" keyref="img_night_flying" id="image_ljg_ss4_ggb"/>
             <p>A few tips on night flying:</p>
             <note type="important">In night flying, a turn may suddenly change contact flight to
                 instrument flight. Be ready to fly instruments at any moment.</note>

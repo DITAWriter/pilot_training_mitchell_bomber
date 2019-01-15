@@ -24,7 +24,7 @@
     </prolog>
     <conbody>
         <section id="sect_ExtLighting"><title>Exterior Lighting</title>
-            <image keyref="lighting_equipment">
+            <image keyref="img_lighting_equipment">
                 <alt><keyword keyref="designator"/> lighting equipment</alt>
             </image>
             <p>Landing Lights&#8212; An 8-inch, sealed-beam landing light is in the leading edge of
@@ -71,7 +71,7 @@
                 on the pilot's switch panel controls it.</p>
             <p>All optical gunsight lights are inside the sights. The rheostats which control them
                 are near each unit.</p>
-            <image keyref="landing_lights">
+            <image keyref="img_landing_lights">
                 <alt>Landing lights</alt>
             </image></section>
     </conbody>

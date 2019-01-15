@@ -38,13 +38,13 @@
                 runway, flare off and reduce the power and speed. When over the runway, hold the
                 throttles completely closed to prevent them from creeping open and stretching the
                 glide.</p>
-            <image keyref="landing_speed_constant"/>
+            <image keyref="img_landing_speed_constant"/>
             <p>Land in a tail-low attitude. Make contact with the main wheels touching down at the
                 same time. The landing gear is designed to absorb great loads if they are applied
                 straight ahead. Tremendous thrust is generated in landing, and if it is applied in a
                 side thrust it can easily collapse the gear.</p>
             <p>The landing speed depends on your skill and on weight conditions.</p><image
-                keyref="landing_lower_nosewheel_slowly"/><p>Hold the nosewheel in the air with the
+                keyref="img_landing_lower_nosewheel_slowly"/><p>Hold the nosewheel in the air with the
                 elevators, thus reducing the length of the landing roll. The increased angle of
                 attack of the wings, plus the 45" of flaps, acts as an air brake.</p>
             <p><b>Lower the nosewheel slowly with elevator control as you lose airspeed on the
@@ -75,7 +75,7 @@
                 you do not execute it properly.</p>
             <p>The remainder of the ground roll and landing check are identical with the first
                 procedure.</p>
-            <image keyref="landing_direct_approach" placement="break" width="3in"/>
+            <image keyref="img_landing_direct_approach" placement="break" width="3in"/>
         </section>
         <section id="sect_CombatLanding"><title>Combat landing procedure</title>
             <p>The third technique is commonly called a combat landing. It is the product of combat
@@ -95,7 +95,7 @@
                 down.</p>
             <p>If you visualize a chandelle and then reverse it so that you picture a diving turn
                 through 180°, you have an accurate picture of this landing.</p>
-            <image keyref="landing_combat"/>
+            <image keyref="img_landing_combat"/>
             <note type="caution">This maneuver requires the touch and skill of an experienced pilot.
                 Have an instructor pilot demonstrate it to you and practice it when he is present.
                 The rest of the landing procedure is identical with the others.</note>

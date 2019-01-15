@@ -19,7 +19,7 @@
         </metadata> 
     </prolog>
     <conbody>
-        <image keyref="preflight_general" placement="break" width="3in">
+        <image keyref="img_preflight_general" placement="break" width="3in">
             <alt>The Engineer</alt>
         </image>
         <p>This man should know more about the airplane you are to fly than any other member of the

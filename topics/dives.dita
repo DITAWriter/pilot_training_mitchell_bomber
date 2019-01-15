@@ -31,7 +31,7 @@
         <p>Combat requirements may force you to dive the plane when the gross weight is excessive.
             The plane will carry you through some tight spots in an emergency, but treat it gently.
             Don't place unnecessary loads on the plane by rough and careless handling.</p>
-        <image placement="break" keyref="max_dive_speed" id="image_fsf_g3y_2gb" width="3in"/>
+        <image placement="break" keyref="img_max_dive_speed" id="image_fsf_g3y_2gb" width="3in"/>
         <table frame="all" id="table_vjg_j3y_2gb">
             <title/>
             <tgroup cols="7">

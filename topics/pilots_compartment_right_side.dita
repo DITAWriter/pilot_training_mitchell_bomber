@@ -19,7 +19,7 @@
     <refbody>
         <section>
             <fig id="fig_onx_lgm_cgb">
-                <image keyref="pilots_compartment-right-side" id="image_gpp_ngm_cgb"
+                <image keyref="img_pilots_compartment-right-side" id="image_gpp_ngm_cgb"
                     placement="break" width="4in">
                     <alt>Pilot's compartment, right side</alt>
                 </image>

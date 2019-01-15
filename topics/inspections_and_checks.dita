@@ -46,7 +46,7 @@
             <p>Always pull the props through in the direction of rotation. Otherwise fuel and oil
                 will be forced back into the intake section. This will cause an unknown and possibly
                 dangerous fuel-air ratio and make starting difficult.</p>
-            <image keyref="preflight_prop" placement="break" width="3in">
+            <image keyref="img_preflight_prop" placement="break" width="3in">
                 <alt>Preflight prop</alt>
             </image>
         </section>
@@ -59,7 +59,7 @@
                 hand-tight. The towing lockpin locks the nosewheel into position. (The cover will
                 not engage if this pin is unlocked.)</p>
             <p>Nosewheel oleo strut for proper clearance.</p>
-            <image keyref="preflight_nosewheel" placement="break" width="3in">
+            <image keyref="img_preflight_nosewheel" placement="break" width="3in">
                 <alt>Preflight nosewheel oleo strut for proper clearance</alt>
             </image>
             <p>Tires for cuts, wear, blisters, slippage, and proper inflation.</p>
@@ -83,7 +83,7 @@
             <p>Oleo strut (extension 2⅞ inches), brake lines for leaks, torque arm scissors, main
                 wheel down-lock engaged.</p>
             <p>Tire for cuts, bruises, excessive wear, slippage, and proper inflation.</p>
-            <image keyref="preflight_tire" placement="break" width="3in">
+            <image keyref="img_preflight_tire" placement="break" width="3in">
                 <alt>Preflight tire</alt>
             </image>
             <p>Battery jar in nacelle for proper servicing.</p>
@@ -94,7 +94,7 @@
             <title>Right Wing Section</title>
             <p>De-icer boots for cuts, tears, worn spots, and proper installation.</p>
             <p>Pitot head cover removed.</p>
-            <image keyref="preflight_pitot_head_cover" placement="break" width="3in">
+            <image keyref="img_preflight_pitot_head_cover" placement="break" width="3in">
                 <alt>Preflight, remove pitot head cover</alt>
             </image>
             <p>Wing surfaces for wrinkles, dents, or loose rivets. This is an important check.
@@ -130,7 +130,7 @@
         </section>
         <section id="sect_General">
             <title>General</title>
-            <image keyref="preflight_general" placement="break" width="3in">
+            <image keyref="img_preflight_general" placement="break" width="3in">
                 <alt>General preflight inspection</alt>
             </image>
             <p>Check visually the amount of fuel in each tank.</p>
@@ -150,7 +150,7 @@
         </section>
         <section id="sect_NavCompartment">
             <title>Navigator's Compartment</title>
-            <image keyref="preflight_emer_air_brake_press" placement="break" width="3in">
+            <image keyref="img_preflight_emer_air_brake_press" placement="break" width="3in">
                 <alt>Preflight emergency air brake pressure</alt>
             </image>
             <p>Emergency air brake pressure (550-600 lb. sq. in.).</p>
@@ -163,7 +163,7 @@
             <p>Brake accumulator pressure 400 lb. sq. in. minimum.</p>
             <p>Hydraulic accumulator pressure 400 lb. sq. in. minimum.</p>
             <p>Oxygen pressure (where applicable).</p>
-            <image keyref="preflight_valves" placement="break" width="3in">
+            <image keyref="img_preflight_valves" placement="break" width="3in">
                 <alt>Preflight crossfeed and cut-off valves</alt>
             </image>
             <p>Crossfeed "<option>OFF</option>."</p>
@@ -174,7 +174,7 @@
                     "<option>OFF</option>" until engine is operating.</p>
             <p>Level of Hydraulic fluid reservoir (spare fluid aboard).</p>
             <p>Cabin heaters "<option>OFF</option>."</p>
-            <image keyref="preflight_cabin_heaters" placement="break" width="3in">
+            <image keyref="img_preflight_cabin_heaters" placement="break" width="3in">
                 <alt>Preflight cabin heaters to &quot;OFF&quot;</alt>
             </image>
             <p>Check the load and balance of the ship. Check Form F with the load adjuster. The
@@ -191,9 +191,9 @@
                 for free and proper movement. This insures the release of the lock, and reveals the
                 presence of obstructions to free movement of the controls.</p><p>Parking brakes
                     "<option>SET</option>." Brake pressure 500 lb. sq. in. minimum.</p><image
-                keyref="preflight_parking_brakes" placement="break" width="3in">
+                keyref="img_preflight_parking_brakes" placement="break" width="3in">
                 <alt>Preflight parking brakes</alt>
-            </image><image keyref="preflight_controls">
+            </image><image keyref="img_preflight_controls">
                 <alt>Check controls for free and proper movement</alt>
             </image><p>Hydraulic selector "<option>NORMAL</option>." Air brake handle down and
                 safetied. Landing gear handle "<option>DOWN</option>" and locked. Wing flaps up,
@@ -203,7 +203,7 @@
                     "<option>OFF</option>" and locked. Supercharger "<option>LOW BLOWER</option>"
                 and locked. All takeoffs must he made in "<option>LOW BLOWER</option>." Any attempt
                 to do otherwise robs the engines of power.</p><p>Oil shutters as required.
-                Carburetor heat "<option>NORMAL</option>"</p><image keyref="preflight_throttles"
+                Carburetor heat "<option>NORMAL</option>"</p><image keyref="img_preflight_throttles"
                 placement="break" width="3in">
                 <alt>Preflight throttles</alt>
             </image><p>Throttles cracked (V2 inch to 1 inch).</p><p>Propellers "<option>INC.
@@ -211,14 +211,14 @@
                     "<option>OFF</option>."</p><p>De-icers "<option>OFF</option>."</p><p>Airspeed
                 selector "<option>STATIC</option>."</p><p>Altimeter set (station elevation). This
                 setting will enable you to check the radioed altimeter setting and detect any scale
-                error in your altimeter.</p><image keyref="preflight_gyros" placement="break"
+                error in your altimeter.</p><image keyref="img_preflight_gyros" placement="break"
                 width="3in">
                 <alt>Preflight gyros</alt>
-            </image><p>Gyros "<option>UNCAGED</option>."</p><image keyref="preflight_battery"
+            </image><p>Gyros "<option>UNCAGED</option>."</p><image keyref="img_preflight_battery"
                 placement="break" width="3in">
                 <alt>Preflight battery</alt>
             </image><p>Battery-disconnect switches "<option>ON</option>" (unless external power is
-                used). Light switches as required.</p><image keyref="preflight_fuel"
+                used). Light switches as required.</p><image keyref="img_preflight_fuel"
                 placement="break" width="3in">
                 <alt>Preflight fuel</alt>
             </image><p>Check fuel levels&#8212; the visual preflight check acts as a check on the

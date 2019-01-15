@@ -13,17 +13,17 @@
         </critdates>
     </prolog>
     <conbody>
-        <image placement="break" keyref="landing_gear" id="image_ozw_2sr_jgb"/>
+        <image placement="break" keyref="img_landing_gear" id="image_ozw_2sr_jgb"/>
         <p>The landing gear control handle is on the lower section of the pilot's control pedestal.
             Three distinct safety devices prevent accidental movement of the control handle:</p>
         <p>1. A latch on the pedestal that must be set in the correct position before you can move
             the handle.</p>
         <p>2. A wire hook fastened to the pedestal which is placed over the control handle whenever
             the handle is in the ''<option>DOWN</option>'' position.</p>
-        <image placement="break" keyref="landing_gear_control" width="3in" id="image_vvy_gsr_jgb"/>
+        <image placement="break" keyref="img_landing_gear_control" width="3in" id="image_vvy_gsr_jgb"/>
         <p>3. A locking plate that the pilot attaches to the pedestal whenever he leaves the
             airplane.</p>
-        <image placement="break" keyref="landing_gear_control_locking" id="image_u1q_ksr_jgb"
+        <image placement="break" keyref="img_landing_gear_control_locking" id="image_u1q_ksr_jgb"
             width="3in"/>
         <p>The swivel-type nose gear strut incorporates a centering device. It functions when weight
             is removed from the nosewheel. There is a shimmy damper on the nosewheel strut to absorb
@@ -41,19 +41,19 @@
             the toe pedals produce braking action.</p>
         <p>Conventional parking brakes permit setting the brakes in a locked position.</p>
         <p>For emergency operation of landing gear and brakes, see Emergency Section.</p>
-        <image placement="break" keyref="landing_gear_ind_up_locked_flaps_up" width="3in"
+        <image placement="break" keyref="img_landing_gear_ind_up_locked_flaps_up" width="3in"
             id="image_ecx_4sr_jgb">
             <alt>landing gear up and locked, flaps up</alt>
         </image>
-        <image placement="break" keyref="landing_gear_ind_part_down_flaps_15deg" width="3in"
+        <image placement="break" keyref="img_landing_gear_ind_part_down_flaps_15deg" width="3in"
             id="image_qhb_rsr_jgb">
             <alt>landing gear part down, flaps 15deg</alt>
         </image>
-        <image placement="break" keyref="landing_gear_ind_down_not_locked_flaps_15deg" width="3in"
+        <image placement="break" keyref="img_landing_gear_ind_down_not_locked_flaps_15deg" width="3in"
             id="image_asl_5sr_jgb">
             <alt>landing gear down not locked, flaps 15deg</alt>
         </image>
-        <image placement="break" keyref="landing_gear_ind_down_locked_flaps_45deg" width="3in"
+        <image placement="break" keyref="img_landing_gear_ind_down_locked_flaps_45deg" width="3in"
             id="image_gsr_wsr_jgb">
             <alt>landing gear down and locked, flaps 45deg</alt>
         </image>

@@ -26,7 +26,7 @@
     <refbody>
         <section id="smoking">
             <title>Smoking</title>
-            <image keyref="cartoon-no_smoking_under_1000_feet" id="image_att_5cm_cgb"
+            <image keyref="img_cartoon-no_smoking_under_1000_feet" id="image_att_5cm_cgb"
                 placement="break" width="3in">
                 <alt>No smoking under 1000 feet!</alt>
             </image>

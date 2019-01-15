@@ -23,7 +23,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="armament" id="image_ukc_wkm_cgb">
+        <image keyref="img_armament" id="image_ukc_wkm_cgb">
             <alt>Armament</alt>
         </image>
         <p>Safe handling and operation require thorough knowledge arid practice on this equipment,
@@ -40,7 +40,7 @@
                 compartment.</p>
             <p>On the <keyword keyref="designator"/> G and H, the bomb bay and bombing controls are
                 in the pilot's compartment.</p>
-            <image keyref="bomb_bay" id="image_swf_klm_cgb" placement="break" width="3in">
+            <image keyref="img_bomb_bay" id="image_swf_klm_cgb" placement="break" width="3in">
                 <alt>Bomb bay</alt>
             </image>
             <p>On the <keyword keyref="designator"/> J, the bombardment controls are in both the
@@ -57,7 +57,7 @@
             <title>Gunnery</title>
             <p>Gunnery equipment varies greatly in different series airplanes. They are as follows:
                     <keyword keyref="designator"/> C and D,</p>
-            <image keyref="B-25_CD_50-cal_nose_gun" id="image_vt2_plm_cgb" placement="break"
+            <image keyref="img_B-25_CD_50-cal_nose_gun" id="image_vt2_plm_cgb" placement="break"
                 width="3in">
                 <alt><keyword keyref="designator"/> C and D 50-cal_nose_gun</alt>
             </image>
@@ -84,7 +84,7 @@
                 optical gunsight.</p>
             <p>A few modified G's carry flexible .50-cal. waist guns J blister guns, and one
                 flexible .50-cal. tail gun.</p>
-            <image keyref="B-25_G_nose_guns" id="image_ibl_rlm_cgb" placement="break" width="3in">
+            <image keyref="img_B-25_G_nose_guns" id="image_ibl_rlm_cgb" placement="break" width="3in">
                 <alt><keyword keyref="designator"/> G nose guns</alt>
             </image>
         </section>
@@ -105,7 +105,7 @@
                 sights.</p>
             <p>A Bell model M-7 electric-hydraulic turret with two .50-cal. guns and a type N-8
                 gunsight is in the tail. A tail gunner operates this turret.</p>
-            <image keyref="B-25_H_nose_guns" id="image_rms_tlm_cgb" placement="break" width="5in">
+            <image keyref="img_B-25_H_nose_guns" id="image_rms_tlm_cgb" placement="break" width="5in">
                 <alt><keyword keyref="designator"/> H nose guns</alt>
             </image>
         </section>
@@ -124,7 +124,7 @@
                 sights.</p>
             <p>A Bell model M-7 electric-hydraulic turret with two .50-cal. guns and a type N-8
                 gunsight is in the tail and is operated by a tail gunner.</p>
-            <image keyref="B-25_J_gun_locations" id="image_ddp_vlm_cgb" placement="break"
+            <image keyref="img_B-25_J_gun_locations" id="image_ddp_vlm_cgb" placement="break"
                 width="6in">
                 <alt><keyword keyref="designator"/> J gun locations</alt>
             </image>

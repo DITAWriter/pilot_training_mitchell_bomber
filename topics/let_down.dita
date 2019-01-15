@@ -25,7 +25,7 @@
             wheels, lower partial flaps and increase the power settings to prevent rapid
             cooling.</p>
         <p>Level off at the desired altitude and adjust power and trim.</p>
-        <image keyref="cartoon-engine_cough" id="image_dlq_phs_cgb" placement="break" width="3in">
+        <image keyref="img_cartoon-engine_cough" id="image_dlq_phs_cgb" placement="break" width="3in">
             <alt>Keep engine warm. If it cools off, it may cough at the wrong time</alt>
         </image>
     </conbody>

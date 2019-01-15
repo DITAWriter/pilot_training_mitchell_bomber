@@ -21,10 +21,10 @@
     <conbody>
         <p>Move the controls slowly and smoothly to the desired settings rather than attempting to
             make one swift movement and pick up the proper settings.</p>
-        <image keyref="power_reduce_manifold" id="image_grw_xgs_cgb" placement="break" width="3in">
+        <image keyref="img_power_reduce_manifold" id="image_grw_xgs_cgb" placement="break" width="3in">
             <alt>Reduce manifold pressure</alt>
         </image>
-        <image keyref="power_reduce_rpm" id="image_dpx_1hs_cgb" placement="break" width="3in">
+        <image keyref="img_power_reduce_rpm" id="image_dpx_1hs_cgb" placement="break" width="3in">
             <alt>Reduce rpm</alt>
         </image>
         <p>If the rpm is reduced first, you get a jump in manifold pressures. This causes detonation
@@ -33,10 +33,10 @@
             the rpm is reduced, this fuel-air supply remains almost constant, and an engine running
             at reduced speed cannot absorb this fuel-air charge. Pressures in the impeller and
             cylinder heads rise as a result and cause detonation.</p>
-        <image keyref="power_increase_rpm" id="image_es5_chs_cgb" placement="break" width="3in">
+        <image keyref="img_power_increase_rpm" id="image_es5_chs_cgb" placement="break" width="3in">
             <alt>Increase rpm</alt>
         </image>
-        <image keyref="power_advance_throttles" id="image_pdg_fhs_cgb" placement="break" width="3in">
+        <image keyref="img_power_advance_throttles" id="image_pdg_fhs_cgb" placement="break" width="3in">
             <alt>Advance throttles</alt>
         </image>
         <p>As engines pick up speed the manifold pressures drop; this is a normal and desired

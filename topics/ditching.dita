@@ -19,7 +19,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="ditching">
+        <image placement="break" keyref="img_ditching">
             <alt>Ditching</alt>
         </image>
         <p>From the analysis of actual ditching reports, plus the results of tests made with scale
@@ -52,7 +52,7 @@
             <p>If you transmit distress signals that you are ditching, but are lucky enough to make
                 land, be sure to notify the Air-Sea Rescue Unit as soon as possible to avoid danger
                 and loss of time (or other crews who may be out searching for you.</p>
-            <image placement="break" keyref="radio_sos" width="3in"/>
+            <image placement="break" keyref="img_radio_sos" width="3in"/>
         </section>
         <section id="sect_PreparePlane">
             <title>Prepare the Plane</title>
@@ -67,7 +67,7 @@
                 handy in the raft for sail, cover, and extra line.</p>
             <p>Salvo bombs and the fuselage tank if it is more than half full. If fuselage tank is
                 less than half full, keep it in the plane for added buoyancy.</p>
-            <image placement="break" keyref="jettison_loose_equip" width="3in"/>
+            <image placement="break" keyref="img_jettison_loose_equip" width="3in"/>
             <p>Once the plane is in the water, only the emergency kits and signaling devices are
                 valuable to you. Collect Very cartridges, pistol, smoke flares, all signaling
                 devices and keep them on your person. Don't hesitate to throw out everything else
@@ -119,7 +119,7 @@
                 the hands across the base of the skull, pulling down firmly against the neck
                 muscles. It has been found that the body in this position will absorb shocks far
                 greater than those encountered in ditching.</p>
-            <image placement="break" keyref="brace"/>
+            <image placement="break" keyref="img_brace"/>
         </section>
     </conbody>
 </concept>

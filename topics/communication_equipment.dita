@@ -24,7 +24,7 @@
     </prolog>
     <conbody>
         <fig id="fig_k25_3km_cgb">
-            <image keyref="communication_equipment" id="image_rbd_kkm_cgb">
+            <image keyref="img_communication_equipment" id="image_rbd_kkm_cgb">
                 <alt>Communication equipment</alt>
             </image>
             <ol id="ol_v25_3km_cgb">
@@ -74,7 +74,7 @@
                 emergencies the pilot, copilot, and navigator, by using the interphone circuits, can
                 transmit voice messages to the ground.</p>
             <fig id="fig_lsl_mkm_cgb">
-                <image keyref="liaison_comm_set" id="image_o5t_nkm_cgb">
+                <image keyref="img_liaison_comm_set" id="image_o5t_nkm_cgb">
                     <alt>Liaison comm set</alt>
                 </image>
                 <ol id="ol_pxd_mkm_cgb">
@@ -99,7 +99,7 @@
         <section id="sect_RadioCompassReceiver">
             <title>Radio Compass Receiver</title>
             <fig id="fig_spv_pkm_cgb">
-                <image keyref="radio_compass_receiver" id="image_tww_qkm_cgb">
+                <image keyref="img_radio_compass_receiver" id="image_tww_qkm_cgb">
                     <alt>Radio compass receiver</alt>
                 </image>
                 <ol id="ol_r1q_pkm_cgb">
@@ -140,7 +140,7 @@
                 other crew members.</p>
             <p>The interphone plays a vital part in crew coordination. Used effectively in combat,
                 it serves as the eyes of the entire crew.</p>
-            <image keyref="interphone_jack_box" id="image_c4z_skm_cgb" placement="break" width="3in">
+            <image keyref="img_interphone_jack_box" id="image_c4z_skm_cgb" placement="break" width="3in">
                 <alt>Interphone jack box</alt>
             </image>
         </section>

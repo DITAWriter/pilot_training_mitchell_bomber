@@ -21,12 +21,12 @@
     </prolog>
     <conbody>
         <p>Use the checklist for starting.</p>
-        <image keyref="startup_fire_guard" id="image_e3r_44m_cgb" placement="break" width="3in">
+        <image keyref="img_startup_fire_guard" id="image_e3r_44m_cgb" placement="break" width="3in">
             <alt>Startup fire guard posted</alt>
         </image>
         <p>Fire guard posted.</p>
         <p>Props clear.</p>
-        <image keyref="startup_ignition" id="image_iww_q4m_cgb" placement="break" width="3in">
+        <image keyref="img_startup_ignition" id="image_iww_q4m_cgb" placement="break" width="3in">
             <alt>Startup ignition switches, one at a time</alt>
         </image>
         <p>Ignition switches "<userinput>ON</userinput>" one at a time Booster pumps
@@ -44,7 +44,7 @@
         <p>If the oil pressure does not reach 40 lb. in 30 seconds stop the engine and
             investigate.</p>
         <p>Repeat procedure on the left engine.</p>
-        <image keyref="startup_booster" id="image_jjp_t4m_cgb" placement="break" width="3in">
+        <image keyref="img_startup_booster" id="image_jjp_t4m_cgb" placement="break" width="3in">
             <alt>Startup booster</alt>
         </image>
         <p>Booster pumps "<userinput>OFF</userinput>"&#8212; check fuel pressure. There must be 6-7

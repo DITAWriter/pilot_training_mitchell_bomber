@@ -49,7 +49,7 @@
             </step>
         </steps>
         <result id="result_nhm_q55_3gb">
-            <image placement="break" keyref="water_evac" id="image_p5y_r55_3gb"/>
+            <image placement="break" keyref="img_water_evac" id="image_p5y_r55_3gb"/>
         </result>
     </taskbody>
 </task>

@@ -23,7 +23,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="landing_short_field">
+        <image placement="break" keyref="img_landing_short_field">
             <alt>Short-field landings</alt>
         </image>
         <p>But even at home, if you took off this afternoon and the hydraulic system failed in
@@ -95,10 +95,10 @@
                     in. This is extremely dangerous with the B-25.</li>
                 <li>Poor coordination of throttle and airspeed.</li>
             </ul>
-            <image placement="break" keyref="landing_approach_no_obstruct">
+            <image placement="break" keyref="img_landing_approach_no_obstruct">
                 <alt>Approach without obstructions</alt>
             </image>
-            <image placement="break" keyref="landing_approach_with_obstructs">
+            <image placement="break" keyref="img_landing_approach_with_obstructs">
                 <alt>Approach over obstructions</alt>
             </image>
         </section>

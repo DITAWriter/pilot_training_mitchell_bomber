@@ -35,7 +35,7 @@
                     under the navigator's table. The crank is stowed on the lower right longeron
                     opposite the crankshaft.</cmd>
                 <info>
-                    <image placement="break" keyref="emerg_bomb_bay" width="3in">
+                    <image placement="break" keyref="img_emerg_bomb_bay" width="3in">
                         <alt>Emergency bomb bay door crank</alt>
                     </image>
                 </info>

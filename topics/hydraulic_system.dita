@@ -28,7 +28,7 @@
             <li>Automatic Pilot</li>
             <li>Gun Chargers</li>
         </ol>
-        <image keyref="hydraulic_system" id="image_w5x_qjm_cgb">
+        <image keyref="img_hydraulic_system" id="image_w5x_qjm_cgb">
             <alt>Hydraulic system</alt>
         </image>
         <p>The reservoir which contains the hydraulic fluid has a capacity of 5.9 gallons. A

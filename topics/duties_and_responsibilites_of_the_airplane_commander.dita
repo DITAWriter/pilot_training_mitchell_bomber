@@ -22,7 +22,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="crew_boarding" id="image_yky_4zl_cgb">
+        <image keyref="img_crew_boarding" id="image_yky_4zl_cgb">
             <alt>Air crew, boarding their Mitchell Bomber</alt>
         </image>
         <p>The commander of the <keyword keyref="designator"/> must be more than a pilot. As his
@@ -63,7 +63,7 @@
             <p>A good way to develop the jitters about your plane and your crew is by keeping them
                 at a distance, talking to them pompously, and by showing favoritism or uncertainty
                 in your decisions.</p>
-            <image keyref="crew_discipline" id="image_k1k_tzl_cgb" placement="break" width="3in">
+            <image keyref="img_crew_discipline" id="image_k1k_tzl_cgb" placement="break" width="3in">
                 <alt>In a little while you'll find yourself working on one side of a 10-foot wall
                     while your crew works on the other.</alt>
             </image>

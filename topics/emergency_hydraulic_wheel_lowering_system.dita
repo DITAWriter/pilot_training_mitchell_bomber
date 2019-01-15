@@ -29,7 +29,7 @@
             <p>The emergency reservoir fills automatically when the main reservoir is filled, and
                 the fluid is available for the emergency lowering of the landing gear even if the
                 main hydraulic system fluid is completely lost.</p>
-            <image placement="break" keyref="emerg_hydraulic_wheel_lower_system"/>
+            <image placement="break" keyref="img_emerg_hydraulic_wheel_lower_system"/>
             <p><b>Operation</b></p>
             <p>If the hydraulic system fails completely, take the following steps:</p>
         </context>
@@ -63,7 +63,7 @@
                         emergency wheel lowering controls. In these models, you lower the main
                         landing gear and the nose gear separately. The controls consist of screw
                         jacks and a series of cables which operate directly on the wheels.</p>
-                    <image placement="break" keyref="emerg_hydraulic_gear"/>
+                    <image placement="break" keyref="img_emerg_hydraulic_gear"/>
                 </info>
             </step>
         </steps>
