@@ -223,7 +223,7 @@
         </booklists>
         
         <!-- Reusable image references -->
-        <mapref format="ditamap" href="m_reusableImageReferences.ditamap"/>
+        <mapref format="ditamap" href="images/m_reusableImageReferences.ditamap"/>
 
     </backmatter>
 </bookmap>
