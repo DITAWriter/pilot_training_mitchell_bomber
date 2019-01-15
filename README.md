@@ -10,8 +10,9 @@ Some of the things this manual will showcase when complete:
 - include acronym elements to spell out inline terms
 - topics fully indexed
 - keyword elements to be used in an appendix
-
+- fully accessible tables and images
+- short descriptions for every topic
 
 At the time of writing (January 2018) this project is now content- and image-complete, but still has some way to go. 
 
-Much thanks to Scott Hudson for his considerable contributions to this project.
+Much thanks to Scott Hudson and Eliot Kimber for their considerable contributions to this project.
