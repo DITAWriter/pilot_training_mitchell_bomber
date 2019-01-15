@@ -21,10 +21,10 @@
     </prolog>
     <taskbody>
         <context>
-            <image keyref="fuel_system_normal_ops" placement="break">
+            <image keyref="img_fuel_system_normal_ops" placement="break">
                 <alt>Normal operation</alt>
             </image>
-            <image placement="break" keyref="fuel_aux_transfer">
+            <image placement="break" keyref="img_fuel_aux_transfer">
                 <alt>Auxiliary fuel transfer</alt>
             </image>
             <p>To use auxiliary fuel you must first get it into the front main cells.</p>

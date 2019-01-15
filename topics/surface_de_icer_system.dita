@@ -16,7 +16,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="surface_deicer_system" id="image_glg_tvv_3gb">
+        <image placement="break" keyref="img_surface_deicer_system" id="image_glg_tvv_3gb">
             <alt>Surface de-icer system</alt>
         </image>
         <p>Conventional air-inflation de-icer boots are mounted on leading edges of wings and

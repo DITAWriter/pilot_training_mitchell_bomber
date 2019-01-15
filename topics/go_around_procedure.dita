@@ -33,7 +33,7 @@
             <step>
                 <cmd>Advance the power smoothly to climbing power.</cmd>
                 <info>
-                    <image keyref="landing_go_around_adv_throttle_raise_wheels" placement="break"
+                    <image keyref="img_landing_go_around_adv_throttle_raise_wheels" placement="break"
                         width="3in"/>
                 </info>
             </step>
@@ -46,7 +46,7 @@
             <step>
                 <cmd>Raise the flaps to 15°</cmd>
                 <info>
-                    <image keyref="landing_go_around_raise_flap_15deg" placement="break" width="3in"
+                    <image keyref="img_landing_go_around_raise_flap_15deg" placement="break" width="3in"
                     />
                 </info>
             </step>
@@ -64,7 +64,7 @@
                     over to one side of the runway, thus clearing the runway for any plane
                     attempting to take off or land.</cmd>
                 <info>
-                    <image keyref="landing_go_around_clear_area" placement="break" width="3in"/>
+                    <image keyref="img_landing_go_around_clear_area" placement="break" width="3in"/>
                     <note type="important">Keep an eye on all planes near you! The pilot taking off
                         under you may not know that you are there.</note>
                 </info>

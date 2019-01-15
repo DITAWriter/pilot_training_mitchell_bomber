@@ -19,7 +19,7 @@
     <conbody>
         <fig id="fig_OperatingAutopilot">
             <title>Operating the autopilot</title>
-            <image placement="break" keyref="autopilot_diag"/>
+            <image placement="break" keyref="img_autopilot_diag"/>
             <ol>
                 <li>Rudder Control Knob</li>
                 <li>Rudder Follow-up Card</li>
@@ -90,10 +90,10 @@
                 <li>Set Servo controls at No. 4.</li>
                 <li>Set rudder follow-up card to match directional gyro card.</li>
                 <li>Set aileron follow-up card to match bank index.<p>
-                        <image placement="break" keyref="autopilot_climb_limits" width="3in">
+                        <image placement="break" keyref="img_autopilot_climb_limits" width="3in">
                             <alt>Autopilot climbing or gliding operating limits</alt>
                         </image>
-                        <image placement="break" keyref="autopilot_bank_limits" width="3in">
+                        <image placement="break" keyref="img_autopilot_bank_limits" width="3in">
                             <alt>Autopilot banking operating limits</alt>
                         </image>
                     </p></li>

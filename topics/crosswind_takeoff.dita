@@ -37,7 +37,7 @@
                 <cmd>Advance the throttles, leading with the upwind throttle. The strength of the
                     wind will determine the amount of lead.</cmd>
                 <info>
-                    <image placement="break" keyref="takeoff_crosswind" width="3in"/>
+                    <image placement="break" keyref="img_takeoff_crosswind" width="3in"/>
                 </info>
             </step>
             <step>
@@ -49,12 +49,12 @@
                     aileron to make a coordinated turn into the wind, thus counteracting any
                     drift.</cmd>
                 <info>
-                    <image placement="break" keyref="takeoff_crosswind_coord_turn" width="3in"/>
+                    <image placement="break" keyref="img_takeoff_crosswind_coord_turn" width="3in"/>
                     <note>The plane may skip as the speed increases toward the end of the takeoff
                         roll. This is an indication that it is ready to fly. Help it along to
                         prevent skipping and to keep the consequent side thrust from injuring the
                         landing gear.</note>
-                    <image placement="break" keyref="takeoff_crosswind_throttle" width="3in">
+                    <image placement="break" keyref="img_takeoff_crosswind_throttle" width="3in">
                         <alt>Don't juggle the throttles</alt>
                     </image>
                 </info>

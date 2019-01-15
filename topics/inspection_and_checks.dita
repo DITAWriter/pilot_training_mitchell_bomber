@@ -12,7 +12,7 @@
         </critdates>
     </prolog>
     <conbody>
-        <image keyref="inspections_and_checks" id="image_p1f_wmm_cgb">
+        <image keyref="img_inspections_and_checks" id="image_p1f_wmm_cgb">
             <alt>Inspections and checks</alt>
         </image>
     </conbody>

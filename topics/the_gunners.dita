@@ -22,7 +22,7 @@
         </metadata> 
     </prolog>
     <conbody>
-        <image keyref="gunner" id="image_syz_d2m_cgb" placement="break" width="3in">
+        <image keyref="img_gunner" id="image_syz_d2m_cgb" placement="break" width="3in">
             <alt>The Gunners</alt>
         </image>
         <p>The power turret gunners must have good coordination.</p>

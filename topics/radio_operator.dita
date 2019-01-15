@@ -17,7 +17,7 @@
         </metadata> 
     </prolog>
     <conbody>
-        <image keyref="radio_operator" id="image_b5v_hbm_cgb" placement="break" width="3in">
+        <image keyref="img_radio_operator" id="image_b5v_hbm_cgb" placement="break" width="3in">
             <alt>Radio operator</alt>
         </image>
         <p>There is a lot of radio equipment in today's <keyword keyref="designator"/> aircraft.

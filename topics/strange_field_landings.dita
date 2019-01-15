@@ -20,7 +20,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="landing_strange_field">
+        <image placement="break" keyref="img_landing_strange_field">
             <alt>Look it over before you decide to land.</alt>
         </image>
         <p>You have probably walked into the familiar front room at home, neatly sidestepped the

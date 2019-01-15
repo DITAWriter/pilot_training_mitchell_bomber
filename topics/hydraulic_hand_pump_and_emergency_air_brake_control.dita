@@ -21,7 +21,7 @@
     <refbody>
         <section>
             <fig id="fig_qcl_pgm_cgb">
-                <image keyref="hydraulic_hand_pump_and_emergency_brake_control"
+                <image keyref="img_hydraulic_hand_pump_and_emergency_brake_control"
                     id="image_ndm_rgm_cgb" height="6in">
                     <alt>sHydraulic hand pump and emergency brake control</alt>
                 </image>

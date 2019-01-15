@@ -19,7 +19,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="mitchell_bomber_flight_left" id="image_q42_dzl_cgb">
+        <image keyref="img_mitchell_bomber_flight_left" id="image_q42_dzl_cgb">
             <alt>Mitchell Bomber in flight</alt>
         </image>
         <p>You are going to fly a champ with a long line of firsts to her credit:</p>
@@ -50,7 +50,7 @@
             with auxiliary and main fuel cells full.</p>
         <p>Red-lined at 340 mph, cruising easily at 200 mph, the Mitchell, when emergencies have
             arisen, has exceeded 340 mph, with no disastrous effects.</p>
-        <image keyref="mitchell_bombing_run" id="image_msx_hzl_cgb">
+        <image keyref="img_mitchell_bombing_run" id="image_msx_hzl_cgb">
             <alt>Mitchell Bomber illustration of a bombing mission</alt>
         </image>
         <p>Its low landing speed has been a boon to flyers who have had to operate from jungle
@@ -91,7 +91,7 @@
             and new tactics develop, the <keyword keyref="designator"/> proves its versatility,
             ready to run with the hare or hunt with the hounds&#8212;an airplane of which its pilots
             may well say: It does the job! </p>
-        <image keyref="carrier_takeoff" id="image_t52_lzl_cgb">
+        <image keyref="img_carrier_takeoff" id="image_t52_lzl_cgb">
             <alt>Mitchell Bomber taking off from an aircraft carrier</alt>
         </image>
     </conbody>

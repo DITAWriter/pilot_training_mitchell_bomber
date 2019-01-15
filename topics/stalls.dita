@@ -21,7 +21,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="stalls"/>
+        <image placement="break" keyref="img_stalls"/>
         <p>The plane breaks cleanly through the stall, with no tendency to drop a wing, and makes a
             relatively rapid recovery.</p>
         <p>When stalling with power on, the tail surfaces give a warning of the approaching stall by
@@ -117,7 +117,7 @@
         <p>Again, the recovery is a combination of nose-down and increased power. This stall
             simulates landing conditions exactly when practised with the wheels and flaps full down.
             The recovery should be made above 8000 feet to give ample room for emergencies.</p>
-        <image placement="break" keyref="stall_recover_smoothly" id="image_j5c_vz4_3gb">
+        <image placement="break" keyref="img_stall_recover_smoothly" id="image_j5c_vz4_3gb">
             <alt>Recover from Stall Smoothly</alt>
         </image>
     </conbody>

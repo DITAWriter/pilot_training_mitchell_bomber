@@ -17,7 +17,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="landing_power_off"/>
+        <image keyref="img_landing_power_off"/>
         <p>The power-off approach allows the pilot to become familiar with all the factors involved
             in a forced landing without the hazards involved in actually practicing them.</p>
         <p>The power-off approach duplicates exactly the conditions of a forced landing with these

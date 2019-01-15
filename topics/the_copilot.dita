@@ -18,7 +18,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="copilot" id="image_alt_zzl_cgb" placement="break" width="3in">
+        <image keyref="img_copilot" id="image_alt_zzl_cgb" placement="break" width="3in">
             <alt>The Copilot</alt>
         </image>
         <p>He must be familiar enough with every one of your duties&#8212;both as pilot and as

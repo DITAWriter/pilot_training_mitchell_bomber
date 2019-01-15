@@ -40,7 +40,7 @@
             <step>
                 <cmd>Keep the wings level by visual reference or by instruments.</cmd>
                 <info>
-                    <image keyref="trim_wings_level" id="image_clw_xgh_2gb" placement="break"
+                    <image keyref="img_trim_wings_level" id="image_clw_xgh_2gb" placement="break"
                         width="3in">
                         <alt>Keep the wings level by visual reference or by instruments.</alt>
                     </image>
@@ -50,7 +50,7 @@
                 <cmd>Trim rudder until ball is centered or until directional gyro stops
                     turning.</cmd>
                 <info>
-                    <image keyref="trim_rudder" id="image_dlw_xgh_2gb" placement="break" width="3in">
+                    <image keyref="img_trim_rudder" id="image_dlw_xgh_2gb" placement="break" width="3in">
                         <alt>Trim rudder until ball is centered or until directional gyro stops
                             turning.</alt>
                     </image>
@@ -59,7 +59,7 @@
             <step>
                 <cmd>Trim aileron</cmd>
                 <info>
-                    <image keyref="trim_aileron" id="image_elw_xgh_2gb" placement="break"
+                    <image keyref="img_trim_aileron" id="image_elw_xgh_2gb" placement="break"
                         width="3in">
                         <alt>Trim aileron</alt>
                     </image>
@@ -68,7 +68,7 @@
             <step>
                 <cmd>Trim elevator</cmd>
                 <info>
-                    <image keyref="trim_elevator" id="image_flw_xgh_2gb" placement="break"
+                    <image keyref="img_trim_elevator" id="image_flw_xgh_2gb" placement="break"
                         width="3in">
                         <alt>Trim elevator</alt>
                     </image>

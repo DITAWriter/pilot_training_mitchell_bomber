@@ -22,7 +22,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="auto_pilot" id="image_r4j_1km_cgb">
+        <image keyref="img_auto_pilot" id="image_r4j_1km_cgb">
             <alt>Automatic pilot</alt>
         </image>
         <p>They do this by utilizing the indications of the directional gyro control unit and the
@@ -43,7 +43,7 @@
                 operating. So long as the airplane continues to fly straight and level, equal
                 amounts of air pass through two channels around the spinning wheel of the
                 bank-and-climb control unit.</p>
-            <image keyref="auto_pilot_level_flight_diag" id="image_s2d_2km_cgb" placement="break"
+            <image keyref="img_auto_pilot_level_flight_diag" id="image_s2d_2km_cgb" placement="break"
                 width="3in">
                 <alt>Auto pilot, level flight diagram</alt>
             </image>
@@ -66,7 +66,7 @@
             <p>You can disengage the automatic pilot quickly if necessary, by a control on the
                 pilot's pedestal. This control is connected by a cable to a bypass valve in the
                 hydraulic cylinder.</p>
-            <image keyref="auto_pilot_rough_air_diag" id="image_pjc_gkm_cgb" placement="break"
+            <image keyref="img_auto_pilot_rough_air_diag" id="image_pjc_gkm_cgb" placement="break"
                 width="3in">
                 <alt>Auto pilot, rough air diagram</alt>
             </image>

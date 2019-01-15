@@ -19,7 +19,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="forced_landing" id="image_rt3_y25_3gb">
+        <image placement="break" keyref="img_forced_landing" id="image_rt3_y25_3gb">
             <alt>Forced landings</alt>
         </image>
         <p>Fortunately, the <keyword keyref="designator"/> aircraft's exceptional single engine
@@ -73,10 +73,10 @@
                 in a dazed condition. In the excitement it is easy to lose a man for a few seconds.
                 If the plane starts to burn this may be long enough to prevent his rescue.</p>
             <p>Crash stations are the same as those used for ditching.</p>
-            <image placement="break" keyref="wheels_down_known_airport" id="image_rg2_dg5_3gb">
+            <image placement="break" keyref="img_wheels_down_known_airport" id="image_rg2_dg5_3gb">
                 <alt>Wheels down only on a known airport</alt>
             </image>
-            <image placement="break" keyref="wheels_up_anything_else" id="image_n4s_2g5_3gb">
+            <image placement="break" keyref="img_wheels_up_anything_else" id="image_n4s_2g5_3gb">
                 <alt>Wheels up on anything else</alt>
             </image>
         </section>

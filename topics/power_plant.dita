@@ -22,7 +22,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="power_plant" id="image_bqn_hhm_cgb" placement="break" width="4in">
+        <image keyref="img_power_plant" id="image_bqn_hhm_cgb" placement="break" width="4in">
             <alt>Power plant</alt>
         </image>
         <p>The operation of these two series is similar. Primarily air cooled, these engines have
@@ -146,7 +146,7 @@
                 <li>A number of instrument fittings complete this section.</li>
             </ol>
         </section>
-        <section id="carburetor"><title>Carburetor</title><image keyref="holley_carburetor"
+        <section id="carburetor"><title>Carburetor</title><image keyref="img_holley_carburetor"
                 id="image_qhr_khm_cgb">
                 <alt>The Holley Carburetor</alt>
             </image><p>Holley variable-venturi carburetors operating at pressures of 6 to 7 lb. sq.

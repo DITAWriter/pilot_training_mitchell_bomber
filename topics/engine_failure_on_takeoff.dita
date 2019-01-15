@@ -51,7 +51,7 @@
                     <substep>
                         <cmd>Raise the wheels</cmd>
                         <info>
-                            <image placement="break" keyref="single_eng_raise_wheels" width="3in">
+                            <image placement="break" keyref="img_single_eng_raise_wheels" width="3in">
                                 <alt>Raise the wheels</alt>
                             </image>
                         </info>
@@ -59,7 +59,7 @@
                     <substep>
                         <cmd>Feather the prop</cmd>
                         <info>
-                            <image placement="break" keyref="single_eng_feather_prop" width="3in">
+                            <image placement="break" keyref="img_single_eng_feather_prop" width="3in">
                                 <alt>Feather the prop</alt>
                             </image>
                         </info>
@@ -67,7 +67,7 @@
                     <substep>
                         <cmd>Raise flaps to 15 degrees</cmd>
                         <info>
-                            <image placement="break" keyref="single_eng_raise_flaps_15deg"
+                            <image placement="break" keyref="img_single_eng_raise_flaps_15deg"
                                 width="3in">
                                 <alt>Raise flaps to 15 degrees</alt>
                             </image>
@@ -76,7 +76,7 @@
                     <substep>
                         <cmd>Close cowl flaps on dead engine</cmd>
                         <info>
-                            <image placement="break" keyref="single_eng_close_cowl_dead_eng"
+                            <image placement="break" keyref="img_single_eng_close_cowl_dead_eng"
                                 width="3in">
                                 <alt>Close cowl flaps on dead engine</alt>
                             </image>
@@ -85,7 +85,7 @@
                     <substep>
                         <cmd>Drop weight if necessary</cmd>
                         <info>
-                            <image placement="break" keyref="single_eng_drop_weight" width="3in">
+                            <image placement="break" keyref="img_single_eng_drop_weight" width="3in">
                                 <alt>Drop weight if necessary</alt>
                             </image>
                         </info>

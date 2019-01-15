@@ -57,7 +57,7 @@
                         that your mechanical system is fully disengaged. To disengage, rotate crank
                         counter-clockwise until checked. Remove crank and return to its stowage
                         position.</note>
-                    <image placement="break" keyref="emerg_flap_lower"/>
+                    <image placement="break" keyref="img_emerg_flap_lower"/>
                 </info>
             </step>
         </steps>

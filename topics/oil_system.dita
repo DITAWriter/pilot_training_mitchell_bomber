@@ -78,7 +78,7 @@
             hour; at takeoff throttle setting it is 28.2 quarts per hour.</p>
         <p>The airplane should have full oil cells (34 gallons each) for takeoff. However, in an
             emergency it may be flown with a minimum of 21 gallons in each cell.</p>
-        <image keyref="oil_system" id="image_yvl_l3m_cgb">
+        <image keyref="img_oil_system" id="image_yvl_l3m_cgb">
             <alt>Oil system</alt>
         </image>
     </conbody>

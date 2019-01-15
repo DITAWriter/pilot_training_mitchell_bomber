@@ -51,7 +51,7 @@
             heater will automatically shut off but will not restart until it has been serviced.</p>
         <note type="warning">When taking off or landing, in order to have full power available,
             heating system must be off.</note>
-        <image placement="break" keyref="engine_heating_system">
+        <image placement="break" keyref="img_engine_heating_system">
             <alt>Engine heating systems</alt>
         </image>
     </conbody>

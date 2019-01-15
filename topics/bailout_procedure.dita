@@ -18,7 +18,7 @@
     </prolog>
     <taskbody>
         <context>
-            <image placement="break" keyref="emer_exits" height="6in"/>
+            <image placement="break" keyref="img_emer_exits" height="6in"/>
         </context>
         <steps>
             <step>

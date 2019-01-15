@@ -20,7 +20,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="takeoff" id="image_ow1_jqm_cgb">
+        <image keyref="img_takeoff" id="image_ow1_jqm_cgb">
             <alt>Takeoff</alt>
         </image>
         <p>The principal difference is in attaining the proper angle of attack of the wing. On the
@@ -41,13 +41,13 @@
             control.</p>
         <p>After you start the takeoff run, use the brakes only in an emergency. Maintain
             directional control with the throttles and rudders.</p>
-        <image keyref="takeoff_20deg_flaps" id="image_wp5_bds_cgb" placement="break" width="3in">
+        <image keyref="img_takeoff_20deg_flaps" id="image_wp5_bds_cgb" placement="break" width="3in">
             <alt>Start takeoff run with 20 degree flaps</alt>
         </image>
-        <image keyref="takeoff_raise_nosewheel" id="image_jhr_dds_cgb" placement="break" width="3in">
+        <image keyref="img_takeoff_raise_nosewheel" id="image_jhr_dds_cgb" placement="break" width="3in">
             <alt>Raise nosewheel off ground</alt>
         </image>
-        <image keyref="takeoff_raise_gear" id="image_e2z_gds_cgb" placement="break" width="3in">
+        <image keyref="img_takeoff_raise_gear" id="image_e2z_gds_cgb" placement="break" width="3in">
             <alt>Raise the gear as soon as plane is definitely airborne</alt>
         </image>
         <p>Raise the nose wheel off the ground slightly as soon as you have good control. The angle
@@ -60,7 +60,7 @@
         <p>When the airplane is definitely airborne, raise the wheels. <b>Be sure there is no
                 possibility of further contact with the ground.</b> Good airplanes have been lost
             through carelessness.</p>
-        <image keyref="takeoff_gear_control" id="image_tgn_cfs_cgb" placement="break" width="3in">
+        <image keyref="img_takeoff_gear_control" id="image_tgn_cfs_cgb" placement="break" width="3in">
             <alt>Takeoff gear control</alt>
         </image>
         <ol id="ol_ekb_hfs_cgb">
@@ -69,7 +69,7 @@
             <li>Move the mechanical lock up.</li>
             <li>Move the landing gear handle to "<userinput>UP</userinput>."</li>
         </ol>
-        <image keyref="takeoff_level_gain_CSE_speed" id="image_u1s_mfs_cgb" placement="break"
+        <image keyref="img_takeoff_level_gain_CSE_speed" id="image_u1s_mfs_cgb" placement="break"
             width="3in">
             <alt>Takeoff level gain CSE speed</alt>
         </image>
@@ -83,7 +83,7 @@
             settings as soon as you establish a constant climb. Load conditions cause the climb
             settings to vary slightly.</p>
         <p>Maintain a climbing speed between 160 and 170 mph for these reasons:</p>
-        <image keyref="takeoff_climb_speed" id="image_ktr_zfs_cgb" placement="break" width="3in">
+        <image keyref="img_takeoff_climb_speed" id="image_ktr_zfs_cgb" placement="break" width="3in">
             <alt>Takeoff climb speed</alt>
         </image>
         <ol>

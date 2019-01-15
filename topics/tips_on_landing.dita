@@ -30,6 +30,6 @@
             Land short, and slow the plane as much as possible without brakes.</p>
         <p>Guard the throttles on all landings to prevent creeping.</p>
         <p>Never apply the brakes until the nosewheel is on the runway.</p>
-        <image keyref="cartoon-landing_crash" placement="break" width="3in"/>
+        <image keyref="img_cartoon-landing_crash" placement="break" width="3in"/>
     </conbody>
 </concept>

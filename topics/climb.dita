@@ -18,7 +18,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="climb_turn_as_you_climb" id="image_vzq_mhs_cgb">
+        <image keyref="img_climb_turn_as_you_climb" id="image_vzq_mhs_cgb">
             <alt>Turn as you climb</alt>
         </image>
         <p>The minimum safe climbing speed for proper cooling is 155 mph. Climbing at lower speeds

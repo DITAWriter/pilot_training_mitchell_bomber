@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_reusableImageReferences">
+<title>Reusable Image References</title>
+<keydef keys="img_night_flying" href="night_flying.png" format="png"/>
+
+<keydef keys="img_mitchell_bomber_back_view_angled" href="mitchell_bomber_back_view_angled.png" format="png"/>
+
+<keydef keys="img_communication_equipment" href="communication_equipment.png" format="png"/>
+
+<keydef keys="img_auto_pilot_rough_air_diag" href="auto_pilot_rough_air_diag.png" format="png"/>
+
+<keydef keys="img_formation_squadron_stagger" href="formation_squadron_stagger.png" format="png"/>
+
+<keydef keys="img_fuel_fuselage_to_right_front_main" href="fuel_fuselage_to_right_front_main.png" format="png"/>
+
+<keydef keys="img_preflight_nosewheel" href="preflight_nosewheel.png" format="png"/>
+
+<keydef keys="img_landing_gear_ind_down_locked_flaps_45deg" href="landing_gear_ind_down_locked_flaps_45deg.png" format="png"/>
+
+<keydef keys="img_adv_air_work" href="adv_air_work.png" format="png"/>
+
+<keydef keys="img_navigators_compartment-rear_view" href="navigators_compartment-rear_view.png" format="png"/>
+
+<keydef keys="img_wheels_up_anything_else" href="wheels_up_anything_else.png" format="png"/>
+
+<keydef keys="img_hydraulic_system" href="hydraulic_system.png" format="png"/>
+
+<keydef keys="img_crew_discipline" href="crew_discipline.png" format="png"/>
+
+<keydef keys="img_mitchell_bombing_run" href="mitchell_bombing_run.png" format="png"/>
+
+<keydef keys="img_takeoff_mud_sand" href="takeoff_mud_sand.png" format="png"/>
+
+<keydef keys="img_preflight_valves" href="preflight_valves.png" format="png"/>
+
+<keydef keys="img_emerg_bomb_bay" href="emerg_bomb_bay.png" format="png"/>
+
+<keydef keys="img_oxygen_regulator_location" href="oxygen_regulator_location.png" format="png"/>
+
+<keydef keys="img_mitchell_bomber_flight_left" href="mitchell_bomber_flight_left.png" format="png"/>
+
+<keydef keys="img_plane_dimensions_top_view" href="plane_dimensions_top_view.png" format="png"/>
+
+<keydef keys="img_turn_right" href="turn_right.png" format="png"/>
+
+<keydef keys="img_hamilton_hydromatic_props" href="hamilton_hydromatic_props.png" format="png"/>
+
+<keydef keys="img_landing_power_off" href="landing_power_off.png" format="png"/>
+
+<keydef keys="img_B-25_H_nose_guns" href="B-25_H_nose_guns.png" format="png"/>
+
+<keydef keys="img_emerg_first_aid_kits" href="emerg_first_aid_kits.png" format="png"/>
+
+<keydef keys="img_takeoff_raise_gear" href="takeoff_raise_gear.png" format="png"/>
+
+<keydef keys="img_landing_gear_selsyn" href="landing_gear_selsyn.png" format="png"/>
+
+<keydef keys="img_landing_gear_ind_down_not_locked_flaps_15deg" href="landing_gear_ind_down_not_locked_flaps_15deg.png" format="png"/>
+
+<keydef keys="img_autopilot_diag" href="autopilot_diag.png" format="png"/>
+
+<keydef keys="img_radio_operator" href="radio_operator.png" format="png"/>
+
+<keydef keys="img_emerg_flare_gun" href="emerg_flare_gun.png" format="png"/>
+
+<keydef keys="img_mitchell_bomber_twin_tail_section" href="mitchell_bomber_twin_tail_section.png" format="png"/>
+
+<keydef keys="img_trim_aileron" href="trim_aileron.png" format="png"/>
+
+<keydef keys="img_fuel_emer_transfer_hand_pump" href="fuel_emer_transfer_hand_pump.png" format="png"/>
+
+<keydef keys="img_formation_echelon_up" href="formation_echelon_up.png" format="png"/>
+
+<keydef keys="img_cartoon-no_smoking_under_1000_feet" href="cartoon-no_smoking_under_1000_feet.png" format="png"/>
+
+<keydef keys="img_preflight_general" href="preflight_general.png" format="png"/>
+
+<keydef keys="img_preflight_prop" href="preflight_prop.png" format="png"/>
+
+<keydef keys="img_fuel_combust_temps" href="fuel_combust_temps.png" format="png"/>
+
+<keydef keys="img_trim_elevator" href="trim_elevator.png" format="png"/>
+
+<keydef keys="img_fuel_cell_location" href="fuel_cell_location.png" format="png"/>
+
+<keydef keys="img_single_eng_before_feather" href="single_eng_before_feather.png" format="png"/>
+
+<keydef keys="img_fuel_combustion" href="fuel_combustion.png" format="png"/>
+
+<keydef keys="img_power_reduce_rpm" href="power_reduce_rpm.png" format="png"/>
+
+<keydef keys="img_armament" href="armament.png" format="png"/>
+
+<keydef keys="img_landing_crosswind_crab" href="landing_crosswind_crab.png" format="png"/>
+
+<keydef keys="img_lighting_equipment" href="lighting_equipment.png" format="png"/>
+
+<keydef keys="img_carrier_takeoff" href="carrier_takeoff.png" format="png"/>
+
+<keydef keys="img_bomb_bay" href="bomb_bay.png" format="png"/>
+
+<keydef keys="img_fuel_system" href="fuel_system.png" format="png"/>
+
+<keydef keys="img_oxygen_portable_unit" href="oxygen_portable_unit.png" format="png"/>
+
+<keydef keys="img_weight_form_F" href="weight_form_F.png" format="png"/>
+
+<keydef keys="img_feathering" href="feathering.png" format="png"/>
+
+<keydef keys="img_bombardiers_compartment-left_side" href="bombardiers_compartment-left_side.png" format="png"/>
+
+<keydef keys="img_fire_in_flight" href="fire_in_flight.png" format="png"/>
+
+<keydef keys="img_low_blower_to_high_blower" href="low_blower_to_high_blower.png" format="png"/>
+
+<keydef keys="img_taxiing" href="taxiing.png" format="png"/>
+
+<keydef keys="img_storage_battery" href="storage_battery.png" format="png"/>
+
+<keydef keys="img_copilot" href="copilot.png" format="png"/>
+
+<keydef keys="img_interphone_jack_box" href="interphone_jack_box.png" format="png"/>
+
+<keydef keys="img_takeoff" href="takeoff.png" format="png"/>
+
+<keydef keys="img_holley_carburetor" href="holley_carburetor.png" format="png"/>
+
+<keydef keys="img_emerg_alarm_bell" href="emerg_alarm_bell.png" format="png"/>
+
+<keydef keys="img_surface_deicer_system" href="surface_deicer_system.png" format="png"/>
+
+<keydef keys="img_oxygen_mask" href="oxygen_mask.png" format="png"/>
+
+<keydef keys="img_turn_full_flap" href="turn_full_flap.png" format="png"/>
+
+<keydef keys="img_high_blower_to_low_blower" href="high_blower_to_low_blower.png" format="png"/>
+
+<keydef keys="img_pilots_switch_panel_and_control_pedestal_panel" href="pilots_switch_panel_and_control_pedestal_panel.png" format="png"/>
+
+<keydef keys="img_max_dive_speed" href="max_dive_speed.png" format="png"/>
+
+<keydef keys="img_landing_ditch_20deg_flaps" href="landing_ditch_20deg_flaps.png" format="png"/>
+
+<keydef keys="img_landing_no_flap" href="landing_no_flap.png" format="png"/>
+
+<keydef keys="img_inspections_and_checks" href="inspections_and_checks.png" format="png"/>
+
+<keydef keys="img_fuel_detonation" href="fuel_detonation.png" format="png"/>
+
+<keydef keys="img_landing_strange_field" href="landing_strange_field.png" format="png"/>
+
+<keydef keys="img_preflight_gyros" href="preflight_gyros.png" format="png"/>
+
+<keydef keys="img_radio_sos" href="radio_sos.png" format="png"/>
+
+<keydef keys="img_general_mitchell" href="general_mitchell.png" format="png"/>
+
+<keydef keys="img_formation_takeoff_landing" href="formation_takeoff_landing.png" format="png"/>
+
+<keydef keys="img_turn_left" href="turn_left.png" format="png"/>
+
+<keydef keys="img_fuel_preignition" href="fuel_preignition.png" format="png"/>
+
+<keydef keys="img_cold_weather_ops" href="cold_weather_ops.png" format="png"/>
+
+<keydef keys="img_pilots_compartment-general_forward_view" href="pilots_compartment-general_forward_view.png" format="png"/>
+
+<keydef keys="img_fuel_tanks_one_side_to_both_engines" href="fuel_tanks_one_side_to_both_engines.png" format="png"/>
+
+<keydef keys="img_startup_booster" href="startup_booster.png" format="png"/>
+
+<keydef keys="img_mitchell_bomber_side_view" href="mitchell_bomber_side_view.png" format="png"/>
+
+<keydef keys="img_jettison_loose_equip" href="jettison_loose_equip.png" format="png"/>
+
+<keydef keys="img_auto_pilot" href="auto_pilot.png" format="png"/>
+
+<keydef keys="img_fuel_rpm_mp_relation" href="fuel_rpm_mp_relation.png" format="png"/>
+
+<keydef keys="img_fuel_system_normal_ops" href="fuel_system_normal_ops.png" format="png"/>
+
+<keydef keys="img_preflight_parking_brakes" href="preflight_parking_brakes.png" format="png"/>
+
+<keydef keys="img_landing_approach_with_obstructs" href="landing_approach_with_obstructs.png" format="png"/>
+
+<keydef keys="img_landing_combat" href="landing_combat.png" format="png"/>
+
+<keydef keys="img_formation_bombing" href="formation_bombing.png" format="png"/>
+
+<keydef keys="img_takeoff_level_gain_CSE_speed" href="takeoff_level_gain_CSE_speed.png" format="png"/>
+
+<keydef keys="img_autopilot_bank_limits" href="autopilot_bank_limits.png" format="png"/>
+
+<keydef keys="img_plane_dimensions_side_view" href="plane_dimensions_side_view.png" format="png"/>
+
+<keydef keys="img_landing_go_around_adv_throttle_raise_wheels" href="landing_go_around_adv_throttle_raise_wheels.png" format="png"/>
+
+<keydef keys="img_taxi_speed" href="taxi_speed.png" format="png"/>
+
+<keydef keys="img_landing_short_field" href="landing_short_field.png" format="png"/>
+
+<keydef keys="img_bailout" href="bailout.png" format="png"/>
+
+<keydef keys="img_autopilot_climb_limits" href="autopilot_climb_limits.png" format="png"/>
+
+<keydef keys="img_fuel_tanks_one_side_to_opp_engine" href="fuel_tanks_one_side_to_opp_engine.png" format="png"/>
+
+<keydef keys="img_preflight_pitot_head_cover" href="preflight_pitot_head_cover.png" format="png"/>
+
+<keydef keys="img_wheels_down_known_airport" href="wheels_down_known_airport.png" format="png"/>
+
+<keydef keys="img_takeoff_crosswind" href="takeoff_crosswind.png" format="png"/>
+
+<keydef keys="img_landing_go_around_raise_flap_15deg" href="landing_go_around_raise_flap_15deg.png" format="png"/>
+
+<keydef keys="img_roll_direction" href="roll_direction.png" format="png"/>
+
+<keydef keys="img_emerg_air_brakes" href="emerg_air_brakes.png" format="png"/>
+
+<keydef keys="img_preflight_throttles" href="preflight_throttles.png" format="png"/>
+
+<keydef keys="img_pilots_instrument_panel" href="pilots_instrument_panel.png" format="png"/>
+
+<keydef keys="img_fuel_grade_91" href="fuel_grade_91.png" format="png"/>
+
+<keydef keys="img_fuel_aux_transfer" href="fuel_aux_transfer.png" format="png"/>
+
+<keydef keys="img_B-25_typical_missions" href="B-25_typical_missions.png" format="png"/>
+
+<keydef keys="img_trim_wings_level" href="trim_wings_level.png" format="png"/>
+
+<keydef keys="img_landing_gear_control" href="landing_gear_control.png" format="png"/>
+
+<keydef keys="img_power_increase_rpm" href="power_increase_rpm.png" format="png"/>
+
+<keydef keys="img_B-25_G_nose_guns" href="B-25_G_nose_guns.png" format="png"/>
+
+<keydef keys="img_landing_approach_no_obstruct" href="landing_approach_no_obstruct.png" format="png"/>
+
+<keydef keys="img_radio_operators_compartment-forward_view" href="radio_operators_compartment-forward_view.png" format="png"/>
+
+<keydef keys="img_parking" href="parking.png" format="png"/>
+
+<keydef keys="img_trim_rudder" href="trim_rudder.png" format="png"/>
+
+<keydef keys="img_emerg_life_raft" href="emerg_life_raft.png" format="png"/>
+
+<keydef keys="img_landing" href="landing.png" format="png"/>
+
+<keydef keys="img_weight_nose_heavy" href="weight_nose_heavy.png" format="png"/>
+
+<keydef keys="img_weight_and_balance" href="weight_and_balance.png" format="png"/>
+
+<keydef keys="img_landing_direct_approach" href="landing_direct_approach.png" format="png"/>
+
+<keydef keys="img_startup_ignition" href="startup_ignition.png" format="png"/>
+
+<keydef keys="img_engine_heating_system" href="engine_heating_system.png" format="png"/>
+
+<keydef keys="img_landing_go_around" href="landing_go_around.png" format="png"/>
+
+<keydef keys="img_water_evac" href="water_evac.png" format="png"/>
+
+<keydef keys="img_power_reduce_manifold" href="power_reduce_manifold.png" format="png"/>
+
+<keydef keys="img_emer_exits" href="emer_exits.png" format="png"/>
+
+<keydef keys="img_single_engine_ops" href="single_engine_ops.png" format="png"/>
+
+<keydef keys="img_preflight_emer_air_brake_press" href="preflight_emer_air_brake_press.png" format="png"/>
+
+<keydef keys="img_single_eng_close_cowl_dead_eng" href="single_eng_close_cowl_dead_eng.png" format="png"/>
+
+<keydef keys="img_plane_dimensions_front_view" href="plane_dimensions_front_view.png" format="png"/>
+
+<keydef keys="img_takeoff_crosswind_throttle" href="takeoff_crosswind_throttle.png" format="png"/>
+
+<keydef keys="img_cartoon-landing_crash" href="cartoon-landing_crash.png" format="png"/>
+
+<keydef keys="img_takeoff_20deg_flaps" href="takeoff_20deg_flaps.png" format="png"/>
+
+<keydef keys="img_landing_lights" href="landing_lights.png" format="png"/>
+
+<keydef keys="img_landing_lower_nosewheel_slowly" href="landing_lower_nosewheel_slowly.png" format="png"/>
+
+<keydef keys="img_landing_correct_for_drift" href="landing_correct_for_drift.png" format="png"/>
+
+<keydef keys="img_startup_fire_guard" href="startup_fire_guard.png" format="png"/>
+
+<keydef keys="img_constant_speed_control" href="constant_speed_control.png" format="png"/>
+
+<keydef keys="img_stall_recover_smoothly" href="stall_recover_smoothly.png" format="png"/>
+
+<keydef keys="img_weight_tail_heavy" href="weight_tail_heavy.png" format="png"/>
+
+<keydef keys="img_auto_pilot_level_flight_diag" href="auto_pilot_level_flight_diag.png" format="png"/>
+
+<keydef keys="img_air_induction_system" href="air_induction_system.png" format="png"/>
+
+<keydef keys="img_power_plant" href="power_plant.png" format="png"/>
+
+<keydef keys="img_taxi_crosswind" href="taxi_crosswind.png" format="png"/>
+
+<keydef keys="img_takeoff_gear_control" href="takeoff_gear_control.png" format="png"/>
+
+<keydef keys="img_landing_speed_constant" href="landing_speed_constant.png" format="png"/>
+
+<keydef keys="img_oil_system" href="oil_system.png" format="png"/>
+
+<keydef keys="img_slow_flying" href="slow_flying.png" format="png"/>
+
+<keydef keys="img_emerg_fuselage_fire_ext" href="emerg_fuselage_fire_ext.png" format="png"/>
+
+<keydef keys="img_fuel_fuselage_to_left_front_main" href="fuel_fuselage_to_left_front_main.png" format="png"/>
+
+<keydef keys="img_emerg_salvo_release" href="emerg_salvo_release.png" format="png"/>
+
+<keydef keys="img_landing_ditch_tail_low_full_flaps" href="landing_ditch_tail_low_full_flaps.png" format="png"/>
+
+<keydef keys="img_carburetor_air_flow" href="carburetor_air_flow.png" format="png"/>
+
+<keydef keys="img_cartoon-engine_cough" href="cartoon-engine_cough.png" format="png"/>
+
+<keydef keys="img_takeoff_crosswind_coord_turn" href="takeoff_crosswind_coord_turn.png" format="png"/>
+
+<keydef keys="img_photographic_equipment" href="photographic_equipment.png" format="png"/>
+
+<keydef keys="img_single_eng_feather_prop" href="single_eng_feather_prop.png" format="png"/>
+
+<keydef keys="img_oxygen_regulator" href="oxygen_regulator.png" format="png"/>
+
+<keydef keys="img_turn_radius" href="turn_radius.png" format="png"/>
+
+<keydef keys="img_weight_overload" href="weight_overload.png" format="png"/>
+
+<keydef keys="img_landing_go_around_clear_area" href="landing_go_around_clear_area.png" format="png"/>
+
+<keydef keys="img_emerg_hydraulic_brake" href="emerg_hydraulic_brake.png" format="png"/>
+
+<keydef keys="img_bomb_drop" href="bomb_drop.png" format="png"/>
+
+<keydef keys="img_single_eng_drop_weight" href="single_eng_drop_weight.png" format="png"/>
+
+<keydef keys="img_emerg_hydraulic_gear" href="emerg_hydraulic_gear.png" format="png"/>
+
+<keydef keys="img_bomb_control_panel" href="bomb_control_panel.png" format="png"/>
+
+<keydef keys="img_how_to_jump" href="how_to_jump.png" format="png"/>
+
+<keydef keys="img_emer_hatch_release" href="emer_hatch_release.png" format="png"/>
+
+<keydef keys="img_power_advance_throttles" href="power_advance_throttles.png" format="png"/>
+
+<keydef keys="img_landing_gear_control_locking" href="landing_gear_control_locking.png" format="png"/>
+
+<keydef keys="img_single_eng_raise_wheels" href="single_eng_raise_wheels.png" format="png"/>
+
+<keydef keys="img_landing_gear_ind_up_locked_flaps_up" href="landing_gear_ind_up_locked_flaps_up.png" format="png"/>
+
+<keydef keys="img_bombadier_nav" href="bombadier_nav.png" format="png"/>
+
+<keydef keys="img_single_eng_raise_flaps_15deg" href="single_eng_raise_flaps_15deg.png" format="png"/>
+
+<keydef keys="img_slow_flying_turn" href="slow_flying_turn.png" format="png"/>
+
+<keydef keys="img_takeoff_climb_speed" href="takeoff_climb_speed.png" format="png"/>
+
+<keydef keys="img_formation" href="formation.png" format="png"/>
+
+<keydef keys="img_brace" href="brace.png" format="png"/>
+
+<keydef keys="img_pilots_compartment-right-side" href="pilots_compartment-right-side.png" format="png"/>
+
+<keydef keys="img_B-25_J_gun_locations" href="B-25_J_gun_locations.png" format="png"/>
+
+<keydef keys="img_takeoff_speed" href="takeoff_speed.png" format="png"/>
+
+<keydef keys="img_preflight_tire" href="preflight_tire.png" format="png"/>
+
+<keydef keys="img_landing_gear" href="landing_gear.png" format="png"/>
+
+<keydef keys="img_nosewheel_position_ind" href="nosewheel_position_ind.png" format="png"/>
+
+<keydef keys="img_mitchell_bomber_front_view" href="mitchell_bomber_front_view.png" format="png"/>
+
+<keydef keys="img_single_eng_turn_into_dead_eng" href="single_eng_turn_into_dead_eng.png" format="png"/>
+
+<keydef keys="img_formation_javelin_up" href="formation_javelin_up.png" format="png"/>
+
+<keydef keys="img_gunner" href="gunner.png" format="png"/>
+
+<keydef keys="img_preflight_controls" href="preflight_controls.png" format="png"/>
+
+<keydef keys="img_B-25_CD_50-cal_nose_gun" href="B-25_CD_50-cal_nose_gun.png" format="png"/>
+
+<keydef keys="img_carb_deicer_system" href="carb_deicer_system.png" format="png"/>
+
+<keydef keys="img_ditching" href="ditching.png" format="png"/>
+
+<keydef keys="img_hydraulic_hand_pump_and_emergency_brake_control" href="hydraulic_hand_pump_and_emergency_brake_control.png" format="png"/>
+
+<keydef keys="img_emerg_fire_system_ctrl" href="emerg_fire_system_ctrl.png" format="png"/>
+
+<keydef keys="img_radio_compass_receiver" href="radio_compass_receiver.png" format="png"/>
+
+<keydef keys="img_liaison_comm_set" href="liaison_comm_set.png" format="png"/>
+
+<keydef keys="img_navigators_compartment-front_view" href="navigators_compartment-front_view.png" format="png"/>
+
+<keydef keys="img_forced_landing" href="forced_landing.png" format="png"/>
+
+<keydef keys="img_weight_cg" href="weight_cg.png" format="png"/>
+
+<keydef keys="img_emerg_fire_system" href="emerg_fire_system.png" format="png"/>
+
+<keydef keys="img_crew_boarding" href="crew_boarding.png" format="png"/>
+
+<keydef keys="img_landing_gear_ind_part_down_flaps_15deg" href="landing_gear_ind_part_down_flaps_15deg.png" format="png"/>
+
+<keydef keys="img_radio_operators_compartment-left_view" href="radio_operators_compartment-left_view.png" format="png"/>
+
+<keydef keys="img_takeoff_short_field" href="takeoff_short_field.png" format="png"/>
+
+<keydef keys="img_landing_traffic_pattern" href="landing_traffic_pattern.png" format="png"/>
+
+<keydef keys="img_takeoff_raise_nosewheel" href="takeoff_raise_nosewheel.png" format="png"/>
+
+<keydef keys="img_pilots_compartment-left-side" href="pilots_compartment-left-side.png" format="png"/>
+
+<keydef keys="img_emerg_flap_lower" href="emerg_flap_lower.png" format="png"/>
+
+<keydef keys="img_emerg_hydraulic_pump" href="emerg_hydraulic_pump.png" format="png"/>
+
+<keydef keys="img_preflight_battery" href="preflight_battery.png" format="png"/>
+
+<keydef keys="img_takeoff_muddy" href="takeoff_muddy.png" format="png"/>
+
+<keydef keys="img_B-25_tactical_uses" href="B-25_tactical_uses.png" format="png"/>
+
+<keydef keys="img_emerg_hydraulic_wheel_lower_system" href="emerg_hydraulic_wheel_lower_system.png" format="png"/>
+
+<keydef keys="img_climb_turn_as_you_climb" href="climb_turn_as_you_climb.png" format="png"/>
+
+<keydef keys="img_ditching_water" href="ditching_water.png" format="png"/>
+
+<keydef keys="img_preflight_fuel" href="preflight_fuel.png" format="png"/>
+
+<keydef keys="img_preflight_cabin_heaters" href="preflight_cabin_heaters.png" format="png"/>
+
+<keydef keys="img_mitchell_bomber_front_view_angled" href="mitchell_bomber_front_view_angled.png" format="png"/>
+
+<keydef keys="img_single_eng_landing" href="single_eng_landing.png" format="png"/>
+
+<keydef keys="img_roll_correct" href="roll_correct.png" format="png"/>
+
+<keydef keys="img_maintenance_check" href="maintenance_check.png" format="png"/>
+    
+    <keydef keys="img_stalls" href="stalls.png" format="png"/>
+</map>
