@@ -41,30 +41,42 @@
             </topicmeta>
         </keydef>
     </frontmatter>
-    <chapter keys="introduction_to_the_pilot_training_manual" href="topics/introduction_to_the_pilot_training_manual.dita">
-        <topicref keys="history_of_the_mitchell_bomber" href="topics/history_of_the_mitchell_bomber.dita"/>
-        <topicref keys="duties_and_responsibilites_of_the_airplane_commander" href="topics/duties_and_responsibilites_of_the_airplane_commander.dita"
-           />
+    <chapter keys="introduction_to_the_pilot_training_manual"
+        href="topics/introduction_to_the_pilot_training_manual.dita">
+        <topicref keys="history_of_the_mitchell_bomber"
+            href="topics/history_of_the_mitchell_bomber.dita"/>
+        <topicref keys="duties_and_responsibilites_of_the_airplane_commander"
+            href="topics/duties_and_responsibilites_of_the_airplane_commander.dita"/>
         <topicref keys="practical_questions" href="topics/practical_questions.dita"/>
         <topicref keys="the_copilot" href="topics/the_copilot.dita"/>
         <topicref keys="the_bombardier_navigator" href="topics/the_bombardier_navigator.dita"/>
         <topicref keys="radio_operator" href="topics/radio_operator.dita"/>
         <topicref keys="the_engineer" href="topics/the_engineer.dita"/>
         <topicref keys="the_gunners" href="topics/the_gunners.dita"/>
-        <topicref keys="rules_to_be_enforced_on_every_flight" href="topics/rules_to_be_enforced_on_every_flight.dita"/>
+        <topicref keys="rules_to_be_enforced_on_every_flight"
+            href="topics/rules_to_be_enforced_on_every_flight.dita"/>
         <topicref keys="general_description" href="topics/general_description.dita"/>
     </chapter>
-    <chapter keys="location_of_controls_b_25_c_and_d" href="topics/location_of_controls_b_25_c_and_d.dita">
-        <topicref keys="bombardiers_compartment_left_side" href="topics/bombardiers_compartment_left_side.dita"/>
-        <topicref keys="pilots_compartment_general_forward_view" href="topics/pilots_compartment_general_forward_view.dita"/>
-        <topicref keys="pilots_switch_panel_and_control_pedestal_panel" href="topics/pilots_switch_panel_and_control_pedestal_panel.dita"/>
-        <topicref keys="pilots_compartment_left_side" href="topics/pilots_compartment_left_side.dita"/>
-        <topicref keys="pilots_compartment_right_side" href="topics/pilots_compartment_right_side.dita"/>
-        <topicref keys="hydraulic_hand_pump_and_emergency_air_brake_control" href="topics/hydraulic_hand_pump_and_emergency_air_brake_control.dita"
-           />
-        <topicref keys="navigators_compartment_forward_view" href="topics/navigators_compartment_forward_view.dita"/>
-        <topicref keys="radio_operators_compartment_forward_view" href="topics/radio_operators_compartment_forward_view.dita"/>
-        <topicref keys="radio_operators_compartment_left_side" href="topics/radio_operators_compartment_left_side.dita"/>
+    <chapter keys="location_of_controls_b_25_c_and_d"
+        href="topics/location_of_controls_b_25_c_and_d.dita">
+        <topicref keys="bombardiers_compartment_left_side"
+            href="topics/bombardiers_compartment_left_side.dita"/>
+        <topicref keys="pilots_compartment_general_forward_view"
+            href="topics/pilots_compartment_general_forward_view.dita"/>
+        <topicref keys="pilots_switch_panel_and_control_pedestal_panel"
+            href="topics/pilots_switch_panel_and_control_pedestal_panel.dita"/>
+        <topicref keys="pilots_compartment_left_side"
+            href="topics/pilots_compartment_left_side.dita"/>
+        <topicref keys="pilots_compartment_right_side"
+            href="topics/pilots_compartment_right_side.dita"/>
+        <topicref keys="hydraulic_hand_pump_and_emergency_air_brake_control"
+            href="topics/hydraulic_hand_pump_and_emergency_air_brake_control.dita"/>
+        <topicref keys="navigators_compartment_forward_view"
+            href="topics/navigators_compartment_forward_view.dita"/>
+        <topicref keys="radio_operators_compartment_forward_view"
+            href="topics/radio_operators_compartment_forward_view.dita"/>
+        <topicref keys="radio_operators_compartment_left_side"
+            href="topics/radio_operators_compartment_left_side.dita"/>
     </chapter>
     <chapter keys="equipment_and_instruments" href="topics/equipment_and_instruments.dita">
         <topicref keys="power_plant" href="topics/power_plant.dita"/>
@@ -74,7 +86,8 @@
         <topicref keys="dual_ignition_system" href="topics/dual_ignition_system.dita"/>
         <topicref keys="electrical_system" href="topics/electrical_system.dita"/>
         <topicref keys="b_25_lighting_equipment" href="topics/b_25_lighting_equipment.dita"/>
-        <topicref keys="hamilton_hydromatic_propellers" href="topics/hamilton_hydromatic_propellers.dita"/>
+        <topicref keys="hamilton_hydromatic_propellers"
+            href="topics/hamilton_hydromatic_propellers.dita"/>
         <topicref keys="hydraulic_system" href="topics/hydraulic_system.dita"/>
         <topicref keys="LandingGear" href="topics/LandingGear.dita"/>
         <topicref keys="instruments" href="topics/instruments.dita"/>
@@ -86,7 +99,8 @@
         <topicref keys="models_and_changes" href="topics/models_and_changes.dita"/>
         <topicref keys="comparison_equipment_chart" href="topics/comparison_equipment_chart.dita"/>
         <topicref keys="fuel_system_operation" href="topics/fuel_system_operation.dita"/>
-        <topicref keys="operating_instructions_for_the_supercharger" href="topics/operating_instructions_for_the_supercharger.dita"/>
+        <topicref keys="operating_instructions_for_the_supercharger"
+            href="topics/operating_instructions_for_the_supercharger.dita"/>
         <topicref keys="carburetor_air_heat" href="topics/carburetor_air_heat.dita"/>
         <topicref keys="carburetor_air_filter" href="topics/carburetor_air_filter.dita"/>
         <topicref keys="priming" href="topics/priming.dita"/>
@@ -119,12 +133,13 @@
         <topicref keys="tips_on_landing" href="topics/tips_on_landing.dita"/>
         <topicref keys="making_a_go_around" href="topics/making_a_go_around.dita"/>
         <topicref keys="go_around_procedure" href="topics/go_around_procedure.dita"/>
-        <topicref keys="common_landing_errors" href="topics/common_landing_errors.dita" type="concept"
-            />
-        <topicref  href="topics/parking.dita" type="task" keys="parking tk_parking"/>
+        <topicref keys="common_landing_errors" href="topics/common_landing_errors.dita"
+            type="concept"/>
+        <topicref href="topics/parking.dita" type="task" keys="parking tk_parking"/>
     </chapter>
     <chapter keys="advanced_air_work" href="topics/advanced_air_work.dita">
-        <topicref keys="prohibited_maneuvers_in_the_b_25" href="topics/prohibited_maneuvers_in_the_b_25.dita"/>
+        <topicref keys="prohibited_maneuvers_in_the_b_25"
+            href="topics/prohibited_maneuvers_in_the_b_25.dita"/>
         <topicref keys="spins" href="topics/spins.dita"/>
         <topicref keys="dives" href="topics/dives.dita"/>
         <topicref keys="night_flying" href="topics/night_flying.dita"/>
@@ -138,43 +153,59 @@
         <topicref keys="short_field_takeoff" href="topics/short_field_takeoff.dita"/>
         <topicref keys="short_field_landings" href="topics/short_field_landings.dita"/>
         <topicref keys="single_engine_operation" href="topics/single_engine_operation.dita"/>
-        <topicref keys="single_engine_operation_procedure" href="topics/single_engine_operation_procedure.dita"/>
-        <topicref keys="single_engine_trouble_search" href="topics/single_engine_trouble_search.dita"/>
+        <topicref keys="single_engine_operation_procedure"
+            href="topics/single_engine_operation_procedure.dita"/>
+        <topicref keys="single_engine_trouble_search"
+            href="topics/single_engine_trouble_search.dita"/>
         <topicref keys="single_engine_practice" href="topics/single_engine_practice.dita"/>
         <topicref keys="engine_failure_on_takeoff" href="topics/engine_failure_on_takeoff.dita"/>
-        <topicref keys="effect_of_power_and_airspeed_on_single_engine_operation" href="topics/effect_of_power_and_airspeed_on_single_engine_operation.dita"/>
+        <topicref keys="effect_of_power_and_airspeed_on_single_engine_operation"
+            href="topics/effect_of_power_and_airspeed_on_single_engine_operation.dita"/>
         <topicref keys="single_engine_landing" href="topics/single_engine_landing.dita"/>
         <topicref keys="single_engine_go_around" href="topics/single_engine_go_around.dita"/>
-        <topicref keys="tips_on_single_engine_operation" href="topics/tips_on_single_engine_operation.dita"/>
-        <topicref keys="auxiliary_hydraulic_pump_and_emergency_hydraulic_selector_valve" href="topics/auxiliary_hydraulic_pump_and_emergency_hydraulic_selector_valve.dita"/>
+        <topicref keys="tips_on_single_engine_operation"
+            href="topics/tips_on_single_engine_operation.dita"/>
+        <topicref keys="auxiliary_hydraulic_pump_and_emergency_hydraulic_selector_valve"
+            href="topics/auxiliary_hydraulic_pump_and_emergency_hydraulic_selector_valve.dita"/>
         <topicref keys="tactical_uses_of_the_b_25" href="topics/tactical_uses_of_the_b_25.dita"/>
     </chapter>
     <chapter keys="emergency_systems" href="topics/emergency_systems.dita">
-        <topicref keys="emergency_hydraulic_wheel_lowering_system" href="topics/emergency_hydraulic_wheel_lowering_system.dita"/>
-        <topicref keys="procedure_in_event_of_complete_failure_of_hydraulic_system" href="topics/procedure_in_event_of_complete_failure_of_hydraulic_system.dita"/>
-        <topicref keys="wing_flap_emergency_lowering_system" href="topics/wing_flap_emergency_lowering_system.dita"/>
-        <topicref keys="emergency_operation_of_bomb_bay_doors" href="topics/emergency_operation_of_bomb_bay_doors.dita"/>
+        <topicref keys="emergency_hydraulic_wheel_lowering_system"
+            href="topics/emergency_hydraulic_wheel_lowering_system.dita"/>
+        <topicref keys="procedure_in_event_of_complete_failure_of_hydraulic_system"
+            href="topics/procedure_in_event_of_complete_failure_of_hydraulic_system.dita"/>
+        <topicref keys="wing_flap_emergency_lowering_system"
+            href="topics/wing_flap_emergency_lowering_system.dita"/>
+        <topicref keys="emergency_operation_of_bomb_bay_doors"
+            href="topics/emergency_operation_of_bomb_bay_doors.dita"/>
         <topicref keys="emergency_salvo_release" href="topics/emergency_salvo_release.dita"/>
-        <topicref keys="emergency_operation_hydraulic_brake" href="topics/emergency_operation_hydraulic_brake.dita"/>
-        <topicref keys="emergency_operation_air_brakes" href="topics/emergency_operation_air_brakes.dita"/>
-        <topicref keys="miscellaneous_emergency_equipment" href="topics/miscellaneous_emergency_equipment.dita"/>
+        <topicref keys="emergency_operation_hydraulic_brake"
+            href="topics/emergency_operation_hydraulic_brake.dita"/>
+        <topicref keys="emergency_operation_air_brakes"
+            href="topics/emergency_operation_air_brakes.dita"/>
+        <topicref keys="miscellaneous_emergency_equipment"
+            href="topics/miscellaneous_emergency_equipment.dita"/>
     </chapter>
     <chapter keys="emergency_situations" href="topics/emergency_situations.dita">
         <topicref keys="fire_in_flight" href="topics/fire_in_flight.dita">
             <topicref keys="dealing_with_engine_fires" href="topics/dealing_with_engine_fires.dita"/>
-            <topicref keys="checklist_prior_to_using_co2_bottle_on_engine_fires" href="topics/checklist_prior_to_using_co2_bottle_on_engine_fires.dita"/>
-            <topicref keys="preventing_spontaneous_combustion" href="topics/preventing_spontaneous_combustion.dita"/>
+            <topicref keys="checklist_prior_to_using_co2_bottle_on_engine_fires"
+                href="topics/checklist_prior_to_using_co2_bottle_on_engine_fires.dita"/>
+            <topicref keys="preventing_spontaneous_combustion"
+                href="topics/preventing_spontaneous_combustion.dita"/>
         </topicref>
         <topicref keys="bailout" href="topics/bailout.dita">
             <topicref keys="bailout_procedure" href="topics/bailout_procedure.dita"/>
             <topicref keys="how_to_jump" href="topics/how_to_jump.dita"/>
-            <topicref keys="procedure_for_reclosing_bomb_bay_doors" href="topics/procedure_for_reclosing_bomb_bay_doors.dita"/>
+            <topicref keys="procedure_for_reclosing_bomb_bay_doors"
+                href="topics/procedure_for_reclosing_bomb_bay_doors.dita"/>
         </topicref>
         <topicref keys="forced_landings" href="topics/forced_landings.dita"/>
         <topicref keys="ditching" href="topics/ditching.dita">
             <topicref keys="tk_DitchingPilotSDuties" href="topics/tk_DitchingPilotSDuties.dita"/>
             <topicref keys="DitchingCopilotSDuties" href="topics/DitchingCopilotSDuties.dita"/>
-            <topicref keys="DitchingRadioOperatorSDuties" href="topics/DitchingRadioOperatorSDuties.dita"/>
+            <topicref keys="DitchingRadioOperatorSDuties"
+                href="topics/DitchingRadioOperatorSDuties.dita"/>
             <topicref keys="DitchingEngineerSDuties" href="topics/DitchingEngineerSDuties.dita"/>
             <topicref keys="DitchingGunnerSDuties" href="topics/DitchingGunnerSDuties.dita"/>
             <topicref keys="CriticalPeriodsInDitching" href="topics/CriticalPeriodsInDitching.dita"/>
@@ -183,47 +214,252 @@
         </topicref>
     </chapter>
     <chapter keys="WeightAndBalance" href="topics/WeightAndBalance.dita">
-        <topicref keys="PrinciplesOfWeightAndBalance" href="topics/PrinciplesOfWeightAndBalance.dita"/>
-    </chapter> 
+        <topicref keys="PrinciplesOfWeightAndBalance"
+            href="topics/PrinciplesOfWeightAndBalance.dita"/>
+    </chapter>
     <chapter keys="fuel" href="topics/fuel.dita">
         <topicref keys="grade_91_fuel" href="topics/grade_91_fuel.dita"/>
-        <topicref keys="power_control_chart_for_grade_91_fuel" href="topics/power_control_chart_for_grade_91_fuel.dita"/>
-        <topicref keys="maximum_range_chart_for_b_25_c_d_and_g_aircraft" href="topics/maximum_range_chart_for_b_25_c_d_and_g_aircraft.dita"/>
-        <topicref keys="maximum_range_chart_for_b_25_h_and_j_aircraft" href="topics/maximum_range_chart_for_b_25_h_and_j_aircraft.dita"/>
-    </chapter> 
+        <topicref keys="power_control_chart_for_grade_91_fuel"
+            href="topics/power_control_chart_for_grade_91_fuel.dita"/>
+        <topicref keys="maximum_range_chart_for_b_25_c_d_and_g_aircraft"
+            href="topics/maximum_range_chart_for_b_25_c_d_and_g_aircraft.dita"/>
+        <topicref keys="maximum_range_chart_for_b_25_h_and_j_aircraft"
+            href="topics/maximum_range_chart_for_b_25_h_and_j_aircraft.dita"/>
+    </chapter>
     <chapter keys="cold_weather_operations" href="topics/cold_weather_operations.dita">
-      <topicref keys="starting_engines_in_cold_weather" href="topics/starting_engines_in_cold_weather.dita"/>
+        <topicref keys="starting_engines_in_cold_weather"
+            href="topics/starting_engines_in_cold_weather.dita"/>
         <topicref keys="takeoff_in_cold_weather" href="topics/takeoff_in_cold_weather.dita"/>
-        <topicref keys="flight_in_cold_weather" href="topics/flight_in_cold_weather.dita"/> 
-       <topicref keys="anti_icing" href="topics/anti_icing.dita"/>
+        <topicref keys="flight_in_cold_weather" href="topics/flight_in_cold_weather.dita"/>
+        <topicref keys="anti_icing" href="topics/anti_icing.dita"/>
         <topicref keys="surface_de_icer_system" href="topics/surface_de_icer_system.dita"/>
         <topicref keys="defrosting_systems" href="topics/defrosting_systems.dita"/>
         <topicref keys="heating_system" href="topics/heating_system.dita"/>
         <topicref keys="landing_in_cold_weather" href="topics/landing_in_cold_weather.dita"/>
-        <topicref keys="oil_dilution_after_landing_in_cold_weather" href="topics/oil_dilution_after_landing_in_cold_weather.dita"/>
+        <topicref keys="oil_dilution_after_landing_in_cold_weather"
+            href="topics/oil_dilution_after_landing_in_cold_weather.dita"/>
     </chapter>
     <chapter keys="some_typical_missions" href="topics/some_typical_missions.dita">
         <topicref keys="formation_bombing" href="topics/formation_bombing.dita"/>
         <topicref keys="gunnery_missions" href="topics/gunnery_missions.dita">
-            <topicref keys="instructions_for_firing_ground_targets" href="topics/instructions_for_firing_ground_targets.dita"/>
-            <topicref keys="instructions_for_firing_water_targets" href="topics/instructions_for_firing_water_targets.dita"/>           
+            <topicref keys="instructions_for_firing_ground_targets"
+                href="topics/instructions_for_firing_ground_targets.dita"/>
+            <topicref keys="instructions_for_firing_water_targets"
+                href="topics/instructions_for_firing_water_targets.dita"/>
         </topicref>
-        <topicref keys="ChemicalSprayMission" href="topics/ChemicalSprayMission.dita"/>        
-        <topicref keys="day_navigation_photo_reconnaissance_and_instrument_let_down_mission" href="topics/day_navigation_photo_reconnaissance_and_instrument_let_down_mission.dita"/>
+        <topicref keys="ChemicalSprayMission" href="topics/ChemicalSprayMission.dita"/>
+        <topicref keys="day_navigation_photo_reconnaissance_and_instrument_let_down_mission"
+            href="topics/day_navigation_photo_reconnaissance_and_instrument_let_down_mission.dita"/>
     </chapter>
+
     <backmatter>
         <booklists>
             <glossarylist>
                 <topicref>
-                    <topicmeta><navtitle>G</navtitle></topicmeta>
+                    <topicmeta>
+                        <navtitle>G</navtitle>
+                    </topicmeta>
                     <topicref keys="gl_GUMPS" href="gl_GUMPS.dita"/>
                 </topicref>
             </glossarylist>
             <indexlist/>
         </booklists>
-        
+
         <!-- Reusable image references -->
         <mapref format="ditamap" href="images/m_reusableImageReferences.ditamap"/>
 
     </backmatter>
+
+    <reltable>
+        <relrow>
+            <relcell>
+                <!-- relationship table links for the first chapter -->
+                <topicref keyref="introduction_to_the_pilot_training_manual"/>
+                <topicref keyref="history_of_the_mitchell_bomber"/>
+                <topicref keyref="duties_and_responsibilites_of_the_airplane_commander"/>
+                <topicref keyref="practical_questions"/>
+                <topicref keyref="the_copilot"/>
+                <topicref keyref="the_bombardier_navigator"/>
+                <topicref keyref="radio_operator"/>
+                <topicref keyref="the_engineer"/>
+                <topicref keyref="the_gunners"/>
+                <topicref keyref="rules_to_be_enforced_on_every_flight"/>
+                <topicref keyref="general_description"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <!-- relationship table links for the second chapter -->
+                <topicref keyref="location_of_controls_b_25_c_and_d"/>
+                <topicref keyref="bombardiers_compartment_left_side"/>
+                <topicref keyref="pilots_compartment_general_forward_view"/>
+                <topicref keyref="pilots_switch_panel_and_control_pedestal_panel"/>
+                <topicref keyref="pilots_compartment_left_side"/>
+                <topicref keyref="pilots_compartment_right_side"/>
+                <topicref keyref="hydraulic_hand_pump_and_emergency_air_brake_control"/>
+                <topicref keyref="navigators_compartment_forward_view"/>
+                <topicref keyref="radio_operators_compartment_forward_view"/>
+                <topicref keyref="radio_operators_compartment_left_side"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <!-- relationship table links for the third chapter -->
+                <topicref keyref="equipment_and_instruments"/>
+                <topicref keyref="power_plant"/>
+                <topicref keyref="air_induction_system"/>
+                <topicref keyref="fuel_system"/>
+                <topicref keyref="oil_system"/>
+                <topicref keyref="dual_ignition_system"/>
+                <topicref keyref="electrical_system"/>
+                <topicref keyref="b_25_lighting_equipment"/>
+                <topicref keyref="hamilton_hydromatic_propellers"/>
+                <topicref keyref="hydraulic_system"/>
+                <topicref keyref="LandingGear"/>
+                <topicref keyref="instruments"/>
+                <topicref keyref="automatic_pilot"/>
+                <topicref keyref="communication_equipment"/>
+                <topicref keyref="armament"/>
+                <topicref keyref="oxygen"/>
+                <topicref keyref="photographic_equipment"/>
+                <topicref keyref="models_and_changes"/>
+                <topicref keyref="comparison_equipment_chart"/>
+                <topicref keyref="fuel_system_operation"/>
+                <topicref keyref="operating_instructions_for_the_supercharger"/>
+                <topicref keyref="carburetor_air_heat"/>
+                <topicref keyref="carburetor_air_filter"/>
+                <topicref keyref="priming"/>
+                <topicref keyref="operating_the_autopilot"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <!-- relationship table links for the fourth chapter -->
+                <topicref keyref="inspection_and_checks"/>
+                <topicref keyref="aaf_pilots_checklist"/>
+                <topicref keyref="inspections_and_checks"/>
+                <topicref keyref="starting_engines"/>
+                <topicref keyref="typical_air_work"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <!-- relationship table links for the fifth chapter -->
+                <topicref keyref="taxiing"/>
+                <topicref keyref="common_taxiing_errors"/>
+                <topicref keyref="taxiing_tips"/>
+                <topicref href="topics/before_takeoff_c.i.g.f.t.p.r._friction_brake.dita"/>
+                <topicref keyref="run_up"/>
+                <topicref keyref="takeoff"/>
+                <topicref keyref="notes_on_takeoff"/>
+                <topicref keyref="common_takeoff_errors"/>
+                <topicref keyref="power_changes"/>
+                <topicref keyref="climb"/>
+                <topicref keyref="let_down"/>
+                <topicref keyref="trimming"/>
+                <topicref keyref="landing"/>
+                <topicref keyref="landing_checklist"/>
+                <topicref keyref="power_on_landings"/>
+                <topicref keyref="post_landing_checklist"/>
+                <topicref keyref="power_off_landing"/>
+                <topicref keyref="no_flap_landing"/>
+                <topicref keyref="tips_on_landing"/>
+                <topicref keyref="making_a_go_around"/>
+                <topicref keyref="go_around_procedure"/>
+                <topicref keyref="common_landing_errors"/>
+                <topicref keyref="parking"/>
+            </relcell>
+            <relcell>
+                <!-- relationship table links for the sixth chapter -->
+                <topicref keyref="advanced_air_work"/>
+                <topicref keyref="prohibited_maneuvers_in_the_b_25"/>
+                <topicref keyref="spins"/>
+                <topicref keyref="dives"/>
+                <topicref keyref="night_flying"/>
+                <topicref keyref="instrument_flying"/>
+                <topicref keyref="formation"/>
+                <topicref keyref="strange_field_landings"/>
+                <topicref keyref="crosswind_takeoff"/>
+                <topicref keyref="crosswind_landing"/>
+                <topicref keyref="stalls"/>
+                <topicref keyref="slow_flying"/>
+                <topicref keyref="short_field_takeoff"/>
+                <topicref keyref="short_field_landings"/>
+                <topicref keyref="single_engine_operation"/>
+                <topicref keyref="single_engine_operation_procedure"/>
+                <topicref keyref="single_engine_trouble_search"/>
+                <topicref keyref="single_engine_practice"/>
+                <topicref keyref="engine_failure_on_takeoff"/>
+                <topicref keyref="effect_of_power_and_airspeed_on_single_engine_operation"/>
+                <topicref keyref="single_engine_landing"/>
+                <topicref keyref="single_engine_go_around"/>
+                <topicref keyref="tips_on_single_engine_operation"/>
+                <topicref keyref="auxiliary_hydraulic_pump_and_emergency_hydraulic_selector_valve"/>
+                <topicref keyref="tactical_uses_of_the_b_25"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <!-- relationship table links for the seventh chapter -->
+                <topicref keyref="emergency_systems"/>
+                <topicref keyref="emergency_hydraulic_wheel_lowering_system"/>
+                <topicref keyref="procedure_in_event_of_complete_failure_of_hydraulic_system"/>
+                <topicref keyref="wing_flap_emergency_lowering_system"/>
+                <topicref keyref="emergency_operation_of_bomb_bay_doors"/>
+                <topicref keyref="emergency_salvo_release"/>
+                <topicref keyref="emergency_operation_hydraulic_brake"/>
+                <topicref keyref="emergency_operation_air_brakes"/>
+                <topicref keyref="miscellaneous_emergency_equipment"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <!-- relationship table links for the eighth chapter -->
+                <topicref keyref="emergency_situations"/>
+                <topicref keyref="fire_in_flight"/>
+                <topicref keyref="bailout"/>
+                <topicref keyref="forced_landings"/>
+                <topicref keyref="ditching"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <!-- relationship table links for the ninth chapter -->
+                <topicref keyref="WeightAndBalance"/>
+                <topicref keyref="PrinciplesOfWeightAndBalance"/>
+            </relcell>
+            <relcell>
+                <!-- relationship table links for the tenth chapter -->
+                <topicref keyref="fuel"/>
+                <topicref keyref="grade_91_fuel"/>
+                <topicref keyref="power_control_chart_for_grade_91_fuel"/>
+                <topicref keyref="maximum_range_chart_for_b_25_c_d_and_g_aircraft"/>
+                <topicref keyref="maximum_range_chart_for_b_25_h_and_j_aircraft"/>
+            </relcell>
+            <relcell>
+                <!-- relationship table links for the eleventh chapter -->
+                <topicref keyref="cold_weather_operations"/>
+                <topicref keyref="starting_engines_in_cold_weather"/>
+                <topicref keyref="takeoff_in_cold_weather"/>
+                <topicref keyref="flight_in_cold_weather"/>
+                <topicref keyref="anti_icing"/>
+                <topicref keyref="surface_de_icer_system"/>
+                <topicref keyref="defrosting_systems"/>
+                <topicref keyref="heating_system"/>
+                <topicref keyref="landing_in_cold_weather"/>
+                <topicref keyref="oil_dilution_after_landing_in_cold_weather"/>
+            </relcell>
+            <relcell>
+                <!-- relationship table links for the twelfth chapter -->
+                <topicref keyref="some_typical_missions"/>
+                <topicref keyref="formation_bombing"/>
+                <topicref keyref="gunnery_missions"/>
+                <topicref keyref="ChemicalSprayMission"/>
+                <topicref
+                    keyref="day_navigation_photo_reconnaissance_and_instrument_let_down_mission"/>
+            </relcell>
+        </relrow>
+
+    </reltable>
+
 </bookmap>
