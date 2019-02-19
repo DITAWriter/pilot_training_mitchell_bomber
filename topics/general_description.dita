@@ -2,7 +2,8 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="general_description">
     <title>General Description</title>
-    <shortdesc>The Mitchell medium bomber is a high-speed, mid-wing land monoplane.</shortdesc>
+    <shortdesc>Basic information about the Mitchell Bomber and its flight
+        characteristics.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -35,6 +36,7 @@
             <image keyref="img_mitchell_bomber_front_view" placement="break" width="6in">
                 <alt>Mitchell Bomber, front view</alt>
             </image>
+            <p>The Mitchell medium bomber is a high-speed, mid-wing land monoplane.</p>
             <p>Positive dihedral in the inner and negative dihedral in the outer wing panels give
                 the plane a gull-wing appearance, while adding control and maneuverability.</p>
             <p>A twin tail section with large rudders increases stability and maneuverability and

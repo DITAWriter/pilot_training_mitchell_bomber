@@ -2,8 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="the_copilot">
     <title>The Copilot</title>
-    <shortdesc>The copilot is the executive officer&#8212; your chief assistant, understudy, and
-        strong right arm.</shortdesc>
+    <shortdesc>Understanding the role of the copilot as the assistant and backup to the pilot. </shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -21,6 +20,8 @@
         <image keyref="img_copilot" id="image_alt_zzl_cgb" placement="break" width="3in">
             <alt>The Copilot</alt>
         </image>
+        <p>The copilot is the executive officer&#8212; your chief assistant, understudy, and strong
+            right arm.</p>
         <p>He must be familiar enough with every one of your duties&#8212;both as pilot and as
             airplane commander&#8212;to take over and act in your place at any time.</p>
         <p>He must be able to fly the airplane under all conditions as well as you would fly it

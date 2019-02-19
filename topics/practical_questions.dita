@@ -2,8 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="practical_questions">
     <title>Practical Questions</title>
-    <shortdesc>These are some of the practical questions which you as airplane commander must be
-        able to answer.</shortdesc>
+    <shortdesc>Determining whether you and your air crew know what to do to efficiently run the
+        airplane.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -17,6 +17,7 @@
         </metadata>
     </prolog>
     <conbody>
+        <p>These are some of the practical questions which you as airplane commander must be able to answer.</p>
         <ul>
             <li>Can all members of your crew fly at high altitudes without discomfort or physical
                 handicap?</li>

@@ -2,7 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="navigators_compartment_forward_view">
     <title>Navigator's Compartment-Forward View</title>
-    <shortdesc/>
+    <shortdesc>Controls and guages located in the Navigator's compartment facing forward.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -23,6 +23,16 @@
                     <alt>Navigator's compartment, front view</alt>
                 </image>
             </fig>
+            <p>
+                <ol>
+                    <li>Radio Compass Control Unit</li>
+                    <li>Main Landing Gear and Nose Gear Emergency
+                        Hydroulic Lowering Handle</li>
+                    <li>Emergency Air Brake Pressure Gage</li>
+                    <li>Hand Fire Extinguisher (CO<sub>2</sub>)</li>
+                    <li>Accumulator Hydraulic Pressure Gages</li>
+                </ol>
+            </p>
         </section>
     </refbody>
 </reference>

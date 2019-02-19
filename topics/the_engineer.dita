@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="the_engineer">
     <title>The Engineer</title>
-    <shortdesc>Size up the man who is to be your engineer.</shortdesc>
+    <shortdesc>Understanding what your engineer needs to know to effective in his role.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -22,6 +22,7 @@
         <image keyref="img_preflight_general" placement="break" width="3in">
             <alt>The Engineer</alt>
         </image>
+        <p>Size up the man who is to be your engineer.</p>
         <p>This man should know more about the airplane you are to fly than any other member of the
             crew. If there are deficiencies in his training you may be able to fill them in.</p>
         <p>Size up the man who is to be your engineer. This man should know more about the airplane

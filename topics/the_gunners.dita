@@ -2,8 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="the_gunners">
     <title>The Gunners</title>
-    <shortdesc>Your gunners belong to one of two distinct categories: turret gunners and flexible
-        gunners.</shortdesc>
+    <shortdesc>The role of the two types of gunners on your airplane.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -25,6 +24,8 @@
         <image keyref="img_gunner" id="image_syz_d2m_cgb" placement="break" width="3in">
             <alt>The Gunners</alt>
         </image>
+        <p>Your gunners belong to one of two distinct categories: turret gunners and flexible
+            gunners.</p>
         <p>The power turret gunners must have good coordination.</p>
         <p>While the flexible gunners do not require the same delicate touch as the turret gunner,
             they must have a fine sense of timing.</p>

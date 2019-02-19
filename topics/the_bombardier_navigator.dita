@@ -2,8 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="the_bombardier_navigator">
     <title>The Bombardier-Navigator</title>
-    <shortdesc>As a navigator it is the bombardier-navigator's job to direct your flight from
-        departure to destination and return.</shortdesc>
+    <shortdesc>Understanding the role of the bombardier-navigator to get your airplane to where it
+        needs to go and back.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -24,6 +24,8 @@
         <image keyref="img_bombadier_nav" id="image_zpn_m1m_cgb" placement="break" width="3in">
             <alt>The Bombardier-Navigator</alt>
         </image>
+        <p>As a navigator it is the bombardier-navigator's job to direct your flight from departure
+            to destination and return.</p>
         <p>As a navigator it is the bombardier-navigator's job to direct your flight from departure
             to destination and return. He must know the exact position of the airplane at all times.
             For you to understand how to get the most reliable service from your navigator, you must

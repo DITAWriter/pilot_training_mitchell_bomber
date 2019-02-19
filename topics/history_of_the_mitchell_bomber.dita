@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="history_of_the_mitchell_bomber">
     <title>History of the Mitchell Bomber</title>
-    <shortdesc>Welcome to the Mitchell bomber!</shortdesc>
+    <shortdesc>Information on the operational history of the Mitchell Bomber.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -22,6 +22,7 @@
         <image keyref="img_mitchell_bomber_flight_left" id="image_q42_dzl_cgb">
             <alt>Mitchell Bomber in flight</alt>
         </image>
+        <p>Welcome to the Mitchell bomber!</p>
         <p>You are going to fly a champ with a long line of firsts to her credit:</p>
         <ul>
             <li>First to see action on every fighting front.</li>

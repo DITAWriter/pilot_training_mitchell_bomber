@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="radio_operator">
     <title>Radio Operator</title>
-    <shortdesc>It is impossible to learn radio in a day.</shortdesc>
+    <shortdesc>Understanding the expertise necessary to become a radio operator aboard an
+        airplane.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -20,6 +21,7 @@
         <image keyref="img_radio_operator" id="image_b5v_hbm_cgb" placement="break" width="3in">
             <alt>Radio operator</alt>
         </image>
+        <p>It is impossible to learn radio in a day.</p>
         <p>There is a lot of radio equipment in today's <keyword keyref="designator"/> aircraft.
             There is one particular man who is supposed to know all there is to know about this
             equipment. Sometimes he does, but often he doesn't. His deficiencies often do not become
