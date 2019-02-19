@@ -11,8 +11,8 @@ Some of the things this manual will showcase when complete:
 - topics fully indexed *DONE* 
 - keyword elements to be used in an appendix
 - fully accessible tables and images
-- short descriptions for every topic
-- relationship tables the contents of each chapter *DONE*
+- short descriptions for every topic *First two chapters*
+- relationship tables for the contents of each chapter *DONE*
 
 At the time of writing (February 2018) this project is now content- and image-complete, but still has some way to go. 
 
