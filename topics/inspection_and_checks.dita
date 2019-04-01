@@ -2,7 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="inspection_and_checks">
     <title>Inspection and Checks</title>
-    <shortdesc/>
+    <shortdesc>This section covers the pilot's checklist, the types of inspections and checks to do
+        on the <keyword keyref="designator"/> before takeoff, and how to start the engines under
+        different conditions.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

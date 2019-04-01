@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="tips_on_single_engine_operation">
     <title>Tips on Single Engine Operation</title>
-    <shortdesc/>
+    <shortdesc>A list of handy tips on how to work with your engines in regular circumstances, and
+        how to re-start a dead engine.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

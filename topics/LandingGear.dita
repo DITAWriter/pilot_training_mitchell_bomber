@@ -3,9 +3,7 @@
 <concept id="LandingGear">
     <title>Landing gear</title>
     <shortdesc>The <keyword keyref="designator"/> has retractable, tricycle landing gear,
-        hydraulically operated. The landing gear retracts aft, the main gear into the engine
-        nacelles, the nose gear into the fuselage. Doors cover the gear openings in both the
-        retracted and extended positions.</shortdesc>
+        hydraulically operated. </shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -13,6 +11,9 @@
         </critdates>
     </prolog>
     <conbody>
+        <p>The landing gear retracts aft, the main gear into the engine nacelles, the nose gear into
+            the fuselage. Doors cover the gear openings in both the retracted and extended
+            positions.</p>
         <image placement="break" keyref="img_landing_gear" id="image_ozw_2sr_jgb"/>
         <p>The landing gear control handle is on the lower section of the pilot's control pedestal.
             Three distinct safety devices prevent accidental movement of the control handle:</p>

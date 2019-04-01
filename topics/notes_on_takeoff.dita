@@ -2,6 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="notes_on_takeoff">
     <title>Notes on Takeoff</title>
+    <shortdesc>Do not dive the airplane after lifting it at the end of the takeoff run. When you
+        level out to pick up CSE speed after takeoff release the stick pressure as the speed picks
+        up.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -14,9 +17,6 @@
         </metadata>
     </prolog>
     <conbody>
-        <p>Do not dive the airplane after lifting it at the end of the takeoff run. When you level
-            out to pick up CSE speed after takeoff release the stick pressure as the speed picks
-            up.</p>
         <p><b>Gain critical single engine speed immediately after takeoff.</b> This is the slowest
             speed at which the rudder has a safe margin of control over the unbalanced thrust of the
             live engine at full power. In the <keyword keyref="designator"/>, it is <b>140

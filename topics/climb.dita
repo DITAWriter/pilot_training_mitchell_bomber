@@ -2,9 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="climb">
     <title>Climb</title>
-    <shortdesc>How do you climb the <keyword keyref="designator"/>? Simple, you say &#8212;just pull
-        her nose up. That is a definite part of the procedure, but unless a little more thought and
-        a little less muscle accompanies the pulling you will ruin a good airplane.</shortdesc>
+    <shortdesc>Making your <keyword keyref="designator"/> climb properly without straining your arms
+        or your airplane.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -18,6 +17,9 @@
         </metadata>
     </prolog>
     <conbody>
+        <p>How do you climb the <keyword keyref="designator"/>? Simple, you say &#8212;just pull her
+            nose up. That is a definite part of the procedure, but unless a little more thought and
+            a little less muscle accompanies the pulling you will ruin a good airplane.</p>
         <image keyref="img_climb_turn_as_you_climb" id="image_vzq_mhs_cgb">
             <alt>Turn as you climb</alt>
         </image>

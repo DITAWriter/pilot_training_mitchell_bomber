@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="equipment_and_instruments">
     <title>Equipment and Instruments</title>
-    <shortdesc/>
+    <shortdesc>This section provides a survey of the key systems, equipment and instrumentation of
+        the <keyword keyref="designator"/> airplane.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

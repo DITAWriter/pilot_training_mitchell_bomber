@@ -2,9 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="common_takeoff_errors">
     <title>Common Takeoff Errors</title>
-    <shortdesc>Failure to keep the airplane straight ahead. Unfamiliarity with the airplane and
-        uneven power application cause this. Remember, there are 2 large rudders. It takes
-        considerable foot pressure to control them on takeoff.</shortdesc>
+    <shortdesc>A list of common errors that are made during takeoff.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -19,6 +17,9 @@
         </metadata>
     </prolog>
     <conbody>
+        <p>Failure to keep the airplane straight ahead. Unfamiliarity with the airplane and uneven
+            power application cause this. Remember, there are two large rudders. It takes
+            considerable foot pressure to control them on takeoff.</p>
         <ul>
             <li>Jockeying or blasting the throttles to maintain directional control.</li>
             <li>Using brakes to steer the plane</li>

@@ -2,8 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="takeoff">
     <title>Takeoff</title>
-    <shortdesc>Takeoff in the with its tricycle gear, varies from that with conventional gear only
-        during the initial part of the roll. You will find it much easier.</shortdesc>
+    <shortdesc>Takeoff in the <keyword keyref="designator"/> with its tricycle gear, varies from
+        that with conventional gear only during the initial part of the roll. You will find it much
+        easier.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

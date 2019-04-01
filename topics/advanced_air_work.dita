@@ -3,9 +3,7 @@
 <concept id="advanced_air_work">
     <title>Advanced Air Work</title>
     <shortdesc>Many of the maneuvers described here are prohibited in this airplane. However,
-        knowing the reactions of the airplane to these maneuvers is important. Do not take these
-        instructions as a license to abuse your airplane. It is better to stay away from trouble
-        than invite it.</shortdesc>
+        knowing the reactions of the airplane to these maneuvers is important.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -13,6 +11,8 @@
         </critdates>
     </prolog>
     <conbody>
+        <p>Do not take these instructions as a license to abuse your airplane. It is better to stay
+            away from trouble than invite it.</p>
         <image placement="break" keyref="img_adv_air_work"/>
     </conbody>
 </concept>

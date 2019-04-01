@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="before_takeoff_c.i.g.f.t.p.r._friction_brake">
-    <title>Before Takeoff - C.I.G.F.T.P.R.-Friction Brake</title>
-    <shortdesc>Remember: C.I.G.F.T.P.R.-Friction Brake.</shortdesc>
+    <title>Before Takeoff - C.I.G. F.T.P.R.-Friction Brake</title>
+    <shortdesc>Checklist to ensure that your Controls move freely, Instruments function, proper Gas
+        settings, then to check Flaps, Trim, Props are set for take-off, and then Run up the engine
+        before removing the friction brake.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -10,13 +12,14 @@
         </critdates>
         <metadata>
             <keywords>
-                <indexterm>C.I.G.F.T.P.R.-friction brake</indexterm>
+                <indexterm>C.I.G. F.T.P.R.-friction brake</indexterm>
             </keywords>
         </metadata>
     </prolog>
     <refbody>
         <section id="sect_Controls">
             <title>Controls for free movement</title>
+            <p>Remember: C.I.G. F.T.P.R.-Friction Brake.</p>
         </section>
         <section id="sect_Instruments">
             <title>Instruments</title>

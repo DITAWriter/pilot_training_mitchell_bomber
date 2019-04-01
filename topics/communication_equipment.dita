@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="communication_equipment">
     <title>Communication Equipment</title>
-    <shortdesc/>
+    <shortdesc>Location and types of communication equipment located throughout the <keyword
+            keyref="designator"/>.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

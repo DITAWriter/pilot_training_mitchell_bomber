@@ -3,7 +3,7 @@
 <concept id="fuel_system">
     <title>Fuel System</title>
     <shortdesc>Each engine has an independent fuel supply, interconnected by fuel transfer and fuel
-        crossfeed systems. The fuel lines and cells are self- sealing.</shortdesc>
+        crossfeed systems. The fuel lines and cells are self-sealing.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

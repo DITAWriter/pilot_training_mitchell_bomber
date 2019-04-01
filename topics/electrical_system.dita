@@ -2,7 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="electrical_system">
     <title>Electrical System</title>
-    <shortdesc/>
+    <shortdesc>The electrical power which operates and controls the various units of the <keyword
+            keyref="designator"/> is supplied by 2 generators, supplemented by 2 storage batteries
+        connected in parallel.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -22,9 +24,6 @@
         </metadata>
     </prolog>
     <conbody>
-        <p>The electrical power which operates and controls the various units of the <keyword
-                keyref="designator"/> is supplied by 2 generators, supplemented by 2 storage
-            batteries connected in parallel.</p>
         <p>The batteries, behind the firewall in each nacelle, furnish 24-volt current to the
             electrical equipment when the generators are not operating.</p>
         <image keyref="img_storage_battery" id="image_cp2_y3m_cgb" width="4in">

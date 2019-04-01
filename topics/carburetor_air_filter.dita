@@ -2,8 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="carburetor_air_filter">
     <title>Carburetor Air Filter</title>
-    <shortdesc>The false impression exists among some pilots and mechanics that the carburetor air
-        filter affects airplane performance.</shortdesc>
+    <shortdesc>The true relationship between the effects of the carburetor air filter and engine
+        power output.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -16,6 +16,8 @@
         </metadata>
     </prolog>
     <conbody>
+        <p>The false impression exists among some pilots and mechanics that the carburetor air
+            filter affects airplane performance.</p>
         <p>Installation of a filter is merely equivalent to closing the throttles slightly. This
             means that for all altitudes less than critical, where manifold pressure limits prevent
             full throttle opening, the filter has no effect at all on engine power output or

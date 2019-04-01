@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="dual_ignition_system">
     <title>Dual Ignition System</title>
-    <shortdesc/>
+    <shortdesc>The ignition system, except for the induction vibrator coil, is independent of all
+        other electrical power sources.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -17,8 +18,6 @@
         </metadata>
     </prolog>
     <conbody>
-        <p>The ignition system, except for the induction vibrator coil, is independent of all other
-            electrical power sources.</p>
         <p>There are 2 magnetos on each engine. The right magneto furnishes spark to the front plugs
             and the left to the rear plugs in both banks of cylinders.</p>
         <p>Dual ignition provides more efficient combustion, decreasing the possibility of

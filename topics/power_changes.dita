@@ -2,8 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="power_changes">
     <title>Power Changes</title>
-    <shortdesc>Always make power changes smoothly and evenly. This engine will not absorb a sudden
-        blast of power without acting up.</shortdesc>
+    <shortdesc>What to know about expected engine performance when throttling up.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -19,9 +18,12 @@
         </metadata>
     </prolog>
     <conbody>
-        <p>Move the controls slowly and smoothly to the desired settings rather than attempting to
-            make one swift movement and pick up the proper settings.</p>
-        <image keyref="img_power_reduce_manifold" id="image_grw_xgs_cgb" placement="break" width="3in">
+        <p>Always make power changes smoothly and evenly. This engine will not absorb a sudden blast
+            of power without acting up. Move the controls slowly and smoothly to the desired
+            settings rather than attempting to make one swift movement and pick up the proper
+            settings.</p>
+        <image keyref="img_power_reduce_manifold" id="image_grw_xgs_cgb" placement="break"
+            width="3in">
             <alt>Reduce manifold pressure</alt>
         </image>
         <image keyref="img_power_reduce_rpm" id="image_dpx_1hs_cgb" placement="break" width="3in">
@@ -36,7 +38,8 @@
         <image keyref="img_power_increase_rpm" id="image_es5_chs_cgb" placement="break" width="3in">
             <alt>Increase rpm</alt>
         </image>
-        <image keyref="img_power_advance_throttles" id="image_pdg_fhs_cgb" placement="break" width="3in">
+        <image keyref="img_power_advance_throttles" id="image_pdg_fhs_cgb" placement="break"
+            width="3in">
             <alt>Advance throttles</alt>
         </image>
         <p>As engines pick up speed the manifold pressures drop; this is a normal and desired

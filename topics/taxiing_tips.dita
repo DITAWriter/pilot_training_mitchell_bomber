@@ -2,6 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="taxiing_tips">
     <title>Taxiing Tips</title>
+    <shortdesc>A short list of useful tips to know when taxiing.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -14,20 +15,23 @@
         </metadata>
     </prolog>
     <conbody>
-        <p>Never pivot on the inside wheel during a turn.</p>
-        <p>Never turn sharply at high speeds.</p>
-        <p>Do not use more power than necessary when taxiing.</p>
-        <p>Be extremely careful when taxiing on a strange airfield.</p>
-        <p>In the immediate vicinity of other planes, never taxi faster than is necessary to
-            maintain control. Always proceed under guidance from the ground.</p>
-        <p>When taxiing over soft smooth terrain and there is a tendency of the wheels to dig in,
-            don't stop.</p>
-        <p>Keep the plane moving unless the situation is dangerous. If in doubt, stop. Get out and
-            look. Have a crew member walk ahead of the plane until you are out of trouble.</p>
-        <p>Do not turn sharply info the parking area. Come up behind the parking position and move
-            the airplane ahead slowly.</p>
-        <p>Never cut the engines with the idea of rolling to a stop. Lack of hydraulic pressure may
-            cause brake failure.</p>
-        <p>Do not run up engines if light planes are behind you.</p>
+        <ul>
+            <li>Never pivot on the inside wheel during a turn.</li>
+            <li>Never turn sharply at high speeds.</li>
+            <li>Do not use more power than necessary when taxiing.</li>
+            <li>Be extremely careful when taxiing on a strange airfield.</li>
+            <li>In the immediate vicinity of other planes, never taxi faster than is necessary to
+                maintain control. Always proceed under guidance from the ground.</li>
+            <li>When taxiing over soft smooth terrain and there is a tendency of the wheels to dig
+                in, don't stop.</li>
+            <li>Keep the plane moving unless the situation is dangerous. If in doubt, stop. Get out
+                and look. Have a crew member walk ahead of the plane until you are out of
+                trouble.</li>
+            <li>Do not turn sharply info the parking area. Come up behind the parking position and
+                move the airplane ahead slowly.</li>
+            <li>Never cut the engines with the idea of rolling to a stop. Lack of hydraulic pressure
+                may cause brake failure.</li>
+            <li>Do not run up engines if light planes are behind you.</li>
+        </ul>
     </conbody>
 </concept>

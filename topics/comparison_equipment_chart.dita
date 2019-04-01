@@ -2,7 +2,8 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="comparison_equipment_chart">
   <title>Comparison Equipment Chart</title>
-  <shortdesc/>
+  <shortdesc>Key differences for the equipment load-out for the different variants of the <keyword
+      keyref="designator"/>.</shortdesc>
   <prolog>
     <critdates>
       <!--scott.hudson-->

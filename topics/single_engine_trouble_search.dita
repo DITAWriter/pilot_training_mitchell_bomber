@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="single_engine_trouble_search">
     <title>Single Engine Trouble Search</title>
-    <shortdesc/>
+    <shortdesc>How to troubleshoot issues with a single engine.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
