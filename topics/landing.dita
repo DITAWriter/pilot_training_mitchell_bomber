@@ -4,10 +4,6 @@
     <title>Landing</title>
     <shortdesc>"The easiest plane to land I have ever flown."</shortdesc>
     <prolog>
-        <critdates>
-            <!--scott.hudson-->
-            <revised modified="19. Dec. 2018"/>
-        </critdates>
         <metadata>
             <keywords>
                 <indexterm>landing</indexterm>

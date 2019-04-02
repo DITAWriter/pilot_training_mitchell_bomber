@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="starting_engines">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="starting_engines">
     <title>Starting Engines</title>
     <shortdesc>Use the checklist for starting.</shortdesc>
     <prolog>
-        <critdates>
-            <!--scott.hudson-->
-            <revised modified="12. Dec. 2018"/>
-            <!--scott.hudson-->
-            <revised modified="4. Jan. 2019"/>
-            <!--scott.hudson-->
-            <revised modified="7. Jan. 2019"/>
-        </critdates>
         <metadata>
             <keywords>
                 <indexterm>engines</indexterm>
@@ -19,64 +11,111 @@
             </keywords>
         </metadata>
     </prolog>
-    <conbody>
-        <p>Use the checklist for starting.</p>
-        <image keyref="img_startup_fire_guard" id="image_e3r_44m_cgb" placement="break" width="3in">
-            <alt>Startup fire guard posted</alt>
-        </image>
-        <p>Fire guard posted.</p>
-        <p>Props clear.</p>
-        <image keyref="img_startup_ignition" id="image_iww_q4m_cgb" placement="break" width="3in">
-            <alt>Startup ignition switches, one at a time</alt>
-        </image>
-        <p>Ignition switches "<userinput>ON</userinput>" one at a time Booster pumps
-                "<userinput>ON</userinput>"&#8212; operate only the switch on the engine you are
-            starting.</p>
-        <p>Energize 10 seconds when using an external power source, 20 seconds when using the
-            plane's batteries.</p>
-        <p>Prime&#8212; Use primer for 2 seconds while energizing. This is not a priming action; it
-            merely fills the primer lines with fluid and allows instant priming when the engine is
-            engaged.</p>
-        <p>Engage&#8212; Hold down energizer, primer and engaging switch until the engine starts.
-            Mesh for reasonable time. If engine does not fire, repeat starting procedure.</p>
-        <p>Move mixture control to "<userinput>FULL RICH</userinput>" when engine starts.</p>
-        <p>Check oil pressure&#8212; (40 lb. in 30 seconds).</p>
-        <p>If the oil pressure does not reach 40 lb. in 30 seconds stop the engine and
-            investigate.</p>
-        <p>Repeat procedure on the left engine.</p>
-        <image keyref="img_startup_booster" id="image_jjp_t4m_cgb" placement="break" width="3in">
-            <alt>Startup booster</alt>
-        </image>
-        <p>Booster pumps "<userinput>OFF</userinput>"&#8212; check fuel pressure. There must be 6-7
-            lb. sq. in.</p>
-        <p>Warm up at approximately 1200 rpm.</p>
-        <p>Battery-disconnect switches "<userinput>ON</userinput>" (if external power is used).</p>
-        <p>Hydraulic pressure&#8212; (800-1100 lb. sq. in.).</p>
-        <p>Brake pressure&#8212; (1000-1200 lb. sq. in.).</p>
-        <p>Suction&#8212; (3,75-4.25" Hg.).</p>
-        <p>Radio "<userinput>ON</userinput>."</p>
-        <p>If the engine backfires and excess fuel in the intake section catches fire, move the
-            mixture control to "<userinput>IDLE CUT-OFF</userinput>" and advance the throttles to
-            full open.</p>
-        <p>Keep the engine turning over with the starter if the fire is small. Keep the throttles
-            open wide and the mixture in "<userinput>IDLE CUT-OFF</userinput>" until the fire burns
-            out.</p>
-        <p>If the fire continues to burn, flaring out of the air scoop and the cowl flaps » turn the
-            engine fuel cut-off valve "<userinput>OFF</userinput>" and use the hand extinguisher
-                (CO<sub>2</sub>) on the base of the flame. Always keep the throttles open wide to
-            exhaust all the fuel that can reach the engine.</p>
-        <p>if this fails, use the Lux system if it is installed in the airplane. When you encounter
-            fires of this type and have used the Lux system, do not attempt to restart the engine.
-            If in attempting to restart the engine you start another fire, you will have no positive
-            means of extinguishing the flames.</p>
-        <p>Don't try to rush the warming of the engines during the warm-up period. The R-2600
-            engines have a great mass of metal in them, and the warm-up must be thorough. Some parts
-            of the engines will warm up while other parts are still cold.</p>
-        <p>Many engines have been ruined by improper warm-up.</p>
-        <p>Watch cylinder-head temperatures closely during warm-up, as the engine temperature rises
-            more quickly in operation at idling settings on the ground than at high power settings
-            in the air.</p>
-        <p>There are pressure baffles on this plane, and very little air can flow around the
-            cylinder heads when the plane has no forward speed.</p>
-    </conbody>
-</concept>
+
+    <taskbody>
+        <context>
+            <object data="https://www.youtube.com/watch?v=-YQmkjpP6q8#t=4m15s" outputclass="iframe"/><fig>
+                <title>Starting engines on the <keyword keyref="designator"/></title>
+            </fig>
+        </context>
+        <steps>
+            <step>
+                <cmd>Fire guard posted.</cmd>
+                <info>
+                    <image keyref="img_startup_fire_guard" id="image_e3r_44m_cgb" placement="break"
+                        width="3in">
+                        <alt>Startup fire guard posted</alt>
+                    </image></info>
+            </step>
+            <step>
+                <cmd>Props clear.</cmd>
+                <info><image keyref="img_startup_ignition" id="image_iww_q4m_cgb" placement="break"
+                        width="3in">
+                        <alt>Startup ignition switches, one at a time</alt>
+                    </image></info>
+            </step>
+            <step>
+                <cmd>Ignition switches "<userinput>ON</userinput>" one at a time Booster pumps
+                        "<userinput>ON</userinput>"&#8212; operate only the switch on the engine you
+                    are starting.</cmd>
+            </step>
+            <step>
+                <cmd>Energize 10 seconds when using an external power source, 20 seconds when using
+                    the plane's batteries.</cmd>
+            </step>
+            <step>
+                <cmd>Prime&#8212;Use primer for 2 seconds while energizing. This is not a priming
+                    action; it merely fills the primer lines with fluid and allows instant priming
+                    when the engine is engaged.</cmd>
+            </step>
+            <step>
+                <cmd>Engage&#8212;Hold down energizer, primer and engaging switch until the engine
+                    starts. Mesh for reasonable time. If engine does not fire, repeat starting
+                    procedure.</cmd>
+            </step>
+            <step>
+                <cmd>Check oil pressure&#8212;(40 lb. in 30 seconds). If the oil pressure does not
+                    reach 40 lb. in 30 seconds stop the engine and investigate.</cmd>
+            </step>
+            <step>
+                <cmd>Repeat procedure on the left engine.</cmd>
+                <info><image keyref="img_startup_booster" id="image_jjp_t4m_cgb" placement="break"
+                        width="3in">
+                        <alt>Startup booster</alt>
+                    </image></info>
+            </step>
+            <step>
+                <cmd>Booster pumps "<userinput>OFF</userinput>"&#8212; check fuel pressure. There
+                    must be 6-7 lb. sq. in.</cmd>
+            </step>
+            <step>
+                <cmd>Warm up at approximately 1200 rpm.</cmd>
+            </step>
+            <step>
+                <cmd>Battery-disconnect switches "<userinput>ON</userinput>" (if external power is
+                    used).</cmd>
+            </step>
+            <step>
+                <cmd>Hydraulic pressure&#8212; (800-1100 lb. sq. in.).</cmd>
+            </step>
+            <step>
+                <cmd>Brake pressure&#8212; (1000-1200 lb. sq. in.).</cmd>
+            </step>
+            <step>
+                <cmd>Suction&#8212; (3,75-4.25" Hg.).</cmd>
+            </step>
+            <step>
+                <cmd>Radio "<userinput>ON</userinput>."</cmd>
+            </step>
+            <step>
+                <cmd>If the engine backfires and excess fuel in the intake section catches fire,
+                    move the mixture control to "<userinput>IDLE CUT-OFF</userinput>" and advance
+                    the throttles to full open.</cmd>
+                <info>Keep the engine turning over with the starter if the fire is small. Keep the
+                    throttles open wide and the mixture in "<userinput>IDLE CUT-OFF</userinput>"
+                    until the fire burns out. If the fire continues to burn, flaring out of the air
+                    scoop and the cowl flaps » turn the engine fuel cut-off valve
+                        "<userinput>OFF</userinput>" and use the hand extinguisher (CO<sub>2</sub>)
+                    on the base of the flame. Always keep the throttles open wide to exhaust all the
+                    fuel that can reach the engine. If this fails, use the Lux system if it is
+                    installed in the airplane. When you encounter fires of this type and have used
+                    the Lux system, do not attempt to restart the engine. If in attempting to
+                    restart the engine you start another fire, you will have no positive means of
+                    extinguishing the flames.</info>
+            </step>
+            <step>
+                <cmd>Don't try to rush the warming of the engines during the warm-up period. The
+                    R-2600 engines have a great mass of metal in them, and the warm-up must be
+                    thorough. Some parts of the engines will warm up while other parts are still
+                    cold. Many engines have been ruined by improper warm-up.</cmd>
+            </step>
+            <step>
+                <cmd>Watch cylinder-head temperatures closely during warm-up, as the engine
+                    temperature rises more quickly in operation at idling settings on the ground
+                    than at high power settings in the air. There are pressure baffles on this
+                    plane, and very little air can flow around the cylinder heads when the plane has
+                    no forward speed.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

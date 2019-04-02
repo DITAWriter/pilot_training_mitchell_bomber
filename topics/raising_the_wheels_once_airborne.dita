@@ -11,6 +11,11 @@
         </metadata>
     </prolog>
     <taskbody>
+        <prereq><object data="https://www.youtube.com/watch?v=-YQmkjpP6q8#t=7m40s"
+                outputclass="iframe"/><fig>
+                <title>Never release the landing gear safety lock and latch on the <keyword
+                        keyref="designator"/> prior to take off</title>
+            </fig></prereq>
         <context>
             <p>Be sure there is no possibility of further contact with the ground. Good airplanes
                 have been lost through carelessness.</p>
