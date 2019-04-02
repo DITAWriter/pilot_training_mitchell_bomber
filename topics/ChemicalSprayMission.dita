@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="ChemicalSprayMission">
     <title>Chemical spray mission</title>
-    <shortdesc/>
+    <shortdesc>Background and expectations on the chemical spray missions.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -17,6 +17,7 @@
     </prolog>
     <taskbody>
         <steps>
+            <!-- FS = Sulfur Trioxide-Chlorosulfonic Acid -->
             <step>
                 <cmd>This is a chemical mission, using MR and FS.</cmd>
             </step>

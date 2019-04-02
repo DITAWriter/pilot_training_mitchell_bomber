@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="fuel">
     <title>Fuel</title>
-    <shortdesc/>
+    <shortdesc>Information on the fuel required for the <keyword keyref="designator"/>, and how to
+        determine the maximum flight range for the aircraft under different conditions.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

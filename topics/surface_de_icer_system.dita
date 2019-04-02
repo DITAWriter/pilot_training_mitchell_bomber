@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="surface_de_icer_system">
     <title>Surface De-icer System</title>
-    <shortdesc/>
+    <shortdesc>The location and scenarios for using the de-icing systems on you <keyword
+            keyref="designator"/>.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -31,8 +32,8 @@
             conditions. Should the pressure go above 10 lb. sq. in., the maximum pressure,
             immediately turn the control "<userinput>OFF</userinput>" and check for the
             difficulty.</p>
-        <note type="caution"> Do not operate the de-icer during landing or takeoff. Never operate
-            the de-icer system at speeds above 230 mph; negative pressure on leading edge of wings
-            will expand the de-icer boots, causing them to rupture.</note>
+        <note type="caution">Do not operate the de-icer during landing or takeoff. Never operate the
+            de-icer system at speeds above 230 mph; negative pressure on leading edge of wings will
+            expand the de-icer boots, causing them to rupture.</note>
     </conbody>
 </concept>

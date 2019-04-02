@@ -2,7 +2,8 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="power_control_chart_for_grade_91_fuel">
     <title>Power Control Chart for Grade 91 Fuel</title>
-    <shortdesc/>
+    <shortdesc>What you can expect when flying the <keyword keyref="designator"/> using Grade 91
+        fuel.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

@@ -2,7 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="instructions_for_firing_water_targets">
     <title>Instructions for Firing-Water Targets</title>
-    <shortdesc/>
+    <shortdesc>The expectations and ammunition load out for destroying water-based
+        targets.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -18,7 +19,7 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Eleven rounds of 75MM ammunition from a range of 3000 yards, firing one round
+                <cmd>Eleven rounds of 75 MM ammunition from a range of 3000 yards, firing one round
                     on each approach, plane to turn away from target immediately after firing while
                     using additional evasive action.</cmd>
             </step>

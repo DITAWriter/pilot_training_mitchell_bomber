@@ -2,7 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="PrinciplesOfWeightAndBalance">
     <title>Principles of weight and balance</title>
-    <shortdesc/>
+    <shortdesc>Understanding proper balance and the center of gravity of a <keyword
+            keyref="designator"/>, and how to correctly determine the total weight and its
+        distribution on board the aircraft.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -43,7 +45,7 @@
         </section>
         <section id="section_plz_b2v_3gb">
             <title>Charts and Forms</title>
-            <p>There are various charts and forms for con- trolling the weight and balance of the
+            <p>There are various charts and forms for controlling the weight and balance of the
                     <keyword keyref="designator"/>. These may be found in T.O, Ol-lB-40. For
                 information on these charts and forms consult your weight and balance officer or
                 T.O. Ol-lB-40.</p>

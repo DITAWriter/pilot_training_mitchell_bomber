@@ -2,7 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="takeoff_in_cold_weather">
     <title>Takeoff in Cold Weather</title>
-    <shortdesc/>
+    <shortdesc>Short checklist on what to look for when attempting to take off during cold weather
+        conditions.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

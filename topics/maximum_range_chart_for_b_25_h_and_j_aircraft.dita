@@ -2,7 +2,8 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="maximum_range_chart_for_b_25_h_and_j_aircraft">
     <title>Maximum Range Chart for <keyword keyref="designator"/> H &amp; J Aircraft</title>
-    <shortdesc/>
+    <shortdesc>Information on the maximum range for the H and J models of the <keyword
+            keyref="designator"/>.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

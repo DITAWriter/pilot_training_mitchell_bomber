@@ -2,7 +2,9 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="miscellaneous_emergency_equipment">
     <title>Miscellaneous Emergency Equipment</title>
-    <shortdesc/>
+    <shortdesc>Information on all of the remaining emergency equipment, including the alarm bells,
+        life raft and life preservers, emergency fuel pump, pyrotechnic signal pistol the radio
+        demolition switch, hand ax, first-aid kits and fire extinguishers.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -15,6 +17,15 @@
         <metadata>
             <keywords>
                 <indexterm>emergency equipment</indexterm>
+                <indexterm>alarm bells</indexterm>
+                <indexterm>life raft</indexterm>
+                <indexterm>life preservers</indexterm>
+                <indexterm>emergency fuel pump</indexterm>
+                <indexterm>pyrotechnic signal pistol</indexterm>
+                <indexterm>radio demolition switch</indexterm>
+                <indexterm>hand ax</indexterm>
+                <indexterm>first-aid kits</indexterm>
+                <indexterm>fire extinguishers</indexterm>
             </keywords>
         </metadata>
     </prolog>
@@ -23,14 +34,16 @@
             <title>Alarm Bells</title>
             <p>The alarm bells are located at all crew stations. A switch on the lower left section
                 of the pilot's switch panel controls them.</p>
-            <image placement="break" keyref="img_emerg_alarm_bell" id="image_o1n_13p_3gb" width="3in"/>
+            <image placement="break" keyref="img_emerg_alarm_bell" id="image_o1n_13p_3gb"
+                width="3in"/>
         </section>
         <section id="sect_LifeRaft">
             <title>Life Raft</title>
             <p>A life raft equipped with a CO<sub>2</sub> cylinder for instantaneous inflation is
                 stowed in the upper forward left corner of the radio compartment. For proper use,
                 see ditching.</p>
-            <image placement="break" keyref="img_emerg_life_raft" id="image_mzl_b3p_3gb" width="5in"/>
+            <image placement="break" keyref="img_emerg_life_raft" id="image_mzl_b3p_3gb" width="5in"
+            />
         </section>
         <section id="sect_LifePreservers">
             <title>Life Preservers</title>
@@ -49,7 +62,8 @@
                 navigator's compartment as loose equipment.</p>
             <note type="warning">Don't load this pistol except when it has been placed in the mount
                 provided in the upper left corner of the navigator's compartment.</note>
-            <image placement="break" keyref="img_emerg_flare_gun" id="image_tcd_d3p_3gb" width="3in"/>
+            <image placement="break" keyref="img_emerg_flare_gun" id="image_tcd_d3p_3gb" width="3in"
+            />
         </section>
         <section id="sect_RadioDemoSwitch">
             <title>Radio Demolition Switch</title>
@@ -83,7 +97,8 @@
             </image>
             <image placement="break" keyref="img_emerg_fire_system_ctrl" id="image_y3p_h3p_3gb"
                 width="3in"/>
-            <image placement="break" keyref="img_emerg_fire_system" id="image_vpm_g3p_3gb" width="6in"/>
+            <image placement="break" keyref="img_emerg_fire_system" id="image_vpm_g3p_3gb"
+                width="6in"/>
         </section>
     </refbody>
 </reference>

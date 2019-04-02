@@ -2,7 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="procedure_in_event_of_complete_failure_of_hydraulic_system">
     <title>Procedure in Event of Complete Failure of Hydraulic System</title>
-    <shortdesc/>
+    <shortdesc>A checklist to follow if the hydraulic system on the <keyword keyref="designator"/>
+        fails.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

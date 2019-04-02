@@ -2,7 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="some_typical_missions">
     <title>Some Typical Missions</title>
-    <shortdesc/>
+    <shortdesc>The types of practice missions you can expect when learning the <keyword
+            keyref="designator"/>.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

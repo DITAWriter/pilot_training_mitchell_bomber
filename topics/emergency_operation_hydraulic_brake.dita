@@ -2,7 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="emergency_operation_hydraulic_brake">
     <title>Emergency Operation-Hydraulic Brake</title>
-    <shortdesc/>
+    <shortdesc>A checklist on what to do if you need to use the hydraulic brake on your <keyword
+            keyref="designator"/> on landing.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->

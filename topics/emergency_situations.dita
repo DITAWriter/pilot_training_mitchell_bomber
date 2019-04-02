@@ -2,7 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="emergency_situations">
     <title>Emergency Situations</title>
-    <shortdesc/>
+    <shortdesc>This section covers what to do in specific emergency situations, including fire
+        aboard the <keyword keyref="designator"/> while in flight, bailing out, forced landings and
+        ditching the airplane.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
