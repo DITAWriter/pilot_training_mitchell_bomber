@@ -11,9 +11,10 @@ Some of the things this manual will showcase when complete:
 - topics fully indexed *DONE* 
 - keyword elements to be used in an appendix
 - fully accessible tables and images
-- short descriptions for every topic *First two chapters*
+- short descriptions for every topic *DONE*
 - relationship tables for the contents of each chapter *DONE*
+- sample multimedia files inserted into appropriate topics
 
-At the time of writing (February 2018) this project is now content- and image-complete, but still has some way to go. 
+At the time of writing (April 2019) this project is now content- and image-complete, but still has some way to go. 
 
 Much thanks to Scott Hudson and Eliot Kimber for their considerable contributions to this project.
