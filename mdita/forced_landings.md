@@ -1,0 +1,111 @@
+
+Forced Landings
+===============
+
+ {.body .conbody}
+Forced landing in the [B-25]{.keyword} is at best a difficult job.
+
+\
+![Forced
+landings](../images/forced_landing.png){#forced_landings__image_rt3_y25_3gb
+.image}\
+
+Fortunately, the [B-25]{.keyword} aircraft\'s exceptional single engine
+ability will bring you home unless you have a failure of both engines.
+You will seldom need to set down in rough country.
+
+Many pilots have made successful landings in wild, rough country. You
+can get some valuable tips from their experiences.
+
+**Never land wheels-up except on a known airfield.** Soft ground, plowed
+fields, ridges, and gullies cause the plane to nose over and tear up,
+and increase the fire hazard tremendously.
+
+If you make a belly landing the plane will in most cases toboggan over
+the ground and escape serious damage.
+
+Although the shock and deceleration are less than in a forced landing at
+sea, they are great enough to necessitate bracing for the impact. Brace
+and cushion yourself as well as you can. You will save yourself from
+some hard knocks, if not more serious injuries.
+
+**Pick your spot carefully.** If you have any control over where you are
+to land, pick a spot near a road, phone line, small town, or other
+settlement. This will insure immediate medical attention or quick
+communication if medical aid is not on hand.
+
+ {#forced_landings__sect_PreparePlane .section .section}
+Prepare the Plane {#prepare-the-plane .title .sectiontitle}
+-----------------
+
+Throw out excess weight, thus lowering the landing speed.
+
+Throw out loose objects to prevent them from flying through the plane on
+impact.
+
+Keep first-aid kits on your person. In case of fire they will not be
+forgotten and burned.
+
+Open the escape hatches to prevent jamming on impact.
+
+Inflate your Mae West to help you absorb the shock of landing.
+
+
+ {#forced_landings__sect_PrepareCrew .section .section}
+Prepare the Crew {#prepare-the-crew .title .sectiontitle}
+----------------
+
+Remove loose cords, parachute harness, radio cords, etc.
+
+Fasten safety belts and shoulder harness.
+
+Proceed to crash stations and remain throughout landing.
+
+
+ {#forced_landings__sect_LandingPlane .section .section}
+Landing the Plane {#landing-the-plane .title .sectiontitle}
+-----------------
+
+Make a normal full-flap approach to the landing.
+
+Do not feather propellers unless it is necessary to stretch the glide.
+If the props are feathered, the tips will not bend aside on impact but
+will dig into the ground, rupturing wing tanks and engine mounts and
+adding to the fire hazard. They may also break and throw tips through
+the fuselage, creating an unnecessary hazard from the flying metal.
+
+**Keep wheels up.** Remember, however, that the reduced drag from the
+wheels in a raised position will increase the normal gliding distance of
+the plane. Make allowances for this in your landing. Don\'t make a turn
+close to the ground at low airspeed. Plan your approach to land straight
+ahead. Before touching down, cut all switches to reduce the fire hazard.
+
+Make a nose-high landing, but do not exaggerate the attitude to the
+point where there is danger of throwing the nose into the ground when
+the tail strikes.
+
+Call the roll immediately after leaving the plane. Be sure that no one
+is left inside in a dazed condition. In the excitement it is easy to
+lose a man for a few seconds. If the plane starts to burn this may be
+long enough to prevent his rescue.
+
+Crash stations are the same as those used for ditching.
+
+\
+![Wheels down only on a known
+airport](../images/wheels_down_known_airport.png){#forced_landings__image_rg2_dg5_3gb
+.image}\
+\
+![Wheels up on anything
+else](../images/wheels_up_anything_else.png){#forced_landings__image_n4s_2g5_3gb
+.image}\
+
+
+
+
+
+**Parent topic:** [Emergency
+Situations](../mdita/emergency_situations.md "This section covers what to do in specific emergency situations, including fire aboard the B-25 while in flight, bailing out, forced landings and ditching the airplane.")
+
+
+
