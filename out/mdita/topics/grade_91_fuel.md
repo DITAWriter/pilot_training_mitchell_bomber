@@ -1,0 +1,259 @@
+
+Grade 91 Fuel
+=============
+
+ {.body .conbody}
+With our entry into World War II, and our operations on fighting fronts
+the length and breadth of the world, it became apparent that we could
+not produce high-octane fuels quickly enough to meet the demand.
+
+\
+![Grade 91
+fuel](../images/fuel_grade_91.png){#grade_91_fuel__image_njn_ttv_3gb
+.image}\
+
+For this reason, all training and operational flights in the continental
+United States are made on Grade 91 fuel whenever possible.
+
+The operation of the [B-25]{.keyword} on Grade 91 fuel is perfectly
+safe. With a thorough knowledge of its operating limits you will have no
+trouble at all.
+
+ {#grade_91_fuel__sect_WhatIsOctaneRating .section .section}
+What Is an Octane Rating? {#what-is-an-octane-rating .title .sectiontitle}
+-------------------------
+
+To properly understand the evaluation of fuels it is necessary to review
+some basic facts, Let\'s start with some definitions:
+
+
+ {#grade_91_fuel__sect_Preignition .section .section}
+Preignition {#preignition .title .sectiontitle}
+-----------
+
+Preignition is a condition of premature firing. The fuel charge in the
+cylinder head is ignited by a hot carbon deposit or other means before
+time for the electrical firing to occur.
+
+
+ {#grade_91_fuel__sect_NormalCombust .section .section}
+Normal Combustion {#normal-combustion .title .sectiontitle}
+-----------------
+
+Normal combustion is the burning of the fuel charge in the cylinder head
+as a slow-burning wave, creating power not as an explosion, but as an
+expansion of the gases.
+
+\
+![Preignition and power
+loss](../images/fuel_preignition.png){#grade_91_fuel__image_byl_xtv_3gb
+.image width="288"}\
+\
+![Correct combustion and maximum
+power](../images/fuel_combustion.png){#grade_91_fuel__image_cnc_wtv_3gb
+.image width="288"}\
+
+
+ {#grade_91_fuel__sect_Detonation .section .section}
+Detonation {#detonation .title .sectiontitle}
+----------
+
+Detonation, as the name implies, is an explosion in the cylinder head.
+The normal burning wave as it travels across the cylinder head subjects
+the unburned portion of the fuel charge to tremendous temperatures and
+pressures. If these forces are great enough the remaining fuel charge
+explodes before it can burn, and the shock waves from this explosion are
+great enough to blow the cylinder head off the engine.
+
+\
+![Detonation](../images/fuel_detonation.png){#grade_91_fuel__image_j5y_ytv_3gb
+.image width="288"}\
+
+
+ {#grade_91_fuel__sect_OctaneRating .section .section}
+Octane Rating {#octane-rating .title .sectiontitle}
+-------------
+
+Octane rating of a fuel is a mathematical grade assigned to a fuel in
+direct proportion to its ability to withstand preignition and
+detonation.
+
+Two reference fuels were chosen, iso-octane and normal heptane. Run in a
+test engine, these fuels respond identically under identical conditions.
+
+To rate a new fuel it is compared to these reference fuels. If it
+matches the anti-knock ability of iso-octane it is rated as Grade 100
+fuel. If its performance is less, normal heptane is added to the
+iso-octane. Thus, if a fuel matches in performance a mixture of 87%
+iso-octane and 13% normal heptane it is rated as Grade 87 fuel.
+
+\
+![Relative combustion temperatures for different grades of
+fuel](../images/fuel_combust_temps.png){#grade_91_fuel__image_hjm_c5v_3gb
+.image width="288"}\
+
+
+ {#grade_91_fuel__sect_FuelAffectsB-25 .section .section}
+How Does this Affect the [B-25]{.keyword}? {#how-does-this-affect-the-b-25 .title .sectiontitle}
+------------------------------------------
+
+You control the initial pressure that is allowed to enter the cylinders
+of the engines. This pressure after entering the cylinders is compressed
+and fired at a predetermined ratio.
+
+You exercise a control over the temperature at which the engines run. If
+you allow great pressures to enter the engine, or allow the engine to
+operate at excessive temperatures, you can be sure of disastrous
+consequences.
+
+The pressure entering the engine is determined by a relation of manifold
+pressure and rpm. Temperature is controlled by allowing the engine to
+get proper cooling.
+
+Learn the power limits you can use with different grade fuels at
+different altitudes.
+
+The accompanying power control chart shows maximum limits, minimum
+limits, and the desirable range to increase the life and efficiency of
+the engines.
+
+\
+![Effects of relation between RPM and manifold
+pressure](../images/fuel_rpm_mp_relation.png){#grade_91_fuel__image_mcs_35v_3gb
+.image width="288"}\
+
+
+
+
+
+**Parent topic:**
+[Fuel](../topics/fuel.md "Information on the fuel required for the B-25, and how to determine the maximum flight range for the aircraft under different conditions.")
+
+
+
+ {.linklist .relinfo .relconcepts}
+**Related concepts**\
+
+<div>
+
+[Weight and
+Balance](../topics/WeightAndBalance.md "The day when a pilot flew by guesswork is past. One by one the decisions that were made by intuition, hunches, and guesswork have been taken over by an orderly system based on knowledge and understanding. Invariably this has resulted in greater safety and operating efficiency.")
+
+</div>
+
+<div>
+
+[Principles of weight and
+balance](../topics/PrinciplesOfWeightAndBalance.md "Understanding proper balance and the center of gravity of a B-25, and how to correctly determine the total weight and its distribution on board the aircraft.")
+
+</div>
+
+<div>
+
+[Cold Weather
+Operations](../topics/cold_weather_operations.md "Cold weather operations bring visions of long arctic nights, glaciers, Eskimos, and stories you have heard of the Far North.")
+
+</div>
+
+<div>
+
+[Anti-Icing](../topics/anti_icing.md "Emergency provision is made to prevent ice formation on the propellers, and on the bombsight window by an alcohol anti-icing system.")
+
+</div>
+
+<div>
+
+[Surface De-icer
+System](../topics/surface_de_icer_system.md "The location and scenarios for using the de-icing systems on you B-25.")
+
+</div>
+
+<div>
+
+[Defrosting
+Systems](../topics/defrosting_systems.md "Where the desfrosting systems are located across the B-25.")
+
+</div>
+
+<div>
+
+[Heating
+System](../topics/heating_system.md "The airplane has two independent heating systems; one for heating the navigator's, pilot's, and bombardier's compartments, the other for heating the radio operator's compartment and the interior of the fuselage aft of it.")
+
+</div>
+
+<div>
+
+[Landing in Cold
+Weather](../topics/landing_in_cold_weather.md "Practical tips on what to know when landing your B-25 in cold weather flying conditions.")
+
+</div>
+
+<div>
+
+[Oil Dilution After Landing in Cold
+Weather](../topics/oil_dilution_after_landing_in_cold_weather.md "To obtain sufficient dilution of the oil to facilitate starting, allow the engine to cool either by idling or stopping after flight, before dilution begins.")
+
+</div>
+
+<div>
+
+[Some Typical
+Missions](../topics/some_typical_missions.md "The types of practice missions you can expect when learning the B-25.")
+
+</div>
+
+<div>
+
+[Gunnery
+Missions](../topics/gunnery_missions.md "In this and all ensuing gunnery missions when both ground and water targets are used, extreme care must be exercised to see that the field of fire is clear of other planes.")
+
+</div>
+
+
+ {.linklist .relinfo .reltasks}
+**Related tasks**\
+
+<div>
+
+[Starting Engines in Cold
+Weather](../topics/starting_engines_in_cold_weather.md "A checklist to ensure that your engines will start and work properly in cold weather conditions.")
+
+</div>
+
+<div>
+
+[Takeoff in Cold
+Weather](../topics/takeoff_in_cold_weather.md "Short checklist on what to look for when attempting to take off during cold weather conditions.")
+
+</div>
+
+<div>
+
+[Flight in Cold
+Weather](../topics/flight_in_cold_weather.md "Your anti-icing and de-icing equipment is primarily intended as a means of getting you out of icing levels.")
+
+</div>
+
+<div>
+
+[Formation
+Bombing](../topics/formation_bombing.md "This is a day, 6-ship formation bombing mission.")
+
+</div>
+
+<div>
+
+[Chemical spray
+mission](../topics/ChemicalSprayMission.md "Background and expectations on the chemical spray missions.")
+
+</div>
+
+<div>
+
+[Day Navigation, Photo-Reconnaissance, and Instrument Let-Down
+Mission](../topics/day_navigation_photo_reconnaissance_and_instrument_let_down_mission.md "How this mission works and what's expected of every crew member.")
+
+</div>
+
+
