@@ -46,9 +46,9 @@
                 <li>Bank-and-turn indicator</li>
             </ol>
             <p>A bank-and-turn needle-valve control on the instrument panel allows adjustment of the
-                suction pressures operating the gyro of the bank- and-turn indicator. Flight tests
+                suction pressures operating the gyro of the bank-and-turn indicator. Flight tests
                 on this instrument should give a standard-rate turn (90° in 30 seconds) at one
-                needle- width deflection. Adjust the suction pressures until this deflection is
+                needle-width deflection. Adjust the suction pressures until this deflection is
                 accurate.</p>
         </section>
         <section id="sect_EngineInstruments">
@@ -74,11 +74,11 @@
                 <li>Hydraulic and brake pressure indicators</li>
                 <li>Fuel gages</li>
                 <li>Free air temperature gages</li>
-                <li>Air pressure gages&#8212; for the emergency air brake system and the hydraulic
+                <li>Air pressure gages&#8212;for the emergency air brake system and the hydraulic
                     accumulators.</li>
                 <li>Oxygen regulators</li>
                 <li>Nosewheel warning lights</li>
-                <li>Landing gear and flap position indicator&#8212; this is a resistance-type
+                <li>Landing gear and flap position indicator&#8212;this is a resistance-type
                     indicator.</li>
             </ol>
             <p>A contact, linked to the landing gear and flaps, moves across the arc of a resistor

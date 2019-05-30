@@ -23,10 +23,10 @@
     </prolog>
     <conbody>
         <image keyref="img_crew_boarding" id="image_yky_4zl_cgb">
-            <alt>Air crew, boarding their Mitchell Bomber</alt>
+            <alt>Air crew, boarding their <keyword keyref="aircraft_name"/> Bomber</alt>
         </image>
         <p>The commander of the <keyword keyref="designator"/> must be more than a pilot. As his
-            title implies, he must be a leader of men&#8212; a leader in a special sense. He must
+            title implies, he must be a leader of men&#8212;a leader in a special sense. He must
             not train his crew as automatons, but as a team which will use initiative and perform
             its tasks to one end only . . . the success of the mission.</p>
         <p>You are the leader. The successful coordination of the work involved in getting your
@@ -87,7 +87,7 @@
             <p>Is your bombardier sure that his equipment is in perfect condition? Has he remembered
                 to warm up his bombsight to prevent fogging at the critical moment?</p>
             <p>You can't know the precise answers to all the questions involved in having your plane
-                ready for action- but you can know most of the important questions. Learn enough
+                ready for action, but you can know most of the important questions. Learn enough
                 about every man's job so that you can ask the right questions, and you'll find that
                 your crew will be there with the right answers at the right time.</p>
         </section>

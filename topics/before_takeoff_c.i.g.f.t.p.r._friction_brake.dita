@@ -3,7 +3,7 @@
 <reference id="before_takeoff_c.i.g.f.t.p.r._friction_brake">
     <title>Before Takeoff - C.I.G. F.T.P.R.-Friction Brake</title>
     <shortdesc>Checklist to ensure that your Controls move freely, Instruments function, proper Gas
-        settings, then to check Flaps, Trim, Props are set for take-off, and then Run up the engine
+        settings, then to check Flaps, Trim, Props are set for takeoff, and then Run up the engine
         before removing the friction brake.</shortdesc>
     <prolog>
         <critdates>

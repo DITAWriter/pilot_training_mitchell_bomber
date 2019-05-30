@@ -22,10 +22,10 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Airspeed&#8212; Maintain or get 140 mph by diving if necessary.</cmd>
+                <cmd>Airspeed&#8212;Maintain or get 140 mph by diving if necessary.</cmd>
             </step>
             <step>
-                <cmd>Directional control&#8212; Obtain and hold directional control by using
+                <cmd>Directional control&#8212;Obtain and hold directional control by using
                     rudder.</cmd>
                 <info> Slight aileron aids coordination but excessive use raises the stalling
                         speed.<p>Use the trim tabs to help you hold the plane if manual control is
@@ -64,7 +64,7 @@
             <step>
                 <cmd>Reduce drag. <b>Throttle back. Decrease rpm. or feather the prop. Mixture
                             "<userinput>IDLE CUT-OFF</userinput>"</b> gear and flaps up, generators
-                    on&#8212; Feather the propeller by pushing the feathering button down.</cmd>
+                    on&#8212;Feather the propeller by pushing the feathering button down.</cmd>
                 <stepresult>The prop will feather, and when it does the button will return to normal
                     position.</stepresult>
             </step>
@@ -72,12 +72,12 @@
                 <cmd>Close cowl flaps on dead engine.</cmd>
             </step>
             <step>
-                <cmd>Reduce fire hazard&#8212; After the prop stops turning, cut off the fuel and
+                <cmd>Reduce fire hazard&#8212;After the prop stops turning, cut off the fuel and
                     ignition on that engine. Set the Lux system to the dead engine, and be prepared
                     if a fire breaks out.</cmd>
             </step>
             <step>
-                <cmd>Trim&#8212; Trim the plane for hands-off flight.</cmd>
+                <cmd>Trim&#8212;Trim the plane for hands-off flight.</cmd>
             </step>
         </steps>
         <result id="result_z21_ccp_3gb"> This may seem a complicated procedure; however, when you

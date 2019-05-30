@@ -22,22 +22,22 @@
             the order in which they should be done.</context>
         <steps>
             <step>
-                <cmd>Warn the crew by alarm bell&#8212; this bell is attached to all positive leads
+                <cmd>Warn the crew by alarm bell&#8212;this bell is attached to all positive leads
                     on the plane. If either battery-disconnect is on and any current remains in the
                     battery, it will operate. </cmd>
             </step>
             <step>
-                <cmd>Use the interphone&#8212; get an acknowledgment from each crew member. </cmd>
+                <cmd>Use the interphone&#8212;get an acknowledgment from each crew member. </cmd>
             </step>
             <step>
                 <cmd>Turn IFF to "<userinput>EMERGENCY</userinput>"</cmd>
             </step>
             <step>
                 <cmd>Check the fuselage tanks and bombs, and salvo if necessary. Close the bomb bay
-                    doors&#8212; they must not be open for the landing.</cmd>
+                    doors&#8212;they must not be open for the landing.</cmd>
             </step>
             <step>
-                <cmd>Landing gear up&#8212; check it! </cmd>
+                <cmd>Landing gear up&#8212;check it! </cmd>
             </step>
             <step>
                 <cmd>Get wind direction and velocity from navigator. </cmd>

@@ -24,7 +24,7 @@
         </context>
         <steps>
             <step>
-                <cmd>Open inner door&#8212; this door will not open with the bomb bay door crank
+                <cmd>Open inner door&#8212;this door will not open with the bomb bay door crank
                     installed.</cmd>
             </step>
             <step>

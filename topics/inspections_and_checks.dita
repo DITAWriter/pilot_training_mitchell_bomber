@@ -65,7 +65,7 @@
             <p>Tires for cuts, wear, blisters, slippage, and proper inflation.</p>
             <p>Ground tire on nosewheel for contact with ground.</p>
             <p>Nosewheel door for proper fitting and tension (40 lb.). Spring tension closes this
-                door when the airplane is in flight. If it closes improperly the slip-stream forces
+                door when the airplane is in flight. If it closes improperly the slipstream forces
                 it open, and the resulting air blast may tear it of! and damage other parts of the
                 airplane.</p>
             <p>Nose hood locked and safetied (<keyword keyref="designator"/> G, H, and TB-25).</p>
@@ -76,7 +76,7 @@
             <p>Carburetor air scoop cover removed.</p>
             <p>Propeller for nicks, propeller dome and governor for leaks.</p>
             <p>Check pulleys, cables, and safety wires.</p>
-            <p>Colws, cowl flaps, and Dzus fasteners secure&#8212; a loose cowl section can be a
+            <p>Colws, cowl flaps, and Dzus fasteners secure&#8212;a loose cowl section can be a
                 serious hazard in flight.</p>
             <p>Exhaust stacks, fingers, gaskets and studs, for looseness and cracks.</p>
             <p>Oil sump magnetic plugs safetied.</p>
@@ -109,7 +109,7 @@
         </section>
         <section id="sect_RearCompartment">
             <title>Rear Compartment</title>
-            <p>Loading and stowage&#8212; In the photographer's compartment sections of the control
+            <p>Loading and stowage&#8212;In the photographer's compartment sections of the control
                 cables are exposed on the sidewalls of the fuselage. Check the stowage carefully at
                 this point; a loose cord, parachute buckle, or any loose equipment entangled in the
                 controls may cause them to freeze.</p>
@@ -139,10 +139,10 @@
                 secure.</p>
             <p>Check life raft storage compartment release handle
                 "<userinput>LOCKED</userinput>."</p>
-            <p>Crew briefing&#8212; Location and operation of escape hatches.</p>
+            <p>Crew briefing&#8212;Location and operation of escape hatches.</p>
             <p>Proper use of parachutes.</p>
             <p>Abandon-ship procedure and signals.</p>
-            <p>Escape hatches&#8212; Emergency operation. Check with crew chief to determine the
+            <p>Escape hatches&#8212;Emergency operation. Check with crew chief to determine the
                 time of the last check on the emergency operation of the escape hatches.</p>
             <p>Testing and operation of oxygen equipment-check crew on knowledge of proper usage.
                 (Consult your Pilots' Information File.)</p>
@@ -169,7 +169,7 @@
             <p>Crossfeed "<option>OFF</option>."</p>
             <p>Fuel transfer valve and switches "<option>OFF</option>." Right and left engine fuel
                 cut-off valves "<option>ON</option>"</p>
-            <p>Generators and inverters "<option>ON</option>"&#8212; External power should be used
+            <p>Generators and inverters "<option>ON</option>"&#8212;External power should be used
                 whenever possible. If external power is not available for starting, keep inverters
                     "<option>OFF</option>" until engine is operating.</p>
             <p>Level of Hydraulic fluid reservoir (spare fluid aboard).</p>
@@ -184,7 +184,7 @@
         </section>
         <section id="sect_Cockpit"><title>Cockpit</title><p>Have your parachute fitted to your body
                 and always wear it.</p><p>An improperly fitted chute will cause serious physical
-                injury&#8212; protect yourself.</p><p>Adjust seat and belt&#8212;If the seat is not
+                injury&#8212;protect yourself.</p><p>Adjust seat and belt&#8212;If the seat is not
                 locked the acceleration of takeoff will force the seat away from the controls. You
                 cannot reach the controls properly even for taxiing if the seat is not forward and
                 locked.</p><p>Escape hatch unlocked, hatch secure.</p><p>Controls unlocked, check
@@ -221,7 +221,7 @@
                 used). Light switches as required.</p><image keyref="img_preflight_fuel"
                 placement="break" width="3in">
                 <alt>Preflight fuel</alt>
-            </image><p>Check fuel levels&#8212; the visual preflight check acts as a check on the
+            </image><p>Check fuel levels&#8212;the visual preflight check acts as a check on the
                 instrument reading.</p></section>
     </conbody>
 </concept>

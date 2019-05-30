@@ -2,7 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="general_description">
     <title>General Description</title>
-    <shortdesc>Basic information about the Mitchell Bomber and its flight
+    <shortdesc>Basic information about the <keyword keyref="aircraft_name"/> Bomber and its flight
         characteristics.</shortdesc>
     <prolog>
         <critdates>
@@ -14,7 +14,7 @@
         <metadata>
             <keywords>
                 <indexterm>monoplane</indexterm>
-                <indexterm>Mitchell bomber</indexterm>
+                <indexterm><keyword keyref="aircraft_name"/> bomber</indexterm>
                 <indexterm>description</indexterm>
                 <indexterm>airplane dimensions</indexterm>
                 <indexterm>airplane weight</indexterm>
@@ -25,29 +25,29 @@
     <refbody>
         <section>
             <image keyref="img_mitchell_bomber_front_view_angled" placement="break" width="6in">
-                <alt>Mitchell Bomber, front view, angled</alt>
+                <alt><keyword keyref="aircraft_name"/> Bomber, front view, angled</alt>
             </image>
             <image keyref="img_mitchell_bomber_back_view_angled" placement="break" width="6in">
-                <alt>Mitchell Bomber, back view, angled</alt>
+                <alt><keyword keyref="aircraft_name"/> Bomber, back view, angled</alt>
             </image>
             <image keyref="img_mitchell_bomber_side_view" placement="break" width="6in">
-                <alt>Mitchell Bomber, side view</alt>
+                <alt><keyword keyref="aircraft_name"/> Bomber, side view</alt>
             </image>
             <image keyref="img_mitchell_bomber_front_view" placement="break" width="6in">
-                <alt>Mitchell Bomber, front view</alt>
+                <alt><keyword keyref="aircraft_name"/> Bomber, front view</alt>
             </image>
-            <p>The Mitchell medium bomber is a high-speed, mid-wing land monoplane.</p>
+            <p>The <keyword keyref="aircraft_name"/> medium bomber is a high-speed, mid-wing land monoplane.</p>
             <p>Positive dihedral in the inner and negative dihedral in the outer wing panels give
                 the plane a gull-wing appearance, while adding control and maneuverability.</p>
             <p>A twin tail section with large rudders increases stability and maneuverability and
                 allows a greater concentration of firepower to the rear.</p>
             <image keyref="img_mitchell_bomber_twin_tail_section" placement="break" width="4in">
-                <alt>Mitchell Bomber, twin tail section</alt>
+                <alt><keyword keyref="aircraft_name"/> Bomber, twin tail section</alt>
             </image>
             <p>A tricycle landing gear adds to the case of landing, prevents groundlooping, and
                 provides the pilot with maximum visibility during ground operation. It also permits
                 a wide range of loading to obtain maximum bomb and weight carrying capacity.</p>
-            <p>Under slung Wright Cyclone engines drive Hamilton hydromatic propellers and deliver
+            <p>Under slung <keyword keyref="engine_manufacturer"/> Cyclone engines drive <keyword keyref="propeller_manufacturer"/> hydromatic propellers and deliver
                 1700 Hp each at full power.</p>
             <p>The fuselage is a semi-monocoque, four-longeron, stressed skin structure. The
                 bombardier's, pilot's, and navigator's compartments are located in that order,

@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="power_plant">
     <title>Power Plant</title>
-    <shortdesc>The <keyword keyref="designator"/> is powered by two Wright Cyclone R-2G00-13 or
+    <shortdesc>The <keyword keyref="designator"/> is powered by two <keyword keyref="engine_manufacturer"/> Cyclone R-2G00-13 or
         R-2G00-29, 14-cylinder, double-row radial engines. </shortdesc>
     <prolog>
         <critdates>
@@ -156,25 +156,25 @@
                 enter the adapter section and mix with the air. This establishes a predetermined
                 fuel-air ratio.</p><p>These carburetors incorporate several devices to increase and
                 decrease the fuel-air ratio in relation to the engine power output.</p><ol>
-                <li><b>Compensator System</b>&#8212; A bleed line operated by a spring- loaded check
+                <li><b>Compensator System</b>&#8212;A bleed line operated by a spring-loaded check
                     valve and diaphragm. When you use high throttle settings, it allows a richer
                     mixture to reach the cylinders to cool the cylinder heads properly.</li>
-                <li><b>Accelerating Pump</b>&#8212; A device to supply an additional charge of fuel
+                <li><b>Accelerating Pump</b>&#8212;A device to supply an additional charge of fuel
                     when you open throttles suddenly. It corrects for a time lag in the regular
                     supply. It is diaphragm operated and cuts out when the mixture control is in
                     "IDLE CUT-OFF."</li>
-                <li><b>Mixture Control</b>&#8212; Allows you to set the carburetor for cruising lean
+                <li><b>Mixture Control</b>&#8212;Allows you to set the carburetor for cruising lean
                     which improves fuel economy and fuel mixtures under all operating
                     conditions.</li>
-                <li><b>Stabilizer Valve</b>&#8212; A slide valve which acts as an automatic mixture
+                <li><b>Stabilizer Valve</b>&#8212;A slide valve which acts as an automatic mixture
                     control, compensating for changes in temperature and pressure.</li>
-                <li><b>Power Mixture Valve</b>&#8212; A diaphragm-operated bypass valve. When you
+                <li><b>Power Mixture Valve</b>&#8212;A diaphragm-operated bypass valve. When you
                     open throttles to high power settings, it cuts the manual mixture control out of
                     the system, and prevents you from taking off with cruising mixtures.</li>
-                <li><b>Vapor Separator</b>&#8212; A needle-valve and float device for diverting fuel
+                <li><b>Vapor Separator</b>&#8212;A needle-valve and float device for diverting fuel
                     vapor into the adapter where they mix with the normal mixture and pass to the
                     impeller section.</li>
-                <li><b>Primer</b>&#8212; A needle valve in the fuel inlet casting to facilitate
+                <li><b>Primer</b>&#8212;A needle valve in the fuel inlet casting to facilitate
                     starting the engine.</li>
             </ol></section>
     </conbody>

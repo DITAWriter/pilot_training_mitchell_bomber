@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="introduction_to_the_pilot_training_manual">
-    <title>Introduction to the Pilot Training Manual for The Mitchell Bomber, <keyword keyref="designator"/></title>
+    <title>Introduction to the Pilot Training Manual for The <keyword keyref="aircraft_name"/> Bomber, <keyword keyref="designator"/></title>
     <shortdesc>This manual is the text for your training as a <keyword keyref="designator"/> pilot
         and airplane commander.</shortdesc>
     <prolog>

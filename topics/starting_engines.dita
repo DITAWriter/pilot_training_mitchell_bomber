@@ -36,7 +36,7 @@
             </step>
             <step>
                 <cmd>Ignition switches "<userinput>ON</userinput>" one at a time Booster pumps
-                        "<userinput>ON</userinput>"&#8212; operate only the switch on the engine you
+                        "<userinput>ON</userinput>"&#8212;operate only the switch on the engine you
                     are starting.</cmd>
             </step>
             <step>
@@ -65,7 +65,7 @@
                     </image></info>
             </step>
             <step>
-                <cmd>Booster pumps "<userinput>OFF</userinput>"&#8212; check fuel pressure. There
+                <cmd>Booster pumps "<userinput>OFF</userinput>"&#8212;check fuel pressure. There
                     must be 6-7 lb. sq. in.</cmd>
             </step>
             <step>
@@ -76,13 +76,13 @@
                     used).</cmd>
             </step>
             <step>
-                <cmd>Hydraulic pressure&#8212; (800-1100 lb. sq. in.).</cmd>
+                <cmd>Hydraulic pressure&#8212;(800-1100 lb. sq. in.).</cmd>
             </step>
             <step>
-                <cmd>Brake pressure&#8212; (1000-1200 lb. sq. in.).</cmd>
+                <cmd>Brake pressure&#8212;(1000-1200 lb. sq. in.).</cmd>
             </step>
             <step>
-                <cmd>Suction&#8212; (3,75-4.25" Hg.).</cmd>
+                <cmd>Suction&#8212;(3,75-4.25" Hg.).</cmd>
             </step>
             <step>
                 <cmd>Radio "<userinput>ON</userinput>."</cmd>
