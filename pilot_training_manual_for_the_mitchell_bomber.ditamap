@@ -2,7 +2,7 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap id="pilot_training_manual_for_the_mitchell_bomber">
     <booktitle>
-        <mainbooktitle>Pilot Training Manual for the Mitchell Bomber</mainbooktitle>
+        <mainbooktitle>Pilot Training Manual for the <keyword keyref="aircraft_name"/> <keyword keyref="designator"/> Bomber</mainbooktitle>
     </booktitle>
     <bookmeta>
         <authorinformation>
@@ -33,13 +33,6 @@
         <!--<booklists>
             <toc/>
         </booklists>-->
-        <keydef keys="designator">
-            <topicmeta>
-                <keywords>
-                    <keyword>B-25</keyword>
-                </keywords>
-            </topicmeta>
-        </keydef>
     </frontmatter>
     <chapter keys="introduction_to_the_pilot_training_manual"
         href="topics/introduction_to_the_pilot_training_manual.dita">
@@ -267,6 +260,10 @@
 
         <!-- Reusable image references -->
         <mapref format="ditamap" href="images/m_reusableImageReferences.ditamap"/>
+
+        <!-- Keystore -->
+        <mapref format="ditamap" href="b25_keystore.ditamap"/>
+
 
     </backmatter>
 
