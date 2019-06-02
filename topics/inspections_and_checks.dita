@@ -179,7 +179,7 @@
             </image>
             <p>Check the load and balance of the ship. Check Form F with the load adjuster. The
                     <keyword keyref="designator"/> carries great loads and is unstable and dangerous
-                if the weight is not properly distributed. (For detailed information, see the PIF
+                if the weight is not properly distributed. (For detailed information, see the <term keyref="gl_PIF">PIF</term>
                 and the Weights and Balance section of this manual.)</p>
         </section>
         <section id="sect_Cockpit"><title>Cockpit</title><p>Have your parachute fitted to your body

@@ -53,7 +53,7 @@
             <li>Marker beacon receiver</li>
             <li>Interphone system</li>
         </ul>
-        <p>On some models the tactical use of the airplane requires the installation of VHF and IFF
+        <p>On some models the tactical use of the airplane requires the installation of <term keyref="gl_VHF">VHF</term> and <term keyref="gl_IFF">IFF</term>
             equipment. Special training in this equipment will be given when missions require its
             use.</p>
         <section id="sect_CommandSet">

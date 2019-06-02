@@ -18,7 +18,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <p>Consult the PIF and your personal equipment officer for general information on landing in
+        <p>Consult the <term keyref="gl_PIF">PIF</term> and your personal equipment officer for general information on landing in
             the water. They will help you determine wind direction, wind speeds, surface conditions,
             and other valuable information.</p>
         <image placement="break" keyref="img_landing_ditch_20deg_flaps" id="image_thq_kt5_3gb"

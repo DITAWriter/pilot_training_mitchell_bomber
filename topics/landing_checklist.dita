@@ -85,7 +85,7 @@
             </step>
         </steps>
         <postreq id="postreq_g4d_hjh_2gb">
-            <p>Final <term keyref="gl_GUMPS">GUMPS</term>check before landing:<dl>
+            <p>Final <term keyref="gl_GUMPS">GUMPS</term> check before landing:<dl>
                     <dlentry>
                         <dt>G</dt>
                         <dd>Gas</dd>

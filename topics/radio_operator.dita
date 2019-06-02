@@ -15,7 +15,7 @@
             <keywords>
                 <indexterm>radio operator</indexterm>
             </keywords>
-        </metadata> 
+        </metadata>
     </prolog>
     <conbody>
         <image keyref="img_radio_operator" id="image_b5v_hbm_cgb" placement="break" width="3in">
@@ -39,8 +39,8 @@
             <li>Keep the liaison and command sets properly tuned and in good operating order.</li>
             <li>Understand from an operational point of view: <ol>
                     <li>Instrument Landing</li>
-                    <li>IFF</li>
-                    <li>VHF</li>
+                    <li><term keyref="gl_IFF">IFF</term></li>
+                    <li><term keyref="gl_VHF">VHF</term></li>
                 </ol></li>
             <li>Maintain a log.</li>
         </ol>

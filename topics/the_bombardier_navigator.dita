@@ -18,7 +18,7 @@
                 <indexterm>bombardier-navigator</indexterm>
                 <indexterm>navigator</indexterm>
             </keywords>
-        </metadata> 
+        </metadata>
     </prolog>
     <conbody>
         <image keyref="img_bombadier_nav" id="image_zpn_m1m_cgb" placement="break" width="3in">
@@ -68,8 +68,9 @@
                     The navigator has to make many computations and entries in his log. Constantly
                     changing course makes his job more difficult. A good navigator should be able to
                     follow the pilot, but he cannot be taking compass readings all the time.</li>
-                <li>Constant airspeed&#8212;Hold IAS as nearly constant as possible. This is as
-                    important to the navigator as is a constant course in determining position.</li>
+                <li>Constant airspeed&#8212;Hold <term keyref="gl_IAS">IAS</term> as nearly constant
+                    as possible. This is as important to the navigator as is a constant course in
+                    determining position.</li>
                 <li>Precision flying greatly affects the accuracy of the navigator's instrument
                     readings, particularly celestial readings. A slight error in celestial reading
                     causes considerable error in determining position. You can help the navigator by
@@ -127,25 +128,26 @@
                 great deal depends on the understanding between bombardier-navigator and pilot. You
                 expect your bombardier to know his job. He expects you to understand the problems
                 involved in his job, and to give him full co-operation. Teamwork between pilot and
-                bombardier is essential.</p><p>Under any given set of conditions&#8212;ground
-                speed, altitude, direction, etc.&#8212;there is only one point in space where a
-                bomb may be released from the airplane to hit a predetermined object on the
-                ground.</p><p>There are many things with which a bombardier must be thoroughly
-                familiar in order to release his bombs at the right point to hit this predetermined
-                target.</p><p>He must understand his bombsight, what it does, and how it does
-                it.</p><p>He must understand the operation and upkeep of his bombing instruments
-                and equipment.</p><p>He must know that his racks, switches, controls, releases,
-                doors, linkage, etc., are in first-class operating condition.</p><p>He must know how
-                to operate all gun positions in the airplane.</p><p>He must know how to load and how
-                to clear simple gun stoppages and jams while in flight.</p><p>He must be able to
-                load and fuse bombs.</p><p>He must understand the destructive power of bombs and
-                know the vulnerable spots on various types of targets.</p><p>He must understand the
-                bombing problem, bombing probabilities, bombing errors, etc.</p><p>He must be versed
-                in target identification and in aircraft identification.</p><p>The bombardier should
-                be familiar with the duties of all members of the crew.</p><p>To enable the
-                bombardier to do his job, you must place the airplane in the proper position to
-                arrive at a point from which he can release his bombs to hit the target.</p><image
-                keyref="img_bomb_drop" id="image_xgf_2bm_cgb">
+                bombardier is essential.</p>
+            <p>Under any given set of conditions&#8212;ground speed, altitude, direction,
+                etc.&#8212;there is only one point in space where a bomb may be released from the
+                airplane to hit a predetermined object on the ground.</p><p>There are many things
+                with which a bombardier must be thoroughly familiar in order to release his bombs at
+                the right point to hit this predetermined target.</p><p>He must understand his
+                bombsight, what it does, and how it does it.</p><p>He must understand the operation
+                and upkeep of his bombing instruments and equipment.</p><p>He must know that his
+                racks, switches, controls, releases, doors, linkage, etc., are in first-class
+                operating condition.</p><p>He must know how to operate all gun positions in the
+                airplane.</p><p>He must know how to load and how to clear simple gun stoppages and
+                jams while in flight.</p><p>He must be able to load and fuse bombs.</p><p>He must
+                understand the destructive power of bombs and know the vulnerable spots on various
+                types of targets.</p><p>He must understand the bombing problem, bombing
+                probabilities, bombing errors, etc.</p><p>He must be versed in target identification
+                and in aircraft identification.</p><p>The bombardier should be familiar with the
+                duties of all members of the crew.</p><p>To enable the bombardier to do his job, you
+                must place the airplane in the proper position to arrive at a point from which he
+                can release his bombs to hit the target.</p><image keyref="img_bomb_drop"
+                id="image_xgf_2bm_cgb">
                 <alt><keyword keyref="designator"/> dropping bombs</alt>
             </image><p>Unless the pilot performs his part of the bombing run correctly, even the
                 best bombardier in the world cannot bomb accurately.</p></section>
