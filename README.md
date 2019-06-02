@@ -7,6 +7,7 @@ Some of the things this manual will showcase when complete:
 - implement a keystore containing keys of commonly-used features *DONE*
 - a key-based image repository *DONE*
 - a separate keystore for holding key terms *DONE*
+- addition of glossary entries *DONE*  
 - common phrases rendered in conrefs
 - topics fully indexed *DONE* 
 - glossentry to be used in a glossary *DONE* 
@@ -15,6 +16,6 @@ Some of the things this manual will showcase when complete:
 - relationship tables for the contents of each chapter *DONE*
 - sample multimedia files inserted into appropriate topics: takeoff.dita, landing.dita, single_engine_landing.dita, raising_the_wheels_once_airborne.dita, and starting_engines.dita *DONE*
  
-At the time of writing (May 2019) this project is now content- and image-complete, but expect more changes and tweaks. 
+At the time of writing (June 2019) this project is now content- and image-complete, but expect more changes and tweaks. 
 
 Much thanks to Scott Hudson and Eliot Kimber for their considerable contributions to this project.
