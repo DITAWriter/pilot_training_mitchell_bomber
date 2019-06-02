@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="gl_GUMPS">
+    <glossterm>GUMP</glossterm>
+    <glossdef>GUMPS stands for:<ul id="ul_j1p_pcw_3gb">
+            <li><b>G</b> – Gas (Fuel on the proper tank, fuel pump on as required, positive fuel
+                pressure)</li>
+            <li><b>U</b> – Undercarriage (landing gear down)</li>
+            <li><b>M</b> – Mixture (fuel mixture set)</li>
+            <li><b>P</b> – Propeller (prop set)</li>
+            <li><b>S</b> – Seat belts and Switches (lights, pitot heat, and so on)</li>
+        </ul></glossdef>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+    </prolog>
+    <glossBody>
+        <glossSurfaceForm>GUMPS</glossSurfaceForm>
+    </glossBody>
+</glossentry>

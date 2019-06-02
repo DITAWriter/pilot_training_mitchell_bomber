@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="gl_VHF">
+    <glossterm>VHF</glossterm>
+    <glossdef>VHF stands for Very High Frequencey. <p>VHF describes a range of radio frequency
+            electromagnetic waves (radio waves) from 30 to 300 megahertz (MHz). (From
+            Wikipedia).</p></glossdef>
+    <prolog/>
+    <glossBody>
+        <glossSurfaceForm>IFF</glossSurfaceForm>
+    </glossBody>
+</glossentry>
