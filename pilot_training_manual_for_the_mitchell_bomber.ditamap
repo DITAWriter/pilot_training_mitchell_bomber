@@ -252,7 +252,11 @@
                     <topicmeta>
                         <navtitle>G</navtitle>
                     </topicmeta>
-                    <topicref keys="gl_GUMPS" href="gl_GUMPS.dita"/>
+                    <topicref keys="gl_GUMPS" href="glossentries/gl_GUMPS.dita"/>
+                    <topicref keys="gl_IAS" href="glossentries/gl_IAS.dita"></topicref>
+                    <topicref keys="gl_IFF" href="glossentries/gl_IFF.dita"></topicref>
+                    <topicref keys="gl_PIF" href="glossentries/gl_PIF.dita"></topicref>
+                    <topicref keys="gl_VHF" href="glossentries/gl_VHF.dita"></topicref>
                 </topicref>
             </glossarylist>
             <indexlist/>
