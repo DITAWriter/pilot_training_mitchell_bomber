@@ -8,9 +8,8 @@ Some of the things this manual will showcase when complete:
 - a key-based image repository *DONE*
 - a separate keystore for holding key terms *DONE*
 - addition of glossary entries *DONE*  
-- common phrases rendered in conrefs
+- common phrases rendered in conkeyrefs *DONE*  
 - topics fully indexed *DONE* 
-- glossentry to be used in a glossary *DONE* 
 - fully accessible tables and images
 - short descriptions for every topic *DONE*
 - relationship tables for the contents of each chapter *DONE*
