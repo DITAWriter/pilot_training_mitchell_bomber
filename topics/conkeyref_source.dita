@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="file_for_holding_conkeyrefs">
+    <title>Conkeyref Source</title>
+    <shortdesc>This DITA topic is used solely to store conkeyref values, which are in turn
+        referenced by a map.</shortdesc>
+    <refbody>
+        <section>
+            <title>Gun Caliber: Fixed and Flexible</title>
+            <ul>
+                <li><ph id="caliber_generic_singular"><b>.50-cal. gun</b></ph></li>
+                <li><ph id="caliber_generic_plural"><b>.50-cal. guns</b></ph></li>
+                <li><ph id="caliber_fixed_singular"><b>.50-cal. fixed gun</b></ph></li>
+                <li><ph id="caliber_fixed_plural"><b>.50-cal. fixed guns</b></ph></li>
+                <li><ph id="caliber_flexible_singular"><b>.50-cal. flexible gun</b></ph></li>
+                <li><ph id="caliber_flexible_plural"><b>.50-cal. flexible guns</b></ph></li>
+            </ul>
+        </section>
+    </refbody>
+</reference>
