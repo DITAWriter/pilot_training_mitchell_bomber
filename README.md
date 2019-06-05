@@ -10,7 +10,8 @@ Some of the things this manual will showcase when complete:
 - addition of glossary entries *DONE*  
 - common phrases rendered in conkeyrefs *DONE*  
 - topics fully indexed *DONE* 
-- fully accessible tables and images
+- fully images utilizing the desc and alt elements 
+- fully accessible tables using @rowheader and @scope  
 - short descriptions for every topic *DONE*
 - relationship tables for the contents of each chapter *DONE*
 - sample multimedia files inserted into appropriate topics: takeoff.dita, landing.dita, single_engine_landing.dita, raising_the_wheels_once_airborne.dita, and starting_engines.dita *DONE*
