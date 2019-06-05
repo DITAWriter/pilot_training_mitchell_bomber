@@ -10,7 +10,7 @@ Some of the things this manual will showcase when complete:
 - addition of glossary entries *DONE*  
 - common phrases rendered in conkeyrefs *DONE*  
 - topics fully indexed *DONE* 
-- fully images utilizing the desc and alt elements 
+- fully accessible images utilizing the desc and alt elements 
 - fully accessible tables using @rowheader and @scope  
 - short descriptions for every topic *DONE*
 - relationship tables for the contents of each chapter *DONE*
