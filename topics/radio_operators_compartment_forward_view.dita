@@ -17,8 +17,11 @@
     <refbody>
         <section>
             <fig>
+                <title>Radio operator's compartment, forward view</title>
+                <desc>Drawing of an enclosed space depicting various equipment, most of them labeled
+                    with numbers.</desc>
                 <image keyref="img_radio_operators_compartment-forward_view">
-                    <alt>Radio operator's compartment, forward view</alt>
+                    <alt>Forward view of the Radio operator's compartment</alt>
                 </image>
                 <ol>
                     <li>Life Raft Release</li>

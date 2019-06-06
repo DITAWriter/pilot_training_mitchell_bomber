@@ -18,8 +18,11 @@
     <refbody>
         <section>
             <fig id="fig_ibx_yfm_cgb">
+                <title>Pilot's compartment, general forward view</title>
+                <desc>Drawing depicting controls, levers, and dials, all labeled with numbers,
+                    within a glass-enclosed canopy.</desc>
                 <image keyref="img_pilots_compartment-general_forward_view" id="image_am5_1gm_cgb">
-                    <alt>Pilot's compartment, general forward view</alt>
+                    <alt>General forward view of the pilot's compartment</alt>
                 </image>
                 <ol id="ol_ybx_yfm_cgb">
                     <li>Aileron Controls</li>

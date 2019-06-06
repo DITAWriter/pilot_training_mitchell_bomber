@@ -21,9 +21,12 @@
     <refbody>
         <section>
             <fig id="fig_qcl_pgm_cgb">
+                <title>Hydraulic hand pump and emergency brake control</title>
+                <desc>Photo of two metal handles, knob, and a switch, all labeled with
+                    numbers.</desc>
                 <image keyref="img_hydraulic_hand_pump_and_emergency_brake_control"
                     id="image_ndm_rgm_cgb" height="6in">
-                    <alt>sHydraulic hand pump and emergency brake control</alt>
+                    <alt>Emergency brake control and the hdraulic hand pump.</alt>
                 </image>
                 <ol id="ol_vcl_pgm_cgb">
                     <li>Rudder Trim</li>

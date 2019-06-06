@@ -18,8 +18,11 @@
     <refbody>
         <section>
             <fig id="fig_q1n_chm_cgb">
+                <title>Radio operator's compartment, left view</title>
+                <desc>Drawing a wall of compartmentalized equipment with dials and wires, most of
+                    them labeled with numbers.</desc>
                 <image keyref="img_radio_operators_compartment-left_view" id="image_lzl_2hm_cgb">
-                    <alt>Radio operator's compartment, left view</alt>
+                    <alt>Left View of the Radio operator's compartment.</alt>
                 </image>
                 <ol id="ol_x1n_chm_cgb">
                     <li>Life Raft Release</li>
