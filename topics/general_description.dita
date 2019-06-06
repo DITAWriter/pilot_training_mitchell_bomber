@@ -20,35 +20,60 @@
                 <indexterm>airplane weight</indexterm>
                 <indexterm>armament</indexterm>
             </keywords>
-        </metadata> 
+        </metadata>
     </prolog>
     <refbody>
         <section>
-            <image keyref="img_mitchell_bomber_front_view_angled" placement="break" width="6in">
-                <alt><keyword keyref="aircraft_name"/> Bomber, front view, angled</alt>
-            </image>
-            <image keyref="img_mitchell_bomber_back_view_angled" placement="break" width="6in">
-                <alt><keyword keyref="aircraft_name"/> Bomber, back view, angled</alt>
-            </image>
-            <image keyref="img_mitchell_bomber_side_view" placement="break" width="6in">
-                <alt><keyword keyref="aircraft_name"/> Bomber, side view</alt>
-            </image>
-            <image keyref="img_mitchell_bomber_front_view" placement="break" width="6in">
-                <alt><keyword keyref="aircraft_name"/> Bomber, front view</alt>
-            </image>
-            <p>The <keyword keyref="aircraft_name"/> medium bomber is a high-speed, mid-wing land monoplane.</p>
+            <fig>
+                <title><keyword keyref="aircraft_name"/> Bomber, front view, angled</title>
+                <desc>Image of an airplane, with the nose facing to the left of the viewer.</desc>
+                <image keyref="img_mitchell_bomber_front_view_angled" placement="break" width="6in">
+                    <alt><keyword keyref="designator"/> Bomber, front view, angled</alt>
+                </image>
+            </fig>
+            <fig>
+                <title><keyword keyref="aircraft_name"/> Bomber, back view, angled</title>
+                <desc>Image of an airplane, seen from an angled side view.</desc>
+                <image keyref="img_mitchell_bomber_back_view_angled" placement="break" width="6in">
+                    <alt><keyword keyref="designator"/> Bomber, back view, angled</alt>
+                </image>
+            </fig>
+            <fig>
+                <title><keyword keyref="aircraft_name"/> Bomber, side view</title>
+                <desc>Image of an airplane, seen directly from the side, with the nose facing to the
+                    right.</desc>
+                <image keyref="img_mitchell_bomber_side_view" placement="break" width="6in">
+                    <alt><keyword keyref="designator"/> Bomber, side view</alt>
+                </image>
+            </fig>
+            <fig>
+                <title><keyword keyref="aircraft_name"/> Bomber, front view</title>
+                <desc>Image of an airplane, seen directly head-on.</desc>
+                <image keyref="img_mitchell_bomber_front_view" placement="break" width="6in">
+                    <alt><keyword keyref="designator"/> Bomber, front view</alt>
+                </image>
+            </fig>
+            <p>The <keyword keyref="aircraft_name"/> medium bomber is a high-speed, mid-wing land
+                monoplane.</p>
             <p>Positive dihedral in the inner and negative dihedral in the outer wing panels give
-                the plane a gull-wing appearance, while adding control and maneuverability.</p>
+                the plane a gull-wing appearance, while adding control and maneuverability. </p>
             <p>A twin tail section with large rudders increases stability and maneuverability and
                 allows a greater concentration of firepower to the rear.</p>
-            <image keyref="img_mitchell_bomber_twin_tail_section" placement="break" width="4in">
-                <alt><keyword keyref="aircraft_name"/> Bomber, twin tail section</alt>
-            </image>
+            <fig>
+                <title><keyword keyref="aircraft_name"/> Bomber, twin tail section</title>
+                <desc>Close-up view of the end of an airplane, with two vertical tail sections
+                    connected to the fuselage, with the rear gunner canopy and guns also in
+                    view.</desc>
+                <image keyref="img_mitchell_bomber_twin_tail_section" placement="break" width="4in">
+                    <alt><keyword keyref="designator"/> Bomber, twin tail section</alt>
+                </image>
+            </fig>
             <p>A tricycle landing gear adds to the case of landing, prevents groundlooping, and
                 provides the pilot with maximum visibility during ground operation. It also permits
                 a wide range of loading to obtain maximum bomb and weight carrying capacity.</p>
-            <p>Under slung <keyword keyref="engine_manufacturer"/> Cyclone engines drive <keyword keyref="propeller_manufacturer"/> hydromatic propellers and deliver
-                1700 Hp each at full power.</p>
+            <p>Under slung <keyword keyref="engine_manufacturer"/> Cyclone engines drive <keyword
+                    keyref="propeller_manufacturer"/> hydromatic propellers and deliver 1700 Hp each
+                at full power.</p>
             <p>The fuselage is a semi-monocoque, four-longeron, stressed skin structure. The
                 bombardier's, pilot's, and navigator's compartments are located in that order,
                 forward of the bomb bay. The radio operator's, gunner's, and photographer's
@@ -66,15 +91,28 @@
             <p>There are electrically driven power turrets on some models and a hydraulically driven
                 tail turret on others.</p>
             <p>The plane has standard lighting, heating and hydraulic systems.</p>
-            <image keyref="img_plane_dimensions_top_view" placement="break" width="3in">
-                <alt>Plane dimensions, top view</alt>
-            </image>
-            <image keyref="img_plane_dimensions_front_view" placement="break" width="3in">
-                <alt>Plane dimensions, front view</alt>
-            </image>
-            <image keyref="img_plane_dimensions_side_view" placement="break" width="3in">
-                <alt>Plane dimensions, side view</alt>
-            </image>
+            <fig>
+                <title>Plane dimensions, top view</title>
+                <desc>Blueprint of an airplane, as seen from above.</desc>
+                <image keyref="img_plane_dimensions_top_view" placement="break" width="3in">
+                    <alt><keyword keyref="designator"/> dimensions, top view</alt>
+                </image>
+            </fig>
+            <fig>
+                <title>Plane dimensions, front view</title>
+                <desc>Blueprint of an airplane, as seen directly head-on.</desc>
+                <image keyref="img_plane_dimensions_front_view" placement="break" width="3in">
+                    <alt><keyword keyref="designator"/> dimensions, top view</alt>
+                </image>
+            </fig>
+            <fig>
+                <title>Plane dimensions, side view</title>
+                <desc>Blueprint of an airplane, as seen from the side, with the nose facing
+                    left.</desc>
+                <image keyref="img_plane_dimensions_side_view" placement="break" width="3in">
+                    <alt><keyword keyref="designator"/> dimensions, top view</alt>
+                </image>
+            </fig>
             <p>The airplane dimensions are: Span 67 feet 6 inches, length 54 height 15 feet 9
                 inches.</p>
             <p>The airplane empty weighs approximately 20,300 lb.; loaded to maximum capacity,

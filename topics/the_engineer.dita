@@ -16,15 +16,20 @@
             <keywords>
                 <indexterm>engineer</indexterm>
             </keywords>
-        </metadata> 
+        </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_preflight_general" placement="break" width="3in">
-            <alt>The Engineer</alt>
-        </image>
+        <fig>
+            <title>The Engineer</title>
+            <desc>Cartoon of a man in flight garb standing on the wing of an airplane and taking
+                notes on a clipboard.</desc>
+            <image keyref="img_preflight_general" placement="break" width="3in">
+                <alt>The airplane engineer.</alt>
+            </image>
+        </fig>
         <p>Size up the man who is to be your engineer.</p>
         <p>This man should know more about the airplane you are to fly than any other member of the
-            crew. If there are deficiencies in his training you may be able to fill them in.</p>
+            crew. If there are deficiencies in his training you may be able to fill them in. </p>
         <p>Size up the man who is to be your engineer. This man should know more about the airplane
             you are to fly than any other member of the crew. If there are deficiencies in his
             training you may be able to fill them in.</p>

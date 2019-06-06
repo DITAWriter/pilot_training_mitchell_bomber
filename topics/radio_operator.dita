@@ -18,9 +18,13 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_radio_operator" id="image_b5v_hbm_cgb" placement="break" width="3in">
-            <alt>Radio operator</alt>
-        </image>
+        <fig>
+            <title>Radio operator</title>
+            <desc>Cartoon of a man working with radio equipment.</desc>
+            <image keyref="img_radio_operator" id="image_b5v_hbm_cgb" placement="break" width="3in">
+                <alt>The radio operator.</alt>
+            </image>
+        </fig>
         <p>It is impossible to learn radio in a day.</p>
         <p>There is a lot of radio equipment in today's <keyword keyref="designator"/> aircraft.
             There is one particular man who is supposed to know all there is to know about this
@@ -46,7 +50,6 @@
         </ol>
         <p>In addition to being radio operator, the radio man is also a gunner. During combat he
             leaves his watch at the radio and takes up his guns. He often has to learn photography.
-            Some of the best pictures taken in the Southwest Pacific were taken by radio
-            operators.</p>
+            Some of the best pictures taken in the Southwest Pacific were taken by radio operators. </p>
     </conbody>
 </concept>

@@ -3,7 +3,7 @@
 <concept id="duties_and_responsibilites_of_the_airplane_commander">
     <title>Duties and Responsibilites of the Airplane Commander</title>
     <shortdesc>How the become an effective airplane commander and keep your crew ready for action at
-        anytime by maintaining discipline. </shortdesc> 
+        anytime by maintaining discipline. </shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -22,13 +22,18 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_crew_boarding" id="image_yky_4zl_cgb">
-            <alt>Air crew, boarding their <keyword keyref="aircraft_name"/> Bomber</alt>
-        </image>
+        <fig>
+            <title>Air crew, boarding their <keyword keyref="aircraft_name"/> Bomber</title>
+            <desc>Cartoon depicting several men in military garb about to board an airplane.</desc>
+            <image keyref="img_crew_boarding" id="image_yky_4zl_cgb" width="6in">
+                <alt>A <keyword keyref="aircraft_name"/> Bomber air crew boarding their
+                    airplane.</alt>
+            </image>
+        </fig>
         <p>The commander of the <keyword keyref="designator"/> must be more than a pilot. As his
-            title implies, he must be a leader of men&#8212;a leader in a special sense. He must
-            not train his crew as automatons, but as a team which will use initiative and perform
-            its tasks to one end only . . . the success of the mission.</p>
+            title implies, he must be a leader of men&#8212;a leader in a special sense. He must not
+            train his crew as automatons, but as a team which will use initiative and perform its
+            tasks to one end only . . . the success of the mission.</p>
         <p>You are the leader. The successful coordination of the work involved in getting your
             plane to its objective and back to its base depends a great deal on the way in which you
             lead.</p>
@@ -48,7 +53,7 @@
             quartered, and clothed. The manner in which you take care of their needs will make or
             mar your reputation with your crew.</p>
         <p>You need a lot of tact in handling these things. Your best rule of thumb for getting to
-            know and take care of your crew should go something like this: 'Is my interest in the
+            know and take care of your crew should go something like this: "Is my interest in the
             crew getting the best out of them for the teamwork I need to fly my plane?" But be sure
             you don't overdo it. Your tail gunner isn't going to be too happy if you tell him that
             his crap-shooting is blistering his trigger finger. But you're not overdoing it if you
@@ -63,12 +68,19 @@
             <p>A good way to develop the jitters about your plane and your crew is by keeping them
                 at a distance, talking to them pompously, and by showing favoritism or uncertainty
                 in your decisions.</p>
-            <image keyref="img_crew_discipline" id="image_k1k_tzl_cgb" placement="break" width="3in">
-                <alt>In a little while you'll find yourself working on one side of a 10-foot wall
-                    while your crew works on the other.</alt>
-            </image>
+            <fig>
+                <title>In a little while you'll find yourself working on one side of a 10-foot wall
+                    while your crew works on the other</title>
+                <desc>Cartoon depicting an officer on one side of a wall and the rest of his crew on
+                    the other.</desc>
+                <image keyref="img_crew_discipline" id="image_k1k_tzl_cgb" placement="break"
+                    width="3in">
+                    <alt>Don't find yourself on the other side of a wall from your crewmates. You
+                        need to work effectively together.</alt>
+                </image>
+            </fig>
             <p>On the other hand, you won't get discipline by dropping all distinctions between
-                commander and crew and letting the waist gunner call you Joe.</p>
+                commander and crew and letting the waist gunner call you Joe. </p>
             <p>Somewhere between these two methods there is a happy medium which will insure that
                 any order you give will bring instant obedience and maintain respect and mutual
                 confidence.</p>

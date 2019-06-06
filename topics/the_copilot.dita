@@ -17,13 +17,18 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_copilot" id="image_alt_zzl_cgb" placement="break" width="3in">
-            <alt>The Copilot</alt>
-        </image>
+        <fig>
+            <title>The Copilot</title>
+            <desc>Image of a man in aviation garb looking at another man who is at the airplane
+                controls.</desc>
+            <image keyref="img_copilot" id="image_alt_zzl_cgb" placement="break" width="3in">
+                <alt>The co-pilot of the plane.</alt>
+            </image>
+        </fig>
         <p>The copilot is the executive officer&#8212;your chief assistant, understudy, and strong
             right arm.</p>
         <p>He must be familiar enough with every one of your duties&#8212;both as pilot and as
-            airplane commander&#8212;to take over and act in your place at any time.</p>
+            airplane commander&#8212;to take over and act in your place at any time. </p>
         <p>He must be able to fly the airplane under all conditions as well as you would fly it
             yourself.</p>
         <p>He must be proficient in engine operation and know instinctively what to do to keep the

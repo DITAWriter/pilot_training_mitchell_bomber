@@ -21,9 +21,14 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_bombadier_nav" id="image_zpn_m1m_cgb" placement="break" width="3in">
-            <alt>The Bombardier-Navigator</alt>
-        </image>
+        <fig>
+            <title>The Bombardier-Navigator</title>
+            <desc>Cartoon of the head of a man wearing wearing flight gear peering through a
+                navigation instrument.</desc>
+            <image keyref="img_bombadier_nav" id="image_zpn_m1m_cgb" placement="break" width="3in">
+                <alt>Bombardier-Navigator</alt>
+            </image>
+        </fig>
         <p>As a navigator it is the bombardier-navigator's job to direct your flight from departure
             to destination and return.</p>
         <p>As a navigator it is the bombardier-navigator's job to direct your flight from departure
@@ -146,10 +151,14 @@
                 and in aircraft identification.</p><p>The bombardier should be familiar with the
                 duties of all members of the crew.</p><p>To enable the bombardier to do his job, you
                 must place the airplane in the proper position to arrive at a point from which he
-                can release his bombs to hit the target.</p><image keyref="img_bomb_drop"
-                id="image_xgf_2bm_cgb">
-                <alt><keyword keyref="designator"/> dropping bombs</alt>
-            </image><p>Unless the pilot performs his part of the bombing run correctly, even the
-                best bombardier in the world cannot bomb accurately.</p></section>
+                can release his bombs to hit the target.</p><fig>
+                <title><keyword keyref="designator"/> dropping bombs</title>
+                <desc>Cartoon of an airplane dropping bombs.</desc>
+                <image keyref="img_bomb_drop" id="image_xgf_2bm_cgb" width="6in">
+                    <alt><keyword keyref="aircraft_name"/> dropping bombs</alt>
+                </image>
+            </fig>
+            <p>Unless the pilot performs his part of the bombing run correctly, even the best
+                bombardier in the world cannot bomb accurately. </p></section>
     </conbody>
 </concept>

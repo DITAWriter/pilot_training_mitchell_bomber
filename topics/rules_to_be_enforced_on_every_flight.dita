@@ -21,18 +21,22 @@
                 <indexterm>inspections</indexterm>
                 <indexterm>interphone</indexterm>
             </keywords>
-        </metadata> 
+        </metadata>
     </prolog>
     <refbody>
         <section id="smoking">
             <title>Smoking</title>
-            <image keyref="img_cartoon-no_smoking_under_1000_feet" id="image_att_5cm_cgb"
-                placement="break" width="3in">
-                <alt>No smoking under 1000 feet!</alt>
-            </image>
+            <fig>
+                <title>No smoking under 1000 feet!</title>
+                <desc>Cartoon of a man hitting another man for smoking.</desc>
+                <image keyref="img_cartoon-no_smoking_under_1000_feet" id="image_att_5cm_cgb"
+                    placement="break" width="3in">
+                    <alt>Warning: Do not smoke below 1000 feet!</alt>
+                </image>
+            </fig>
             <ol>
                 <li>No smoking in airplane at an altitude below 1000 feet.</li>
-                <li>No smoking during fuel transfer.</li>
+                <li>No smoking during fuel transfer. </li>
                 <li>Never attempt to throw a lighted cigarette from the airplane. Put it out
                     first.</li>
             </ol>
