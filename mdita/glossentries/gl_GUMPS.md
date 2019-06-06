@@ -1,4 +1,4 @@
-# GUMP {#gl_GUMPS .glossentry}
+# GUMPS {#gl_GUMPS .glossentry}
 
 GUMPS stands for:
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="gl_GUMPS">
-    <glossterm>GUMP</glossterm>
+    <glossterm>GUMPS</glossterm>
     <glossdef>GUMPS stands for:<ul id="ul_j1p_pcw_3gb">
             <li><b>G</b> – Gas (Fuel on the proper tank, fuel pump on as required, positive fuel
                 pressure)</li>
@@ -14,6 +14,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="5. Jun. 2019"/>
         </critdates>
     </prolog>
     <glossBody>
