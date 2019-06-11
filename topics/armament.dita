@@ -23,9 +23,14 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_armament" id="image_ukc_wkm_cgb">
-            <alt>Armament</alt>
-        </image>
+        <fig>
+            <title>Armament</title>
+            <desc>Picture of an airplane in flight that has dropped a torpedo at a nearby
+                ship.</desc>
+            <image keyref="img_armament" id="image_ukc_wkm_cgb" width="6in">
+                <alt><keyword keyref="designator"/> dropping a torpedo.</alt>
+            </image>
+        </fig>
         <p>Safe handling and operation require thorough knowledge arid practice on this equipment,
             under the supervision of a competent instructor.</p>
         <section id="sect_Bombing">
@@ -40,9 +45,14 @@
                 compartment.</p>
             <p>On the <keyword keyref="designator"/> G and H, the bomb bay and bombing controls are
                 in the pilot's compartment.</p>
-            <image keyref="img_bomb_bay" id="image_swf_klm_cgb" placement="break" width="3in">
-                <alt>Bomb bay</alt>
-            </image>
+            <fig>
+                <title>Bomb bay</title>
+                <desc>Image of four large bombs contained within the bomb bay of an airplane.</desc>
+                <image keyref="img_bomb_bay" id="image_swf_klm_cgb" width="3in">
+                    <alt>Bomb bay of the <keyword keyref="designator"/> holding four large
+                        bombs.</alt>
+                </image>
+            </fig>
             <p>On the <keyword keyref="designator"/> J, the bombardment controls are in both the
                 bombardier's and pilot's compartments.</p>
             <p>Controls in the pilot's compartment will salvo both bomb load and bomb bay tanks.
@@ -57,19 +67,25 @@
             <title>Gunnery</title>
             <p>Gunnery equipment varies greatly in different series airplanes. They are as follows:
                     <keyword keyref="designator"/> C and D,</p>
-            <image keyref="img_B-25_CD_50-cal_nose_gun" id="image_vt2_plm_cgb" placement="break"
-                width="3in">
-                <alt><keyword keyref="designator"/> C and D 50-cal_nose_gun</alt>
-            </image>
-            <p>One <ph conkeyref="caliber_fixed_singular/caliber_fixed_singular"/> nose gun is mounted on the right side of the bombardier's
-                compartment. The pilot fires this gun and the bombardier charges it. There is a type
-                N-3B optical gunsight on the upper left side of the instrument panel.</p>
+            <fig>
+                <title><keyword keyref="designator"/> C and D 50-cal nose gun</title>
+                <desc>Image of a windowed part of an airplane with two types of large caliber
+                    machine guns.</desc>
+                <image keyref="img_B-25_CD_50-cal_nose_gun" id="image_vt2_plm_cgb" width="3in">
+                    <alt>Examples of nose guns.</alt>
+                </image>
+            </fig>
+            <p>One <ph conkeyref="caliber_fixed_singular/caliber_fixed_singular"/> nose gun is
+                mounted on the right side of the bombardier's compartment. The pilot fires this gun
+                and the bombardier charges it. There is a type N-3B optical gunsight on the upper
+                left side of the instrument panel.</p>
             <p>One flexible .5fl-cal. nose gun, in a ball-and-socket mount, is directly above the
                 bombsight window. The bombardier fires this gun, which has a ring-and-post
                 sight.</p>
             <p>There is an electrically powered Bendix upper turret in the radio gunner's
-                compartment. This turret carries two <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/> fired by either the radio
-                operator or the gunner, and has a type N-6A optical gunsight.</p>
+                compartment. This turret carries two <ph
+                    conkeyref="caliber_generic_plural/caliber_generic_plural"/> fired by either the
+                radio operator or the gunner, and has a type N-6A optical gunsight.</p>
         </section>
         <section id="sect_B-25G">
             <title><keyword keyref="designator"/> G</title>
@@ -77,16 +93,24 @@
                 compartment and fires through the nose. The pilot fires the cannon and the cannoneer
                 loads it. There is a type N-3B optical gunsight on the left side of the pilot's
                 instrument panel for the forward-firing guns.</p>
-            <p>Two forward-firing, <ph conkeyref="caliber_fixed_plural/caliber_fixed_plural"/> are in the nose. The pilot charges and fires
-                these guns.</p>
-            <p>There is a Bendix upper turret in the radio gunner's compartment. It carries two
-                <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/>, fired by either the radio operator or the gunner, and has a type N-6A
-                optical gunsight.</p>
-            <p>A few modified G's carry <ph conkeyref="caliber_flexible_singular/caliber_flexible_singular"/> waist guns J blister guns, and one
-                <ph conkeyref="caliber_flexible_singular/caliber_flexible_singular"/> tail gun.</p>
-            <image keyref="img_B-25_G_nose_guns" id="image_ibl_rlm_cgb" placement="break" width="3in">
-                <alt><keyword keyref="designator"/> G nose guns</alt>
-            </image>
+            <p>Two forward-firing, <ph conkeyref="caliber_fixed_plural/caliber_fixed_plural"/> are
+                in the nose. The pilot charges and fires these guns.</p>
+            <p>There is a Bendix upper turret in the radio gunner's compartment. It carries two <ph
+                    conkeyref="caliber_generic_plural/caliber_generic_plural"/>, fired by either the
+                radio operator or the gunner, and has a type N-6A optical gunsight.</p>
+            <p>A few modified G's carry <ph
+                    conkeyref="caliber_flexible_singular/caliber_flexible_singular"/> waist guns J
+                blister guns, and one <ph
+                    conkeyref="caliber_flexible_singular/caliber_flexible_singular"/> tail gun.</p>
+            <fig>
+                <title><keyword keyref="designator"/> G nose guns</title>
+                <desc>Photo of a set of four, fixed large caliber machine guns along with a single,
+                    fixed cannon on an airplane.</desc>
+                <image keyref="img_B-25_G_nose_guns" id="image_ibl_rlm_cgb" width="3in">
+                    <alt>Large caliber fixed machine guns and cannon on the <keyword
+                            keyref="designator"/> G.</alt>
+                </image>
+            </fig>
         </section>
         <section id="sect_B-25H">
             <title><keyword keyref="designator"/> H</title>
@@ -94,40 +118,58 @@
                 compartment and fires through the nose. The pilot fires the cannon and the cannoneer
                 loads it. A type N-3B optical gunsight for the forward-firing guns is on the left
                 side of the pilot's instrument panel.</p>
-            <p>Four forward-firing, .50-cai. fixed guns are in the nose section. The pilot fires
-                these guns, which are charged in the navigator-cannoneer's compartment.</p>
-            <p>Two or four fixed <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/> are mounted in blisters on each side of the plane.
-                The cannoneer charges these guns and the pilot fires them.</p>
+            <p>Four forward-firing, <ph conkeyref="caliber_fixed_plural/caliber_fixed_plural"/>
+                are in the nose section. The pilot fires these guns, which are charged in the
+                navigator-cannoneer's compartment.</p>
+            <p>Two or four fixed <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/> are
+                mounted in blisters on each side of the plane. The cannoneer charges these guns and
+                the pilot fires them.</p>
             <p>A Bendix upper turret, in the aft portion of the cannoneer's compartment, carries two
-                <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/>, fired by the engineer, and has an N-6A gunsight.</p>
-            <p>Two flexible <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/> in Plexiglas windows, one at each side of the fuselage aft
-                of the bomb bay, are fired by the radio operator. They have ring-and-post
-                sights.</p>
-            <p>A Bell model M-7 electric-hydraulic turret with two <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/> and a type N-8
+                    <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/>, fired by the
+                engineer, and has an N-6A gunsight.</p>
+            <p>Two flexible <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/> in
+                Plexiglas windows, one at each side of the fuselage aft of the bomb bay, are fired
+                by the radio operator. They have ring-and-post sights.</p>
+            <p>A Bell model M-7 electric-hydraulic turret with two <ph
+                    conkeyref="caliber_generic_plural/caliber_generic_plural"/> and a type N-8
                 gunsight is in the tail. A tail gunner operates this turret.</p>
-            <image keyref="img_B-25_H_nose_guns" id="image_rms_tlm_cgb" placement="break" width="5in">
-                <alt><keyword keyref="designator"/> H nose guns</alt>
-            </image>
+            <fig>
+                <title><keyword keyref="designator"/> H nose guns</title>
+                <desc>Diagram of a set of four, fixed large caliber machine guns along with a
+                    cutaway showing the placement of a single, fixed cannon on an airplane.</desc>
+                <image keyref="img_B-25_H_nose_guns" id="image_rms_tlm_cgb" width="5in">
+                    <alt>Large caliber fixed machine guns and cannon on the <keyword
+                            keyref="designator"/> H.</alt>
+                </image>
+            </fig>
         </section>
         <section id="sect_B-25J">
             <title><keyword keyref="designator"/> J</title>
-            <p>There is one or two forward-fixing, <ph conkeyref="caliber_fixed_singular/caliber_fixed_singular"/> nose gun. The bombardier charges
-                this gun and the pilot fires it. The bombardier fires one flexible <ph conkeyref="caliber_generic_singular/caliber_generic_singular"/> in
-                the nose.</p>
-            <p>Four fixed <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/> are installed in blisters, two on each side of the fuselage.
-                The cannoneer charges these guns and the pilot fires them.</p>
+            <p>There is one or two forward-fixing, <ph
+                    conkeyref="caliber_fixed_singular/caliber_fixed_singular"/> nose gun. The
+                bombardier charges this gun and the pilot fires it. The bombardier fires one
+                flexible <ph conkeyref="caliber_generic_singular/caliber_generic_singular"/> in the
+                nose.</p>
+            <p>Four fixed <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/> are
+                installed in blisters, two on each side of the fuselage. The cannoneer charges these
+                guns and the pilot fires them.</p>
             <p>A type N-3B optical gunsight governs the forward-firing guns.</p>
             <p>A Bendix upper turret, in the aft portion of the cannoneer's compartment, carries two
-                <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/>, fired by the engineer, and has an N-6A gunsight.</p>
-            <p>Two flexible <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/> in Plexiglas windows, one at each side of the fuselage aft
-                of the bomb bay, are fired by the radio operator. They have ring-and-bead or optical
-                sights.</p>
-            <p>A Bell model M-7 electric-hydraulic turret with two <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/> and a type N-8
+                    <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/>, fired by the
+                engineer, and has an N-6A gunsight.</p>
+            <p>Two flexible <ph conkeyref="caliber_generic_plural/caliber_generic_plural"/> in
+                Plexiglas windows, one at each side of the fuselage aft of the bomb bay, are fired
+                by the radio operator. They have ring-and-bead or optical sights.</p>
+            <p>A Bell model M-7 electric-hydraulic turret with two <ph
+                    conkeyref="caliber_generic_plural/caliber_generic_plural"/> and a type N-8
                 gunsight is in the tail and is operated by a tail gunner.</p>
-            <image keyref="img_B-25_J_gun_locations" id="image_ddp_vlm_cgb" placement="break"
-                width="6in">
-                <alt><keyword keyref="designator"/> J gun locations</alt>
-            </image>
+            <fig>
+                <title><keyword keyref="designator"/> J gun locations</title>
+                <desc>Diagram of an airplane depicting where all of its guns are located.</desc>
+                <image keyref="img_B-25_J_gun_locations" id="image_ddp_vlm_cgb" width="6in">
+                    <alt>Locations of the guns on a <keyword keyref="designator"/> J.</alt>
+                </image>
+            </fig>
         </section>
     </conbody>
 </concept>

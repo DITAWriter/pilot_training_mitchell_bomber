@@ -19,9 +19,13 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_photographic_equipment" id="image_k1c_rmm_cgb">
-            <alt>Photographic equipment</alt>
-        </image>
+        <fig>
+            <title>Photographic equipment</title>
+            <desc>Drawing of a large camera mechanism pointing downwards.</desc>
+            <image keyref="img_photographic_equipment" id="image_k1c_rmm_cgb" width="6in">
+                <alt>The photographic equipment that may be present on a <keyword keyref="designator"/>.</alt>
+            </image>
+        </fig>
         <p>On late-model airplanes it is immediately aft of the bomb bay. Vertical photographs are
             made through a camera opening in the fuselage floor. A vertical viewfinder mounting
             plate and openings are in the fuselage floor just aft of the camera opening. There is a

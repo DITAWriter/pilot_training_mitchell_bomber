@@ -22,9 +22,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_power_plant" id="image_bqn_hhm_cgb" placement="break" width="4in">
-            <alt>Power plant</alt>
-        </image>
+        <fig><title>Power plant</title><desc>Drawing of a single, enclosed airplane engine with three props on its propeller.</desc><image keyref="img_power_plant" id="image_bqn_hhm_cgb" placement="break" width="4in"><alt><keyword keyref="engine_manufacturer"/> Cyclone 14-cylinder, double-row radial engine.</alt></image></fig>
         <p>The operation of these two series is similar. Primarily air cooled, these engines have
             two secondary methods of cooling:</p>
         <ol>
@@ -146,10 +144,11 @@
                 <li>A number of instrument fittings complete this section.</li>
             </ol>
         </section>
-        <section id="carburetor"><title>Carburetor</title><image keyref="img_holley_carburetor"
+        <section id="carburetor"><title>Carburetor</title>
+            <fig><title>The Holley Carburetor</title><desc>Detailed cut-away diagram showing all of the parts of a carburetor.</desc><image keyref="img_holley_carburetor"
                 id="image_qhr_khm_cgb">
-                <alt>The Holley Carburetor</alt>
-            </image><p>Holley variable-venturi carburetors operating at pressures of 6 to 7 lb. sq.
+                <alt>Holley Carburetor</alt>
+            </image></fig><p>Holley variable-venturi carburetors operating at pressures of 6 to 7 lb. sq.
                 in. supply the engines with fuel.</p><p>The carburetors are the pressure-metering
                 type. By operating the throttles, you control the amount of air passing the venturi
                 throats; the air, by its varying pressures, measures the amount of fuel allowed to

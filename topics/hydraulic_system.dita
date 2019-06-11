@@ -28,9 +28,14 @@
             <li>Automatic Pilot</li>
             <li>Gun Chargers</li>
         </ol>
-        <image keyref="img_hydraulic_system" id="image_w5x_qjm_cgb">
-            <alt>Hydraulic system</alt>
-        </image>
+        <fig>
+            <title>Hydraulic system</title>
+            <desc>Diagram showing piping going to various places in an airplane fuselage and
+                engines</desc>
+            <image keyref="img_hydraulic_system" id="image_w5x_qjm_cgb">
+                <alt><keyword keyref="designator"/> hydraulic system.</alt>
+            </image>
+        </fig>
         <p>The reservoir which contains the hydraulic fluid has a capacity of 5.9 gallons. A
             standpipe in the reservoir retains a reserve of 2.33 gallons for the emergency hand
             pump.</p>

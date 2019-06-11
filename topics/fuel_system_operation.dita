@@ -21,12 +21,23 @@
     </prolog>
     <taskbody>
         <context>
-            <image keyref="img_fuel_system_normal_ops" placement="break">
-                <alt>Normal operation</alt>
-            </image>
-            <image placement="break" keyref="img_fuel_aux_transfer">
-                <alt>Auxiliary fuel transfer</alt>
-            </image>
+            <fig>
+                <title>Normal operation</title>
+                <desc>Diagram showing the components of the fuel system of an aircraft in normal
+                    operation.</desc>
+                <image keyref="img_fuel_system_normal_ops" width="6in">
+                    <alt>Fuel system for the <keyword keyref="designator"/> in normal operating
+                        mode.</alt>
+                </image>
+            </fig>
+            <fig>
+                <title>Auxiliary fuel transfer</title>
+                <desc>Diagram showing the components of the fuel system of an aircraft when
+                    transferring fuel for auxiliary tanks.</desc>
+                <image keyref="img_fuel_aux_transfer" width="6in">
+                    <alt>Transferring fuel from the auxiliary tanks.</alt>
+                </image>
+            </fig>
             <p>To use auxiliary fuel you must first get it into the front main cells.</p>
             <p>To transfer fuel from the auxiliary wing cells:</p>
         </context>

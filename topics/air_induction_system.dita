@@ -18,16 +18,26 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_air_induction_system" id="image_gvn_13m_cgb">
-            <alt>Air induction system</alt>
-        </image>
+        <fig>
+            <title>Air induction system</title>
+            <desc>Drawing showing the filter, baffles, and other parts relating to bringing air into
+                the engine.</desc>
+            <image keyref="img_air_induction_system" id="image_gvn_13m_cgb">
+                <alt>Air induction system</alt>
+            </image>
+        </fig>
         <p>A carburetor heat control provides an alternate source of air, allowing heated air to
             flow from around the cylinder heads to the system.</p>
         <p>Normally there is a baffle in the air-mixing chamber. Air entering horizontally through
             the cold-air intake is deflected down into the carburetor inlet. Under dusty atmospheric
             conditions an air filter in the air-mixing chamber replaces the baffle.</p>
-        <image keyref="img_carburetor_air_flow" id="image_lnp_d3m_cgb" width="3in">
-            <alt>Carburetor air flow</alt>
-        </image>
+        <fig>
+            <title>Carburetor air flow</title>
+            <desc>Two cut away diagrams depciting the air flow within a carburetor when the warm or
+                cold air door is closed.</desc>
+            <image keyref="img_carburetor_air_flow" id="image_lnp_d3m_cgb" width="3in">
+                <alt>Air flow within the carburetor</alt>
+            </image>
+        </fig>
     </conbody>
 </concept>

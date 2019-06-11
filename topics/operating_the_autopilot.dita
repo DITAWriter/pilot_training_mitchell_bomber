@@ -19,32 +19,34 @@
     </prolog>
     <conbody>
         <fig id="fig_OperatingAutopilot">
-            <title>Operating the autopilot</title>
-            <image placement="break" keyref="img_autopilot_diag"/>
-            <ol>
-                <li>Rudder Control Knob</li>
-                <li>Rudder Follow-up Card</li>
-                <li>Directional Gyro Card</li>
-                <li>Ball Bank Indicator</li>
-                <li>Caging Knobs</li>
-                <li>Installation Bolts </li>
-                <li>Banking Scale</li>
-                <li>Horizon Bar </li>
-                <li>Miniature Airplane</li>
-                <li>Horizon Dial</li>
-                <li>Directional Gyro Unit </li>
-                <li>Bank and Climb Gyro Unit </li>
-                <li>Valve Adjustment Reference Dial</li>
-                <li>Valve Adjustment Knobs</li>
-                <li>Miniature Airplane Adjusting Knob</li>
-                <li>Elevator Alignment Index</li>
-                <li>Elevator Follow-up Index</li>
-                <li>Suction Gage</li>
-                <li>Elevator Control Knob</li>
-                <li>Aileron Follow-up Index</li>
-                <li>Bank Index</li>
-                <li>Aileron Control Knob</li>
-            </ol>
+            <title>Operating the autopilot</title><desc>Photograph with numbers depicting the various parts of the autopilot.</desc>
+            <image keyref="img_autopilot_diag" width="6in">
+                
+                <ol>
+                    <li>Rudder Control Knob</li>
+                    <li>Rudder Follow-up Card</li>
+                    <li>Directional Gyro Card</li>
+                    <li>Ball Bank Indicator</li>
+                    <li>Caging Knobs</li>
+                    <li>Installation Bolts </li>
+                    <li>Banking Scale</li>
+                    <li>Horizon Bar </li>
+                    <li>Miniature Airplane</li>
+                    <li>Horizon Dial</li>
+                    <li>Directional Gyro Unit </li>
+                    <li>Bank and Climb Gyro Unit </li>
+                    <li>Valve Adjustment Reference Dial</li>
+                    <li>Valve Adjustment Knobs</li>
+                    <li>Miniature Airplane Adjusting Knob</li>
+                    <li>Elevator Alignment Index</li>
+                    <li>Elevator Follow-up Index</li>
+                    <li>Suction Gage</li>
+                    <li>Elevator Control Knob</li>
+                    <li>Aileron Follow-up Index</li>
+                    <li>Bank Index</li>
+                    <li>Aileron Control Knob</li>
+                </ol>
+<alt>The autopilot mechanism.</alt>            </image>
         </fig>
         <p>It's OK to let Elmer take over and do some of your flying for you, particularly to
             relieve you of the strain caused by long over-water flights. Or, if you are cruising
@@ -91,12 +93,23 @@
                 <li>Set Servo controls at No. 4.</li>
                 <li>Set rudder follow-up card to match directional gyro card.</li>
                 <li>Set aileron follow-up card to match bank index.<p>
-                        <image placement="break" keyref="img_autopilot_climb_limits" width="3in">
-                            <alt>Autopilot climbing or gliding operating limits</alt>
-                        </image>
-                        <image placement="break" keyref="img_autopilot_bank_limits" width="3in">
-                            <alt>Autopilot banking operating limits</alt>
-                        </image>
+                        <fig>
+                            <title>Autopilot climbing or gliding operating limits</title>
+                            <desc>Two diagrams depciting various angles at which the autopilot
+                                operates when climbing or gliding.</desc>
+                            <image keyref="img_autopilot_climb_limits" width="3in">
+                                <alt>Operational limits for the autopilot when climbing or
+                                    gliding.</alt>
+                            </image>
+                        </fig>
+                        <fig>
+                            <title>Autopilot banking operating limits</title>
+                            <desc>Two diagrams depciting various angles at which the autopilot
+                                operates when banking.</desc>
+                            <image keyref="img_autopilot_bank_limits" width="3in">
+                                <alt>Operational limits for the autopilot when banking.</alt>
+                            </image>
+                        </fig>
                     </p></li>
                 <li>Set elevator follow-up card to match elevator alignment index.<note
                         type="caution">Do not set the elevator follow-up card to match the horizon

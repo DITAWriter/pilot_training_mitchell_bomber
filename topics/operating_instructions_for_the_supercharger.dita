@@ -87,10 +87,24 @@
             </step>
         </steps>
         <example>
-            <image placement="break" keyref="img_low_blower_to_high_blower" width="3in"/>
+            <fig>
+                <title>Shifting the supercharger down.</title>
+                <desc>Image of a hand pulling two levers on a control system down
+                    simultaneously.</desc>
+                <image keyref="img_low_blower_to_high_blower" width="3in">
+                    <alt>Turning on the supercharger.</alt>
+                </image>
+            </fig>
         </example>
         <example>
-            <image placement="break" keyref="img_high_blower_to_low_blower" width="3in"/>
+            <fig>
+                <title>Shifting the supercharger up.</title>
+                <desc>Image of a hand pulling two levers on a control system up
+                    simultaneously.</desc>
+                <image keyref="img_high_blower_to_low_blower" width="3in">
+                    <alt>Turning off the supercharger.</alt>
+                </image>
+            </fig>
         </example>
     </taskbody>
 </task>

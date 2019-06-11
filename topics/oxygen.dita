@@ -23,9 +23,8 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_oxygen_mask" id="image_bq3_bmm_cgb" placement="break" width="3in">
-            <alt>Oxygen mask</alt>
-        </image>
+        <fig><title>Oxygen mask</title><desc>Image of a man in flight gear wearing an oxygen mask.</desc><image keyref="img_oxygen_mask" id="image_bq3_bmm_cgb" width="3in"><alt>How to wear an oxygen mask.</alt></image></fig>
+
         <p>The permanent oxygen system is of the low-pressure type, operating at an average starting
             pressure of 400 lb. sq. in. There are three low-pressure oxygen cylinders in each
             nacelle, two at the front and one at the rear. The cylinders, held in place by padded
@@ -40,9 +39,8 @@
             simplifying regulator adjustment.</p>
         <fig id="fig_OxyRegulators">
             <title>Oxygen Regulators</title>
-            <image keyref="img_oxygen_regulator_location" placement="break" width="6in">
-                <alt>Oxygen regulator locations</alt>
-            </image>
+            <desc>Diagram of an airpline showing tubing locations for the oxygen regulators.</desc><image keyref="img_oxygen_regulator_location" width="6in"><alt>Oxygen regulator locations.</alt></image>
+
             <ol>
                 <li>Bombardier</li>
                 <li>Navigator</li>
@@ -57,9 +55,8 @@
         <p>An outlet tube extends outward from the bottom of each regulator, and the hose from the
             oxygen mask slips over this tube. The outlet tube of the upper turret operator's
             regulator is on the upper turret support column.</p>
-        <image keyref="img_oxygen_regulator" id="image_cdr_mmm_cgb" placement="break" width="3in">
-            <alt>Oxygen regulator</alt>
-        </image>
+        <fig><title>Oxygen regulator</title><desc>Image of a device with dial and two metal tubes running from it.</desc><image keyref="img_oxygen_regulator" id="image_cdr_mmm_cgb" width="3in"><alt>Image of an oxygen regulator.</alt></image></fig>
+
         <p>When oxygen is not being drawn from a regulator, be sure that the valve is completely
             closed to prevent leakage.</p>
         <p>Type A-8B masks are used with this system and permit breathing through either the mouth
@@ -87,9 +84,8 @@
         <p>An A-10 revised or A-14 type mask may be used with the portable oxygen unit. Before any
             flight on which you expect to use oxygen, see that the mask is of the proper type and is
             the correct size and shape for your face.</p>
-        <image keyref="img_oxygen_portable_unit" id="image_es4_4mm_cgb" placement="break" width="3in">
-            <alt>Portable oxygen unit</alt>
-        </image>
+        <fig><title>Portable oxygen unit</title><desc>Image of a device with valves, a hose, and a breathing mask.</desc><image keyref="img_oxygen_portable_unit" id="image_es4_4mm_cgb" width="3in"><alt>Image of a portable oxygen unit.</alt></image></fig>
+        
         <note type="danger">Keep all oxygen equipment free from contact with oil or grease. Failure
             to do this may result in an explosion.</note>
     </conbody>

@@ -26,9 +26,13 @@
     <conbody>
         <p>The batteries, behind the firewall in each nacelle, furnish 24-volt current to the
             electrical equipment when the generators are not operating.</p>
-        <image keyref="img_storage_battery" id="image_cp2_y3m_cgb" width="4in">
-            <alt>Storage battery</alt>
-        </image>
+        <fig>
+            <title>Battery</title>
+            <desc>Diagram showing a black box with electrical leads.</desc>
+            <image keyref="img_storage_battery" id="image_cp2_y3m_cgb" width="4in">
+                <alt>Storage battery</alt>
+            </image>
+        </fig>
         <p>Battery-disconnect solenoids connect the batteries to the electrical system. (On late
             series aircraft B-4 relays replace these solenoids.) The solenoids are in the power
             panel junction box and are controlled by switches on the pilot's switch panel. Both are
@@ -58,7 +62,7 @@
         <p>The current to the starter passes through the starter solenoid in the power panel
             junction box. This solenoid is operated by the energizing switch on the pilot's
             pedestal. After the inertia is built up, 2 jaws&#8212;one on the starter and one on the
-            end of the engine crankshaft &#8212;transfer it to the engine. This action is
+            end of the engine crankshaft&#8212;transfer it to the engine. This action is
             accomplished by the meshing solenoid in the starter operated by the meshing switch on
             the pilot's pedestal.</p>
         <p>These switches, used for both engines, are 3-position, spring-loaded switches.</p>

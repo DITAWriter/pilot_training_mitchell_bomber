@@ -24,9 +24,14 @@
     </prolog>
     <conbody>
         <section id="sect_ExtLighting"><title>Exterior Lighting</title>
-            <image keyref="img_lighting_equipment">
-                <alt><keyword keyref="designator"/> lighting equipment</alt>
-            </image>
+            <fig>
+                <title><keyword keyref="designator"/> lighting equipment</title>
+                <desc>Top-down diagam of an airplane highlighting various positions where external
+                    lights are located.</desc>
+                <image keyref="img_lighting_equipment">
+                    <alt><keyword keyref="aircraft_name"/> lighting equipment</alt>
+                </image>
+            </fig>
             <p>Landing Lights&#8212;An 8-inch, sealed-beam landing light is in the leading edge of
                 each outer wing panel and is operated by a switch on the pilot's control
                 pedestal.</p><p>Passing Light&#8212;Located beside the landing light in the left
@@ -66,10 +71,15 @@
                 in the bombardier's compartment and on the pilot's and copilot's control columns.
                 Intensity of these lights is adjustable by rheostats, adjacent to the
                 lamps.</p><p>The pilot's magnetic compass light is in the compass itself; a rheostat
-                on the pilot's switch panel controls it.</p>All optical gunsight lights are inside
-            the sights. The rheostats which control them are near each unit. <image
-                keyref="img_landing_lights">
-                <alt>Landing lights</alt>
-            </image></section>
+                on the pilot's switch panel controls it.</p><p>All optical gunsight lights are
+                inside the sights. The rheostats which control them are near each unit.</p>
+            <fig>
+                <title>Landing lights</title>
+                <desc>Drawing depicting beams of light coming from an airplane that is about to
+                    land.</desc>
+                <image keyref="img_landing_lights" width="6in">
+                    <alt><keyword keyref="designator"/> landing lights.</alt>
+                </image>
+            </fig></section>
     </conbody>
 </concept>

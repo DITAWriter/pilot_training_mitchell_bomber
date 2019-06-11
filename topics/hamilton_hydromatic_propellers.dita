@@ -24,9 +24,13 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_hamilton_hydromatic_props" id="image_vxf_3jm_cgb">
-            <alt><keyword keyref="propeller_manufacturer"/> hydromatic props</alt>
-        </image>
+        <fig>
+            <title><keyword keyref="propeller_manufacturer"/> hydromatic props</title>
+            <desc>Image of a propeller depicting counter-clockwise rotation.</desc>
+            <image keyref="img_hamilton_hydromatic_props" id="image_vxf_3jm_cgb" width="6in">
+                <alt>The hydromatic props</alt>
+            </image>
+        </fig>
         <p>Their special features are automatic constant-engine-speed operation and the ability to
             feather and unfeather quickly in an emergency.</p>
         <p>The actuating mechanisms operate in an oil bath, thereby minimizing wear and the chance
@@ -43,11 +47,16 @@
                 motion of the piston to circular movement by the cams. Oil pressure drives the
                 piston forward or backward.</p>
         </section>
-        <section id="sect_ConstantSpeedCtrl"><title>Constant-speed Control</title><image
-                keyref="img_constant_speed_control" id="image_er4_kjm_cgb" placement="break"
-                width="6in">
-                <alt>Costant speed control</alt>
-            </image><p>The propeller governor assembly maintains rpm settings established by the
+        <section id="sect_ConstantSpeedCtrl"><title>Constant-speed Control</title>
+            <fig>
+                <title>Constant-speed control</title>
+                <desc>Diagram depicting gear connections for the constant-speed control
+                    mechanism.</desc>
+                <image keyref="img_constant_speed_control" id="image_er4_kjm_cgb" placement="break"
+                    width="6in">
+                    <alt>The propeller governor assembly.</alt>
+                </image>
+            </fig><p>The propeller governor assembly maintains rpm settings established by the
                 pilot.</p><p>The governor consists of 2 flyweights geared to the operation of the
                 crankshaft. These fly-weights adjust the load on the engine by raising or lowering a
                 pilot valve which allows oil under pressure to be metered to the propeller dome,
@@ -67,10 +76,14 @@
                 the blades, plus engine oil pressure on the outboard side of the piston, moves the
                 blades to a lower angle, thus increasing engine rpm to the selected
             setting.</p></section>
-        <section id="sect_Feathering"><title>Feathering</title><image keyref="img_feathering"
-                id="image_zcc_mjm_cgb" width="3in">
-                <alt>Feathering</alt>
-            </image><p>You feather a propeller by actuating the feathering control button on the
+        <section id="sect_Feathering"><title>Feathering the propeller</title>
+            <fig>
+                <title>Feathering the propeller</title>
+                <desc>Image showing a propeller blades at different blade angles.</desc>
+                <image keyref="img_feathering" id="image_zcc_mjm_cgb" width="3in">
+                    <alt>How feathering affects the angle of the propeller.</alt>
+                </image>
+            </fig><p>You feather a propeller by actuating the feathering control button on the
                 pilot's pedestal. An electric feathering pump supplies oil at 400 lb. sq. in.
                 through a transfer valve. Through this valve the oil bypasses the governor to the
                 propeller dome. Pressure is then built up on the inboard side of the piston,
