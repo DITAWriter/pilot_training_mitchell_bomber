@@ -58,7 +58,7 @@
             <p><b>You must fill out this Form F before every flight.</b> One copy is filed and one
                 copy remains in the <cite>Weight and Balance Handbook</cite> of the plane.</p>
             <p>For instructions on the use of the load adjuster see the <term keyref="gl_PIF">PIF</term> or T.O. Ol-lB-40.</p>
-            <image placement="break" keyref="img_weight_form_F" id="image_b5r_ptv_3gb"/>
+            <fig><title>Form M</title><desc>Image of a form which has the title "Weight and Balance Clearance: Form F".</desc><image keyref="img_weight_form_F" id="image_b5r_ptv_3gb" width="6in"><alt>The Weight and Balance Clearance form.</alt></image></fig>
         </section>
     </conbody>
 </concept>

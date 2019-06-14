@@ -23,9 +23,15 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_weight_and_balance" id="image_akk_ddv_3gb">
-            <alt>Weight and Balance</alt>
-        </image>
+        <fig>
+            <title>Weight and Balance</title>
+            <desc>Image presenting a heavy weight near a fulcrum, and a distant, smaller weight
+                balancing things out on the other side of the lever arm.</desc>
+            <image keyref="img_weight_and_balance" id="image_akk_ddv_3gb" width="6in">
+                <alt>Getting the balance right is crucial when flying a <keyword keyref="designator"
+                    />.</alt>
+            </image>
+        </fig>
         <p>In the loading of heavy bombers this is especially true. Ever-changing tactical
             requirements, calling for more and more complex combinations of cargo, fuel, crew, and
             armament, have made any but precise, accurate methods too dangerous to consider. This
@@ -36,12 +42,24 @@
         <p>At its worst, it may mean failure to complete a flight, and sometimes failure even to
             start a flight, in most cases with a loss of life and destruction of valuable
             equipment.</p>
-        <image placement="break" keyref="img_weight_cg" id="image_gft_2dv_3gb" width="4in"/>
+        <fig>
+            <title>Balancing the weight distribution across a <keyword keyref="designator"/></title>
+            <desc>Image of an airplane balanced on a fulcrum near where the wings would be, showing that 3lbs at the front of a plane can be offset by 1lb at the back.</desc>
+            <image keyref="img_weight_cg" id="image_gft_2dv_3gb" width="4in">
+                <alt><keyword keyref="designator"/> weight balance.</alt>
+            </image>
+        </fig>
         <section id="sect_Overload">
             <title>Overload</title>
-            <image placement="break" keyref="img_weight_overload" id="image_gyz_gdv_3gb" width="3in">
-                <alt>Structural failure</alt>
-            </image>
+            <fig>
+                <title>Structural failure</title>
+                <desc>Image of a balance that is broken at the fulcrum due to two heavy weights at
+                    either end.</desc>
+                <image keyref="img_weight_overload" id="image_gyz_gdv_3gb" width="3in">
+                    <alt>Do not overload the <keyword keyref="designator"/>, or structural failure
+                        may result.</alt>
+                </image>
+            </fig>
             <ol id="ol_q34_rcv_3gb">
                 <li>Causes higher stalling speeds.</li>
                 <li>Lowers structural safety Limits.</li>
@@ -54,10 +72,16 @@
             </ol>
         </section>
         <section id="sect_NoseTooHeavy">
-            <title>CG Too Far Forward</title>
-            <image placement="break" keyref="img_weight_nose_heavy" id="image_fjt_3dv_3gb" width="3in">
-                <alt>Nose heavy</alt>
-            </image>
+            <title>Center of Gravity Too Far Forward</title>
+            <fig>
+                <title>Nose heavy</title>
+                <desc>Image of a balance with a heavy weight on the left side forcing up a small
+                    weight to the right; below an image of an airplane with its nose pitched
+                    down.</desc>
+                <image keyref="img_weight_nose_heavy" id="image_fjt_3dv_3gb" width="3in">
+                    <alt>Ensure that the <keyword keyref="designator"/> is not nose heavy.</alt>
+                </image>
+            </fig>
             <ol id="ol_d4w_rcv_3gb">
                 <li>Increases dives beyond control.</li>
                 <li>Causes unstable, nose-down tendencies when flaps are lowered.</li>
@@ -68,10 +92,16 @@
             </ol>
         </section>
         <section id="sect_CGTooFarAft">
-            <title>CG Too Far Aft</title>
-            <image placement="break" keyref="img_weight_tail_heavy" id="image_t5d_4dv_3gb" width="3in">
-                <alt>Tail heavy</alt>
-            </image>
+            <title>Center of Gravity Too Far Aft</title>
+            <fig>
+                <title>Tail heavy</title>
+                <desc>Image of a balance with a heavy weight on the right side forcing up a small
+                    weight to the left; below an image of an airplane with its nose pitched
+                    up.</desc>
+                <image keyref="img_weight_tail_heavy" id="image_t5d_4dv_3gb" width="3in">
+                    <alt>Ensure that the <keyword keyref="designator"/> is not tail heavy.</alt>
+                </image>
+            </fig>
             <ol id="ol_vjd_scv_3gb">
                 <li>Increases stall tendency.</li>
                 <li>Limits low power operation.</li>

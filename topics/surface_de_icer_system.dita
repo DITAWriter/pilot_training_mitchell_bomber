@@ -17,9 +17,14 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_surface_deicer_system" id="image_glg_tvv_3gb">
-            <alt>Surface de-icer system</alt>
-        </image>
+        <fig>
+            <title>Surface de-icer system</title>
+            <desc>Diagram of an airplane with tubing spread throughout the wings showing where the
+                de-icing mechanisms emerge on the wings.</desc>
+            <image keyref="img_surface_deicer_system" id="image_glg_tvv_3gb" width="6in">
+                <alt><keyword keyref="designator"/> de-icing system.</alt>
+            </image>
+        </fig>
         <p>Conventional air-inflation de-icer boots are mounted on leading edges of wings and
             empennage. A rotary distributor valve in the well of the navigator's compartment
             furnishes air to the boots in a 5-phase cycle every 40 seconds.</p>

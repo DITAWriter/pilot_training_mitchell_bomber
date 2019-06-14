@@ -79,9 +79,15 @@
                 clear-vision windshield. This is a 6-ply, chemically treated glass window. The
                 outboard sections are in a neutral pressure area and may be removed in extreme icing
                 conditions to provide direct vision ahead.</p>
-            <image placement="break" keyref="img_carb_deicer_system">
-                <alt>Carburetor de-icer system</alt>
-            </image>
+            <fig>
+                <title>Carburetor de-icer system</title>
+                <desc>Detailed diagram depicting the lines to and from an airplane engine's
+                    carburetor.</desc>
+                <image keyref="img_carb_deicer_system" width="6in">
+                    <alt>De-icer system for the carburetor on the <keyword keyref="designator"
+                        />.</alt>
+                </image>
+            </fig>
         </section>
     </conbody>
 </concept>

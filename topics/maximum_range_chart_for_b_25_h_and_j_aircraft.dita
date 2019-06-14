@@ -36,7 +36,7 @@
                         <entry morerows="1">Indicated Air Speed</entry>
                         <entry namest="c3" nameend="c4">RPM</entry>
                         <entry namest="c5" nameend="c6">Manifold Pressure</entry>
-                        <entry morerows="1">Minxture Control</entry>
+                        <entry morerows="1">Mixture Control</entry>
                         <entry namest="c8" nameend="c9">Fuel Consumption (Grade 100 Only)</entry>
                     </row>
                     <row>

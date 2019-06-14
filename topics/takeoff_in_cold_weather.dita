@@ -21,8 +21,14 @@
     <taskbody>
         <context>
             <note type="warning">Your cabin heaters must be "<userinput>OFF</userinput>" before
-                    takeoff.<image placement="break" href="../images/preflight_cabin_heaters.png"
-                    width="3in"/></note>
+                    takeoff.
+                <fig>
+                    <title>Preflight cabin heaters to &quot;OFF&quot;</title>
+                    <desc>Image of a control pulled all the way back to an "OFF" position.</desc>
+                    <image keyref="img_preflight_cabin_heaters" width="3in">
+                        <alt>Check that the cabin heater control is set to "OFF". </alt>
+                    </image>
+                </fig></note>
         </context>
         <steps>
             <step>

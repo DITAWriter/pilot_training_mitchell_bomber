@@ -19,9 +19,14 @@
     </prolog>
     <taskbody>
         <context>
-            <image placement="break" keyref="img_formation_bombing">
-                <alt>Formation bombing</alt>
-            </image>
+            <fig>
+                <title>Formation bombing</title>
+                <desc>Image of two planes flying, one in the immediate foreground and another ahead
+                    and to the left.</desc>
+                <image keyref="img_formation_bombing" width="6in">
+                    <alt>Bombing in formation.</alt>
+                </image>
+            </fig>
         </context>
         <steps>
             <step>
@@ -79,7 +84,7 @@
                         <cmd>Wing ships will open bomb bay doors immediately upon seeing doors of
                             lead ship open, and bombs will be dropped on the lead ship, <b>The
                                 Bombardier-Navigator must be quick in releasing bombs after he sees
-                                the first bomb Ieave the lead ship.</b></cmd>
+                                the first bomb leave the lead ship.</b></cmd>
                     </substep>
                     <substep>
                         <cmd>Caution must be used by the lead ship at all times. Turns and maneuvers

@@ -65,6 +65,13 @@
                 <stentry>172 Miles</stentry>
             </strow>
         </simpletable>
-        <image placement="break" keyref="img_B-25_typical_missions" id="image_gxl_21w_3gb"/>
+        <fig>
+            <title>Gunnery mission</title>
+            <desc>Image of an aircraft flying low to the ground, with a distant target in
+                sight.</desc>
+            <image keyref="img_B-25_typical_missions" id="image_gxl_21w_3gb" width="6in">
+                <alt><keyword keyref="designator"/> doing a practice gunnery mission.</alt>
+            </image>
+        </fig>
     </conbody>
 </concept>

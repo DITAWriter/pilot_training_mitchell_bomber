@@ -8,8 +8,6 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
-            <!--scott.hudson-->
-            <revised modified="5. Jun. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -37,7 +35,7 @@
                         <entry morerows="1">Indicated Air Speed</entry>
                         <entry namest="c3" nameend="c4">RPM</entry>
                         <entry namest="c5" nameend="c6">Manifold Pressure</entry>
-                        <entry morerows="1">Minxture Control</entry>
+                        <entry morerows="1">Mixture Control</entry>
                         <entry namest="c8" nameend="c9">Fuel Consumption (Grade 100 Only)</entry>
                     </row>
                     <row>
@@ -163,7 +161,7 @@
         </table>
         <section>
             <note>Climb at 2400 rpm, 38" Hg at 155 <term keyref="gl_IAS">IAS</term>. Fuel
-                Consumption for Takeoff and Climbs: <simpletable frame="all" relcolwidth="1* 1*"
+                Consumption for Take-off and Climbs: <simpletable frame="all" relcolwidth="1* 1*"
                     id="simpletable_dnj_kcr_dgb">
                     <strow>
                         <stentry>To 1000 Feet 24 Gals.</stentry>

@@ -16,9 +16,14 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_cold_weather_ops" id="image_hzk_v5v_3gb">
-            <alt>Cold weather operations</alt>
-        </image>
+        <fig>
+            <title>Cold weather operations</title>
+            <desc>Image of some men in flying garb near an airplane with obvious snow on the
+                ground.</desc>
+            <image keyref="img_cold_weather_ops" id="image_hzk_v5v_3gb" width="6in">
+                <alt>Operating the <keyword keyref="designator"/> in cold weather</alt>
+            </image>
+        </fig>
         <p>But it is well to bear in mind that during the winter months many sections of the United
             States have climatic conditions requiring just as much specialized maintenance as the
             Arctic.</p>
