@@ -46,9 +46,13 @@
             <p>Always pull the props through in the direction of rotation. Otherwise fuel and oil
                 will be forced back into the intake section. This will cause an unknown and possibly
                 dangerous fuel-air ratio and make starting difficult.</p>
-            <image keyref="img_preflight_prop" placement="break" width="3in">
-                <alt>Preflight prop</alt>
-            </image>
+            <fig>
+                <title>Preflight prop</title>
+                <desc>Three men military garb turning an airplane propeller.</desc>
+                <image keyref="img_preflight_prop" width="3in">
+                    <alt>Preflight propeller rotation.</alt>
+                </image>
+            </fig>
         </section>
         <section id="sect_NoseSection">
             <title>Nose Section</title>
@@ -59,9 +63,14 @@
                 hand-tight. The towing lockpin locks the nosewheel into position. (The cover will
                 not engage if this pin is unlocked.)</p>
             <p>Nosewheel oleo strut for proper clearance.</p>
-            <image keyref="img_preflight_nosewheel" placement="break" width="3in">
-                <alt>Preflight nosewheel oleo strut for proper clearance</alt>
-            </image>
+            <fig>
+                <title>Preflight nosewheel oleo strut for proper clearance</title>
+                <desc>Image of a single airplane wheel attached to the airplane, demonstrating
+                    clearance between the landing gear and the top of the wheel.</desc>
+                <image keyref="img_preflight_nosewheel" width="3in">
+                    <alt>Ensuring there is sufficient clearance of the nosewheel oleo strut.</alt>
+                </image>
+            </fig>
             <p>Tires for cuts, wear, blisters, slippage, and proper inflation.</p>
             <p>Ground tire on nosewheel for contact with ground.</p>
             <p>Nosewheel door for proper fitting and tension (40 lb.). Spring tension closes this
@@ -76,16 +85,21 @@
             <p>Carburetor air scoop cover removed.</p>
             <p>Propeller for nicks, propeller dome and governor for leaks.</p>
             <p>Check pulleys, cables, and safety wires.</p>
-            <p>Colws, cowl flaps, and Dzus fasteners secure&#8212;a loose cowl section can be a
+            <p>Cowls, cowl flaps, and Dzus fasteners secure&#8212;a loose cowl section can be a
                 serious hazard in flight.</p>
             <p>Exhaust stacks, fingers, gaskets and studs, for looseness and cracks.</p>
             <p>Oil sump magnetic plugs safetied.</p>
             <p>Oleo strut (extension 2⅞ inches), brake lines for leaks, torque arm scissors, main
                 wheel down-lock engaged.</p>
             <p>Tire for cuts, bruises, excessive wear, slippage, and proper inflation.</p>
-            <image keyref="img_preflight_tire" placement="break" width="3in">
-                <alt>Preflight tire</alt>
-            </image>
+            <fig>
+                <title>Preflight tire</title>
+                <desc>Large airplane wheel on the ground that is locked into place with wooden
+                    chocks.</desc>
+                <image keyref="img_preflight_tire" width="3in">
+                    <alt>Preflight check on the tire.</alt>
+                </image>
+            </fig>
             <p>Battery jar in nacelle for proper servicing.</p>
             <p>Wheel chocks in place.</p>
             <p>Gasoline drain plugs properly safe tied.</p>
@@ -94,9 +108,13 @@
             <title>Right Wing Section</title>
             <p>De-icer boots for cuts, tears, worn spots, and proper installation.</p>
             <p>Pitot head cover removed.</p>
-            <image keyref="img_preflight_pitot_head_cover" placement="break" width="3in">
-                <alt>Preflight, remove pitot head cover</alt>
-            </image>
+            <fig>
+                <title>Preflight, remove pitot head cover</title>
+                <desc>Image of a hand grasping a pitot head cover.</desc>
+                <image keyref="img_preflight_pitot_head_cover" width="3in">
+                    <alt>Removing the pitot head cover prior to flight.</alt>
+                </image>
+            </fig>
             <p>Wing surfaces for wrinkles, dents, or loose rivets. This is an important check.
                 Wrinkles in the metal surface indicate excessive strain.</p>
             <p>Control surfaces for general condition.</p>
@@ -130,9 +148,14 @@
         </section>
         <section id="sect_General">
             <title>General</title>
-            <image keyref="img_preflight_general" placement="break" width="3in">
-                <alt>General preflight inspection</alt>
-            </image>
+            <fig>
+                <title>General preflight inspection</title>
+                <desc>Man in military garb kneeling on an airplane wing, writing on a check
+                    board.</desc>
+                <image keyref="img_preflight_general" width="3in">
+                    <alt>Going through the preflight inspection checklist.</alt>
+                </image>
+            </fig>
             <p>Check visually the amount of fuel in each tank.</p>
             <p>Check fuel caps for proper installation.</p>
             <p>Check visually the amount of oil in tanks and see that caps and Dzus fasteners are
@@ -150,9 +173,14 @@
         </section>
         <section id="sect_NavCompartment">
             <title>Navigator's Compartment</title>
-            <image keyref="img_preflight_emer_air_brake_press" placement="break" width="3in">
-                <alt>Preflight emergency air brake pressure</alt>
-            </image>
+            <fig>
+                <title>Preflight emergency air brake pressure</title>
+                <desc>Image of a circular gauge displaying a pointer that is mid-way between the
+                    value 550 and 600.</desc>
+                <image keyref="img_preflight_emer_air_brake_press" width="3in">
+                    <alt>Check the emergency air brake pressure before flight.</alt>
+                </image>
+            </fig>
             <p>Emergency air brake pressure (550-600 lb. sq. in.).</p>
             <p>Nosewheel pawl "<option>OFF</option>" handle stowed. The cable on this system moves
                 as the nosewheel is raised and lowered. If the engaging pawl is
@@ -163,9 +191,14 @@
             <p>Brake accumulator pressure 400 lb. sq. in. minimum.</p>
             <p>Hydraulic accumulator pressure 400 lb. sq. in. minimum.</p>
             <p>Oxygen pressure (where applicable).</p>
-            <image keyref="img_preflight_valves" placement="break" width="3in">
-                <alt>Preflight crossfeed and cut-off valves</alt>
-            </image>
+            <fig>
+                <title>Preflight crossfeed and cut-off valves</title>
+                <desc>Image of two sets of values, one in the "OFF" position, one in the "ON"
+                    position.</desc>
+                <image keyref="img_preflight_valves" width="3in">
+                    <alt>Check that the crossfeed and cut-off value settings prior to flight.</alt>
+                </image>
+            </fig>
             <p>Crossfeed "<option>OFF</option>."</p>
             <p>Fuel transfer valve and switches "<option>OFF</option>." Right and left engine fuel
                 cut-off valves "<option>ON</option>"</p>
@@ -174,9 +207,13 @@
                     "<option>OFF</option>" until engine is operating.</p>
             <p>Level of Hydraulic fluid reservoir (spare fluid aboard).</p>
             <p>Cabin heaters "<option>OFF</option>."</p>
-            <image keyref="img_preflight_cabin_heaters" placement="break" width="3in">
-                <alt>Preflight cabin heaters to &quot;OFF&quot;</alt>
-            </image>
+            <fig>
+                <title>Preflight cabin heaters to &quot;OFF&quot;</title>
+                <desc>Image of a control pulled all the way back to an "OFF" position.</desc>
+                <image keyref="img_preflight_cabin_heaters" width="3in">
+                    <alt>Check that the cabin heater control is set to "OFF". </alt>
+                </image>
+            </fig>
             <p>Check the load and balance of the ship. Check Form F with the load adjuster. The
                     <keyword keyref="designator"/> carries great loads and is unstable and dangerous
                 if the weight is not properly distributed. (For detailed information, see the <term keyref="gl_PIF">PIF</term>
@@ -190,12 +227,17 @@
                 locked.</p><p>Escape hatch unlocked, hatch secure.</p><p>Controls unlocked, check
                 for free and proper movement. This insures the release of the lock, and reveals the
                 presence of obstructions to free movement of the controls.</p><p>Parking brakes
-                    "<option>SET</option>." Brake pressure 500 lb. sq. in. minimum.</p><image
-                keyref="img_preflight_parking_brakes" placement="break" width="3in">
-                <alt>Preflight parking brakes</alt>
-            </image><image keyref="img_preflight_controls">
-                <alt>Check controls for free and proper movement</alt>
-            </image><p>Hydraulic selector "<option>NORMAL</option>." Air brake handle down and
+                    "<option>SET</option>." Brake pressure 500 lb. sq. in. minimum.</p>
+            <fig><title>Preflight parking brakes</title><desc>Image of a foot pressing down on a brake pedal, and a hand pulling out a control.</desc><image keyref="img_preflight_parking_brakes" width="3in"><alt>Check the parking break settings prior to flight.</alt></image></fig>
+            <fig>
+                <title>Check controls for free and proper movement</title>
+                <desc>Image of an airplane up with arrows on the various wing and control surfaces,
+                    indicating the full range of movement.</desc>
+                <image keyref="img_preflight_controls" width="6in">
+                    <alt>Check that your flight surfaces move fully prior to flight.</alt>
+                </image>
+            </fig>
+            <p>Hydraulic selector "<option>NORMAL</option>." Air brake handle down and
                 safetied. Landing gear handle "<option>DOWN</option>" and locked. Wing flaps up,
                 controls neutral. Cowl flaps open, controls neutral. Set all hydraulic controls
                 except landing gear at neutral when they are not in use; this prevents loss of fluid
@@ -203,25 +245,49 @@
                     "<option>OFF</option>" and locked. Supercharger "<option>LOW BLOWER</option>"
                 and locked. All takeoffs must he made in "<option>LOW BLOWER</option>." Any attempt
                 to do otherwise robs the engines of power.</p><p>Oil shutters as required.
-                Carburetor heat "<option>NORMAL</option>"</p><image keyref="img_preflight_throttles"
-                placement="break" width="3in">
-                <alt>Preflight throttles</alt>
-            </image><p>Throttles cracked (V2 inch to 1 inch).</p><p>Propellers "<option>INC.
+                Carburetor heat "<option>NORMAL</option>"</p>
+            <fig>
+                <title>Preflight throttles</title>
+                <desc>Three sets of controls, the first pair labeled "T" are down, the second pair
+                    labeled "P" are up, and the third pair labeled "M" are down.</desc>
+                <image keyref="img_preflight_throttles" width="3in">
+                    <alt>Check the throttle settings prior to flight.</alt>
+                </image>
+            </fig>    
+            <p>Throttles cracked (V2 inch to 1 inch).</p><p>Propellers "<option>INC.
                     RPM</option>."</p><p>Mixture "<option>IDLE CUT-OFF</option>."</p><p>Radios
                     "<option>OFF</option>."</p><p>De-icers "<option>OFF</option>."</p><p>Airspeed
                 selector "<option>STATIC</option>."</p><p>Altimeter set (station elevation). This
                 setting will enable you to check the radioed altimeter setting and detect any scale
-                error in your altimeter.</p><image keyref="img_preflight_gyros" placement="break"
-                width="3in">
-                <alt>Preflight gyros</alt>
-            </image><p>Gyros "<option>UNCAGED</option>."</p><image keyref="img_preflight_battery"
-                placement="break" width="3in">
-                <alt>Preflight battery</alt>
-            </image><p>Battery-disconnect switches "<option>ON</option>" (unless external power is
-                used). Light switches as required.</p><image keyref="img_preflight_fuel"
-                placement="break" width="3in">
-                <alt>Preflight fuel</alt>
-            </image><p>Check fuel levels&#8212;the visual preflight check acts as a check on the
+                error in your altimeter.</p>
+            <fig>
+                <title>Preflight gyros</title>
+                <desc>Image of two indicators, the one on the left set to "0", the one on the right
+                    set with a horizon setting that is flat.</desc>
+                <image keyref="img_preflight_gyros" width="3in">
+                    <alt>Check the gyros before flight.</alt>
+                </image>
+            </fig>
+            <p>Gyros "<option>UNCAGED</option>."</p>
+            <fig>
+                <title>Preflight battery</title>
+                <desc>Image of two switches, both set to the "ON" position.</desc>
+                <image keyref="img_preflight_battery" width="3in">
+                    <alt>Check the battery switch settings prior to flight.</alt>
+                </image>
+            </fig>
+             <p>Battery-disconnect switches "<option>ON</option>" (unless external power is
+                used). Light switches as required.</p>
+            <fig>
+                <title>Preflight fuel</title>
+                <desc>Image of two instrument readings registering that fuel levels in two tanks are
+                    full.</desc>
+                <image keyref="img_preflight_fuel" width="3in">
+                    <alt>Check the fuel levels in the main and auxiliary tanks prior to
+                        flight.</alt>
+                </image>
+            </fig>
+<p>Check fuel levels&#8212;the visual preflight check acts as a check on the
                 instrument reading.</p></section>
     </conbody>
 </concept>

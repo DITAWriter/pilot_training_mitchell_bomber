@@ -14,8 +14,12 @@
         </critdates>
     </prolog>
     <conbody>
-        <image keyref="img_inspections_and_checks" id="image_p1f_wmm_cgb">
-            <alt>Inspections and checks</alt>
-        </image>
+        <fig>
+            <title>Inspections and checks</title>
+            <desc>Image of two men in flight gear looking at the outside of an airplane.</desc>
+            <image keyref="img_inspections_and_checks" id="image_p1f_wmm_cgb" width="6in">
+                <alt>Inspecting and checking the <keyword keyref="designator"/> before flight.</alt>
+            </image>
+        </fig>
     </conbody>
 </concept>

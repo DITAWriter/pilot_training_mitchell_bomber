@@ -16,23 +16,33 @@
         <context>
             <object data="https://www.youtube.com/watch?v=-YQmkjpP6q8#t=4m15s" outputclass="iframe"/><fig>
                 <title>Starting engines on the <keyword keyref="designator"/></title>
+                <desc>A short video depicting how the ground crew and the pilot prepare the engines
+                    prior to takeoff.</desc>
             </fig>
         </context>
         <steps>
             <step>
                 <cmd>Fire guard posted.</cmd>
                 <info>
-                    <image keyref="img_startup_fire_guard" id="image_e3r_44m_cgb" placement="break"
-                        width="3in">
-                        <alt>Startup fire guard posted</alt>
-                    </image></info>
+                    <fig>
+                        <title>Startup fire guard posted</title>
+                        <desc>Image of a man with a fire extinguisher near an airplane
+                            engine.</desc>
+                        <image keyref="img_startup_fire_guard" id="image_e3r_44m_cgb" width="3in">
+                            <alt>Fire guard posted near an engine about to start.</alt>
+                        </image>
+                    </fig></info>
             </step>
             <step>
                 <cmd>Props clear.</cmd>
-                <info><image keyref="img_startup_ignition" id="image_iww_q4m_cgb" placement="break"
-                        width="3in">
-                        <alt>Startup ignition switches, one at a time</alt>
-                    </image></info>
+                <info><fig>
+                        <title>Startup ignition switches, one at a time</title>
+                        <desc>Image of a pair of switches for the left and right magnetos, the left
+                            one set to "OFF".</desc>
+                        <image keyref="img_startup_ignition" id="image_iww_q4m_cgb" width="3in">
+                            <alt>Turning on magneto switch settings one at a time.</alt>
+                        </image>
+                    </fig></info>
             </step>
             <step>
                 <cmd>Ignition switches "<userinput>ON</userinput>" one at a time Booster pumps
@@ -59,10 +69,14 @@
             </step>
             <step>
                 <cmd>Repeat procedure on the left engine.</cmd>
-                <info><image keyref="img_startup_booster" id="image_jjp_t4m_cgb" placement="break"
-                        width="3in">
-                        <alt>Startup booster</alt>
-                    </image></info>
+                <info><fig>
+                        <title>Startup booster</title>
+                        <desc>Image of switches next to a dial. The two fuel booster pump switches
+                            are set to "OFF", and the RPM dial reads "12".</desc>
+                        <image keyref="img_startup_booster" id="image_jjp_t4m_cgb" width="3in">
+                            <alt>Startup booster settings set to "OFF".</alt>
+                        </image>
+                    </fig></info>
             </step>
             <step>
                 <cmd>Booster pumps "<userinput>OFF</userinput>"&#8212;check fuel pressure. There
