@@ -23,9 +23,13 @@
     </prolog>
     <taskbody>
         <context>
-            <image placement="break" keyref="img_emerg_salvo_release" width="3in">
-                <alt>Bomb control handle</alt>
-            </image>
+            <fig>
+                <title>Bomb control handle</title>
+                <desc>Image of a large black lever control</desc>
+                <image keyref="img_emerg_salvo_release" width="3in">
+                    <alt>The bomb control lever and handle</alt>
+                </image>
+            </fig>
             <p>All bombs are dropped safe when salvoed, unless you have an arming control in use on
                 your plane. In that case you can salvo them either armed or safe.</p>
             <p>Your bomb bay droppable tank is suspended on bomb shackles in the bomb bay. The pilot
@@ -78,12 +82,16 @@
                 <info>
                     <note type="warning">On the torpedo only it is necessary to open bomb bay doors
                         to use the emergency salvo release.</note>
-                    <note>On some <keyword keyref="designator"/>J and <keyword keyref="designator"/>H airplanes the bombing controls are electrical. In
-                        the event of electrical failure you cannot salvo the bombs or bomb bay
-                        tank.</note>
-                    <image placement="break" keyref="img_bomb_control_panel" width="3in">
-                        <alt>Pilot's bomb control panel</alt>
-                    </image>
+                    <note>On some <keyword keyref="designator"/>J and <keyword keyref="designator"
+                        />H airplanes the bombing controls are electrical. In the event of
+                        electrical failure you cannot salvo the bombs or bomb bay tank.</note>
+                    <fig>
+                        <title>Pilot's bomb control panel</title>
+                        <desc>Photo of a complex control panel with many buttons and switches</desc>
+                        <image keyref="img_bomb_control_panel" width="3in">
+                            <alt>The panel for the pilot's bomb control</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
         </steps>

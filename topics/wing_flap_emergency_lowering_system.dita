@@ -57,7 +57,13 @@
                         that your mechanical system is fully disengaged. To disengage, rotate crank
                         counter-clockwise until checked. Remove crank and return to its stowage
                         position.</note>
-                    <image placement="break" keyref="img_emerg_flap_lower"/>
+                    <fig>
+                        <title>Wing flap emergency lowering system</title>
+                        <desc>Diagram of the wing flap emergency lowering system</desc>
+                        <image keyref="img_emerg_flap_lower" width="6in">
+                            <alt>A look at the wing flap emergency lowering system</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
         </steps>

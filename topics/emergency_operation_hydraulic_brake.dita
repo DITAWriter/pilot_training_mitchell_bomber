@@ -22,10 +22,15 @@
     </prolog>
     <taskbody>
         <context>
-            <p><image placement="break" keyref="img_emerg_hydraulic_brake" width="3in">
-                    <alt>Emergency hydraulic selector valve</alt>
-                </image>Before landings if there is less than 1000 lb. pressure indicated on the
-                brake system pressure gage:</p>
+            <p><fig>
+                    <title>Emergency hydraulic selector valve</title>
+                    <desc>Image of a control for the hydraulic selector valve</desc>
+                    <image keyref="img_emerg_hydraulic_brake" width="3in">
+                        <alt>The emergency hydraulic selector valve</alt>
+                    </image>
+                </fig></p>
+            <p>Before landings if there is less than 1000 lb. pressure indicated on the brake system
+                pressure gage:</p>
         </context>
         <steps>
             <step>

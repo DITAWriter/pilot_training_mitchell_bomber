@@ -64,7 +64,15 @@
                         the spring load on the handle will snap it into release position and exhaust
                         the air pressure.<p>Chock wheels before brakes are released.</p><p>Bleed
                             hydraulic brake system after using the air brake system.</p></note>
-                    <image placement="break" keyref="img_emerg_air_brakes"/>
+                    <fig>
+                        <title>The emergency air brake lines</title>
+                        <desc>Diagram depicting the piping for the emergency air brake lines from
+                            the control handle to the air bottle leading to the shuttle valves on
+                            the wheels</desc>
+                        <image keyref="img_emerg_air_brakes" width="6in">
+                            <alt>Diagram of the emergency air brake lines</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
         </steps>
