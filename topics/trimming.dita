@@ -40,49 +40,66 @@
             <step>
                 <cmd>Keep the wings level by visual reference or by instruments.</cmd>
                 <info>
-                    <image keyref="img_trim_wings_level" id="image_clw_xgh_2gb" placement="break"
-                        width="3in">
-                        <alt>Keep the wings level by visual reference or by instruments.</alt>
-                    </image>
+                    <fig>
+                        <title>Keep the wings level by visual reference or by instruments</title>
+                        <desc>Silhouette of an airplane facing the view that is in level
+                            flight</desc>
+                        <image keyref="img_trim_wings_level" id="image_clw_xgh_2gb" width="3in">
+                            <alt>Keeping the wings level in flight</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
             <step>
                 <cmd>Trim rudder until ball is centered or until directional gyro stops
                     turning.</cmd>
                 <info>
-                    <image keyref="img_trim_rudder" id="image_dlw_xgh_2gb" placement="break" width="3in">
-                        <alt>Trim rudder until ball is centered or until directional gyro stops
-                            turning.</alt>
-                    </image>
+                    <fig>
+                        <title>Trim rudder until ball is centered or until directional gyro stops
+                            turning</title>
+                        <desc>Image of rudder control that is centered, over an image of the
+                            tail</desc>
+                        <image keyref="img_trim_rudder" id="image_dlw_xgh_2gb" width="3in">
+                            <alt>Trimming the rudder</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
             <step>
                 <cmd>Trim aileron</cmd>
                 <info>
-                    <image keyref="img_trim_aileron" id="image_elw_xgh_2gb" placement="break"
-                        width="3in">
-                        <alt>Trim aileron</alt>
-                    </image>
+                    <fig>
+                        <title>Trim aileron</title>
+                        <desc>Image of aileron control that is centered, over an image of the left
+                            wing</desc>
+                        <image keyref="img_trim_aileron" id="image_elw_xgh_2gb" width="3in">
+                            <alt>Trimming the aileron</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
             <step>
                 <cmd>Trim elevator</cmd>
                 <info>
-                    <image keyref="img_trim_elevator" id="image_flw_xgh_2gb" placement="break"
-                        width="3in">
-                        <alt>Trim elevator</alt>
-                    </image>
-                </info>
+                    <fig>
+                        <title>Trim elevator</title>
+                        <desc>Image of an airplane tail seen from above, with elevators
+                            trimmed</desc>
+                        <image keyref="img_trim_elevator" id="image_flw_xgh_2gb" width="3in">
+                            <alt>Trimming the elevator</alt>
+                        </image>
+                    </fig>
+                 </info>
             </step>
         </steps>
         <result><p>Check the trim by releasing all controls, allowing the plane to fly for a short
                 time without guidance. Properly trimmed it holds course, altitude, and heading for
                 some time.</p></result>
-        <tasktroubleshooting><p>Some planes are difficult to trim properly. This is a result of
-                improper rigging and you cannot correct it while in the air. If you encounter this
-                difficulty, check the trim and the weight and balance of the plane to see that it is
-                properly loaded. After assuring yourself that it is the plane and not the pilot,
-                report this condition on the Form lA.</p>
+        <tasktroubleshooting><p>Some planes are difficult to trim properly. This is a result of improper rigging and you cannot
+                correct it while in the air. If you encounter this difficulty, check the trim and
+                the weight and balance of the plane to see that it is properly loaded. After
+                assuring yourself that it is the plane and not the pilot, report this condition on
+                the Form 1A.</p>
             <p>The engineering officer will run a check flight on the plane. His findings may result
                 in the re-rigging of the plane and subsequent improvement in its flying
                 characteristics.</p></tasktroubleshooting>

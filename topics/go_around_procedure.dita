@@ -33,8 +33,14 @@
             <step>
                 <cmd>Advance the power smoothly to climbing power.</cmd>
                 <info>
-                    <image keyref="img_landing_go_around_adv_throttle_raise_wheels" placement="break"
-                        width="3in"/>
+                    <fig>
+                        <title>Speed up and raise the wheels when doing a go around</title>
+                        <desc>Image of a plane overflying an airfield at speed, and raising its
+                            wheels</desc>
+                        <image keyref="img_landing_go_around_adv_throttle_raise_wheels" width="3in">
+                            <alt>When doing a go around, increase speed and pull up the wheels</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
             <step>
@@ -46,8 +52,13 @@
             <step>
                 <cmd>Raise the flaps to 15°</cmd>
                 <info>
-                    <image keyref="img_landing_go_around_raise_flap_15deg" placement="break" width="3in"
-                    />
+                    <fig>
+                        <title>Raise the flaps to 15 degrees when doing a go around</title>
+                        <desc>Image of a wing's flaps being raised by 15 degrees</desc>
+                        <image keyref="img_landing_go_around_raise_flap_15deg" width="3in">
+                            <alt> When doing a go around, raise the flaps to 15 degrees</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
             <step>
@@ -64,7 +75,14 @@
                     over to one side of the runway, thus clearing the runway for any plane
                     attempting to take off or land.</cmd>
                 <info>
-                    <image keyref="img_landing_go_around_clear_area" placement="break" width="3in"/>
+                    <fig>
+                        <title>Clear the runway area when doing a go around</title>
+                        <desc>Image of a flying airplane moving the side but still parallel to a
+                            runway</desc>
+                        <image keyref="img_landing_go_around_clear_area" width="3in">
+                            <alt>When doing a go around, clear the runway area</alt>
+                        </image>
+                    </fig>
                     <note type="important">Keep an eye on all planes near you! The pilot taking off
                         under you may not know that you are there.</note>
                 </info>

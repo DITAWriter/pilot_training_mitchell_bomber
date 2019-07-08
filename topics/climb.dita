@@ -16,13 +16,18 @@
             </keywords>
         </metadata>
     </prolog>
-    <conbody>
+    <conbody> 
         <p>How do you climb the <keyword keyref="designator"/>? Simple, you say &#8212;just pull her
             nose up. That is a definite part of the procedure, but unless a little more thought and
             a little less muscle accompanies the pulling you will ruin a good airplane.</p>
-        <image keyref="img_climb_turn_as_you_climb" id="image_vzq_mhs_cgb">
-            <alt>Turn as you climb</alt>
-        </image>
+        <fig>
+            <title>Turn as you climb</title>
+            <desc>Image of an airplane turning while still climbing</desc>
+            <image keyref="img_climb_turn_as_you_climb" id="image_vzq_mhs_cgb" width="6in">
+                <alt>Image of a <keyword keyref="designator"/> turning while climbing in
+                    altitude</alt>
+            </image>
+        </fig>
         <p>The minimum safe climbing speed for proper cooling is 155 mph. Climbing at lower speeds
             overheats and ruins the engines.</p>
         <p>Establish a normal climb at 160 to 170 mph using correct power settings. Trim the plane

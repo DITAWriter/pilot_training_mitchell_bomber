@@ -37,7 +37,16 @@
                     <note><p>When making no-flap landings always land on the first few feet of the
                             runway. Your landing speed is greater and your landing roll much
                             longer.</p><p>Don't let the nosewheel touch the ground before or with
-                            the main wheels.</p><image keyref="img_landing_no_flap"/></note>
+                            the main wheels.</p>
+                        <fig>
+                            <title>Making a no-flaps landing</title>
+                            <desc>Image of an airplane landing without the use of working wing
+                                flaps</desc>
+                            <image keyref="img_landing_no_flap" width="6in">
+                                <alt>How to land without the use of working wing flaps</alt>
+                            </image>
+                        </fig>
+                    </note>
                 </info>
             </step>
         </steps>

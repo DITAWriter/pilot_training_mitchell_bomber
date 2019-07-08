@@ -20,9 +20,13 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_taxiing" id="image_dc1_w4m_cgb">
-            <alt>Taxiing</alt>
-        </image>
+        <fig>
+            <title>Taxiing</title>
+            <desc>Image of an airplane manoeuvring to the runway</desc>
+            <image keyref="img_taxiing" id="image_dc1_w4m_cgb" width="6in">
+                <alt><keyword keyref="designator"/> taxiing to the runway</alt>
+            </image>
+        </fig>
         <p>The primary controls for taxiing are the throttles, rudders, and the brakes when
             necessary. A secondary aid is the aileron.</p>
         <p>Taxiing the <keyword keyref="designator"/>, with its tricycle landing gear, may seem
@@ -37,9 +41,14 @@
             cool the engines.</p>
         <section id="sect_DirectionOfRoll">
             <title>Direction of Roll</title>
-            <image keyref="img_roll_direction" id="image_fbl_1pm_cgb" placement="break" width="3in">
-                <alt>Direction of roll</alt>
-            </image>
+            <fig>
+                <title>Direction of roll</title><desc>Diagram of the front wheel with arrows showing the forces at work on it during the initial
+                    stage of taxiing</desc>
+                <image keyref="img_roll_direction" id="image_fbl_1pm_cgb" placement="break"
+                    width="3in">
+                    <alt>The forces at work on the front wheel when taxiing to the runway</alt>
+                </image>
+            </fig>
             <p>Don't try to guide the plane for the first few feet of its roll. If you do a great
                 side load is exerted on the nosewheel strut if the nosewheel is not pointing in the
                 direction you are trying to guide the plane. Never use force; you will shear or snap
@@ -50,26 +59,43 @@
             <p>When the direction of roll is established, make corrections by coordinating the
                 rudder and the throttle and using the brakes only when necessary. Use the brakes
                 lightly, working to achieve accurate control with minimum pressure.</p>
-            <image keyref="img_roll_correct" id="image_ndg_dpm_cgb" placement="break" width="3in">
-                <alt>Correct roll</alt>
-            </image>
+            <fig>
+                <title>Correct roll</title><desc>Image of the front of an airplane showing how the nose should be level and not pointing down
+                    when rolling</desc>
+                <image keyref="img_roll_correct" id="image_ndg_dpm_cgb" placement="break"
+                    width="3in">
+                    <alt>A correct roll involves the nose of the plane being level to the
+                        ground</alt>
+                </image>
+            </fig>
             <p>You will never need hard, rough braking action if you use the brakes properly.</p>
             <p>Use the throttles to aid in taxiing, always keeping in mind that you must anticipate
                 the reaction of the thrust. Lead the turn. Lead the corrective action needed to stop
-                the turn.</p>
+                the turn. </p>
             <p>Do not use excessive power. When one throttle is advanced, retard the opposite
                 throttle. Don't let power accumulate by jockeying first one throttle and then the
                 other.</p>
-            <image keyref="img_turn_left" id="image_fmp_hpm_cgb" placement="break" width="3in">
-                <alt>Left turn</alt>
-            </image>
-            <image keyref="img_turn_right" id="image_qvs_3pm_cgb" placement="break" width="3in">
-                <alt>Right turn</alt>
-            </image>
-            <image keyref="img_taxi_speed" id="image_g1d_npm_cgb" placement="break" width="3in">
-                <alt>In the vicinity of other planes and equipment, keep the speed down to that of a
-                    walking man.</alt>
-            </image>
+            <fig>
+                <title>Left turn</title><desc>Diagram of an airplane seen from above with its left wheel break on and with its right engine
+                    throttled up</desc>
+                <image keyref="img_turn_left" id="image_fmp_hpm_cgb" placement="break" width="3in">
+                    <alt>How to make a left turn while taxiing</alt>
+                </image>
+            </fig>
+            <fig>
+                <title>Right turn</title><desc>Diagram of an airplane seen from above with its right wheel break on and with its left engine
+                    throttled up</desc>
+                <image keyref="img_turn_right" id="image_qvs_3pm_cgb" placement="break" width="3in">
+                    <alt>How to make a right turn while taxiing</alt>
+                </image>
+            </fig>
+            <fig>
+                <title>In the vicinity of other planes and equipment, keep the speed down to that of
+                    a walking man</title><desc>Side view of an airplane with a man walking alongside of it</desc>
+                <image keyref="img_taxi_speed" id="image_g1d_npm_cgb" placement="break" width="3in">
+                    <alt>Maintain a slow pace when next to other planes and equipment</alt>
+                </image>
+            </fig>
             <p>On straight-away taxiing let the plane roll free and maintain directional control
                 with the rudders. The twin tail assembly of the <keyword keyref="designator"/> gives
                 ample rudder control even at relatively low taxiing speeds, although even when full
@@ -79,12 +105,17 @@
             <p>Never allow the inside wheel to stop during a turn. To turn sharply, slow the
                 airplane to a low speed and coordinate the brake and throttle to keep the inside
                 wheel turning on an approximate 10-foot circle.</p>
-            <image keyref="img_turn_radius" id="image_lqk_ppm_cgb" placement="break" width="3in">
-                <alt>Turn radius</alt>
-            </image>
+            <fig>
+                <title>Turn radius</title><desc>Top image of an airplane moving some distance while turning, and the second showing an
+                    airplane pivoting on a single wheel</desc>
+                <image keyref="img_turn_radius" id="image_lqk_ppm_cgb" placement="break" width="3in">
+                    <alt>Do not pivot on a single wheel when turning, instead travel some distance
+                        to reduce turning stress on the wheels</alt>
+                </image>
+            </fig>
             <p>Any attempt to twist the plane on the inside wheel damages the wheel, tire, and
                 strut. Turning in this manner on soft ground, sand, or thin paved runways causes the
-                wheel to dig into the runway, sometimes rapturing the runway surface.</p>
+                wheel to dig into the runway, sometimes rupturing the runway surface.</p>
             <p>This turning action may twist the wheel and strut off the airplane. What is worse,
                 the damage may not be apparent but the gear may be damaged so badly that it will
                 fold up under the strain of a landing.</p>
@@ -96,10 +127,13 @@
         </section>
         <section id="sect_NosewheelPositionInd">
             <title>Nosewheel Position Indicator</title>
-            <image keyref="img_nosewheel_position_ind" id="image_bdb_spm_cgb" placement="break"
-                width="3in">
-                <alt>Nosewheel position indicator</alt>
-            </image>
+            <fig>
+                <title>Nosewheel position indicator</title><desc>Image of two knobs arranged horizontally with "Day" and "Night" displayed above them</desc>
+                <image keyref="img_nosewheel_position_ind" id="image_bdb_spm_cgb" placement="break"
+                    width="3in">
+                    <alt>Image of the nosewheel position indicators</alt>
+                </image>
+            </fig>
             <p>A nosewheel position indicator is on the lower center section of the pilot's
                 instrument panel. It warns you of the position of the nosewheel by flashing on one
                 of two lights when the nosewheel turns past 15° in either direction.</p>
@@ -114,13 +148,20 @@
                     <keyword keyref="designator"/>, but not to the same extent. The airplane tends
                 to turn into the wind.</p>
             <p>To prevent this streamlining, use the engines, rudder and downwind brake. Advance the
-                upwind throttle and use strong rudder pressures. This gives ample control in all
-                but the most violent winds. Use a small amount of downwind brake when necessary.
-                Don't let this become a habit, however, as in all ordinary conditions the throttles
-                and rudders provide good directional control.</p>
-            <image keyref="img_taxi_crosswind" id="image_pnn_5pm_cgb" placement="break" width="3in">
-                <alt>Crosswind taxiing</alt>
-            </image>
+                upwind throttle and use strong rudder pressures. This gives ample control in all but
+                the most violent winds. Use a small amount of downwind brake when necessary. Don't
+                let this become a habit, however, as in all ordinary conditions the throttles and
+                rudders provide good directional control.</p>
+            <fig>
+                <title>Crosswind taxiing</title><desc>Image of two planes as seen from above, the top one rotating slightly into the direction of
+                    the wind, and the second one with an accelerated engine on one side and brake
+                    on the other to offset the effect of the wind</desc>
+                <image keyref="img_taxi_crosswind" id="image_pnn_5pm_cgb" placement="break"
+                    width="3in">
+                    <alt>Using the brake an accelerating the upwind engine can offset the effects of
+                        crosswinds</alt>
+                </image>
+            </fig>
         </section>
         <section>
             <title>Taxiing In Mud or Sand</title>
@@ -150,22 +191,28 @@
                     line with the airplane fuselage.</li>
             </ol>
             <p>If either of the main wheels is deeply mired, dig a shallow trench, with a slight
-                upslope, in front of the wheel. Check to see that the nose- wheel is lined up in the
+                up-slope, in front of the wheel. Check to see that the nose- wheel is lined up in the
                 direction of roll.</p>
             <p>Start the engines and run them up with brakes set. Lower the flaps, pull back on the
                 wheel, and release the brakes.</p>
             <note type="caution">If the wheels are mired too deeply the propeller tips will strike
                 the ground. When there is danger of this, the airplane must be moved by a
                 tractor.</note>
-            <image keyref="img_takeoff_mud_sand" id="image_lds_ypm_cgb" placement="break" width="3in">
-                <alt>Get the nosewheel up quick on takeoff in mud or sand.</alt>
-            </image>
+            <fig>
+                <title>Get the nosewheel up quick on takeoff in mud or sand</title><desc>Image of an airplane with the nosewheel off of the ground and mud spraying off of its back
+                    wheels</desc>
+                <image keyref="img_takeoff_mud_sand" id="image_lds_ypm_cgb" placement="break"
+                    width="3in">
+                    <alt>On a muddy or sandy runway, lift the nosewheel off the ground as soon as
+                        possible</alt>
+                </image>
+            </fig>
             <p>Don't try to move the airplane over soft ground with the nosewheel towbar alone. This
                 will break the nosewheel strut and pull it from under the nose of the plane. Attach
                 chains to the main wheel struts for towing. Guide the nosewheel with the tow
                 bar.</p>
             <p>To take off from mud, sand, or a rough field, raise the nosewheel quickly to relieve
-                the weight during the run.</p>
+                the weight during the run. </p>
             <p>Land normally on mud or sand. Make every effort to hold the airplane straight without
                 using the brakes. This prevents skidding on a slick surface. Great side loads are
                 applied to the gear in skids of this type and must be avoided.</p>

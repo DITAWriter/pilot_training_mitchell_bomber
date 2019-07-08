@@ -17,7 +17,15 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_landing_power_off"/>
+        <fig>
+            <title>Doing a power-off approach and landing</title>
+            <desc>Image depicting an airplane making a reverse-C turn when coming into land,
+                referencing where in the flight put wheels, then to power off and put down
+                flaps</desc>
+            <image keyref="img_landing_power_off" width="6in">
+                <alt>How to do a power-off approach and landing</alt>
+            </image>
+        </fig>
         <p>The power-off approach allows the pilot to become familiar with all the factors involved
             in a forced landing without the hazards involved in actually practicing them.</p>
         <p>The power-off approach duplicates exactly the conditions of a forced landing with these

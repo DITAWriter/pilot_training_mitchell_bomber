@@ -14,7 +14,7 @@
             <keywords>
                 <indexterm>let-down</indexterm>
             </keywords>
-        </metadata>
+        </metadata> 
     </prolog>
     <conbody>
         <p>Reduce manifold pressure slightly. Trim for hands-off flight and allow the plane to
@@ -25,8 +25,12 @@
             wheels, lower partial flaps and increase the power settings to prevent rapid
             cooling.</p>
         <p>Level off at the desired altitude and adjust power and trim.</p>
-        <image keyref="img_cartoon-engine_cough" id="image_dlq_phs_cgb" placement="break" width="3in">
-            <alt>Keep engine warm. If it cools off, it may cough at the wrong time</alt>
-        </image>
+        <fig>
+            <title>Keep engine warm. If the engine cools off, it may cough at the wrong time</title>
+            <desc>Cartoon of an airplane "coughing"</desc>
+            <image keyref="img_cartoon-engine_cough" id="image_dlq_phs_cgb" width="3in">
+                <alt>Don't let the engines get cold, otherwise they may "cough"</alt>
+            </image>
+        </fig>
     </conbody>
 </concept>

@@ -22,26 +22,40 @@
             of power without acting up. Move the controls slowly and smoothly to the desired
             settings rather than attempting to make one swift movement and pick up the proper
             settings.</p>
-        <image keyref="img_power_reduce_manifold" id="image_grw_xgs_cgb" placement="break"
-            width="3in">
-            <alt>Reduce manifold pressure</alt>
-        </image>
-        <image keyref="img_power_reduce_rpm" id="image_dpx_1hs_cgb" placement="break" width="3in">
-            <alt>Reduce rpm</alt>
-        </image>
+        <fig>
+            <title>Reduce manifold pressure</title>
+            <desc>Image of a man's arm pulling two right-side throttle controls back</desc>
+            <image keyref="img_power_reduce_manifold" id="image_grw_xgs_cgb" width="3in">
+                <alt>How to reduce manifold pressure</alt>
+            </image>
+        </fig>
+        <fig>
+            <title>Reduce rpm</title>
+            <desc>Image of a man's arm pulling two middle throttle controls back</desc>
+            <image keyref="img_power_reduce_rpm" id="image_dpx_1hs_cgb" width="3in">
+                <alt>How to reduce RPM</alt>
+            </image>
+        </fig>
         <p>If the rpm is reduced first, you get a jump in manifold pressures. This causes detonation
-            if the relation of the rpm to manifold pressure is altered greatly.</p>
+            if the relation of the rpm to manifold pressure is altered greatly. </p>
         <p>An engine running at constant power settings uses a constant amount of fuel and air. If
             the rpm is reduced, this fuel-air supply remains almost constant, and an engine running
             at reduced speed cannot absorb this fuel-air charge. Pressures in the impeller and
             cylinder heads rise as a result and cause detonation.</p>
-        <image keyref="img_power_increase_rpm" id="image_es5_chs_cgb" placement="break" width="3in">
-            <alt>Increase rpm</alt>
-        </image>
-        <image keyref="img_power_advance_throttles" id="image_pdg_fhs_cgb" placement="break"
-            width="3in">
-            <alt>Advance throttles</alt>
-        </image>
+        <fig>
+            <title>Increase rpm</title>
+            <desc>Image of a man's arm pushing two middle throttle controls forward</desc>
+            <image keyref="img_power_increase_rpm" id="image_es5_chs_cgb" width="3in">
+                <alt>How to increase RPM</alt>
+            </image>
+        </fig>
+        <fig>
+            <title>Advance throttles</title>
+            <desc>Image of a man's arm pushing two right-side throttle controls forward</desc>
+            <image keyref="img_power_advance_throttles" id="image_pdg_fhs_cgb" width="3in">
+                <alt>How to increase manifold pressure</alt>
+            </image>
+        </fig>
         <p>As engines pick up speed the manifold pressures drop; this is a normal and desired
             reaction. Adjust the throttles and synchronize the engines.</p>
         <p>For the proper relation of manifold pressure to rpm see the power control chart.</p>

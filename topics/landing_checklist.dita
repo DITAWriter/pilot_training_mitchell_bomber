@@ -66,8 +66,14 @@
                 <cmd>Landing gear "<userinput>DOWN</userinput>"&#8212;locked and safetied, visually
                     and orally checked.</cmd>
                 <info>
-                    <image keyref="img_landing_gear_selsyn" id="image_us2_djh_2gb" placement="break"
-                        width="3in"/>
+                    <fig>
+                        <title>Landing gear down, locked and safetied</title>
+                        <desc>Landing gear with a strut in front of it, with an arrow indicating
+                            that it is locked</desc>
+                        <image keyref="img_landing_gear_selsyn" id="image_us2_djh_2gb" width="3in">
+                            <alt>Ensure that the landing gear is locked and safetied</alt>
+                        </image>
+                    </fig>
                     <p>You can check the main gear visually and the nose gear on the selsyn
                         indicator, and, if the prop hub is polished, you can check it by its
                         reflection in the hub. There is a warning horn in some aircraft and a

@@ -31,7 +31,7 @@
             <step>
                 <cmd>At 1600 rpm, check generators' output: voltage at 28 to 28.5, amperes 20 to
                     60.</cmd>
-            </step>
+            </step> 
             <step>
                 <cmd>Advance the throttle on your coolest engine until the rpm is set at 2000.
                     Maximum manifold pressure 28.5" Hg. Check the right and left mags. For a
@@ -52,10 +52,15 @@
                     pressure you will get an approximate reading of 2400 rpm, which means that the
                     plane should give you sufficient power for takeoff.</cmd>
                 <info>
-                    <image keyref="img_takeoff_speed" id="image_fjr_hqm_cgb" placement="break"
-                        width="3in">
-                        <alt>Do not hurry a takeoff</alt>
-                    </image>
+                    <fig>
+                        <title>Do not hurry a takeoff</title>
+                        <desc>Image of two dials: the Manifold Pressure set to "30", and RPM set to
+                            "24"</desc>
+                        <image keyref="img_takeoff_speed" id="image_fjr_hqm_cgb" width="3in">
+                            <alt>The Manifold Pressure and RPM settings ensuring sufficient power
+                                for takeoff</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
         </steps>

@@ -20,7 +20,13 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_landing_go_around"/>
+        <fig>
+            <title>Making a go around</title>
+            <desc>Image of an airplane climbing as there is a crashed plane on the runway</desc>
+            <image keyref="img_landing_go_around" width="6in">
+                <alt>Always be prepared to make a go around when necessary</alt>
+            </image>
+        </fig>
         <p>A pilot admires a buddy who has sufficient moral courage to go around when the situation
             seems to call for it. Yet he believes his fellow pilots will censure him for the very
             thing he admires in another.</p>
@@ -39,6 +45,14 @@
         <p><b>The most important part of the go-around procedure is determining its necessity and
                 starting it soon enough. </b>When it is necessary to go around, the sooner you start
             the procedure the easier it is.</p>
-        <image keyref="img_turn_full_flap" placement="break" width="3in"/>
+            <p>
+            <fig>
+                <title>Practice full flap turns</title>
+                <desc>Image of an airplane making a turn with its wing flaps lowered</desc>
+                <image keyref="img_turn_full_flap" width="3in">
+                    <alt>Make the time to practice full flap turns</alt>
+                </image>
+            </fig>
+            </p>
     </conbody>
 </concept>

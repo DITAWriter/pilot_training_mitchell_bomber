@@ -42,7 +42,14 @@
             a time.</p>
         <p>Set your base leg at the proper distance and altitude, roll out of the turn and set your
             gliding speed and angle of glide quickly. A good landing is then assured.</p>
-        <image keyref="img_landing_traffic_pattern" id="image_sbj_h3h_2gb"/>
+        <fig>
+            <title>How to make a good landing within a standard traffic pattern</title>
+            <desc>Image depicting how the plane should circle into a traffic pattern and when to put
+                the wheels down and flaps prior to landing</desc>
+            <image keyref="img_landing_traffic_pattern" id="image_sbj_h3h_2gb" width="6in">
+                <alt>Landing using a standard traffic pattern</alt>
+            </image>
+        </fig>
         <p>In making the roundout, the wingloading is greater than at any other time in the landing
             cycle. The flight path changes rapidly from the vertical to the horizontal plane, and
             centrifugal force adds to the wingloading. There is no danger in this increased

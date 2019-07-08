@@ -21,9 +21,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <image keyref="img_takeoff" id="image_ow1_jqm_cgb">
-            <alt>Takeoff</alt>
-        </image>
+        <fig><title>Takeoff</title><desc>Image an airplane taking off</desc><image keyref="img_takeoff" id="image_ow1_jqm_cgb" width="6in"><alt><keyword keyref="designator"/> taking off</alt></image></fig>
         <p>The principal difference is in attaining the proper angle of attack of the wing. On the
             conventional type you start from a stall attitude and reduce the angle to permit flight.
             In the <keyword keyref="designator"/> you start from a negative angle of attack and
@@ -42,15 +40,29 @@
             control.</p>
         <p>After you start the takeoff run, use the brakes only in an emergency. Maintain
             directional control with the throttles and rudders.</p>
-        <image keyref="img_takeoff_20deg_flaps" id="image_wp5_bds_cgb" placement="break" width="3in">
-            <alt>Start takeoff run with 20 degree flaps</alt>
-        </image>
-        <image keyref="img_takeoff_raise_nosewheel" id="image_jhr_dds_cgb" placement="break" width="3in">
-            <alt>Raise nosewheel off ground</alt>
-        </image>
-        <image keyref="img_takeoff_raise_gear" id="image_e2z_gds_cgb" placement="break" width="3in">
-            <alt>Raise the gear as soon as plane is definitely airborne</alt>
-        </image>
+        <fig>
+            <title>Start takeoff run with 20 degree flaps</title>
+            <desc>Side-view of an airplane at start of takeoff</desc>
+            <image keyref="img_takeoff_20deg_flaps" id="image_wp5_bds_cgb" width="3in">
+                <alt>Increase flaps to 20 degrees when taking off</alt>
+            </image>
+        </fig>
+        <fig>
+            <title>Raise nosewheel off ground</title>
+            <desc>Side-view of an airplane with the nosewheel off the ground, and the back wheels
+                still on the ground</desc>
+            <image keyref="img_takeoff_raise_nosewheel" id="image_jhr_dds_cgb" width="3in">
+                <alt>Raise the nosewheel off the ground first</alt>
+            </image>
+        </fig>
+        <fig>
+            <title>Raise the gear as soon as plane is definitely airborne</title>
+            <desc>Side-view of a slightly-angled airplane with both sets of wheels off the ground
+                and retracting</desc>
+            <image keyref="img_takeoff_raise_gear" id="image_e2z_gds_cgb" width="3in">
+                <alt>Once airborne, raise the wheels to ensure a smooth flight</alt>
+            </image>
+        </fig>
         <p>Raise the nose wheel off the ground slightly as soon as you have good control. The angle
             of attack and the weight of the <keyword keyref="designator"/> tend to keep the plane on
             the ground during the takeoff roll. The takeoff becomes conventional when a positive
@@ -61,19 +73,26 @@
         <p>When the airplane is definitely airborne, raise the wheels. <b>Be sure there is no
                 possibility of further contact with the ground.</b> Good airplanes have been lost
             through carelessness.</p>
-        <image keyref="img_takeoff_gear_control" id="image_tgn_cfs_cgb" placement="break" width="3in">
-            <alt>Takeoff gear control</alt>
-        </image>
+        <fig>
+            <title>Takeoff gear control</title>
+            <desc>Image of a large black control lifted to the "UP" position</desc>
+            <image keyref="img_takeoff_gear_control" id="image_tgn_cfs_cgb" width="3in">
+                <alt>Ensure to raise the wheels after takeoff</alt>
+            </image>
+        </fig>
         <ol id="ol_ekb_hfs_cgb">
             <li>Lift the safety lock holding the control handle "<userinput>DOWN</userinput>" and
                 locked.</li>
             <li>Move the mechanical lock up.</li>
             <li>Move the landing gear handle to "<userinput>UP</userinput>."</li>
         </ol>
-        <image keyref="img_takeoff_level_gain_CSE_speed" id="image_u1s_mfs_cgb" placement="break"
-            width="3in">
-            <alt>Takeoff level gain CSE speed</alt>
-        </image>
+        <fig>
+            <title>Takeoff level gain CSE speed</title>
+            <desc>Image of an airplane in level flight and an Air Speed indicator set to 140</desc>
+            <image keyref="img_takeoff_level_gain_CSE_speed" id="image_u1s_mfs_cgb" width="3in">
+                <alt>Level off to gain flying speed</alt>
+            </image>
+        </fig>
         <p><object data="https://www.youtube.com/watch?v=nxjluh7bVqU#t=0m41s" outputclass="iframe" 
         /><fig><title>Example of a <keyword keyref="designator"/> taking off</title></fig></p>
         <p>Level off and allow the plane to gain CSE flying speed (140 mph).</p>
@@ -86,14 +105,18 @@
             settings as soon as you establish a constant climb. Load conditions cause the climb
             settings to vary slightly.</p>
         <p>Maintain a climbing speed between 160 and 170 mph for these reasons:</p>
-        <image keyref="img_takeoff_climb_speed" id="image_ktr_zfs_cgb" placement="break" width="3in">
-            <alt>Takeoff climb speed</alt>
-        </image>
+        <fig>
+            <title>Takeoff climb speed</title>
+            <desc>Image of an airplane climbing and an Air Speed indicator set to 160</desc>
+            <image keyref="img_takeoff_climb_speed" id="image_ktr_zfs_cgb" width="3in">
+                <alt>Maintain speed when climbing</alt>
+            </image>
+        </fig>
         <ol>
             <li>Speed is developed quickly and maintained to allow single engine operation if
                 necessary.</li>
             <li>Excessively slow climbs prevent proper cooling of the engines at high power
-                settings.</li>
+                settings. </li>
             <li>You obtain good forward visibility by keeping the nose relatively low.</li>
         </ol>
         <p>Raise the wing flaps when you have sufficient altitude. This will normally be about 300
