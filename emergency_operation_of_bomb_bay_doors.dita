@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="emergency_operation_of_bomb_bay_doors">
+    <title>Emergency Operation of Bomb Bay Doors</title>
+    <shortdesc>Use the mechanical system only when hydraulic pressure fails.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>bomb bay</indexterm>
+                <indexterm>bomb bay doors</indexterm>
+                <indexterm>emergency operation</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <note>The bomb bay doors will automatically open approximately ⅔ of the way in the event
+                of a hydraulic failure.</note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Move bombardier's control handle to "<userinput>OPEN</userinput>." The doors
+                    are open and the racks are locked in this position.</cmd>
+            </step>
+            <step>
+                <cmd>Install crank on the shaft in the rear of the navigator's compartment, just
+                    under the navigator's table. The crank is stowed on the lower right longeron
+                    opposite the crankshaft.</cmd>
+                <info>
+                    <fig>
+                        <title>Emergency bomb bay door crank</title>
+                        <desc>Image of a large crank with a large black knob on the handle</desc>
+                        <image keyref="img_emerg_bomb_bay" width="3in">
+                            <alt>The emergency bomb bay door crank</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Turn the crank clockwise to open the doors. Reverse to close them.</cmd>
+            </step>
+            <step>
+                <cmd>Thread strap (secured to crank handle) through the down strap on the
+                    floor.</cmd>
+                <info>
+                    <note>The doors are normally held open and closed by hydraulic pressure. The
+                        doors will stay open unsecured but must be safetied in the closed
+                        position.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

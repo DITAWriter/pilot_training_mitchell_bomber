@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="wing_flap_emergency_lowering_system">
+    <title>Wing Flap Emergency Lowering System</title>
+    <shortdesc>In the event of <b>complete</b> failure of the main hydraulic system, an emergency
+        mechanical flap lowering mechanism is available.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>wing flap</indexterm>
+                <indexterm>wing flat emergency</indexterm>
+                <indexterm>wing flat emergency lowering system</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>It is important to remember to use the emergency mechanism only when the hydraulic
+                system failure is <b>complete</b>, as the two systems oppose each other. Use of the
+                emergency system while hydraulic pressure is still available will seriously damage
+                the mechanical system.</p>
+            <p>The emergency mechanism is in the radio compartment. Be sure the interphone
+                communication between the crew member operating the mechanism and the pilot is 100%
+                effective.</p>
+            <p>Before entering the traffic pattern it is advisable to lower partial flaps. This
+                enables you to get desired amount of flaps earlier on the final approach.</p>
+            <p><b>Operation</b></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Reduce airspeed below 150 mph.</cmd>
+            </step>
+            <step>
+                <cmd>Move pilot's flap control "<userinput>DOWN</userinput>."</cmd>
+            </step>
+            <step>
+                <cmd>Remove hand crank from stowage position on forward wall of radio compartment
+                    and engage it with the shaft.</cmd>
+            </step>
+            <step>
+                <cmd>Rotate crank clockwise until you obtain the desired amount of flaps -14 turns
+                    will give you half flaps; 27 turns, full flaps.</cmd>
+            </step>
+            <step>
+                <cmd>To lock flaps in position, remove the crank.</cmd>
+                <info>
+                    <note>If go-around is necessary, turn crank counterclockwise to full stop
+                        position. (This operation does not raise the flaps, but releases the
+                        pressure on them and the force of the slipstream raises them.)</note>
+                    <note type="warning">Before operating the flaps hydraulically again, be sure
+                        that your mechanical system is fully disengaged. To disengage, rotate crank
+                        counter-clockwise until checked. Remove crank and return to its stowage
+                        position.</note>
+                    <fig>
+                        <title>Wing flap emergency lowering system</title>
+                        <desc>Diagram of the wing flap emergency lowering system</desc>
+                        <image keyref="img_emerg_flap_lower" width="6in">
+                            <alt>A look at the wing flap emergency lowering system</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

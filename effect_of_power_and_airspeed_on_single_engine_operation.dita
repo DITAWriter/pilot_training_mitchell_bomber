@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="effect_of_power_and_airspeed_on_single_engine_operation">
+    <title>Effect of Power and Airspeed on Single Engine Operation</title>
+    <shortdesc>To fly safely on single engine you must know the effect of power on rudder control at
+        various airspeeds. This is vital to your safety when practicing go-around procedures and
+        other maneuvers that require quick changes in power settings.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>singe engine operation</indexterm>
+                <indexterm>power</indexterm>
+                <indexterm>airspeed</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>At 140 mph (CSE speed) directional control can be maintained with takeoff power on the
+            good engine. At airspeeds below 140 mph the plane will turn into the dead engine if
+            power is not reduced. When power is reduced in accordance with the airspeed, directional
+            control can be maintained until normal stalling speeds are reached. </p>
+        <p>Practice this maneuver with the propeller unfeathered at a safe altitude before
+            attempting single engine landings. Perform this maneuver straight ahead and in turns to
+            the right and left. Practice from level flight and in a simulation of a landing guide,
+            with various degrees of flap settings to determine limits at which a go-around may be
+            made.</p>
+        <p>You may practice this maneuver with wheels and flaps up to determine its characteristics,
+            but, since this maneuver is used to practice for single engine landings and go-arounds,
+            perform it with wheels and flaps down after its effect is determined.</p>
+        <p>With power set for normal climb reduce the airspeed below 140 mph until the plane starts
+            to turn toward the dead engine, even though you are holding full opposite rudder.</p>
+        <p><b>Recover by reducing power and lowering the nose.</b></p>
+        <p>For practice, hold definite airspeeds (for example, 115 mph or 120 mph), and add as much
+            power as you can control.</p>
+        <p>This maneuver is excellent practice for single engine landings, and go-around procedures.
+            When the airspeed is below CSE speed you know how much power you can safely add to
+            prevent undershooting and to start a go-around procedure.</p>
+    </conbody>
+</concept>

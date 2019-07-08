@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="emergency_operation_hydraulic_brake">
+    <title>Emergency Operation-Hydraulic Brake</title>
+    <shortdesc>A checklist on what to do if you need to use the hydraulic brake on your <keyword
+            keyref="designator"/> on landing.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>emergency operation</indexterm>
+                <indexterm>hydraulic brake</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p><fig>
+                    <title>Emergency hydraulic selector valve</title>
+                    <desc>Image of a control for the hydraulic selector valve</desc>
+                    <image keyref="img_emerg_hydraulic_brake" width="3in">
+                        <alt>The emergency hydraulic selector valve</alt>
+                    </image>
+                </fig></p>
+            <p>Before landings if there is less than 1000 lb. pressure indicated on the brake system
+                pressure gage:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Turn hydraulic selector valve to "<userinput>BRAKE</userinput>."</cmd>
+            </step>
+            <step>
+                <cmd>Operate the hand pump until indicator shows 1000 lb. sq. in. minimum and no
+                    more than 1450 lb. sq. in.</cmd>
+            </step>
+            <step>
+                <cmd>Operate continuously while landing and taxiing as the initial pressure in the
+                    accumulator is insufficient for normal landing.</cmd>
+            </step>
+            <step>
+                <cmd>If, on landing, you cannot maintain sufficient pressure, use the emergency air
+                    brake system.</cmd>
+            </step>
+            <step>
+                <cmd>If you cannot build up 600 lb. pressure in the accumulator, pick a field with
+                    at least a one-mile runway, land and use the air brake system.</cmd>
+                <info>Always make a short-field landing when your brake pressure is low.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

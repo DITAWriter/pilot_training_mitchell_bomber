@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="dives">
+    <title>Dives</title>
+    <shortdesc>The diving characteristics of the <keyword keyref="designator"/>, like all its flight
+        characteristics; are exceptionally good. The first thing for you to remember, as a new pilot
+        in the <keyword keyref="designator"/>, is this: the plane is not a dive bomber.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="21. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>dives</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>It was designed and built to carry a load of bombs to a target and return to its base.
+            The fact that the plane can exceed these minimum requirements is no excuse to abuse
+            it.</p>
+        <p>The red-lined diving speed on the <keyword keyref="designator"/> is 340 mph. This maximum
+            speed is possible only under definite weight limits.</p>
+        <p>Recover from a dive gradually. The structural load on the airplane increases in direct
+            relation to the abruptness of the pullout.</p>
+        <p>Be careful if you dive the plane in rough air, because the roughness increases the load
+            and shock forces the plane must carry.</p>
+        <p>Combat requirements may force you to dive the plane when the gross weight is excessive.
+            The plane will carry you through some tight spots in an emergency, but treat it gently.
+            Don't place unnecessary loads on the plane by rough and careless handling.</p>
+        <fig>
+            <title>Maximum diving speed</title>
+            <desc>Image of an airplane in a steep diving with an air speed indicator set to
+                340</desc>
+            <image keyref="img_max_dive_speed" id="image_fsf_g3y_2gb" width="3in">
+                <alt>The maximum recommended diving speed for the <keyword keyref="designator"/> is
+                    340 mph</alt>
+            </image>
+        </fig>
+        <p><keyword keyref="designator"/> Maximum diving speeds at different weight thresholds</p>
+        <table frame="all" id="table_vjg_j3y_2gb">
+            <tgroup cols="7">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry>Normal</entry>
+                        <entry namest="c3" nameend="c7">Overload</entry>
+                    </row>
+                    <row>
+                        <entry>Gross Weight Lbs</entry>
+                        <entry>Up to 26,620</entry>
+                        <entry>28,000</entry>
+                        <entry>30,000</entry>
+                        <entry>32,000</entry>
+                        <entry>34,000</entry>
+                        <entry>35,000</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Maximum allowable pull-out and push-over acceleration "g"</entry>
+                        <entry>+3.67 <p>-2.00</p></entry>
+                        <entry>+2.67 <p>-1.67</p></entry>
+                        <entry>+2.67 <p>-1.67</p></entry>
+                        <entry>+2.67 <p>-1.67</p></entry>
+                        <entry>+2.67 <p>-1.67</p></entry>
+                        <entry>+2.67 <p>-1.67</p></entry>
+                    </row>
+                    <row>
+                        <entry>Maximum allowable diving speed (indicated) MPH</entry>
+                        <entry>340</entry>
+                        <entry>340</entry>
+                        <entry>340</entry>
+                        <entry>332</entry>
+                        <entry>303</entry>
+                        <entry>281</entry>
+                    </row>
+                    <row>
+                        <entry>Maximum permissible landing load factor</entry>
+                        <entry>3.33</entry>
+                        <entry>2.67</entry>
+                        <entry>2.67</entry>
+                        <entry>2.67</entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

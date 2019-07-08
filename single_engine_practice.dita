@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="single_engine_practice">
+    <title>Single Engine Practice</title>
+    <shortdesc>Remember that you are trimmed for single engine flight at one airspeed only. If the
+        airspeed or power setting is changed you must re-trim.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>single engine</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>On a practice flight try this: Trim the plane for a speed of 160 or 170 mph. Then advance
+            or retard the throttle. Allow the plane to fly itself&#8212;it will immediately start
+            hunting a stable flight condition. It will turn, climb, and dive all over the sky,
+            finally falling into a spiral or spin if you do not take over the controls.</p>
+        <p>Now return the controls to the power setting for which you are trimmed. Hold the plane
+            manually until the airspeed returns to its proper setting. The airplane will again fly
+            hands off.</p>
+        <p>Now for the single engine turns. The old theory that you must never turn into the dead
+            engine is false. You can turn in either direction. If you can make a good coordinated
+            turn into The good engine you can do the same thing into the dead engine.</p>
+        <fig>
+            <title>A turn into the dead engine is OK</title>
+            <desc>Image of an airplane that is making a turn with a dead engine on the inside of the
+                turn</desc>
+            <image keyref="img_single_eng_turn_into_dead_eng" width="6in">
+                <alt>It is possible to do a turn with a dead engine if you are making the turn in
+                    the direction of the dead engine</alt>
+            </image>
+        </fig>
+        <p>Practice some turns in both directions. You will find no difference as long as the
+            airspeed is constant. Lose a slight amount of altitude in the turn to keep the airspeed
+            constant. Do not blast roughly on the throttles to maintain airspeed. This is a
+            dangerous fault, leading to loss of control when carried too far.</p>
+        <p>Steep turns on a single engine are not necessary. The weight of the plane increases
+            rapidly as the angle of bank increases, and as no benefit is derived from steep turns,
+            it is foolhardy to try them when full power is not available.</p>
+    </conbody>
+</concept>

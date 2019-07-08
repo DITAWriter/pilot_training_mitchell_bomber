@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="strange_field_landings">
+    <title>Strange Field Landings</title>
+    <shortdesc>Flying above your home base you instinctively use familiar features of landscape to
+        orient yourself. Your judgment of distance, altitude, speedy and depth are
+        sharpened.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="27. Dec. 2018"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>landing</indexterm>
+                <indexterm>strange field</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <fig>
+            <title>Look it over before you decide to land</title>
+            <desc>Image of an airplane circling over an airfield</desc>
+            <image keyref="img_landing_strange_field" width="6in">
+                <alt>Look over the landing area prior to landing</alt>
+            </image>
+        </fig>
+        <p>You have probably walked into the familiar front room at home, neatly sidestepped the
+            lamp, and continued on your way in total darkness. This same perception of familiar
+            objects operates in every flight you make.</p>
+        <p>When away from familiar terrain, however, you may have trouble in setting the base leg at
+            the proper place, judging the approach leg, and even regulating your speed properly.</p>
+        <p>There is a tendency toward poor depth perception when coming down from a higher altitude.
+            All these things, while small, increase in unfamiliar surroundings.</p>
+        <p>Let down to the traffic altitude gradually and give your eyes a chance to become
+            adjusted. Watch your speed. Because you have been flying at higher speeds you may have a
+            tendency to fly the traffic pattern too fast and mismanage the landing.</p>
+        <p>While the local pattern is well understood, it is harder to set up the same pattern or to
+            conform to local regulations at another field. Plan your way clearly and confidently,-
+            use your head and your eyes; take things calmly.</p>
+        <p>In landing at a strange field, come in over the field and circle once above it in the
+            direction of traffic. Check carefully the altitude of the field and get the traffic
+            altitude from the tower. If you cannot get specific instructions, fly the traffic
+            pattern 1000 feet above the terrain, Obtain wind direction and velocity, line up the
+            proper runway, visualizing exactly what you intend to do, and then drop down and enter
+            the traffic pattern.</p>
+        <p>Get a normal base leg, establish your glide at the proper angle and airspeed, and make a
+            power approach landing.</p>
+        <p>The power approach is important in handling the <keyword keyref="designator"/>. The
+            longer you maintain the power and the closer to the ground you cut it off, the more
+            exact is your judgment of where the airplane will land. Use the power, however, only as
+            an aid, and not to make a low dragging approach.</p>
+        <p>After landing, call the control tower for taxiing and parking instructions.</p>
+        <section id="sect_CommonErrors">
+            <title>Common Errors</title>
+            <ol>
+                <li>Low dragging approach with no clear conception of the field altitude. This is
+                    the result of poor planning.</li>
+                <li>A fast approach, the result of tenseness. Trust your plane and fly it calmly and
+                    confidently. Don't get excited.</li>
+                <li>Poor radio procedure, usually caused by poor tuning. Be accurate&#8212;learn
+                    procedures perfectly and use them as you have learned them. This isn't book
+                    flying; it is just, plain common sense.</li>
+            </ol>
+        </section>
+    </conbody>
+</concept>

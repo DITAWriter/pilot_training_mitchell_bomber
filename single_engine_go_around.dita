@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="single_engine_go_around">
+    <title>Single Engine Go-Around</title>
+    <shortdesc>Successful single engine go-around depends on an early decision that a go-around is
+        necessary. You can start a go-around procedure at a low altitude and from a low airspeed on
+        the approach, but it is difficult and dangerous.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>go-around</indexterm>
+                <indexterm>single engine</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <note type="important">Make your decision early.</note>
+            <p>The procedure is:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Maintain CSE speed at all times on the approach.</cmd>
+            </step>
+            <step>
+                <cmd>Apply normal climbing power, this will be sufficient if the procedure is
+                    started early on the approach.</cmd>
+            </step>
+            <step>
+                <cmd>Reduce drag. </cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Wheels up.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Prop "<userinput>DEC. RPM</userinput>" (on bad engine).</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Flaps up to 15° until safe altitude and airspeed are obtained.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Trim the plane for hands-off flight.</cmd>
+                <info>
+                    <p>If you have to go around under emergency conditions, apply all the power you
+                        can hold without losing directional control.</p>
+                    <note>Keep flaps ½ down when practicing this, since in emergency conditions the
+                        maneuver will start before you have lowered full flaps.</note>
+                    <p>If sufficient altitude is available, nose down to increase airspeed when
+                        power is applied to start a go-around.</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

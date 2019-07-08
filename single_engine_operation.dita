@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="single_engine_operation">
+    <title>Single Engine Operation</title>
+    <shortdesc>Single engine operation of the <keyword keyref="designator"/> follows a logical
+        pattern of procedure. The plane flies efficiently on one engine at a reduced
+        speed.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="7. Jan. 2019"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>single engine</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <fig>
+            <title>Single engine operation</title>
+            <desc>Image of an airplane with only one working propeller</desc>
+            <image keyref="img_single_engine_ops" width="6in">
+                <alt>Operating the <keyword keyref="designator"/> with a single engine</alt>
+            </image>
+        </fig>
+        <p>Beyond a weight of 32,000 lbs. you will experience some difficulty in maintaining
+            altitude. This should never be a serious handicap, since you can always correct it by
+            ridding the plane of excess weight.</p>
+        <p>Competent ground and air instruction must precede any single engine practice or
+            operation. On the ground your training should include a detailed account of the
+            technique of single engine flying and cockpit drill in the sequence of operation.</p>
+        <p>You can't get too much cockpit time.</p>
+        <p>Accidents never just happen. They are the culmination of a chain of events. Don't be
+            cocksure; this breeds a lack of respect for your plane, and this is the first stop
+            toward trouble.</p>
+        <p>In the air you must know what to expect from aerodynamic forces: the difference in
+            handling at different speeds, the effect of open and closed bomb bay doors, the dropping
+            of excess weight, and the futility of using flaps except in landing.</p>
+        <p>Each airplane has a critical single engine speed. In the <keyword keyref="designator"/>
+            it is 140 mph for normal load weights.</p>
+        <p>Critical single engine speed is the slowest speed at which the rudder has a sale margin
+            of control over the unbalanced thrust of the one live engine, at maximum power.</p>
+        <p>Maximum power settings for single engine flight depend on the particular conditions. You
+            can apply power in direct relation to the airspeed. At high speeds it is possible to use
+            takeoff power settings for a short time.</p>
+        <p>For all normal single engine operation, keep your power settings at maximum climb or
+            below. The airplane becomes difficult to control beyond this power setting unless you
+            have excess airspeed. If you have excess speed, you don't need excessive power.</p>
+    </conbody>
+</concept>

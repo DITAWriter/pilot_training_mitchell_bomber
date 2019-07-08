@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="single_engine_trouble_search">
+    <title>Single Engine Trouble Search</title>
+    <shortdesc>How to troubleshoot issues with a single engine.</shortdesc>
+    <prolog>
+        <critdates>
+            <!--scott.hudson-->
+            <revised modified="3. Jan. 2019"/>
+            <!--scott.hudson-->
+            <revised modified="4. Jan. 2019"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>single engine</indexterm>
+                <indexterm>trouble search</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>First&#8212;Switch the vacuum selector to the good engine to get accurate
+                    readings of instruments.</cmd>
+            </step>
+            <step>
+                <cmd>With the plane under control, try to find out what caused the trouble, and, if
+                    possible, make temporary repairs. Check all fuses, cut-off valves, pop-out
+                    switches, lines and wiring as well as you can. </cmd>
+            </step>
+            <step>
+                <cmd>Don't try to re-start the engine if you don't know what is wrong. It is much
+                    simpler to make a single engine landing than to fight a fire.</cmd>
+            </step>
+            <step>
+                <cmd>Adjust the cowl flaps and the oil cooler shutters as desired. Reduce weight if
+                    the plane is excessively heavy. Drop bombs, bomb bay tank, tools; in fact,
+                    anything that will come loose, if necessary. Make final adjustments on the trim
+                    and power setting.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
