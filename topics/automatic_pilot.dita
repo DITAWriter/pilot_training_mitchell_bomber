@@ -53,7 +53,7 @@
                 <desc>Diagram depicting how fluid resevoirs in each wing affect a mechanism for
                     setting level flight.</desc>
                 <image keyref="img_auto_pilot_level_flight_diag" id="image_s2d_2km_cgb"
-                    placement="break" width="3in">
+                    width="3in">
                     <alt>Diagram depicting how auto pilot mechanism works in level flight.</alt>
                 </image>
             </fig>
@@ -81,7 +81,7 @@
                 <desc>Diagram depicting how fluid resevoirs in each wing affect a mechanism when the
                     plane is angled.</desc>
                 <image keyref="img_auto_pilot_rough_air_diag" id="image_pjc_gkm_cgb"
-                    placement="break" width="3in">
+                    width="3in">
                     <alt>Diagram depicting how auto pilot mechanism works in rough air.</alt>
                 </image>
             </fig>

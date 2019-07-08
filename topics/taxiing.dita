@@ -44,7 +44,7 @@
             <fig>
                 <title>Direction of roll</title><desc>Diagram of the front wheel with arrows showing the forces at work on it during the initial
                     stage of taxiing</desc>
-                <image keyref="img_roll_direction" id="image_fbl_1pm_cgb" placement="break"
+                <image keyref="img_roll_direction" id="image_fbl_1pm_cgb"
                     width="3in">
                     <alt>The forces at work on the front wheel when taxiing to the runway</alt>
                 </image>
@@ -62,7 +62,7 @@
             <fig>
                 <title>Correct roll</title><desc>Image of the front of an airplane showing how the nose should be level and not pointing down
                     when rolling</desc>
-                <image keyref="img_roll_correct" id="image_ndg_dpm_cgb" placement="break"
+                <image keyref="img_roll_correct" id="image_ndg_dpm_cgb"
                     width="3in">
                     <alt>A correct roll involves the nose of the plane being level to the
                         ground</alt>
@@ -78,21 +78,21 @@
             <fig>
                 <title>Left turn</title><desc>Diagram of an airplane seen from above with its left wheel break on and with its right engine
                     throttled up</desc>
-                <image keyref="img_turn_left" id="image_fmp_hpm_cgb" placement="break" width="3in">
+                <image keyref="img_turn_left" id="image_fmp_hpm_cgb" width="3in">
                     <alt>How to make a left turn while taxiing</alt>
                 </image>
             </fig>
             <fig>
                 <title>Right turn</title><desc>Diagram of an airplane seen from above with its right wheel break on and with its left engine
                     throttled up</desc>
-                <image keyref="img_turn_right" id="image_qvs_3pm_cgb" placement="break" width="3in">
+                <image keyref="img_turn_right" id="image_qvs_3pm_cgb" width="3in">
                     <alt>How to make a right turn while taxiing</alt>
                 </image>
             </fig>
             <fig>
                 <title>In the vicinity of other planes and equipment, keep the speed down to that of
                     a walking man</title><desc>Side view of an airplane with a man walking alongside of it</desc>
-                <image keyref="img_taxi_speed" id="image_g1d_npm_cgb" placement="break" width="3in">
+                <image keyref="img_taxi_speed" id="image_g1d_npm_cgb" width="3in">
                     <alt>Maintain a slow pace when next to other planes and equipment</alt>
                 </image>
             </fig>
@@ -108,7 +108,7 @@
             <fig>
                 <title>Turn radius</title><desc>Top image of an airplane moving some distance while turning, and the second showing an
                     airplane pivoting on a single wheel</desc>
-                <image keyref="img_turn_radius" id="image_lqk_ppm_cgb" placement="break" width="3in">
+                <image keyref="img_turn_radius" id="image_lqk_ppm_cgb" width="3in">
                     <alt>Do not pivot on a single wheel when turning, instead travel some distance
                         to reduce turning stress on the wheels</alt>
                 </image>
@@ -129,7 +129,7 @@
             <title>Nosewheel Position Indicator</title>
             <fig>
                 <title>Nosewheel position indicator</title><desc>Image of two knobs arranged horizontally with "Day" and "Night" displayed above them</desc>
-                <image keyref="img_nosewheel_position_ind" id="image_bdb_spm_cgb" placement="break"
+                <image keyref="img_nosewheel_position_ind" id="image_bdb_spm_cgb"
                     width="3in">
                     <alt>Image of the nosewheel position indicators</alt>
                 </image>
@@ -156,7 +156,7 @@
                 <title>Crosswind taxiing</title><desc>Image of two planes as seen from above, the top one rotating slightly into the direction of
                     the wind, and the second one with an accelerated engine on one side and brake
                     on the other to offset the effect of the wind</desc>
-                <image keyref="img_taxi_crosswind" id="image_pnn_5pm_cgb" placement="break"
+                <image keyref="img_taxi_crosswind" id="image_pnn_5pm_cgb"
                     width="3in">
                     <alt>Using the brake an accelerating the upwind engine can offset the effects of
                         crosswinds</alt>
@@ -201,7 +201,7 @@
             <fig>
                 <title>Get the nosewheel up quick on takeoff in mud or sand</title><desc>Image of an airplane with the nosewheel off of the ground and mud spraying off of its back
                     wheels</desc>
-                <image keyref="img_takeoff_mud_sand" id="image_lds_ypm_cgb" placement="break"
+                <image keyref="img_takeoff_mud_sand" id="image_lds_ypm_cgb"
                     width="3in">
                     <alt>On a muddy or sandy runway, lift the nosewheel off the ground as soon as
                         possible</alt>

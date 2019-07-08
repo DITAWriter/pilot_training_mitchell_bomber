@@ -27,14 +27,14 @@
             <fig>
                 <title><keyword keyref="aircraft_name"/> Bomber, front view, angled</title>
                 <desc>Image of an airplane, with the nose facing to the left of the viewer.</desc>
-                <image keyref="img_mitchell_bomber_front_view_angled" placement="break" width="6in">
+                <image keyref="img_mitchell_bomber_front_view_angled" width="6in">
                     <alt><keyword keyref="designator"/> Bomber, front view, angled</alt>
                 </image>
             </fig>
             <fig>
                 <title><keyword keyref="aircraft_name"/> Bomber, back view, angled</title>
                 <desc>Image of an airplane, seen from an angled side view.</desc>
-                <image keyref="img_mitchell_bomber_back_view_angled" placement="break" width="6in">
+                <image keyref="img_mitchell_bomber_back_view_angled" width="6in">
                     <alt><keyword keyref="designator"/> Bomber, back view, angled</alt>
                 </image>
             </fig>
@@ -42,14 +42,14 @@
                 <title><keyword keyref="aircraft_name"/> Bomber, side view</title>
                 <desc>Image of an airplane, seen directly from the side, with the nose facing to the
                     right.</desc>
-                <image keyref="img_mitchell_bomber_side_view" placement="break" width="6in">
+                <image keyref="img_mitchell_bomber_side_view" width="6in">
                     <alt><keyword keyref="designator"/> Bomber, side view</alt>
                 </image>
             </fig>
             <fig>
                 <title><keyword keyref="aircraft_name"/> Bomber, front view</title>
                 <desc>Image of an airplane, seen directly head-on.</desc>
-                <image keyref="img_mitchell_bomber_front_view" placement="break" width="6in">
+                <image keyref="img_mitchell_bomber_front_view" width="6in">
                     <alt><keyword keyref="designator"/> Bomber, front view</alt>
                 </image>
             </fig>
@@ -64,7 +64,7 @@
                 <desc>Close-up view of the end of an airplane, with two vertical tail sections
                     connected to the fuselage, with the rear gunner canopy and guns also in
                     view.</desc>
-                <image keyref="img_mitchell_bomber_twin_tail_section" placement="break" width="4in">
+                <image keyref="img_mitchell_bomber_twin_tail_section" width="4in">
                     <alt><keyword keyref="designator"/> Bomber, twin tail section</alt>
                 </image>
             </fig>
@@ -94,14 +94,14 @@
             <fig>
                 <title>Plane dimensions, top view</title>
                 <desc>Blueprint of an airplane, as seen from above.</desc>
-                <image keyref="img_plane_dimensions_top_view" placement="break" width="3in">
+                <image keyref="img_plane_dimensions_top_view" width="3in">
                     <alt><keyword keyref="designator"/> dimensions, top view</alt>
                 </image>
             </fig>
             <fig>
                 <title>Plane dimensions, front view</title>
                 <desc>Blueprint of an airplane, as seen directly head-on.</desc>
-                <image keyref="img_plane_dimensions_front_view" placement="break" width="3in">
+                <image keyref="img_plane_dimensions_front_view" width="3in">
                     <alt><keyword keyref="designator"/> dimensions, top view</alt>
                 </image>
             </fig>
@@ -109,7 +109,7 @@
                 <title>Plane dimensions, side view</title>
                 <desc>Blueprint of an airplane, as seen from the side, with the nose facing
                     left.</desc>
-                <image keyref="img_plane_dimensions_side_view" placement="break" width="3in">
+                <image keyref="img_plane_dimensions_side_view" width="3in">
                     <alt><keyword keyref="designator"/> dimensions, top view</alt>
                 </image>
             </fig>

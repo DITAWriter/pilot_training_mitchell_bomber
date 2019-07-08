@@ -22,7 +22,7 @@
                 <title>Pilot's compartment, left side</title>
                 <desc>Switches and nobs, all labeled with numbers, to the right of a seat.</desc>
                 <image keyref="img_pilots_compartment-left-side" id="image_ahw_kgm_cgb"
-                    placement="break" width="4in">
+                    width="4in">
                     <alt>Left side of the pilot's compartment</alt>
                 </image>
                 <ol id="ol_ol5_3gm_cgb">

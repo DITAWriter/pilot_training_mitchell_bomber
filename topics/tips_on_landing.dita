@@ -35,7 +35,7 @@
         <fig>
             <title>Don't do this!</title>
             <desc> Cartoon of an anthropomorphic airplane crashnig </desc>
-            <image keyref="img_cartoon-landing_crash" placement="break" width="3in">
+            <image keyref="img_cartoon-landing_crash" width="3in">
                 <alt>Land safely!</alt>
             </image>
         </fig>

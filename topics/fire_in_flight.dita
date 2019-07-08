@@ -22,7 +22,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <fig><title>Fire in Flight</title><desc>Image of an airplane with flames and smoke emerging from an engine</desc><image placement="break" keyref="img_fire_in_flight" width="6in"><alt>What to do about fire on board an airplane</alt></image></fig>
+        <fig><title>Fire in Flight</title><desc>Image of an airplane with flames and smoke emerging from an engine</desc><image keyref="img_fire_in_flight" width="6in"><alt>What to do about fire on board an airplane</alt></image></fig>
 
         <p>All aircraft fires have three main causes:</p>
         <ol>

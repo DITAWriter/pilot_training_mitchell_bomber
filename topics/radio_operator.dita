@@ -21,7 +21,7 @@
         <fig>
             <title>Radio operator</title>
             <desc>Cartoon of a man working with radio equipment.</desc>
-            <image keyref="img_radio_operator" id="image_b5v_hbm_cgb" placement="break" width="3in">
+            <image keyref="img_radio_operator" id="image_b5v_hbm_cgb" width="3in">
                 <alt>The radio operator.</alt>
             </image>
         </fig>

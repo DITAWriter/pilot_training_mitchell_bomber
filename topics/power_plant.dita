@@ -22,7 +22,7 @@
         </metadata>
     </prolog>
     <conbody>
-        <fig><title>Power plant</title><desc>Drawing of a single, enclosed airplane engine with three props on its propeller.</desc><image keyref="img_power_plant" id="image_bqn_hhm_cgb" placement="break" width="4in"><alt><keyword keyref="engine_manufacturer"/> Cyclone 14-cylinder, double-row radial engine.</alt></image></fig>
+        <fig><title>Power plant</title><desc>Drawing of a single, enclosed airplane engine with three props on its propeller.</desc><image keyref="img_power_plant" id="image_bqn_hhm_cgb" width="4in"><alt><keyword keyref="engine_manufacturer"/> Cyclone 14-cylinder, double-row radial engine.</alt></image></fig>
         <p>The operation of these two series is similar. Primarily air cooled, these engines have
             two secondary methods of cooling:</p>
         <ol>

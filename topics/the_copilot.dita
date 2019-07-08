@@ -21,7 +21,7 @@
             <title>The Copilot</title>
             <desc>Image of a man in aviation garb looking at another man who is at the airplane
                 controls.</desc>
-            <image keyref="img_copilot" id="image_alt_zzl_cgb" placement="break" width="3in">
+            <image keyref="img_copilot" id="image_alt_zzl_cgb" width="3in">
                 <alt>The co-pilot of the plane.</alt>
             </image>
         </fig>

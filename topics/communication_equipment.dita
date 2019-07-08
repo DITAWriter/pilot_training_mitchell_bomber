@@ -154,7 +154,7 @@
                 <title>Interphone jack box</title>
                 <desc>Diagram of a box with five switch settings and a knob to increase output,
                     along with a microphone and phone jack leads.</desc>
-                <image keyref="img_interphone_jack_box" id="image_c4z_skm_cgb" placement="break"
+                <image keyref="img_interphone_jack_box" id="image_c4z_skm_cgb"
                     width="3in">
                     <alt>Image of the interphone jack box.</alt>
                 </image>

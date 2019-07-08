@@ -52,7 +52,7 @@
                 <title>Constant-speed control</title>
                 <desc>Diagram depicting gear connections for the constant-speed control
                     mechanism.</desc>
-                <image keyref="img_constant_speed_control" id="image_er4_kjm_cgb" placement="break"
+                <image keyref="img_constant_speed_control" id="image_er4_kjm_cgb"
                     width="6in">
                     <alt>The propeller governor assembly.</alt>
                 </image>

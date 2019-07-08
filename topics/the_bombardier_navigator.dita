@@ -25,7 +25,7 @@
             <title>The Bombardier-Navigator</title>
             <desc>Cartoon of the head of a man wearing wearing flight gear peering through a
                 navigation instrument.</desc>
-            <image keyref="img_bombadier_nav" id="image_zpn_m1m_cgb" placement="break" width="3in">
+            <image keyref="img_bombadier_nav" id="image_zpn_m1m_cgb" width="3in">
                 <alt>Bombardier-Navigator</alt>
             </image>
         </fig>

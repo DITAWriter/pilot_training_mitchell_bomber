@@ -24,7 +24,7 @@
         <fig>
             <title>The Gunners</title>
             <desc>Man in flight garb behind a heavy caliber machine gun.</desc>
-            <image keyref="img_gunner" id="image_syz_d2m_cgb" placement="break" width="3in">
+            <image keyref="img_gunner" id="image_syz_d2m_cgb" width="3in">
                 <alt>The airplane gunner.</alt>
             </image>
         </fig>

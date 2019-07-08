@@ -23,7 +23,7 @@
             <title>The Engineer</title>
             <desc>Cartoon of a man in flight garb standing on the wing of an airplane and taking
                 notes on a clipboard.</desc>
-            <image keyref="img_preflight_general" placement="break" width="3in">
+            <image keyref="img_preflight_general" width="3in">
                 <alt>The airplane engineer.</alt>
             </image>
         </fig>
