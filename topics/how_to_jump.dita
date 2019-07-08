@@ -2,7 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="how_to_jump">
     <title>How to Jump</title>
-    <shortdesc/>
+    <shortdesc>Information on how to properly open and drop out of a hatch from an airplane in
+        flight.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -17,16 +18,24 @@
     </prolog>
     <taskbody>
         <context>
-            <image placement="break" keyref="img_how_to_jump"/>
+            <fig>
+                <title>How to jump out of the hatch of an airplane while flying</title>
+                <desc>A four step diagram showing a man with a parachute and flight gear opening a
+                    hatch, and then dropping out of it</desc>
+                <image keyref="img_how_to_jump" width="6in">
+                    <alt>How to open a hatch and drop out of a flying airplane while wearing a
+                        parachute</alt>
+                </image>
+            </fig>
         </context>
         <steps>
             <step>
                 <cmd>Face rear of ship and place hands on structure above rear of hatch.</cmd>
             </step>
             <step>
-                <cmd>Lower legs through opening. The slipstream will carry your legs up against
-                    the underpart of the fuselage. Twist your shoulder to the left to prevent injury
-                    to the head on the way out. Push away from the plane with your hands.</cmd>
+                <cmd>Lower legs through opening. The slipstream will carry your legs up against the
+                    underpart of the fuselage. Twist your shoulder to the left to prevent injury to
+                    the head on the way out. Push away from the plane with your hands.</cmd>
             </step>
             <step>
                 <cmd>When you are sure that you are clear of the plane, look directly at the ripcord

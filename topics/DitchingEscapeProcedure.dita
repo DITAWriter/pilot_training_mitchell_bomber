@@ -49,7 +49,14 @@
             </step>
         </steps>
         <result id="result_nhm_q55_3gb">
-            <image placement="break" keyref="img_water_evac" id="image_p5y_r55_3gb"/>
+            <fig>
+                <title>Escaping from a ditched airplane</title>
+                <desc>Image of men escaping from the hatches of a plane that has ditched in the
+                    water</desc>
+                <image keyref="img_water_evac" id="image_p5y_r55_3gb" width="6in">
+                    <alt>Escape from the top hatches if your plane ditches</alt>
+                </image>
+            </fig>
         </result>
     </taskbody>
 </task>

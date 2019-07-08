@@ -27,7 +27,7 @@
                     guns, chutes, spare coils, etc.,</cmd>
             </step>
             <step>
-                <cmd>Close the hatch. This must foe closed for landing, otherwise it will act as a
+                <cmd>Close the hatch. This must be closed for landing, otherwise it will act as a
                     scoop and allow entry of a great mass of water into the rear of the ship. This
                     may damage the structure and cause the rear section to break off, greatly
                     endangering your chances of getting out.</cmd>
@@ -44,7 +44,7 @@
                 <cmd>Obtain the thermos bottle and keep it in your possession.</cmd>
             </step>
             <step>
-                <cmd>Brace for the impact on the pilot's signal.</cmd>
+                <cmd>Brace for the impact on the pilot's signal. </cmd>
             </step>
             <step>
                 <cmd>Abandon ship. Remove the escape hatch. See that the radio operator releases the

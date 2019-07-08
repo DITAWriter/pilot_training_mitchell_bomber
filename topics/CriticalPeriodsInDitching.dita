@@ -28,6 +28,12 @@
                 Many crews have saved themselves by carrying out a well-executed drill. <b>This
                     required advance practice and a great deal of it.</b></li>
         </ol>
-        <image placement="break" keyref="img_ditching_water" id="image_obc_ps5_3gb"/>
+        <fig>
+            <title>Hitting the crest of the wave when landing</title>
+            <desc>Image of an airplane impacting the crest of a wave while ditching</desc>
+            <image keyref="img_ditching_water" id="image_obc_ps5_3gb" width="6in">
+                <alt>When ditching in water, try to hit the crest of a wave</alt>
+            </image>
+        </fig>
     </conbody>
 </concept>

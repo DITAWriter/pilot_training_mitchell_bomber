@@ -37,13 +37,13 @@
                     doors&#8212;they must not be open for the landing.</cmd>
             </step>
             <step>
-                <cmd>Landing gear up&#8212;check it! </cmd>
+                <cmd>Landing gear up&#8212;check it!</cmd>
             </step>
             <step>
-                <cmd>Get wind direction and velocity from navigator. </cmd>
+                <cmd>Get wind direction and velocity from navigator.</cmd>
             </step>
             <step>
-                <cmd>Signal copilot to lower flaps as required. </cmd>
+                <cmd>Signal copilot to lower flaps as required.</cmd>
             </step>
             <step>
                 <cmd>Notify crew to brace for the impact (interphone or bell). </cmd>

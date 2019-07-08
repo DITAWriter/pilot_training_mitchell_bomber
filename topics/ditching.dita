@@ -19,9 +19,14 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_ditching">
-            <alt>Ditching</alt>
-        </image>
+        <fig>
+            <title>Ditching</title>
+            <desc>Image of men in a liferaft with a ditched plane in the distance</desc>
+            <image keyref="img_ditching" width="6in">
+                <alt>What to do when ditching an airplane in water</alt>
+            </image>
+        </fig>
+
         <p>From the analysis of actual ditching reports, plus the results of tests made with scale
             models, there has come a body of information so comprehensive that today ditching is a
             matter of tried and proven procedure.</p>
@@ -51,8 +56,14 @@
                 operations.</p>
             <p>If you transmit distress signals that you are ditching, but are lucky enough to make
                 land, be sure to notify the Air-Sea Rescue Unit as soon as possible to avoid danger
-                and loss of time (or other crews who may be out searching for you.</p>
-            <image placement="break" keyref="img_radio_sos" width="3in"/>
+                and loss of time (or other crews who may be out searching for you).</p>
+            <fig>
+                <title>Send a distress call prior to ditching</title>
+                <desc>Image of an airplane sending an SOS radio call</desc>
+                <image keyref="img_radio_sos" width="3in">
+                    <alt>Have the radio operator send a distress call prior to ditrching</alt>
+                </image>
+            </fig>
         </section>
         <section id="sect_PreparePlane">
             <title>Prepare the Plane</title>
@@ -61,13 +72,20 @@
                 deadly missiles of all loose objects in the airplane. <b>Jettison loose
                     equipment.</b> Also jettison all objects likely to be torn loose by the impact.
                 Lightening the plane reduces the landing speed and lessens the impact. Get rid of
-                oxygen walk-around bottles, kitbags, extra sidcarms, cargo. Strip turrets of
+                oxygen walk-around bottles, kitbags, extra side-arms, cargo. Strip turrets of
                 ammunition, dismantle and jettison guns and radio sets mounted over the bomb bay.
                 Save at least one parachute for each raft. The silk and shroud lines will prove
                 handy in the raft for sail, cover, and extra line.</p>
             <p>Salvo bombs and the fuselage tank if it is more than half full. If fuselage tank is
                 less than half full, keep it in the plane for added buoyancy.</p>
-            <image placement="break" keyref="img_jettison_loose_equip" width="3in"/>
+            <fig>
+                <title>Dropping excess weight before ditching</title>
+                <desc>Image of an airplane dropping its bomb load along with other large items close
+                    to the water</desc>
+                <image keyref="img_jettison_loose_equip" width="3in">
+                    <alt>Ensure that all excess weight is dropped prior to ditching</alt>
+                </image>
+            </fig>
             <p>Once the plane is in the water, only the emergency kits and signaling devices are
                 valuable to you. Collect Very cartridges, pistol, smoke flares, all signaling
                 devices and keep them on your person. Don't hesitate to throw out everything else
@@ -85,7 +103,7 @@
             <p>Remove all entangling cords and lines, parachute harness, radio cords, oxygen masks
                 when below 12,000 feet, and throat microphones. Remove flying boots. Wear all other
                 clothing, regardless of temperature. Loosen the clothing about your neck,
-                particularly ties. Wear hfe vests at all times on over-water flights, but do not
+                particularly ties. Wear life vests at all times on over-water flights, but do not
                 inflate them inside the plane. The escape hatches are small and may damage the vests
                 in the exit.</p>
             <p>Accomplish your prearranged duties and go to your ditching station at once. Remain
@@ -101,8 +119,8 @@
         <section id="sect_PersonnelPosition">
             <title>Position of Personnel</title>
             <p>Pilot&#8212;in his seat, seat full forward and locked, cushion protecting chest.</p>
-            <p>Copilot&#8212;in his seat, seat full back and locked to provide easy access to the escape
-                hatch. If his seat is forward it may block the exit of the entire crew. On
+            <p>Copilot&#8212;in his seat, seat full back and locked to provide easy access to the
+                escape hatch. If his seat is forward it may block the exit of the entire crew. On
                 late-series planes with low-backed copilot's seat, it can be full forward. Copilot
                 braces with his hands on the rubber crash ring on the instrument panel.<b> Keep
                     elbows flexed.</b></p>
@@ -119,7 +137,16 @@
                 the hands across the base of the skull, pulling down firmly against the neck
                 muscles. It has been found that the body in this position will absorb shocks far
                 greater than those encountered in ditching.</p>
-            <image placement="break" keyref="img_brace"/>
+            <fig>
+                <title>How and where crew members should brace for impact when ditching in
+                    water</title>
+                <desc>Image of men in an airplane, with the pilot and co-pilot at the controls and
+                    the rest of the crew braced for impact</desc>
+                <image keyref="img_brace" width="6in">
+                    <alt>How and where to brace for impact if the plane needs to ditch in
+                        water</alt>
+                </image>
+            </fig>
         </section>
     </conbody>
 </concept>

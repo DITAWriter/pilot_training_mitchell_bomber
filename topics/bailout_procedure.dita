@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="bailout_procedure">
     <title>Bailout Procedure</title>
-    <shortdesc/>
+    <shortdesc>The procedure for crew members to bail out of a <keyword keyref="designator"/>.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
@@ -18,7 +18,15 @@
     </prolog>
     <taskbody>
         <context>
-            <image placement="break" keyref="img_emer_exits" height="6in"/>
+            <fig>
+                <title>The hatches each crew member should use when bailing out</title>
+                <desc>Cutaway image of an airplane with arrows coming from each crew member, leading
+                    to the hatch they should bail out from</desc>
+                <image keyref="img_emer_exits" width="6in">
+                    <alt>Diagram of an airplane and its crew, depicting where each member should go
+                        during a bail out</alt>
+                </image>
+            </fig>
         </context>
         <steps>
             <step>

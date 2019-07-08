@@ -19,9 +19,14 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_forced_landing" id="image_rt3_y25_3gb">
-            <alt>Forced landings</alt>
-        </image>
+        <fig>
+            <title>Forced landings</title>
+            <desc>Image of an airplane flowing low and near water and a small island</desc>
+            <image keyref="img_forced_landing" id="image_rt3_y25_3gb" width="6in">
+                <alt>Forced landings</alt>
+            </image>
+        </fig>
+
         <p>Fortunately, the <keyword keyref="designator"/> aircraft's exceptional single engine
             ability will bring you home unless you have a failure of both engines. You will seldom
             need to set down in rough country.</p>
@@ -73,12 +78,21 @@
                 in a dazed condition. In the excitement it is easy to lose a man for a few seconds.
                 If the plane starts to burn this may be long enough to prevent his rescue.</p>
             <p>Crash stations are the same as those used for ditching.</p>
-            <image placement="break" keyref="img_wheels_down_known_airport" id="image_rg2_dg5_3gb">
-                <alt>Wheels down only on a known airport</alt>
-            </image>
-            <image placement="break" keyref="img_wheels_up_anything_else" id="image_n4s_2g5_3gb">
-                <alt>Wheels up on anything else</alt>
-            </image>
+            <fig>
+                <title>Wheels down only on a known airport</title>
+                <desc>Image of an airplane with its wheels down, about to land</desc>
+                <image keyref="img_wheels_down_known_airport" id="image_rg2_dg5_3gb" width="6in">
+                    <alt>Only put your wheels down for a known airport</alt>
+                </image>
+            </fig>
+            <fig>
+                <title>Wheels up on anything else</title>
+                <desc>Image of an airplane with its wheels up, about to land in a furrowed
+                    field</desc>
+                <image keyref="img_wheels_up_anything_else" id="image_n4s_2g5_3gb" width="6in">
+                    <alt>Keep your wheels up when landing in any other situation</alt>
+                </image>
+            </fig>
         </section>
     </conbody>
 </concept>

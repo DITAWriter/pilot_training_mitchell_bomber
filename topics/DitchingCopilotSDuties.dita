@@ -38,7 +38,7 @@
                 <cmd>Lower flaps as required on pilot's signal.</cmd>
             </step>
             <step>
-                <cmd>Notify the crew to brace for impact.</cmd>
+                <cmd>Notify the crew to brace for impact. </cmd>
             </step>
             <step>
                 <cmd>Cut the mixture, cut switches on pilot's signal.</cmd>

@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="bailout">
     <title>Bailout</title>
-    <shortdesc>Take good care of your parachute, Keep it clean and free of grease and
+    <shortdesc>Take good care of your parachute, keep it clean and free of grease and
         moisture.</shortdesc>
     <prolog>
         <critdates>
@@ -20,9 +20,14 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_bailout">
-            <alt>Bailout</alt>
-        </image>
+        <fig>
+            <title>Bailout</title>
+            <desc>Image of men bailing out of an airplane, with parachutes deploying</desc>
+            <image keyref="img_bailout" width="6in">
+                <alt>How to do a bailout</alt>
+            </image>
+        </fig>
+
         <note type="important">Preflight your chute before every flight.</note>
         <p>See that there are no loose threads, rips or tears in the case. Check that the seal is
             intact, the release pins straight, and that the chute has been recently inspected and
@@ -34,8 +39,13 @@
         <p><b>Check with the ground crew on the condition and operation of the escape hatches.</b>
             Spot checks show that these hatches are often overlooked on the periodic
             inspections.</p>
-        <image placement="break" keyref="img_emer_hatch_release" width="3in">
-            <alt>Emergency hatch release</alt>
-        </image>
+        <fig>
+            <title>Emergency hatch release</title>
+            <desc>Image of the emergency hatch release handles</desc>
+            <image keyref="img_emer_hatch_release" width="3in">
+                <alt>Ensure that the emergency hatches are spot checked for their condition </alt>
+            </image>
+        </fig>
+
     </conbody>
 </concept>
