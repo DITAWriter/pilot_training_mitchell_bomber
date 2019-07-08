@@ -18,16 +18,21 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_B-25_tactical_uses" id="image_nvc_cxv_3gb">
-            <alt>Tactical Uses of the <keyword keyref="designator"/></alt>
-        </image>
-        <p>The combat record of the <keyword keyref="aircraft_name"/> has being printed in the newspapers of all the world
-            for every man to see. Little can be added to that story except the developments of the
-            future.</p>
+        <fig>
+            <title>Tactical Uses of the <keyword keyref="designator"/></title>
+            <desc>Image of two airplanes with bomb bay doors open, with the lead planning dropping
+                bombs</desc>
+            <image keyref="img_B-25_tactical_uses" id="image_nvc_cxv_3gb" width="6in">
+                <alt>Two <keyword keyref="designator"/>s on a sortie</alt>
+            </image>
+        </fig>
+        <p>The combat record of the <keyword keyref="aircraft_name"/> has being printed in the
+            newspapers of all the world for every man to see. Little can be added to that story
+            except the developments of the future.</p>
         <p>You and your buddies will write that story in the skies of the world.</p>
-        <p>You have been taught to fly the <keyword keyref="aircraft_name"/> accurately and safely under all conditions. Now
-            you must learn to use the <keyword keyref="designator"/> as a weapon, for that is the
-            ultimate purpose of military flying.</p>
+        <p>You have been taught to fly the <keyword keyref="aircraft_name"/> accurately and safely
+            under all conditions. Now you must learn to use the <keyword keyref="designator"/> as a
+            weapon, for that is the ultimate purpose of military flying.</p>
         <p>All the skill and determination you can bring to this job will be none too much. How well
             you learn to punish the enemy and to protect yourself will in the final analysis
             determine whether you are a successful pilot.</p>

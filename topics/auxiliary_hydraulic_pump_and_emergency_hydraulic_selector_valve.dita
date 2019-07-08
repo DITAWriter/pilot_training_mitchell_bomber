@@ -23,7 +23,15 @@
         <p>It is between the pilot's and copilot's seats and either man uses it.</p>
         <p>A selector valve, directly behind the hand pump on the floor, distributes the pressure
             from the hand pump.</p>
-        <image placement="break" keyref="img_emerg_hydraulic_pump" id="image_iyb_cfp_3gb" width="3in"/>
+        <fig>
+            <title>Auxiliary hydraulic pump</title>
+            <desc>Image of a man's arn pumping a lever, with a control below it set to
+                "NORMAL"</desc>
+            <image keyref="img_emerg_hydraulic_pump" id="image_iyb_cfp_3gb" width="3in">
+                <alt>How to pumping the auxiliary hydraulic pump and what the hydraulic selector
+                    valve looks like</alt>
+            </image>
+        </fig>
         <p>The selector valve has three positions, "<option>NORMAL</option>,"
                 "<option>BRAKE</option>" and "<option>LATCH</option>" In "<option>NORMAL</option>"
             position the pressure from the hand pump is distributed through the normal hydraulic

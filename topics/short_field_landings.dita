@@ -23,9 +23,13 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_landing_short_field">
-            <alt>Short-field landings</alt>
-        </image>
+        <fig>
+            <title>Short-field landings</title>
+            <desc>Image of a plane about to land on a small clearing</desc>
+            <image keyref="img_landing_short_field" width="6in">
+                <alt>A scenario for a short-field landing</alt>
+            </image>
+        </fig>
         <p>But even at home, if you took off this afternoon and the hydraulic system failed in
             flight, you would have a perfect example of the necessity for short-field landings in
             everyday flying. You would have to make an accurate short-field landing to be sure that
@@ -61,13 +65,13 @@
         <p>The type of approach you just made is obviously impractical for this landing.</p>
         <ol>
             <li>Establish a normal full-flap power glide.</li>
-            <li>Plan this glide to clear the obstruction with power, Don*t depend on your judgment
+            <li>Plan this glide to clear the obstruction with power, Don't depend on your judgment
                 from too high an altitude.</li>
             <li>Control the attitude of the plane to gain a level or slightly nose-high attitude as
                 you clear the obstruction.</li>
             <li>Reduce the airspeed to slightly above the power-off stalling speed.</li>
         </ol>
-        <p>As the obstacle is cleared , use power in accordance with the height of the obstacle.
+        <p>As the obstacle is cleared, use power in accordance with the height of the obstacle.
             Place the plane in a tail-low attitude and use the throttles to control the rate of
             descent. Do not reduce power too quickly or the plane will drop in for a hard and
             dangerous landing.</p>
@@ -95,12 +99,21 @@
                     in. This is extremely dangerous with the B-25.</li>
                 <li>Poor coordination of throttle and airspeed.</li>
             </ul>
-            <image placement="break" keyref="img_landing_approach_no_obstruct">
-                <alt>Approach without obstructions</alt>
-            </image>
-            <image placement="break" keyref="img_landing_approach_with_obstructs">
-                <alt>Approach over obstructions</alt>
-            </image>
+            <fig>
+                <title>Approach without obstructions</title>
+                <desc>Image of an airplane making an approach for landing without any
+                    obstructions</desc>
+                <image keyref="img_landing_approach_no_obstruct" width="6in">
+                    <alt>A normal approach without obstructions</alt>
+                </image>
+            </fig>
+            <fig>
+                <title>Approach over obstructions</title>
+                <desc>Image of an airplane making an approach for landing with obstructions</desc>
+                <image keyref="img_landing_approach_with_obstructs" width="6in">
+                    <alt>How to do an approach with obstructions</alt>
+                </image>
+            </fig>
         </section>
     </conbody>
 </concept>

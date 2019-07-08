@@ -44,11 +44,16 @@
                         <cmd>Turn the booster pumps "<userinput>ON</userinput>." </cmd>
                     </substep>
                 </substeps>
-                <info><image placement="break" keyref="img_single_eng_before_feather"
-                        id="image_szw_kcp_3gb" width="3in">
-                        <alt>Before you feather: ignition, fuel cut-off, mixture, booster
-                            pumps.</alt>
-                    </image>You can make these checks in far less time than it takes to read these
+                <info><fig>
+                        <title>Before you feather: ignition, fuel cut-off, mixture, booster
+                            pumps</title>
+                        <desc>Image showing to check ignition settings, fuel cut-off, mixture and
+                            booster pump settings before feathering a propeller</desc>
+                        <image keyref="img_single_eng_before_feather" id="image_szw_kcp_3gb"
+                            width="3in">
+                            <alt>What to check before feathering a propeller</alt>
+                        </image>
+                    </fig> You can make these checks in far less time than it takes to read these
                     lines; they may save the engine, and they prevent featheritis.</info>
             </step>
             <step>

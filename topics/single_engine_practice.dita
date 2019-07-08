@@ -28,9 +28,15 @@
         <p>Now for the single engine turns. The old theory that you must never turn into the dead
             engine is false. You can turn in either direction. If you can make a good coordinated
             turn into The good engine you can do the same thing into the dead engine.</p>
-        <image placement="break" keyref="img_single_eng_turn_into_dead_eng">
-            <alt>A turn into the dead engine is OK</alt>
-        </image>
+        <fig>
+            <title>A turn into the dead engine is OK</title>
+            <desc>Image of an airplane that is making a turn with a dead engine on the inside of the
+                turn</desc>
+            <image keyref="img_single_eng_turn_into_dead_eng" width="6in">
+                <alt>It is possible to do a turn with a dead engine if you are making the turn in
+                    the direction of the dead engine</alt>
+            </image>
+        </fig>
         <p>Practice some turns in both directions. You will find no difference as long as the
             airspeed is constant. Lose a slight amount of altitude in the turn to keep the airspeed
             constant. Do not blast roughly on the throttles to maintain airspeed. This is a

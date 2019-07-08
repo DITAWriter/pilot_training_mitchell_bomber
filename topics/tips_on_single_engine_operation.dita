@@ -43,7 +43,7 @@
             <title>Re-starting the dead engine</title>
             <ul>
                 <li>Turn the ignition switches "<userinput>ON</userinput>."</li>
-                <li>Turn the gasoline "<userinput>ON</userinput>."</li>
+                <li>Turn the gasoline "<userinput>ON</userinput>." </li>
                 <li>Prop control (bad engine) full "<userinput>DEC. RPM</userinput>." Mixture
                         "<userinput>FULL RICH</userinput>."</li>
                 <li>Depress the feathering switch until the engine rpm is 800.</li>

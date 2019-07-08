@@ -13,6 +13,12 @@
     <conbody>
         <p>Do not take these instructions as a license to abuse your airplane. It is better to stay
             away from trouble than invite it.</p>
-        <image placement="break" keyref="img_adv_air_work"/>
+        <fig>
+            <title>Advanced air work</title>
+            <desc>Image of an airplane flying towards the viewer</desc>
+            <image keyref="img_adv_air_work" width="6in">
+                <alt>Information on advanced air work</alt>
+            </image>
+        </fig>
     </conbody>
 </concept>

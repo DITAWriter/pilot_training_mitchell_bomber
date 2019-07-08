@@ -17,7 +17,13 @@
     </prolog>
     <taskbody>
         <context>
-            <image placement="break" keyref="img_night_flying" id="image_ljg_ss4_ggb"/>
+            <fig>
+                <title>Night flying</title>
+                <desc>Image of an airplane flying in the dark</desc>
+                <image keyref="img_night_flying" id="image_ljg_ss4_ggb" width="6in">
+                    <alt>How to do effective night flying</alt>
+                </image>
+            </fig>
             <p>A few tips on night flying:</p>
             <note type="important">In night flying, a turn may suddenly change contact flight to
                 instrument flight. Be ready to fly instruments at any moment.</note>
@@ -37,7 +43,7 @@
                     areas.</cmd>
             </step>
             <step>
-                <cmd>Use the extension Ught rather than the dome light for reading maps and
+                <cmd>Use the extension light rather than the dome light for reading maps and
                     charts.</cmd>
             </step>
             <step>

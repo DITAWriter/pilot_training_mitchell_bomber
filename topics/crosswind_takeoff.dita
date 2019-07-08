@@ -37,7 +37,14 @@
                 <cmd>Advance the throttles, leading with the upwind throttle. The strength of the
                     wind will determine the amount of lead.</cmd>
                 <info>
-                    <image placement="break" keyref="img_takeoff_crosswind" width="3in"/>
+                    <fig>
+                        <title>Crosswind takeoff</title>
+                        <desc>Image of an airplane with flaps down away from the crosswind, and up
+                            on the side that is facing the wind</desc>
+                        <image keyref="img_takeoff_crosswind" width="3in">
+                            <alt>An effective crosswind takeoff</alt>
+                        </image>
+                    </fig>
                 </info>
             </step>
             <step>
@@ -49,14 +56,20 @@
                     aileron to make a coordinated turn into the wind, thus counteracting any
                     drift.</cmd>
                 <info>
-                    <image placement="break" keyref="img_takeoff_crosswind_coord_turn" width="3in"/>
+                    <fig><title>Turning slightly to counteract crosswind drift</title><desc>Image a plane tilted slightly down to the right but with flaps directed to counteract the
+                            effects of the crosswind</desc><image keyref="img_takeoff_crosswind_coord_turn" width="3in"><alt></alt></image></fig>
                     <note>The plane may skip as the speed increases toward the end of the takeoff
                         roll. This is an indication that it is ready to fly. Help it along to
                         prevent skipping and to keep the consequent side thrust from injuring the
                         landing gear.</note>
-                    <image placement="break" keyref="img_takeoff_crosswind_throttle" width="3in">
-                        <alt>Don't juggle the throttles</alt>
-                    </image>
+                    <fig>
+                        <title>Don't juggle the throttles</title><desc>Image of an airplane weaving across a runway</desc>
+                        <image keyref="img_takeoff_crosswind_throttle" width="3in">
+                            <alt>Juggling the throttles may cause the <keyword keyref="designator"/> to weave along the
+                                runway</alt>
+                        </image>
+                    </fig>
+                       
                 </info>
             </step>
         </steps>

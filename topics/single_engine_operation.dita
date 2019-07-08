@@ -21,9 +21,13 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_single_engine_ops">
-            <alt>Single engine operation</alt>
-        </image>
+        <fig>
+            <title>Single engine operation</title>
+            <desc>Image of an airplane with only one working propeller</desc>
+            <image keyref="img_single_engine_ops" width="6in">
+                <alt>Operating the <keyword keyref="designator"/> with a single engine</alt>
+            </image>
+        </fig>
         <p>Beyond a weight of 32,000 lbs. you will experience some difficulty in maintaining
             altitude. This should never be a serious handicap, since you can always correct it by
             ridding the plane of excess weight.</p>
@@ -42,8 +46,8 @@
         <p>Critical single engine speed is the slowest speed at which the rudder has a sale margin
             of control over the unbalanced thrust of the one live engine, at maximum power.</p>
         <p>Maximum power settings for single engine flight depend on the particular conditions. You
-            can apply power in direct relation to the airspeed. At high speeds it is possible to
-            use takeoff power settings for a short time.</p>
+            can apply power in direct relation to the airspeed. At high speeds it is possible to use
+            takeoff power settings for a short time.</p>
         <p>For all normal single engine operation, keep your power settings at maximum climb or
             below. The airplane becomes difficult to control beyond this power setting unless you
             have excess airspeed. If you have excess speed, you don't need excessive power.</p>

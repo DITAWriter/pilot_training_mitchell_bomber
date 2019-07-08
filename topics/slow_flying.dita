@@ -21,9 +21,13 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_slow_flying" width="6in">
-            <alt>Slow flying</alt>
-        </image>
+        <fig>
+            <title>Slow flying</title>
+            <desc>Image of an airplane tilting its nose up slightly as it gains airspeed</desc>
+            <image keyref="img_slow_flying" width="6in">
+                <alt>Successful slow flying technique</alt>
+            </image>
+        </fig>
         <p>You can fly the plane at almost a stall attitude and at low airspeed, and by the
             manipulation of power, continue to keep the plane in safe flight.</p>
         <p>It teaches lighter control and the necessity for smooth control movements at low speeds.
@@ -46,9 +50,13 @@
         <p><b>During a maneuver of this type, the engines have a tendency to overheat; watch the
                 cylinder-head temperature carefully, and do not allow it to rise
             dangerously.</b></p>
-        <image placement="break" keyref="img_slow_flying_turn" width="3in">
-            <alt>Practice slow flying turns</alt>
-        </image>
+        <fig>
+            <title>Practice slow flying turns</title>
+            <desc>Image of an airplane as seen from behind maknig a gradual, banking turn</desc>
+            <image keyref="img_slow_flying_turn" width="3in">
+                <alt>How to make a slow flying turn</alt>
+            </image>
+        </fig>
         <p>Practice this maneuver, checking the airspeed indicator only occasionally. Learn to fly
             through it by feel alone. Practice it with the flaps up and down. Practice it in turns,
             noting that to hold airspeed and altitude you must increase power. Normally, in an

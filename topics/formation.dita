@@ -87,12 +87,24 @@
                 sufficient to give you the primary elements of all formations.</p>
             <p>These formations are illustrated as squadron formations to allow you to see their
                 integration into larger groups.</p>
-            <image placement="break" keyref="img_formation_javelin_up" id="image_cvw_jt4_ggb">
-                <alt>Javelin Up</alt>
-            </image>
-            <image placement="break" keyref="img_formation_echelon_up" id="image_swd_lt4_ggb">
-                <alt>Echelon Up</alt>
-            </image>
+            <fig>
+                <title>Javelin Up</title>
+                <desc>Formation of nine airplanes, in a staggered set of triangles with a lead plane
+                    in front followed by two to the side and behind for each triangle</desc>
+                <image keyref="img_formation_javelin_up" id="image_cvw_jt4_ggb" width="6in">
+                    <alt>A javelin up formation</alt>
+                </image>
+            </fig>
+                
+            <fig>
+                <title>Echelon Up</title>
+                <desc>Formation of three sets of three airplanes, each set of three in a triangle,
+                    and the right-most taking the lead</desc>
+                <image keyref="img_formation_echelon_up" id="image_swd_lt4_ggb" width="6in">
+                    <alt>An echelon up formation</alt>
+                </image>
+            </fig>
+                
         </section>
         <section id="sect_TakeoffLanding">
             <title>Takeoff and Landing</title>
@@ -107,8 +119,14 @@
                 the preceding plane.</p>
             <note type="warning">Watch wind direction closely to determine where you will encounter
                 the heaviest prop wash, and try to fly above or below it at that point.</note>
-            <p><image placement="break" keyref="img_formation_takeoff_landing" id="image_byt_st4_ggb"
-                    /><b>Keep your nose inside the nose of the lead plane.</b> You will delay the
+            <p><fig>
+                    <title>Take a long turn when climbing</title>
+                    <desc>Image of two airplanes, the one in black taking a long area to do a turn,
+                        and the other one taking a much shorter route</desc>
+                    <image keyref="img_formation_takeoff_landing" id="image_byt_st4_ggb">
+                        <alt>Comparison of a long- versus a short-turn while climbing</alt>
+                    </image>
+                </fig><b>Keep your nose inside the nose of the lead plane.</b> You will delay the
                 entire joining procedure if you turn with the lead plane instead of inside him.</p>
             <p>To land information you must land accurately at varying distances on the runway. Land
                 on the side away from the plane ahead of you, and give the man behind you a little
@@ -165,9 +183,15 @@
             <note type="caution">When operating on Grade 91 fuel, for additional safety, formation
                 leaders should reduce manifold pressure 2" Hg. and wingmen should increase rpm
                 settings by 100 rpm.</note>
-            <image placement="break" keyref="img_formation_squadron_stagger" id="image_cys_yt4_ggb">
-                <alt>Trust your leader. Stay in formation.</alt>
-            </image>
+            <fig>
+                <title>Trust your leader. Stay in formation.</title>
+                <desc>Image of three sets of three airplane in formation, as seen from above and
+                    from head on</desc>
+                <image keyref="img_formation_squadron_stagger" id="image_cys_yt4_ggb" width="6in">
+                    <alt>Always stay in formation with the lead aircraft</alt>
+                </image>
+            </fig>
+               
         </section>
     </conbody>
 </concept>

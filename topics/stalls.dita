@@ -21,7 +21,13 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_stalls"/>
+        <fig>
+            <title>Stalls</title>
+            <desc>Image of a flying airplane as seen from below</desc>
+            <image keyref="img_stalls">
+                <alt>How to avoid stalling the <keyword keyref="designator"/></alt>
+            </image>
+        </fig>
         <p>The plane breaks cleanly through the stall, with no tendency to drop a wing, and makes a
             relatively rapid recovery.</p>
         <p>When stalling with power on, the tail surfaces give a warning of the approaching stall by
@@ -110,15 +116,20 @@
         <p>Practice glide stalls in the <keyword keyref="designator"/> to familiarize yourself with
             the feel of the airplane under landing conditions.</p>
         <p>Perform them by establishing a power-off glide at normal gliding speeds and then flaring
-            od exactly as you would to make a landing. Hold The plane at a constant altitude in a
+            up exactly as you would to make a landing. Hold the plane at a constant altitude in a
             landing attitude until it stalls. The stalling characteristics are the same as in a
             power-on stall except that the elevators and stabilizer will not buffet as they do in a
             power-on stall.</p>
         <p>Again, the recovery is a combination of nose-down and increased power. This stall
             simulates landing conditions exactly when practised with the wheels and flaps full down.
             The recovery should be made above 8000 feet to give ample room for emergencies.</p>
-        <image placement="break" keyref="img_stall_recover_smoothly" id="image_j5c_vz4_3gb">
-            <alt>Recover from Stall Smoothly</alt>
-        </image>
+        <fig>
+            <title>Recover from Stall Smoothly</title>
+            <desc>Image of an airplane making a gradual drop and then leveling off at the bottom of
+                the drop</desc>
+            <image keyref="img_stall_recover_smoothly" id="image_j5c_vz4_3gb">
+                <alt>How to smoothly recover from a stall</alt>
+            </image>
+        </fig>
     </conbody>
 </concept>

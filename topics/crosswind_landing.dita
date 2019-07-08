@@ -26,9 +26,17 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_landing_crosswind_crab" id="image_efg_ldp_ggb">
-            <alt>Crab into wind</alt>
-        </image>
+        <fig>
+            <title>Crab into wind</title>
+            <desc>Image of two airplanes, one with its right wing tipped dangerously low in the
+                direction of the wind, the second "crabbed" with the whole airplane tilted slightly
+                in the direction of the wind</desc>
+            <image keyref="img_landing_crosswind_crab" id="image_efg_ldp_ggb" width="6in">
+                <alt>How to crab the <keyword keyref="designator"/> successfully into the wind when
+                    landing</alt>
+            </image>
+        </fig>
+
         <p>There are three possible ways to land crosswind:</p>
         <ul>
             <li>Hold the airplane straight and level toward the landing strip and drop one wing into
@@ -61,9 +69,14 @@
             throttles increases the length of roll considerably.</p>
         <p>Where there is a strong drift, land on the upwind side of the runway. The drift will
             carry you toward the center of the runway.</p>
-        <image placement="break" keyref="img_landing_correct_for_drift" id="image_m5t_kxn_3gb">
-            <alt>Correct for Drift. Land on the runway.</alt>
-        </image>
+        <fig>
+            <title>Correct for Drift. Land on the runway.</title>
+            <desc>Image of an airplane landing only partially on the runway</desc>
+            <image keyref="img_landing_correct_for_drift" id="image_m5t_kxn_3gb" width="6in">
+                <alt>Correct for drift when landing</alt>
+            </image>
+        </fig>
+
         <section id="sect_CommonErrors">
             <title>Common Errors</title>
             <ul>

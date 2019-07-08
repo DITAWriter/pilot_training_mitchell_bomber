@@ -21,9 +21,15 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_single_eng_landing">
-            <alt>Single Engine Landing</alt>
-        </image>
+        <fig>
+            <title>Single Engine Landing</title>
+            <desc>Image of an airplane making a relatively steep landing approach, with numbers
+                indicating when to lower the landing gear, lower half flaps, reduce power and trim,
+                and then landing</desc>
+            <image keyref="img_single_eng_landing" width="6in">
+                <alt>How to land <keyword keyref="designator"/> on one engine</alt>
+            </image>
+        </fig>
         <p>You have flown on one engine, turned on one engine. Now you will make single engine
             landings. This maneuver is simple, safe, and vital for your continued safety.</p>
         <p>Fly this maneuver with the propeller unfeathered to allow for recovery from a bad
@@ -64,11 +70,10 @@
             <li>Maintain 140 mph until the landing is in the bag, then lower the remaining flaps and
                 reduce power to make an accurate landing.</li>
         </ol>
-        <object data="https://www.youtube.com/watch?v=-YQmkjpP6q8#t=17m27s"
-            outputclass="iframe"/><fig>
-                <title>Landing a <keyword
-                    keyref="designator"/> on one engine</title>
-            </fig>
+        <object data="https://www.youtube.com/watch?v=-YQmkjpP6q8#t=17m27s" outputclass="iframe"/>
+        <fig>
+            <title>Landing a <keyword keyref="designator"/> on one engine</title>
+        </fig>
         <p>The plane will have a tendency to yaw into the good engine as the power is cut off
             completely. This yaw is present when the propeller is feathered and so should not be
             changed by cutting power on the engine you have set up to act as a feathered prop. This

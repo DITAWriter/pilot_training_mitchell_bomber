@@ -51,43 +51,70 @@
                     <substep>
                         <cmd>Raise the wheels</cmd>
                         <info>
-                            <image placement="break" keyref="img_single_eng_raise_wheels" width="3in">
-                                <alt>Raise the wheels</alt>
-                            </image>
+                            <fig>
+                                <title>Raise the wheels</title>
+                                <desc>Image of an airplane raising its wheels</desc>
+                                <image keyref="img_single_eng_raise_wheels" width="3in">
+                                    <alt>Raise the wheels to reduce drag</alt>
+                                </image>
+                            </fig>
+                                
                         </info>
                     </substep>
                     <substep>
                         <cmd>Feather the prop</cmd>
                         <info>
-                            <image placement="break" keyref="img_single_eng_feather_prop" width="3in">
-                                <alt>Feather the prop</alt>
-                            </image>
+                            <fig>
+                                <title>Feather the prop</title>
+                                <desc>Image of an airplane propeller whose blades are rotated to
+                                    show a minimal aspect</desc>
+                                <image keyref="img_single_eng_feather_prop" width="3in">
+                                    <alt>Reduce drag by feathering the prop</alt>
+                                </image>
+                            </fig>
+                               
                         </info>
                     </substep>
                     <substep>
                         <cmd>Raise flaps to 15 degrees</cmd>
                         <info>
-                            <image placement="break" keyref="img_single_eng_raise_flaps_15deg"
-                                width="3in">
-                                <alt>Raise flaps to 15 degrees</alt>
-                            </image>
+                            <fig>
+                                <title>Raise flaps to 15 degrees</title>
+                                <desc>Image of the flaps set to 15 degrees</desc>
+                                <image keyref="img_single_eng_raise_flaps_15deg" width="3in">
+                                    <alt>Generate additional lift by setting the flaps to 15
+                                        degrees</alt>
+                                </image>
+                            </fig>
+                               
                         </info>
                     </substep>
                     <substep>
                         <cmd>Close cowl flaps on dead engine</cmd>
                         <info>
-                            <image placement="break" keyref="img_single_eng_close_cowl_dead_eng"
-                                width="3in">
-                                <alt>Close cowl flaps on dead engine</alt>
-                            </image>
+                            <fig>
+                                <title>Close cowl flaps on dead engine</title>
+                                <desc>Image of an engines with closed cowl flaps</desc>
+                                <image keyref="img_single_eng_close_cowl_dead_eng" width="3in">
+                                    <alt>Reduce drag by closing the cowl flaps on a dead
+                                        engine</alt>
+                                </image>
+                            </fig>
+                              
                         </info>
                     </substep>
                     <substep>
                         <cmd>Drop weight if necessary</cmd>
                         <info>
-                            <image placement="break" keyref="img_single_eng_drop_weight" width="3in">
-                                <alt>Drop weight if necessary</alt>
-                            </image>
+                            <fig>
+                                <title>Drop weight if necessary</title>
+                                <desc>Image of a plane dropping its bomb load</desc>
+                                <image keyref="img_single_eng_drop_weight" width="3in">
+                                    <alt>Reduce weight if possible, such as by releasing a bomb
+                                        load</alt>
+                                </image>
+                            </fig>
+                              
                         </info>
                     </substep>
                 </substeps>

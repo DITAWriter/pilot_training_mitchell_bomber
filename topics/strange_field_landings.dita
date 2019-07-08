@@ -20,9 +20,13 @@
         </metadata>
     </prolog>
     <conbody>
-        <image placement="break" keyref="img_landing_strange_field">
-            <alt>Look it over before you decide to land.</alt>
-        </image>
+        <fig>
+            <title>Look it over before you decide to land</title>
+            <desc>Image of an airplane circling over an airfield</desc>
+            <image keyref="img_landing_strange_field" width="6in">
+                <alt>Look over the landing area prior to landing</alt>
+            </image>
+        </fig>
         <p>You have probably walked into the familiar front room at home, neatly sidestepped the
             lamp, and continued on your way in total darkness. This same perception of familiar
             objects operates in every flight you make.</p>

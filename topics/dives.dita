@@ -31,9 +31,17 @@
         <p>Combat requirements may force you to dive the plane when the gross weight is excessive.
             The plane will carry you through some tight spots in an emergency, but treat it gently.
             Don't place unnecessary loads on the plane by rough and careless handling.</p>
-        <image placement="break" keyref="img_max_dive_speed" id="image_fsf_g3y_2gb" width="3in"/>
+        <fig>
+            <title>Maximum diving speed</title>
+            <desc>Image of an airplane in a steep diving with an air speed indicator set to
+                340</desc>
+            <image keyref="img_max_dive_speed" id="image_fsf_g3y_2gb" width="3in">
+                <alt>The maximum recommended diving speed for the <keyword keyref="designator"/> is
+                    340 mph</alt>
+            </image>
+        </fig>
+        <p><keyword keyref="designator"/> Maximum diving speeds at different weight thresholds</p>
         <table frame="all" id="table_vjg_j3y_2gb">
-            <title/>
             <tgroup cols="7">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
                 <colspec colname="c2" colnum="2" colwidth="1*"/>

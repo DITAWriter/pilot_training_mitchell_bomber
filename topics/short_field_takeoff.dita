@@ -36,9 +36,9 @@
         <section id="sect_HowTo">
             <title>How</title>
             <p>After completing the cockpit check, line up at the extreme end of the runway and set
-                the flaps to the maximum lift-drag position&#8212;30 Set the parking brakes,
-                advance the power to within 5" Hg. of the maximum allowed, and wait for the rpm
-                indications to become constant.</p>
+                the flaps to the maximum lift-drag position&#8212;30 Set the parking brakes, advance
+                the power to within 5" Hg. of the maximum allowed, and wait for the rpm indications
+                to become constant.</p>
             <p>Check to see that the nosewheel is pointed straight ahead and release the brakes. Use
                 the remaining 5" Hg. to control the direction until rudder control is effective,
                 then neutralize the throttles.</p>
@@ -56,12 +56,21 @@
                 and raise the remainder of the flaps.</p>
             <p>Prolonged climbs at low airspeeds raise the engine operating temperature
                 dangerously&#8212;do not practice them.</p>
-            <image placement="break" keyref="img_takeoff_short_field">
-                <alt>Short-Field Takeoff</alt>
-            </image>
-            <image placement="break" keyref="img_takeoff_muddy">
-                <alt>Muddy or Rough Ground Takeoff</alt>
-            </image>
+            <fig>
+                <title>Short-Field Takeoff</title>
+                <desc>Image depciting the stages of a plane taking off from a short-field</desc>
+                <image keyref="img_takeoff_short_field" width="6in">
+                    <alt>How to do a short-field takeoff</alt>
+                </image>
+            </fig>
+            <fig>
+                <title>Muddy or Rough Ground Takeoff</title>
+                <desc>Image depciting the stages of a plane taking off from a muddy field/rough
+                    ground</desc>
+                <image keyref="img_takeoff_muddy" width="6in">
+                    <alt>How to do a muddy field/rough ground takeoff</alt>
+                </image>
+            </fig>
         </section>
     </conbody>
 </concept>
