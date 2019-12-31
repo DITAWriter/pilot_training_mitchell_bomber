@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -23,7 +25,8 @@
             <title>Photographic equipment</title>
             <desc>Drawing of a large camera mechanism pointing downwards.</desc>
             <image keyref="img_photographic_equipment" id="image_k1c_rmm_cgb" width="6in">
-                <alt>The photographic equipment that may be present on a <keyword keyref="designator"/>.</alt>
+                <alt>The photographic equipment that may be present on a <keyword
+                        keyref="designator"/>.</alt>
             </image>
         </fig>
         <p>On late-model airplanes it is immediately aft of the bomb bay. Vertical photographs are

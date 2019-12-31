@@ -10,6 +10,8 @@
             <revised modified="4. Jan. 2019"/>
             <!--scott.hudson-->
             <revised modified="7. Jan. 2019"/>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -77,7 +79,7 @@
                 <stentry>Low Blower</stentry>
             </strow>
         </simpletable>
-        <table frame="all" rowsep="1" colsep="1" id="table_yl4_vzq_dgb">
+        <table frame="all" rowsep="1" colsep="1" id="table_yl4_vzq_dgb" rowheader="norowheader">
             <title>Climb</title>
             <tgroup cols="5">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
@@ -117,7 +119,7 @@
                 </tbody>
             </tgroup>
         </table>
-        <table frame="all" rowsep="1" colsep="1" id="table_qmk_c1r_dgb">
+        <table frame="all" rowsep="1" colsep="1" id="table_qmk_c1r_dgb" rowheader="norowheader">
             <title>Cruise</title>
             <tgroup cols="5">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>

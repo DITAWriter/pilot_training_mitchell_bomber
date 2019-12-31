@@ -10,6 +10,8 @@
             <revised modified="4. Jan. 2019"/>
             <!--scott.hudson-->
             <revised modified="7. Jan. 2019"/>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -18,7 +20,7 @@
         </metadata>
     </prolog>
     <refbody>
-        <table frame="all" rowsep="1" colsep="1" id="table_j1g_fbr_ref">
+        <table frame="all" rowsep="1" colsep="1" id="table_j1g_fbr_ref" rowheader="headers">
             <title>Maximum Range Chart for <keyword keyref="designator"/> H &amp; J Aircraft</title>
             <tgroup cols="9">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
@@ -30,7 +32,7 @@
                 <colspec colname="c7" colnum="7" colwidth="1*"/>
                 <colspec colname="c8" colnum="8" colwidth="1*"/>
                 <colspec colname="c9" colnum="9" colwidth="1*"/>
-                <tbody>
+                <thead>
                     <row>
                         <entry morerows="1">Airplane's Gross Weight</entry>
                         <entry morerows="1">Indicated Air Speed</entry>
@@ -47,6 +49,8 @@
                         <entry>1000 Feet</entry>
                         <entry>8000 Feet</entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry>34,000 lb.</entry>
                         <entry>175</entry>
@@ -161,8 +165,9 @@
             </tgroup>
         </table>
         <section>
-            <note>Climb at 2400 rpm, 38" Hg at 115 <term keyref="gl_IAS">IAS</term>. Fuel Consumption for Takeoff and Climbs:
-                    <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_dnj_kcr_dgb">
+            <note>Climb at 2400 rpm, 38" Hg at 115 <term keyref="gl_IAS">IAS</term>. Fuel
+                Consumption for Takeoff and Climbs: <simpletable frame="all" relcolwidth="1* 1*"
+                    id="simpletable_dnj_kcr_dgb">
                     <strow>
                         <stentry>To 1000 Feet 24 Gals.</stentry>
                         <stentry>To 8000 Feet 84 Gals.</stentry>

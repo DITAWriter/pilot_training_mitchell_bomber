@@ -9,6 +9,8 @@
             <revised modified="21. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="7. Jan. 2019"/>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -20,7 +22,8 @@
         <context>Don't fall into the trap of assuming that because you are operating at medium and
             low altitudes, your supercharger is not important. Your supercharger must have proper
             care all the time, regardless of whether you intend to use high blower.<p><b>Flight
-                    Instructions</b></p><ol>
+                    Instructions</b></p>
+            <ol>
                 <li>Except where airfields are at extremely high altitudes, always take off in
                         "<option>LOW</option>" blower. (There are no fields in the continental U.S.
                     where "<option>HIGH</option>" blower takeoffs are necessary.) While in
@@ -31,7 +34,8 @@
                     offset by the power required to operate in "<option>HIGH</option>" blower. Make
                     the shift from "<option>LOW</option>" to "<option>HIGH</option>" blower between
                     11,000 and 13,000 feet depending on the need for additional power.</li>
-            </ol></context>
+            </ol>
+        </context>
         <steps>
             <stepsection>
                 <p><b>Operation</b></p>

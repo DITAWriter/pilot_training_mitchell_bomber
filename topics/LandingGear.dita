@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="7. Jan. 2019"/>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>
         </critdates>
     </prolog>
     <conbody>
@@ -15,8 +17,9 @@
             the fuselage. Doors cover the gear openings in both the retracted and extended
             positions.</p>
         <fig>
-            <title>Landing wheels retracting as the <keyword keyref="designator"/> takes off</title><desc>Image of an airplane taking off with its three wheels retracting into its fuselage and
-                wings.</desc>
+            <title>Landing wheels retracting as the <keyword keyref="designator"/> takes off</title>
+            <desc>Image of an airplane taking off with its three wheels retracting into its fuselage
+                and wings.</desc>
             <image keyref="img_landing_gear" id="image_ozw_2sr_jgb">
                 <alt>Landing wheels retracting.</alt>
             </image>
@@ -26,14 +29,13 @@
         <ol>
             <li>A latch on the pedestal that must be set in the correct position before you can move
                 the handle.</li>
-            <li>A wire hook fastened to the pedestal which is placed over the control handle whenever
-                the handle is in the ''<option>DOWN</option>'' position.        <fig>
+            <li>A wire hook fastened to the pedestal which is placed over the control handle
+                whenever the handle is in the ''<option>DOWN</option>'' position. <fig>
                     <title>Landing gear mechanism locked in place when handle is in the "DOWN"
                         position</title>
                     <desc>Image focusing on a handle which is locked into place using a
                         latch.</desc>
-                    <image keyref="img_landing_gear_control" width="3in"
-                        id="image_vvy_gsr_jgb">
+                    <image keyref="img_landing_gear_control" width="3in" id="image_vvy_gsr_jgb">
                         <alt>Latch on the landing gear mechanism when it is in the "DOWN"
                             position.</alt>
                     </image>
@@ -43,12 +45,12 @@
                     <title>Locking plate for landing gear mechanism</title>
                     <desc>Image focusing on a metal band that prevents a handle from coming out of
                         position.</desc>
-                    <image keyref="img_landing_gear_control_locking"
-                        id="image_u1q_ksr_jgb" width="3in">
+                    <image keyref="img_landing_gear_control_locking" id="image_u1q_ksr_jgb"
+                        width="3in">
                         <alt>Landing gear mechanism with locking plate in place.</alt>
                     </image>
                 </fig></li>
-        </ol>      
+        </ol>
         <p>The swivel-type nose gear strut incorporates a centering device. It functions when weight
             is removed from the nosewheel. There is a shimmy damper on the nosewheel strut to absorb
             the vibrations created in taxiing. The nosewheel may be released from the shimmy damper
@@ -66,16 +68,18 @@
         <p>Conventional parking brakes permit setting the brakes in a locked position.</p>
         <p>For emergency operation of landing gear and brakes, see Emergency Section.</p>
         <fig>
-            <title>Instrument indicating that landing gear is up and locked, flaps up</title><desc>An instrument image of an airplane with three symbols indicating the landing wheels are up and
-                locked, and a flap indicator pointing to "UP".</desc>
+            <title>Instrument indicating that landing gear is up and locked, flaps up</title>
+            <desc>An instrument image of an airplane with three symbols indicating the landing
+                wheels are up and locked, and a flap indicator pointing to "UP".</desc>
             <image keyref="img_landing_gear_ind_up_locked_flaps_up" width="3in"
                 id="image_ecx_4sr_jgb">
                 <alt>Landing gear is up and locked, flaps up.</alt>
             </image>
         </fig>
         <fig>
-            <title>Instrument indicating that the landing gear is part down, flaps 15deg</title><desc>An instrument image of an airplane with three symbols indicating the landing wheels are
-                partially down, and a flap indicator pointing to 15 degrees.</desc>
+            <title>Instrument indicating that the landing gear is part down, flaps 15deg</title>
+            <desc>An instrument image of an airplane with three symbols indicating the landing
+                wheels are partially down, and a flap indicator pointing to 15 degrees.</desc>
             <image keyref="img_landing_gear_ind_part_down_flaps_15deg" width="3in"
                 id="image_qhb_rsr_jgb">
                 <alt>Landing gear is part down, flaps 15deg.</alt>
@@ -83,19 +87,21 @@
         </fig>
         <fig>
             <title>Instrument indicating that the landing gear is down but not locked, flaps
-                15deg</title><desc>An instrument image of an airplane with three symbols indicating the landing wheels are down
-                but not locked, and a flap indicator pointing to 15 degrees.</desc>
-            <image keyref="img_landing_gear_ind_down_not_locked_flaps_15deg"
-                width="3in" id="image_asl_5sr_jgb">
+                15deg</title>
+            <desc>An instrument image of an airplane with three symbols indicating the landing
+                wheels are down but not locked, and a flap indicator pointing to 15 degrees.</desc>
+            <image keyref="img_landing_gear_ind_down_not_locked_flaps_15deg" width="3in"
+                id="image_asl_5sr_jgb">
                 <alt>Landing wheels are down but not locked, and a flap indicator pointing to 15
                     degrees.</alt>
             </image>
         </fig>
         <fig>
-            <title>Instrument indicating that the landing gear down and locked, flaps 45deg</title><desc>An instrument image of an airplane with three symbols indicating the landing wheels are down
-                and locked, and a flap indicator pointing to 45 degrees.</desc>
-            <image keyref="img_landing_gear_ind_down_locked_flaps_45deg"
-                width="3in" id="image_gsr_wsr_jgb">
+            <title>Instrument indicating that the landing gear down and locked, flaps 45deg</title>
+            <desc>An instrument image of an airplane with three symbols indicating the landing
+                wheels are down and locked, and a flap indicator pointing to 45 degrees.</desc>
+            <image keyref="img_landing_gear_ind_down_locked_flaps_45deg" width="3in"
+                id="image_gsr_wsr_jgb">
                 <alt>Landing gear down and locked, flaps 45deg.</alt>
             </image>
         </fig>

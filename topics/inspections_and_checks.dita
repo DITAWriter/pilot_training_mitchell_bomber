@@ -12,6 +12,8 @@
             <revised modified="4. Jan. 2019"/>
             <!--scott.hudson-->
             <revised modified="7. Jan. 2019"/>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -165,8 +167,8 @@
             <p>Crew briefing&#8212;Location and operation of escape hatches.</p>
             <p>Proper use of parachutes.</p>
             <p>Abandon-ship procedure and signals.</p>
-            <p>Escape hatches&#8212;Emergency operation. Check with crew chief to determine the
-                time of the last check on the emergency operation of the escape hatches.</p>
+            <p>Escape hatches&#8212;Emergency operation. Check with crew chief to determine the time
+                of the last check on the emergency operation of the escape hatches.</p>
             <p>Testing and operation of oxygen equipment-check crew on knowledge of proper usage.
                 (Consult your Pilots' Information File.)</p>
             <p>Interphone operation.</p>
@@ -216,8 +218,9 @@
             </fig>
             <p>Check the load and balance of the ship. Check Form F with the load adjuster. The
                     <keyword keyref="designator"/> carries great loads and is unstable and dangerous
-                if the weight is not properly distributed. (For detailed information, see the <term keyref="gl_PIF">PIF</term>
-                and the Weights and Balance section of this manual.)</p>
+                if the weight is not properly distributed. (For detailed information, see the <term
+                    keyref="gl_PIF">PIF</term> and the Weights and Balance section of this
+                manual.)</p>
         </section>
         <section id="sect_Cockpit"><title>Cockpit</title><p>Have your parachute fitted to your body
                 and always wear it.</p><p>An improperly fitted chute will cause serious physical
@@ -228,7 +231,14 @@
                 for free and proper movement. This insures the release of the lock, and reveals the
                 presence of obstructions to free movement of the controls.</p><p>Parking brakes
                     "<option>SET</option>." Brake pressure 500 lb. sq. in. minimum.</p>
-            <fig><title>Preflight parking brakes</title><desc>Image of a foot pressing down on a brake pedal, and a hand pulling out a control.</desc><image keyref="img_preflight_parking_brakes" width="3in"><alt>Check the parking break settings prior to flight.</alt></image></fig>
+            <fig>
+                <title>Preflight parking brakes</title>
+                <desc>Image of a foot pressing down on a brake pedal, and a hand pulling out a
+                    control.</desc>
+                <image keyref="img_preflight_parking_brakes" width="3in">
+                    <alt>Check the parking break settings prior to flight.</alt>
+                </image>
+            </fig>
             <fig>
                 <title>Check controls for free and proper movement</title>
                 <desc>Image of an airplane up with arrows on the various wing and control surfaces,
@@ -237,11 +247,11 @@
                     <alt>Check that your flight surfaces move fully prior to flight.</alt>
                 </image>
             </fig>
-            <p>Hydraulic selector "<option>NORMAL</option>." Air brake handle down and
-                safetied. Landing gear handle "<option>DOWN</option>" and locked. Wing flaps up,
-                controls neutral. Cowl flaps open, controls neutral. Set all hydraulic controls
-                except landing gear at neutral when they are not in use; this prevents loss of fluid
-                and pressure in the entire system if part of it fails.</p><p>Automatic pilot
+            <p>Hydraulic selector "<option>NORMAL</option>." Air brake handle down and safetied.
+                Landing gear handle "<option>DOWN</option>" and locked. Wing flaps up, controls
+                neutral. Cowl flaps open, controls neutral. Set all hydraulic controls except
+                landing gear at neutral when they are not in use; this prevents loss of fluid and
+                pressure in the entire system if part of it fails.</p><p>Automatic pilot
                     "<option>OFF</option>" and locked. Supercharger "<option>LOW BLOWER</option>"
                 and locked. All takeoffs must he made in "<option>LOW BLOWER</option>." Any attempt
                 to do otherwise robs the engines of power.</p><p>Oil shutters as required.
@@ -253,9 +263,9 @@
                 <image keyref="img_preflight_throttles" width="3in">
                     <alt>Check the throttle settings prior to flight.</alt>
                 </image>
-            </fig>    
+            </fig>
             <p>Throttles cracked (V2 inch to 1 inch).</p><p>Propellers "<option>INC.
-                    RPM</option>."</p><p>Mixture "<option>IDLE CUT-OFF</option>."</p><p>Radios
+                RPM</option>."</p><p>Mixture "<option>IDLE CUT-OFF</option>."</p><p>Radios
                     "<option>OFF</option>."</p><p>De-icers "<option>OFF</option>."</p><p>Airspeed
                 selector "<option>STATIC</option>."</p><p>Altimeter set (station elevation). This
                 setting will enable you to check the radioed altimeter setting and detect any scale
@@ -276,8 +286,8 @@
                     <alt>Check the battery switch settings prior to flight.</alt>
                 </image>
             </fig>
-             <p>Battery-disconnect switches "<option>ON</option>" (unless external power is
-                used). Light switches as required.</p>
+            <p>Battery-disconnect switches "<option>ON</option>" (unless external power is used).
+                Light switches as required.</p>
             <fig>
                 <title>Preflight fuel</title>
                 <desc>Image of two instrument readings registering that fuel levels in two tanks are
@@ -287,7 +297,7 @@
                         flight.</alt>
                 </image>
             </fig>
-<p>Check fuel levels&#8212;the visual preflight check acts as a check on the
-                instrument reading.</p></section>
+            <p>Check fuel levels&#8212;the visual preflight check acts as a check on the instrument
+                reading.</p></section>
     </conbody>
 </concept>

@@ -4,13 +4,16 @@
     <title>Automatic Pilot</title>
     <shortdesc>Most <keyword keyref="designator"/> aircraft have A-3 or A-3A autopilots which
         operate on a pneumatic-hydraulic principle. They fly the airplane automatically in straight
-        and level flight and make the necessary corrections for holding a given course or altitude. </shortdesc>
+        and level flight and make the necessary corrections for holding a given course or
+        altitude.</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="12. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="7. Jan. 2019"/>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -52,8 +55,7 @@
                 <title>Auto pilot, level flight diagram</title>
                 <desc>Diagram depicting how fluid resevoirs in each wing affect a mechanism for
                     setting level flight.</desc>
-                <image keyref="img_auto_pilot_level_flight_diag" id="image_s2d_2km_cgb"
-                    width="3in">
+                <image keyref="img_auto_pilot_level_flight_diag" id="image_s2d_2km_cgb" width="3in">
                     <alt>Diagram depicting how auto pilot mechanism works in level flight.</alt>
                 </image>
             </fig>
@@ -80,8 +82,7 @@
                 <title>Auto pilot, rough air diagram</title>
                 <desc>Diagram depicting how fluid resevoirs in each wing affect a mechanism when the
                     plane is angled.</desc>
-                <image keyref="img_auto_pilot_rough_air_diag" id="image_pjc_gkm_cgb"
-                    width="3in">
+                <image keyref="img_auto_pilot_rough_air_diag" id="image_pjc_gkm_cgb" width="3in">
                     <alt>Diagram depicting how auto pilot mechanism works in rough air.</alt>
                 </image>
             </fig>

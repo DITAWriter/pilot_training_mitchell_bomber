@@ -10,12 +10,14 @@
             <revised modified="12. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="7. Jan. 2019"/>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>
         </critdates>
         <metadata>
             <keywords>
                 <indexterm>propellers</indexterm>
-                <indexterm><keyword keyref="propeller_manufacturer"/> hydromatic props</indexterm>
-                <indexterm><keyword keyref="propeller_manufacturer"/> hydromatic
+                <indexterm><keyword keyref="propeller_manufacturer"/>hydromatic props</indexterm>
+                <indexterm><keyword keyref="propeller_manufacturer"/>hydromatic
                     propellers</indexterm>
                 <indexterm>propeller governor</indexterm>
                 <indexterm>unfeather</indexterm>
@@ -52,30 +54,31 @@
                 <title>Constant-speed control</title>
                 <desc>Diagram depicting gear connections for the constant-speed control
                     mechanism.</desc>
-                <image keyref="img_constant_speed_control" id="image_er4_kjm_cgb"
-                    width="6in">
+                <image keyref="img_constant_speed_control" id="image_er4_kjm_cgb" width="6in">
                     <alt>The propeller governor assembly.</alt>
                 </image>
-            </fig><p>The propeller governor assembly maintains rpm settings established by the
-                pilot.</p><p>The governor consists of 2 flyweights geared to the operation of the
-                crankshaft. These fly-weights adjust the load on the engine by raising or lowering a
-                pilot valve which allows oil under pressure to be metered to the propeller dome,
-                thereby increasing or decreasing the blade angle.</p><p><b>On-speed&#8212;</b> An
-                on-speed condition exists when the engine is turning at the selected rpm. The pilot
-                valve has closed the pressure and drain ports in the governor, maintaining the
-                blades at a fixed blade angle.</p><p><b>Overspeed&#8212;</b> An overspeed condition
-                indicates that the engine rpm has increased beyond the original setting. To
-                counteract this condition, engine oil flows to the governor. There a booster pump
-                increases pressure of the oil to 180-200 lb. per sq. in. Entry of this oil to the
-                inboard side of the propeller dome is permitted when the pilot valve opens the
-                pressure port, moving the piston forward and thus increasing blade angle and
-                decreasing engine rpm.</p><p><b>Underspeed&#8212;</b> An underspeed condition
-                indicates that the engine is running slower than the selected rpm. To correct this,
-                the pilot valve is forced downward, opening the drain port. Oil drains from the
-                inboard side of the piston in the propeller dome. The centrifugal twisting moment of
-                the blades, plus engine oil pressure on the outboard side of the piston, moves the
-                blades to a lower angle, thus increasing engine rpm to the selected
-            setting.</p></section>
+            </fig>
+            <p>The propeller governor assembly maintains rpm settings established by the pilot.</p>
+            <p>The governor consists of 2 flyweights geared to the operation of the crankshaft.
+                These fly-weights adjust the load on the engine by raising or lowering a pilot valve
+                which allows oil under pressure to be metered to the propeller dome, thereby
+                increasing or decreasing the blade angle.</p>
+            <p><b>On-speed&#8212;</b> An on-speed condition exists when the engine is turning at the
+                selected rpm. The pilot valve has closed the pressure and drain ports in the
+                governor, maintaining the blades at a fixed blade angle.</p>
+            <p><b>Overspeed&#8212;</b> An overspeed condition indicates that the engine rpm has
+                increased beyond the original setting. To counteract this condition, engine oil
+                flows to the governor. There a booster pump increases pressure of the oil to 180-200
+                lb. per sq. in. Entry of this oil to the inboard side of the propeller dome is
+                permitted when the pilot valve opens the pressure port, moving the piston forward
+                and thus increasing blade angle and decreasing engine rpm.</p>
+            <p><b>Underspeed&#8212;</b> An underspeed condition indicates that the engine is running
+                slower than the selected rpm. To correct this, the pilot valve is forced downward,
+                opening the drain port. Oil drains from the inboard side of the piston in the
+                propeller dome. The centrifugal twisting moment of the blades, plus engine oil
+                pressure on the outboard side of the piston, moves the blades to a lower angle, thus
+                increasing engine rpm to the selected setting.</p>
+        </section>
         <section id="sect_Feathering"><title>Feathering the propeller</title>
             <fig>
                 <title>Feathering the propeller</title>
@@ -89,7 +92,8 @@
                 propeller dome. Pressure is then built up on the inboard side of the piston,
                 twisting the blades to the full-feathered position (90°.) When the blades are at
                 this angle, pressure increases sufficiently to operate a cut-out switch, disengaging
-                the feathering pump.</p></section>
+                the feathering pump.</p>
+        </section>
         <section id="sect_Unfeathering">
             <title>Unfeathering</title>
             <p>To unfeather a propeller hold the control button down. This operates the feathering

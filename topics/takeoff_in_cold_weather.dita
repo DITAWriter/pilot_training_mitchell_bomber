@@ -10,6 +10,8 @@
             <revised modified="4. Jan. 2019"/>
             <!--scott.hudson-->
             <revised modified="7. Jan. 2019"/>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -21,8 +23,7 @@
     <taskbody>
         <context>
             <note type="warning">Your cabin heaters must be "<userinput>OFF</userinput>" before
-                    takeoff.
-                <fig>
+                takeoff. <fig>
                     <title>Preflight cabin heaters to &quot;OFF&quot;</title>
                     <desc>Image of a control pulled all the way back to an "OFF" position.</desc>
                     <image keyref="img_preflight_cabin_heaters" width="3in">

@@ -7,6 +7,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -69,9 +71,9 @@
                     observer.</cmd>
             </step>
             <step>
-                <cmd>Armorer-Gunner&#8212;will preflight and install photo equipment; take photos
-                    as directed by pilot; make observations of ground activity; and man battle
-                    station at all times, taking careful observations and reporting to the pilot all
+                <cmd>Armorer-Gunner&#8212;will preflight and install photo equipment; take photos as
+                    directed by pilot; make observations of ground activity; and man battle station
+                    at all times, taking careful observations and reporting to the pilot all
                     aircraft and ground installations sighted.</cmd>
             </step>
         </steps>

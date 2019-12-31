@@ -8,6 +8,8 @@
         <critdates>
             <!--scott.hudson-->
             <revised modified="4. Jan. 2019"/>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -24,7 +26,7 @@
             expected air temperature.</p>
         <p>
             <!-- if you span the "Temperature" and/or "Time—Minutes" rows, it blows up the DITA-OT for PDF output -->
-            <table frame="all" rowsep="1" colsep="1" id="table_vft_dt1_ggb">
+            <table frame="all" rowsep="1" colsep="1" id="table_vft_dt1_ggb" rowheader="headers">
                 <title>Oil Dilution After Landing in Cold Weather</title>
                 <tgroup cols="4">
                     <colspec colname="c1" colnum="1" colwidth="1*"/>
@@ -37,14 +39,14 @@
                             <entry>Time—Minutes</entry>
                             <entry namest="c3" nameend="c4">Maximum Allowable Temperatures</entry>
                         </row>
-                    </thead>
-                    <tbody>
                         <row>
                             <entry/>
                             <entry/>
                             <entry><b>Cyl. Head</b></entry>
                             <entry><b>Oil</b></entry>
                         </row>
+                    </thead>
+                    <tbody>
                         <row>
                             <entry>+4 to -12°C<p>(+21 to 0°F)</p></entry>
                             <entry>6</entry>

@@ -9,6 +9,8 @@
             <revised modified="21. Dec. 2018"/>
             <!--scott.hudson-->
             <revised modified="7. Jan. 2019"/>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>
         </critdates>
         <metadata>
             <keywords>
@@ -19,9 +21,9 @@
     </prolog>
     <conbody>
         <fig id="fig_OperatingAutopilot">
-            <title>Operating the autopilot</title><desc>Photograph with numbers depicting the various parts of the autopilot.</desc>
+            <title>Operating the autopilot</title>
+            <desc>Photograph with numbers depicting the various parts of the autopilot.</desc>
             <image keyref="img_autopilot_diag" width="6in">
-                
                 <ol>
                     <li>Rudder Control Knob</li>
                     <li>Rudder Follow-up Card</li>
@@ -46,7 +48,8 @@
                     <li>Bank Index</li>
                     <li>Aileron Control Knob</li>
                 </ol>
-<alt>The autopilot mechanism.</alt>            </image>
+                <alt>The autopilot mechanism.</alt>
+            </image>
         </fig>
         <p>It's OK to let Elmer take over and do some of your flying for you, particularly to
             relieve you of the strain caused by long over-water flights. Or, if you are cruising
