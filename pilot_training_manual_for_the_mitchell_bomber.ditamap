@@ -2,7 +2,8 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap id="pilot_training_manual_for_the_mitchell_bomber">
     <booktitle>
-        <mainbooktitle>Pilot Training Manual for the <keyword keyref="aircraft_name"/> <keyword keyref="designator"/> Bomber</mainbooktitle>
+        <mainbooktitle>Pilot Training Manual for the <keyword keyref="aircraft_name"/>
+            <keyword keyref="designator"/> Bomber</mainbooktitle>
     </booktitle>
     <bookmeta>
         <authorinformation>
@@ -253,10 +254,10 @@
                         <navtitle>G</navtitle>
                     </topicmeta>
                     <topicref keys="gl_GUMPS" href="glossentries/gl_GUMPS.dita"/>
-                    <topicref keys="gl_IAS" href="glossentries/gl_IAS.dita"></topicref>
-                    <topicref keys="gl_IFF" href="glossentries/gl_IFF.dita"></topicref>
-                    <topicref keys="gl_PIF" href="glossentries/gl_PIF.dita"></topicref>
-                    <topicref keys="gl_VHF" href="glossentries/gl_VHF.dita"></topicref>
+                    <topicref keys="gl_IAS" href="glossentries/gl_IAS.dita"/>
+                    <topicref keys="gl_IFF" href="glossentries/gl_IFF.dita"/>
+                    <topicref keys="gl_PIF" href="glossentries/gl_PIF.dita"/>
+                    <topicref keys="gl_VHF" href="glossentries/gl_VHF.dita"/>
                 </topicref>
             </glossarylist>
             <indexlist/>
@@ -270,8 +271,6 @@
 
         <!-- Keystore -->
         <mapref format="ditamap" href="conkeyref_keystore.ditamap"/>
-
-
     </backmatter>
 
     <reltable>
@@ -463,7 +462,5 @@
                     keyref="day_navigation_photo_reconnaissance_and_instrument_let_down_mission"/>
             </relcell>
         </relrow>
-
     </reltable>
-
 </bookmap>
