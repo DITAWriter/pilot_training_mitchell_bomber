@@ -2,11 +2,13 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="post_landing_checklist">
     <title>Post-Landing Checklist</title>
-    <shortdesc>On the runway, move the prop control to "<userinput>INC. RPM</userinput>." </shortdesc>
+    <shortdesc>On the runway, move the prop control to "<userinput>INC. RPM</userinput>."</shortdesc>
     <prolog>
         <critdates>
             <!--scott.hudson-->
             <revised modified="19. Dec. 2018"/>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>					
         </critdates>
         <metadata>
             <keywords>

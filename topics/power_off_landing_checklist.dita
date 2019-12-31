@@ -4,6 +4,10 @@
     <title>Power-Off Landing Checklist</title>
     <shortdesc>Make a power-off approach and landing as follows:</shortdesc>
     <prolog>
+        <critdates>
+            <!--keith.schengili-roberts-->
+            <revised modified="31. Dec. 2019"/>				
+        </critdates>	
         <metadata>
             <keywords>
                 <indexterm>checklist</indexterm>
