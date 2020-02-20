@@ -2,7 +2,7 @@
 
 Switches and controls located in the Radio Operator's compartment facing left.
 
- ![Radio operator's compartment, left view](../images/radio_operators_compartment-left_view.png) 
+![Left View of the Radio operator's compartment.](../images/radio_operators_compartment-left_view.png "Radio operator's compartment, left view")
 
 1.  Life Raft Release
 2.  Liaison Transmitter Unit
@@ -14,5 +14,5 @@ Switches and controls located in the Radio Operator's compartment facing left.
 8.  Trailing Antenna Reel Control Box
 9.  Heated Clothing Electrical Control
 
-**Parent topic:** [Location of Controls B-25 C and D](../topics/location_of_controls_b_25_c_and_d.md)
+**Parent topic:**[Location of Controls B-25 C and D](../topics/location_of_controls_b_25_c_and_d.md)
 

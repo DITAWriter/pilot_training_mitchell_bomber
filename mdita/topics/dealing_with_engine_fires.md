@@ -15,5 +15,5 @@ To combat a carburetor fire:
 
 This quickly empties the carburetor and exhausts the fuel that is burning. In most cases no other action need be taken.
 
-**Parent topic:** [Fire in Flight](../topics/fire_in_flight.md)
+**Parent topic:**[Fire in Flight](../topics/fire_in_flight.md)
 

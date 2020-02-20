@@ -8,7 +8,7 @@
 6.  Raising the last 15 degrees of flaps without increasing the angle of attack of the wings, causing an uncontrolled sinking.
 7.  Tenseness, causing a hurried procedure. Learn the procedure thoroughly, use it with confidence, perform each step calmly and deliberately as needed.
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

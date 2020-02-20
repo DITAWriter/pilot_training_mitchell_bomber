@@ -6,7 +6,7 @@ It is between the pilot's and copilot's seats and either man uses it.
 
 A selector valve, directly behind the hand pump on the floor, distributes the pressure from the hand pump.
 
-![](../images/emerg_hydraulic_pump.png)
+![How to pumping the auxiliary hydraulic pump and what the hydraulic selector valve looks like](../images/emerg_hydraulic_pump.png "Auxiliary hydraulic pump")
 
 The selector valve has three positions, "NORMAL," "BRAKE" and "LATCH" In "NORMAL" position the pressure from the hand pump is distributed through the normal hydraulic lines. In "BRAKE" position the pressure goes directly to the brake accumulator and then to the brakes. In "LATCH" position the pressure goes directly to the landing gear down-latch pins.
 
@@ -14,7 +14,7 @@ Use this auxiliary source of hydraulic pressure to make all normal hydraulic act
 
 You can use it to aid or replace the engine-driven pumps.
 
-**Note:** 
+**Note:**
 
 If down-position latchpins of the main landing gear do not engage, turn emergency hydraulic selector valve to "LATCH." Operate the hand pump until position indicator shows main landing gear latchpins in place.
 
@@ -24,7 +24,7 @@ The yellow flags which show up on the position indicator will always warn you if
 
 **Important:** Never pump the latch pins into place unless the main wheels are full down.
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

@@ -2,33 +2,33 @@
 
 In this and all ensuing gunnery missions when both ground and water targets are used, extreme care must be exercised to see that the field of fire is clear of other planes.
 
-|X Base|To| 33°38'N; 80°32'W
+|X Base|To|33°38'N; 80°32'W
 
  \(Bridge over X River\)
 
- |39 Miles|
-|33°38'N; 80°32'W|To| 34°04'N; 79°56'W
+|39 Miles|
+|33°38'N; 80°32'W|To|34°04'N; 79°56'W
 
  \(Fork in H River\)
 
- |46 Miles|
-|34°04'N; 79°56'W|To| 34°08'N; 79°13'W
+|46 Miles|
+|34°04'N; 79°56'W|To|34°08'N; 79°13'W
 
  \(H River, 6 Miles after crossing railroad line\)
 
- |42 Miles|
+|42 Miles|
 |34°08'N; 79°13'W|To|I.P. 33°39½'N; 79°09½'W|33 Miles|
 |Initial Point|To|Gunnery Control|12 Miles|
 |Total| | |172 Miles|
 
-![](../images/B-25_typical_missions.png)
+![B-25 doing a practice gunnery mission.](../images/B-25_typical_missions.png "Gunnery mission")
 
 -   **[Instructions for Firing-Ground Targets](../topics/instructions_for_firing_ground_targets.md)**  
 The expectations and ammunition load out for destroying ground-based targets.
 -   **[Instructions for Firing-Water Targets](../topics/instructions_for_firing_water_targets.md)**  
 The expectations and ammunition load out for destroying water-based targets.
 
-**Parent topic:** [Some Typical Missions](../topics/some_typical_missions.md)
+**Parent topic:**[Some Typical Missions](../topics/some_typical_missions.md)
 
 **Related information**  
 

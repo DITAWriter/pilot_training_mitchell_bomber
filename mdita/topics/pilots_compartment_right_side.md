@@ -2,7 +2,7 @@
 
 Controls and switches located to the right-side of the Pilot's compartment.
 
-![Pilot's compartment, right side](../images/pilots_compartment-right-side.png)
+![Right side of the pilot's compartment](../images/pilots_compartment-right-side.png "Pilot's compartment, right side")
 
 1.  Radio Transmitters
 2.  Radio Receivers
@@ -12,5 +12,5 @@ Controls and switches located to the right-side of the Pilot's compartment.
 6.  Adjustable Spotlight
 7.  Co-Pilot's Sliding Window Control Ventilation Inlet
 
-**Parent topic:** [Location of Controls B-25 C and D](../topics/location_of_controls_b_25_c_and_d.md)
+**Parent topic:**[Location of Controls B-25 C and D](../topics/location_of_controls_b_25_c_and_d.md)
 

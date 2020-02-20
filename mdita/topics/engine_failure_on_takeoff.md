@@ -20,23 +20,23 @@ Use the same procedure, but notice that the first three parts of it are already 
 
     1.  Raise the wheels
 
-        ![Raise the wheels](../images/single_eng_raise_wheels.png)
+        ![Raise the wheels to reduce drag](../images/single_eng_raise_wheels.png "Raise the wheels")
 
     2.  Feather the prop
 
-        ![Feather the prop](../images/single_eng_feather_prop.png)
+        ![Reduce drag by feathering the prop](../images/single_eng_feather_prop.png "Feather the prop")
 
     3.  Raise flaps to 15 degrees
 
-        ![Raise flaps to 15 degrees](../images/single_eng_raise_flaps_15deg.png)
+        ![Generate additional lift by setting the flaps to 15 degrees](../images/single_eng_raise_flaps_15deg.png "Raise flaps to 15 degrees")
 
     4.  Close cowl flaps on dead engine
 
-        ![Close cowl flaps on dead engine](../images/single_eng_close_cowl_dead_eng.png)
+        ![Reduce drag by closing the cowl flaps on a dead engine](../images/single_eng_close_cowl_dead_eng.png "Close cowl flaps on dead engine")
 
     5.  Drop weight if necessary
 
-        ![Drop weight if necessary](../images/single_eng_drop_weight.png)
+        ![Reduce weight if possible, such as by releasing a bomb load](../images/single_eng_drop_weight.png "Drop weight if necessary")
 
 5.  **Reduce Fire Hazard**.
 
@@ -45,7 +45,7 @@ Use the same procedure, but notice that the first three parts of it are already 
 7.  **Trouble Search**.
 
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

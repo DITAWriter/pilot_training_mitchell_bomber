@@ -2,7 +2,7 @@
 
 Slow flying increases your confidence in the B-25 as few other maneuvers will. It demonstrates more effectively than anything else the effect of applying power.
 
-![Slow flying](../images/slow_flying.png)
+![Successful slow flying technique](../images/slow_flying.png "Slow flying")
 
 You can fly the plane at almost a stall attitude and at low airspeed, and by the manipulation of power, continue to keep the plane in safe flight.
 
@@ -16,7 +16,7 @@ Hold the airplane in this attitude, increasing power when needed to prevent a st
 
 **During a maneuver of this type, the engines have a tendency to overheat; watch the cylinder-head temperature carefully, and do not allow it to rise dangerously.**
 
-![Practice slow flying turns](../images/slow_flying_turn.png)
+![How to make a slow flying turn](../images/slow_flying_turn.png "Practice slow flying turns")
 
 Practice this maneuver, checking the airspeed indicator only occasionally. Learn to fly through it by feel alone. Practice it with the flaps up and down. Practice it in turns, noting that to hold airspeed and altitude you must increase power. Normally, in an actual short-field landing, the gear is extended and the flaps down; after determining the characteristics with the flaps and wheels up, practice the maneuver with the wheels and full flaps down.
 
@@ -28,7 +28,7 @@ Practice this maneuver, checking the airspeed indicator only occasionally. Learn
 2.  A tendency to drop the nose or apply more power than is necessary. Practice will overcome this and give you confidence.
 3.  A tendency to prevent stalling by dropping the nose alone, rather than breaking the stall by the use of power and relaxed pressure. Here again, practice is the answer.
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

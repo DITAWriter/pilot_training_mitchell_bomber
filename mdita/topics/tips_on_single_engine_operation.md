@@ -27,7 +27,7 @@ A list of handy tips on how to work with your engines in regular circumstances, 
 
 **Warning:** If no feathering action occurs within 90 seconds, release feathering button to avoid burning out feathering motor.
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

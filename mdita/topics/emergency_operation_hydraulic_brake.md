@@ -2,7 +2,7 @@
 
 A checklist on what to do if you need to use the hydraulic brake on your B-25 on landing.
 
-![Emergency hydraulic selector valve](../images/emerg_hydraulic_brake.png)
+![The emergency hydraulic selector valve](../images/emerg_hydraulic_brake.png "Emergency hydraulic selector valve")
 
 Before landings if there is less than 1000 lb. pressure indicated on the brake system pressure gage:
 
@@ -19,5 +19,5 @@ Before landings if there is less than 1000 lb. pressure indicated on the brake s
     Always make a short-field landing when your brake pressure is low.
 
 
-**Parent topic:** [Emergency Systems](../topics/emergency_systems.md)
+**Parent topic:**[Emergency Systems](../topics/emergency_systems.md)
 

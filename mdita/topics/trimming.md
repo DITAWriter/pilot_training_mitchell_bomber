@@ -16,28 +16,29 @@ Improperly set tabs make control difficult as the speed and lift increase during
 
 1.  Keep the wings level by visual reference or by instruments.
 
-    ![Keep the wings level by visual reference or by instruments.](../images/trim_wings_level.png)
+    ![Keeping the wings level in flight](../images/trim_wings_level.png "Keep the wings level by visual reference or by instruments")
 
 2.  Trim rudder until ball is centered or until directional gyro stops turning.
 
-    ![Trim rudder until ball is centered or until directional gyro stops turning.](../images/trim_rudder.png)
+    ![Trimming the rudder](../images/trim_rudder.png "Trim rudder until ball is centered or until directional gyro stops
+                                turning")
 
 3.  Trim aileron
 
-    ![Trim aileron](../images/trim_aileron.png)
+    ![Trimming the aileron](../images/trim_aileron.png "Trim aileron")
 
 4.  Trim elevator
 
-    ![Trim elevator](../images/trim_elevator.png)
+    ![Trimming the elevator](../images/trim_elevator.png "Trim elevator")
 
 
 Check the trim by releasing all controls, allowing the plane to fly for a short time without guidance. Properly trimmed it holds course, altitude, and heading for some time.
 
-Some planes are difficult to trim properly. This is a result of improper rigging and you cannot correct it while in the air. If you encounter this difficulty, check the trim and the weight and balance of the plane to see that it is properly loaded. After assuring yourself that it is the plane and not the pilot, report this condition on the Form lA.
+Some planes are difficult to trim properly. This is a result of improper rigging and you cannot correct it while in the air. If you encounter this difficulty, check the trim and the weight and balance of the plane to see that it is properly loaded. After assuring yourself that it is the plane and not the pilot, report this condition on the Form 1A.
 
 The engineering officer will run a check flight on the plane. His findings may result in the re-rigging of the plane and subsequent improvement in its flying characteristics.
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

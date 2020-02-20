@@ -14,5 +14,5 @@ On late-series planes automatic circuit breakers replace the fuses. Excessive he
 
 To combat fire caused by enemy action use the techniques described above, depending, of course, on where they start.
 
-**Parent topic:** [Fire in Flight](../topics/fire_in_flight.md)
+**Parent topic:**[Fire in Flight](../topics/fire_in_flight.md)
 

@@ -2,7 +2,7 @@
 
 The B-25 is too large and heavy to practice the prescribed forced-landing procedures used in lighter planes.
 
- ![](../images/landing_power_off.png) 
+![How to do a power-off approach and landing](../images/landing_power_off.png "Doing a power-off approach and landing")
 
 The power-off approach allows the pilot to become familiar with all the factors involved in a forced landing without the hazards involved in actually practicing them.
 
@@ -32,7 +32,7 @@ To increase drag, move the prop control to "INC. RPM."
 
 To decrease drag, move the prop control to "DEC. RPM."
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

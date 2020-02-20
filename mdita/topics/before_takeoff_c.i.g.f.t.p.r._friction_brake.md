@@ -43,7 +43,7 @@ Props "INC. r.p.m."
 
 Friction brake snug, booster pumps "ON," bomb bay doors closed.
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

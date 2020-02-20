@@ -50,9 +50,9 @@ There are many types of formations; for simplicity, the three basic groupings ar
 
 These formations are illustrated as squadron formations to allow you to see their integration into larger groups.
 
-![Javelin Up](../images/formation_javelin_up.png)
+![A javelin up formation](../images/formation_javelin_up.png "Javelin Up")
 
-![Echelon Up](../images/formation_echelon_up.png)
+![An echelon up formation](../images/formation_echelon_up.png "Echelon Up")
 
 ## Takeoff and Landing {#sect_TakeoffLanding .section}
 
@@ -64,7 +64,7 @@ Each plane takes an alternate side of the runway at takeoff to avoid the prop wa
 
 **Warning:** Watch wind direction closely to determine where you will encounter the heaviest prop wash, and try to fly above or below it at that point.
 
-![](../images/formation_takeoff_landing.png)
+![Comparison of a long- versus a short-turn while climbing](../images/formation_takeoff_landing.png "Take a long turn when climbing")
 
 **Keep your nose inside the nose of the lead plane.** You will delay the entire joining procedure if you turn with the lead plane instead of inside him.
 
@@ -114,9 +114,9 @@ CAUTION:
 
 When operating on Grade 91 fuel, for additional safety, formation leaders should reduce manifold pressure 2" Hg. and wingmen should increase rpm settings by 100 rpm.
 
-![Trust your leader. Stay in formation.](../images/formation_squadron_stagger.png)
+![Always stay in formation with the lead aircraft](../images/formation_squadron_stagger.png "Trust your leader. Stay in formation.")
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

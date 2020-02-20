@@ -2,7 +2,7 @@
 
 The role of the two types of gunners on your airplane.
 
-![The Gunners](../images/gunner.png)
+![The airplane gunner.](../images/gunner.png "The Gunners")
 
 Your gunners belong to one of two distinct categories: turret gunners and flexible gunners.
 
@@ -22,5 +22,5 @@ Keep your gunners' interest alive at all times. Any form of competition among th
 
 Finally, each gunner should fire the guns at each station to familiarize himself with the other positions.
 
-**Parent topic:** [Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
+**Parent topic:**[Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
 

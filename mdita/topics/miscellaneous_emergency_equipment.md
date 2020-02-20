@@ -6,13 +6,13 @@ Information on all of the remaining emergency equipment, including the alarm bel
 
 The alarm bells are located at all crew stations. A switch on the lower left section of the pilot's switch panel controls them.
 
-![](../images/emerg_alarm_bell.png)
+![The alarm bell switch](../images/emerg_alarm_bell.png "Alarm bell switch")
 
 ## Life Raft {#sect_LifeRaft .section}
 
 A life raft equipped with a CO2 cylinder for instantaneous inflation is stowed in the upper forward left corner of the radio compartment. For proper use, see ditching.
 
-![](../images/emerg_life_raft.png)
+![Life raft](../images/emerg_life_raft.png "Life raft")
 
 ## Life Preservers {#sect_LifePreservers .section}
 
@@ -28,7 +28,7 @@ On later planes, an M-8 type pyrotechnic pistol is stowed in a canvas holster in
 
 **Warning:** Don't load this pistol except when it has been placed in the mount provided in the upper left corner of the navigator's compartment.
 
-![](../images/emerg_flare_gun.png)
+![The signal pistol for sending out flares](../images/emerg_flare_gun.png "Signal Pistol")
 
 ## Radio Demolition Switch {#sect_RadioDemoSwitch .section}
 
@@ -42,7 +42,8 @@ There is a hand ax on the right side of the fuselage in the radio operator's com
 
 Two first-aid kits are provided, one on the left side of the navigator's compartment, the other on the right side of the radio compartment. The number of kits is often increased when the ship engages in tactical operation.
 
-![](../images/emerg_first_aid_kits.png)
+![The contents of the first aid kits, and where they are located within the fuselage of the B-25](../images/emerg_first_aid_kits.png "The location and contents of the two first-ad kits, and their
+                    contents")
 
 ## Fire Extinguishers {#sect_FireExtinguishers .section}
 
@@ -50,11 +51,11 @@ Carbon dioxide fire extinguishers are at the right side of the navigator's compa
 
 There is an engine fire extinguisher system for both engines. It is controllable from the copilot's station. A safety fuse for indicating a premature discharge is on the right side of the fuselage above the nosewheel.
 
-![Fuselage fire extinguisher](../images/emerg_fuselage_fire_ext.png)
+![Stand alone, hand-operated fire extinguisher](../images/emerg_fuselage_fire_ext.png "Fuselage fire extinguisher")
 
-![](../images/emerg_fire_system_ctrl.png)
+![The controls for the fire extinguishing system](../images/emerg_fire_system_ctrl.png "Fire extinguisher control")
 
-![](../images/emerg_fire_system.png)
+![The fire extinguisher system aboard a B-25](../images/emerg_fire_system.png "Fire extinguisher system")
 
-**Parent topic:** [Emergency Systems](../topics/emergency_systems.md)
+**Parent topic:**[Emergency Systems](../topics/emergency_systems.md)
 

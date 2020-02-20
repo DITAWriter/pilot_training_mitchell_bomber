@@ -4,7 +4,7 @@ Locations of the exterior and interior lighting systems.
 
 ## Exterior Lighting {#sect_ExtLighting .section}
 
- ![B-25 lighting equipment](../images/lighting_equipment.png) 
+![Mitchell lighting equipment](../images/lighting_equipment.png "B-25 lighting equipment")
 
 Landing Lights—An 8-inch, sealed-beam landing light is in the leading edge of each outer wing panel and is operated by a switch on the pilot's control pedestal.
 
@@ -32,7 +32,9 @@ Fluorescent lamps are in the bombardier's compartment and on the pilot's and cop
 
 The pilot's magnetic compass light is in the compass itself; a rheostat on the pilot's switch panel controls it.
 
-All optical gunsight lights are inside the sights. The rheostats which control them are near each unit. ![Landing lights](../images/landing_lights.png)
+All optical gunsight lights are inside the sights. The rheostats which control them are near each unit.
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+![B-25 landing lights.](../images/landing_lights.png "Landing lights")
+
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

@@ -12,7 +12,7 @@ The airplane is clean aerodynamically and picks up tremendous speeds if left in 
 
 If you are still out of control when you reach 5000 feet–Get out!
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

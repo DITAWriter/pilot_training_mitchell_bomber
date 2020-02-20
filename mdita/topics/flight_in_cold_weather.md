@@ -13,7 +13,7 @@ Don't fly in icing levels any longer than is absolutely necessary.
     **Note:** With pitot tube heat "ON" your magnetic compass may oscillate as much as 15°.
 
 
-**Parent topic:** [Cold Weather Operations](../topics/cold_weather_operations.md)
+**Parent topic:**[Cold Weather Operations](../topics/cold_weather_operations.md)
 
 **Related information**  
 

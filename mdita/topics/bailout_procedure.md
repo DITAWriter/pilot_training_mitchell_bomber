@@ -1,6 +1,8 @@
 # Bailout Procedure {#bailout_procedure .task}
 
-![](../images/emer_exits.png)
+The procedure for crew members to bail out of a B-25.
+
+![Diagram of an airplane and its crew, depicting where each member should go during a bail out](../images/emer_exits.png "The hatches each crew member should use when bailing out")
 
 1.  When you decide that the ship must be abandoned, give the alarm by interphone and alarm bell, at which time the engineer and rear gunner release the emergency doors.
 
@@ -21,5 +23,5 @@
     1.  Gunner
     2.  Radio operator.
 
-**Parent topic:** [Bailout](../topics/bailout.md)
+**Parent topic:**[Bailout](../topics/bailout.md)
 

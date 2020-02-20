@@ -2,7 +2,7 @@
 
 Information on the operational history of the Mitchell Bomber.
 
- ![Mitchell Bomber in flight](../images/mitchell_bomber_flight_left.png) 
+![Mitchell Bomber shown flying](../images/mitchell_bomber_flight_left.png "Mitchell Bomber in flight")
 
 Welcome to the Mitchell bomber!
 
@@ -25,13 +25,13 @@ Designed to carry a bomb load of 3500 lb. and a crew of five, it has operated ef
 
 Red-lined at 340 mph, cruising easily at 200 mph, the Mitchell, when emergencies have arisen, has exceeded 340 mph, with no disastrous effects.
 
- ![Mitchell Bomber illustration of a bombing mission](../images/mitchell_bombing_run.png) 
+![Mitchell Bomber illustration of a bombing mission](../images/mitchell_bombing_run.png "Mitchell Bomber on a bombing mission")
 
 Its low landing speed has been a boon to flyers who have had to operate from jungle strips and airfields blasted from mountain sides.
 
-Combat experience led to changes in design and armament —more firepower, spare fuel tanks, power-driven turrets, and larger escape hatches, which were added to meet the need for quick exit from a damaged plane.
+Combat experience led to changes in design and armament—more firepower, spare fuel tanks, power-driven turrets, and larger escape hatches, which were added to meet the need for quick exit from a damaged plane.
 
-In April, 1942, the Mitchell made history. Under the leadership of Brigadier General Ralph RoycG and Colonel John Davies, 13 B-25 aircraft set out from an unidentified base for the island of Mindanao, 2000 miles away. On this, the longest bombing expedition in the history of aerial warfare, the planes flew 2000 miles to a secret base where a store of gasoline was hidden. For 2 days they hit the Japs who were advancing on Bataan, then headed for home without loss.
+In April, 1942, the Mitchell made history. Under the leadership of Brigadier General Ralph Royce and Colonel John Davies, 13 B-25 aircraft set out from an unidentified base for the island of Mindanao, 2000 miles away. On this, the longest bombing expedition in the history of aerial warfare, the planes flew 2000 miles to a secret base where a store of gasoline was hidden. For 2 days they hit the Japs who were advancing on Bataan, then headed for home without loss.
 
 Less than a week later came the Doolittle raid on Tokyo, with 16 B-25 aircraft taking off from the deck of the aircraft carrier Hornet. It can now be told that the tail guns in the B-25 aircraft on that raid were painted broomsticks which Major General Doolittle ordered installed after learning that Jap pilots had been ordered to stay out of range of the American tail-stingers.
 
@@ -41,11 +41,12 @@ Arctic operation meant new problems in heating and defrosting for the B-25. They
 
 The use of the B-25 as a low-altitude attack plane led to the removal of the lower turret. It was replaced by .50-cal. waist guns and a power-operated tail turret. For more effective defense, the upper turret was moved forward.
 
-Package guns—two .50-caL mounted on each side of the fuselage and firing forward—plus four .50-cal. installed in the nose above the cannon, have transformed the B-25 into a flying machine-gun company, superbly effective for strafing.
+Package guns—two .50-cal mounted on each side of the fuselage and firing forward—plus four .50-cal. installed in the nose above the cannon, have transformed the B-25 into a flying machine-gun company, superbly effective for strafing.
 
 The evolution of the Mitchell bomber does not end here. Every day, as experience mounts and new tactics develop, the B-25 proves its versatility, ready to run with the hare or hunt with the hounds—an airplane of which its pilots may well say: It does the job!
 
- ![Mitchell Bomber taking off from an aircraft carrier](../images/carrier_takeoff.png) 
+![Mitchell Bomber lifting off from an aircraft carrier](../images/carrier_takeoff.png "Mitchell Bomber taking off from an aircraft
+                carrier")
 
-**Parent topic:** [Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
+**Parent topic:**[Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
 

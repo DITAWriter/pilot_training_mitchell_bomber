@@ -2,7 +2,7 @@
 
 Controls and switches that are directly visible to the pilot when looking to the front of the airplane.
 
- ![Pilot's compartment, general forward view](../images/pilots_compartment-general_forward_view.png) 
+![General forward view of the pilot's compartment](../images/pilots_compartment-general_forward_view.png "Pilot's compartment, general forward view")
 
 1.  Aileron Controls
 2.  Elevator Controls
@@ -30,5 +30,5 @@ Controls and switches that are directly visible to the pilot when looking to the
 24. Emergency Bomb Release
 25. Detonator Switch
 
-**Parent topic:** [Location of Controls B-25 C and D](../topics/location_of_controls_b_25_c_and_d.md)
+**Parent topic:**[Location of Controls B-25 C and D](../topics/location_of_controls_b_25_c_and_d.md)
 

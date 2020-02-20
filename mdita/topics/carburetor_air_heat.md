@@ -20,5 +20,5 @@ Keep the air inlet temperature above 15°C during any conditions where you suspe
 
 A temperature between 15°C and 30°C is desirable. If, with the carburetor air control at "ICING" a temperature of 15°C cannot be maintained, move the control to "NORMAL" to provide air to the carburetor at so low a temperature that icing will not occur. If, with the carburetor air control at "ICING," ice that is already formed is not eliminated, use the alcohol anti-icing system \(if installed\).
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

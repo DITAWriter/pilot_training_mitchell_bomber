@@ -1,8 +1,10 @@
 # Ditching: Landing procedure {#DitchingLandingProcedure .concept}
 
+What to do when landing the B-25 in water.
+
 Consult the [PIF](../glossentries/gl_PIF.md) and your personal equipment officer for general information on landing in the water. They will help you determine wind direction, wind speeds, surface conditions, and other valuable information.
 
-![20° to 30° Flaps](../images/landing_ditch_20deg_flaps.png)
+![In an emergency landing, drop flaps to 20-30 degrees](../images/landing_ditch_20deg_flaps.png "20° to 30° Flaps")
 
 Trim the ship for hands-off flight and establish a normal power approach. Lower the flaps between 20 degrees and 30 degrees. Full flaps will lower the airspeed a few mph but will also increase your angle of descent dangerously.
 
@@ -24,7 +26,7 @@ The length of time the B-25 will float depends on the amount of damage the airpl
 
 Don't make an exaggerated tail-low landing, as the impact of the tail will rupture the rear fuselage and may snap the nose into the water violently before the plane can lose its excess speed.
 
-![Land tail low with full flaps](../images/landing_ditch_tail_low_full_flaps.png)
+![In an emergency landing, land the tail low using full flaps](../images/landing_ditch_tail_low_full_flaps.png "Land tail low with full flaps")
 
-**Parent topic:** [Ditching](../topics/ditching.md)
+**Parent topic:**[Ditching](../topics/ditching.md)
 

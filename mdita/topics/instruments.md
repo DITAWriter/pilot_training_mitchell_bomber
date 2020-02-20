@@ -71,5 +71,5 @@ The pressure transmitting instruments on the B-25 are fuel pressure and oil pres
 
 Aircraft with these instruments have direct reading manifold pressure gages and electric tachometers.
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

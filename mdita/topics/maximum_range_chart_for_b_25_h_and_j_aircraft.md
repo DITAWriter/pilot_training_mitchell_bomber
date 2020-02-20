@@ -2,8 +2,10 @@
 
 Information on the maximum range for the H and J models of the B-25.
 
-|Airplane's Gross Weight|Indicated Air Speed|RPM|Manifold Pressure|Minxture Control|Fuel Consumption \(Grade 100 Only\)|
+|Airplane's Gross Weight|Indicated Air Speed|RPM|Manifold Pressure|Mixture Control|Fuel Consumption \(Grade 100 Only\)|
 |1000 Feet|8000 Feet|1000 Feet|8000 Feet|1000 Feet|8000 Feet|
+|-----------------------|-------------------|---|-----------------|---------------|-----------------------------------|
+|---------|---------|---------|---------|---------|---------|
 |34,000 lb.|175|1725|1940|29.2|27.2|Cruising Lean|112|123|
 |33,000 lb.|175|1690|1905|29.2|27.0|"|109|119|
 |32,000 lb.|170|1620|1860|29.2|26.5|"|104|114|
@@ -19,7 +21,7 @@ Information on the maximum range for the H and J models of the B-25.
 
 |To 1000 Feet 24 Gals.|To 8000 Feet 84 Gals.|
 
-**Parent topic:** [Fuel](../topics/fuel.md)
+**Parent topic:**[Fuel](../topics/fuel.md)
 
 **Related information**  
 

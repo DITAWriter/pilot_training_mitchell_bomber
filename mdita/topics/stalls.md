@@ -2,7 +2,7 @@
 
 The B-25 stalls from the wing root to the wingtip. Thus there is no unstable tendency except a slight lateral rolling, easily corrected by coordinated control pressures.
 
-![](../images/stalls.png)
+![How to avoid stalling the B-25](../images/stalls.png "Stalls")
 
 The plane breaks cleanly through the stall, with no tendency to drop a wing, and makes a relatively rapid recovery.
 
@@ -61,13 +61,13 @@ Don't hurry your recovery. Make it smooth and sure, with coordinated control pre
 
 Practice glide stalls in the B-25 to familiarize yourself with the feel of the airplane under landing conditions.
 
-Perform them by establishing a power-off glide at normal gliding speeds and then flaring od exactly as you would to make a landing. Hold The plane at a constant altitude in a landing attitude until it stalls. The stalling characteristics are the same as in a power-on stall except that the elevators and stabilizer will not buffet as they do in a power-on stall.
+Perform them by establishing a power-off glide at normal gliding speeds and then flaring up exactly as you would to make a landing. Hold the plane at a constant altitude in a landing attitude until it stalls. The stalling characteristics are the same as in a power-on stall except that the elevators and stabilizer will not buffet as they do in a power-on stall.
 
 Again, the recovery is a combination of nose-down and increased power. This stall simulates landing conditions exactly when practised with the wheels and flaps full down. The recovery should be made above 8000 feet to give ample room for emergencies.
 
-![Recover from Stall Smoothly](../images/stall_recover_smoothly.png)
+![How to smoothly recover from a stall](../images/stall_recover_smoothly.png "Recover from Stall Smoothly")
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

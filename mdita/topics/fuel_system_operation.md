@@ -2,9 +2,9 @@
 
 Every man on your crew must know the fuel system so thoroughly that a mistake in its operation is impossible.
 
-![Normal operation](../images/fuel_system_normal_ops.png)
+![Fuel system for the B-25 in normal operating mode.](../images/fuel_system_normal_ops.png "Normal operation")
 
-![Auxiliary fuel transfer](../images/fuel_aux_transfer.png)
+![Transferring fuel from the auxiliary tanks.](../images/fuel_aux_transfer.png "Auxiliary fuel transfer")
 
 To use auxiliary fuel you must first get it into the front main cells.
 
@@ -21,5 +21,5 @@ To transfer fuel from the auxiliary wing cells:
 5.  Repeat on opposite side.
 
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

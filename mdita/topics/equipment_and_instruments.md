@@ -48,6 +48,6 @@ The carburetor air heater on the B-25 is a 2-position gate in the air induction 
 The true relationship between the effects of the carburetor air filter and engine power output.
 -   **[Priming](../topics/priming.md)**  
 Priming is necessary to supply a sufficiently rich fuel air mixture to the cylinder heads to facilitate starting of a cold motor.
--   **[Operating the Autopilot](../topics/operating_the_autopilot.md)**  
-How and when to operate "Elmer", the autopilot.
+-   **[../topics/operating\_the\_autopilot.md](../topics/operating_the_autopilot.md)**  
+
 

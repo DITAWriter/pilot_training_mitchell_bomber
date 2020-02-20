@@ -11,15 +11,15 @@ Key differences for the equipment load-out for the different variants of the B-2
 | |One **.50-cal. flexible gun**|\*| | |\*|
 | |Bombing controls & equipment|\*| | |\*|
 |**Pilot's Compartment**| | | | |
-| | Pilot's and copilot's controls
+| |Pilot's and copilot's controls
 
- |\*|\*| |\*|
+|\*|\*| |\*|
 | |75-mm cannon &amp; mount|\*| | |\*|
-| | Drift meter
+| |Drift meter
 
- | |\*|\*| |
-| |Bombing controls &amp; equipment| | |\*|\*|
-| |Astrocompass &amp; mount| | |\*|\*|
+| |\*|\*| |
+| |Bombing controls & equipment| | |\*|\*|
+| |Astrocompass & mount| | |\*|\*|
 |**Navigator's Compartment**| | | | |
 | |Navigator's table & equipment|\*|\*| | |
 | |75-mm. Cannon storage| |\*|\*| |
@@ -38,12 +38,12 @@ Key differences for the equipment load-out for the different variants of the B-2
 | |.50-cal. supply for tail guns| | |\*|\*|
 | |Chemical toilet|\*|\*| | |
 |**Tail Turret or Observation Compartment**| | | | |
-| | Two **.50-cal. gun** turret
+| |Two **.50-cal. gun** turret
 
- | | |\*|\*|
+| | |\*|\*|
 | |Observation floor|\*|\*| | |
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 
 1 \*In Airplane
 

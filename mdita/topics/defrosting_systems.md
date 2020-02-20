@@ -1,6 +1,6 @@
 # Defrosting Systems {#defrosting_systems .concept}
 
-Where the desfrosting systems are located across the B-25.
+Where the defrosting systems are located across the B-25.
 
 The pilot's windshield section, bombardier's bombsight window, bombsight, and the navigator's astrodome can be defrosted by warm air from the airplane heating system. The bomb bay window, the astrodome, and the pilot's windshield receive heat whenever the heating system is on.
 
@@ -16,7 +16,7 @@ Special blowers assist the flow of air to the pilot's compartment defrosting sys
 
 This heating and defrosting system is slightly modified and adapted for the different series of B-25 planes. There are no provisions for heating or defrosting the nose of the series G and H planes, and other slight changes occur in other models. Information on these changes may be found in the T.O.'s for these planes.
 
-**Parent topic:** [Cold Weather Operations](../topics/cold_weather_operations.md)
+**Parent topic:**[Cold Weather Operations](../topics/cold_weather_operations.md)
 
 **Related information**  
 

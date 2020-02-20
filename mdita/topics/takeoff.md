@@ -2,7 +2,7 @@
 
 Takeoff in the B-25 with its tricycle gear, varies from that with conventional gear only during the initial part of the roll. You will find it much easier.
 
- ![Takeoff](../images/takeoff.png) 
+![B-25 taking off](../images/takeoff.png "Takeoff")
 
 The principal difference is in attaining the proper angle of attack of the wing. On the conventional type you start from a stall attitude and reduce the angle to permit flight. In the B-25 you start from a negative angle of attack and increase the angle of attack by raising the nosewheel.
 
@@ -14,11 +14,11 @@ Be prepared to make power adjustments during the takeoff. If an engine fails bef
 
 After you start the takeoff run, use the brakes only in an emergency. Maintain directional control with the throttles and rudders.
 
-![Start takeoff run with 20 degree flaps](../images/takeoff_20deg_flaps.png)
+![Increase flaps to 20 degrees when taking off](../images/takeoff_20deg_flaps.png "Start takeoff run with 20 degree flaps")
 
-![Raise nosewheel off ground](../images/takeoff_raise_nosewheel.png)
+![Raise the nosewheel off the ground first](../images/takeoff_raise_nosewheel.png "Raise nosewheel off ground")
 
-![Raise the gear as soon as plane is definitely airborne](../images/takeoff_raise_gear.png)
+![Once airborne, raise the wheels to ensure a smooth flight](../images/takeoff_raise_gear.png "Raise the gear as soon as plane is definitely airborne")
 
 Raise the nose wheel off the ground slightly as soon as you have good control. The angle of attack and the weight of the B-25 tend to keep the plane on the ground during the takeoff roll. The takeoff becomes conventional when a positive angle of attack, with resulting lift, is developed.
 
@@ -26,13 +26,13 @@ The B-25 flies itself off the ground. Allow it to do so, for smoother, easily co
 
 When the airplane is definitely airborne, raise the wheels. **Be sure there is no possibility of further contact with the ground.** Good airplanes have been lost through carelessness.
 
-![Takeoff gear control](../images/takeoff_gear_control.png)
+![Ensure to raise the wheels after takeoff](../images/takeoff_gear_control.png "Takeoff gear control")
 
 1.  Lift the safety lock holding the control handle "DOWN" and locked.
 2.  Move the mechanical lock up.
 3.  Move the landing gear handle to "UP."
 
-![Takeoff level gain CSE speed](../images/takeoff_level_gain_CSE_speed.png)
+![Level off to gain flying speed](../images/takeoff_level_gain_CSE_speed.png "Takeoff level gain CSE speed")
 
 
 
@@ -44,7 +44,7 @@ Reduce power as soon as possible, however, to relieve the strain on the engines.
 
 Maintain a climbing speed between 160 and 170 mph for these reasons:
 
-![Takeoff climb speed](../images/takeoff_climb_speed.png)
+![Maintain speed when climbing](../images/takeoff_climb_speed.png "Takeoff climb speed")
 
 1.  Speed is developed quickly and maintained to allow single engine operation if necessary.
 2.  Excessively slow climbs prevent proper cooling of the engines at high power settings.
@@ -54,7 +54,7 @@ Raise the wing flaps when you have sufficient altitude. This will normally be ab
 
 Close cowl flaps as soon as possible after takeoff, but leave them open if the cylinder-head temperature approaches 200°C.
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

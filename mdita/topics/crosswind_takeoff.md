@@ -12,17 +12,17 @@ The technique is:
 
 2.  Advance the throttles, leading with the upwind throttle. The strength of the wind will determine the amount of lead.
 
-    ![](../images/takeoff_crosswind.png)
+    ![An effective crosswind takeoff](../images/takeoff_crosswind.png "Crosswind takeoff")
 
 3.  As the speed increases and the rudders become effective, equalize the throttles.
 
 4.  Leave the ground with the throttles evenly set and use just enough rudder and aileron to make a coordinated turn into the wind, thus counteracting any drift.
 
-    ![](../images/takeoff_crosswind_coord_turn.png)
+    ![](../images/takeoff_crosswind_coord_turn.png "Turning slightly to counteract crosswind drift")
 
     **Note:** The plane may skip as the speed increases toward the end of the takeoff roll. This is an indication that it is ready to fly. Help it along to prevent skipping and to keep the consequent side thrust from injuring the landing gear.
 
-    ![Don't juggle the throttles](../images/takeoff_crosswind_throttle.png)
+    ![Juggling the throttles may cause the B-25 to weave along the runway](../images/takeoff_crosswind_throttle.png "Don't juggle the throttles")
 
 
 **Common Errors**
@@ -31,7 +31,7 @@ The technique is:
 -   Trying to correct the drift by skidding instead of turning into the wind. This increases the stalling speed and if violent enough it will put the plane back on the ground. The bounce will be made with the drift applying a side thrust to the gear.
 -   Juggling the throttles, giving uneven control. Lead the upwind throttle, constantly reducing the lead. As the speed increases the rudder control is great enough to take off cleanly.
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

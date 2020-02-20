@@ -2,7 +2,7 @@
 
 You have all heard a lot of discussion on the importance of accurate short-field landings. Combat requires that you be able to operate under conditions that are close to the absolute limit of the airplane's performance.
 
-![Short-field landings](../images/landing_short_field.png)
+![A scenario for a short-field landing](../images/landing_short_field.png "Short-field landings")
 
 But even at home, if you took off this afternoon and the hydraulic system failed in flight, you would have a perfect example of the necessity for short-field landings in everyday flying. You would have to make an accurate short-field landing to be sure that there was ample room to stop with the emergency air brake.
 
@@ -37,11 +37,11 @@ For the field with obstructions:
 The type of approach you just made is obviously impractical for this landing.
 
 1.  Establish a normal full-flap power glide.
-2.  Plan this glide to clear the obstruction with power, Don\*t depend on your judgment from too high an altitude.
+2.  Plan this glide to clear the obstruction with power, Don't depend on your judgment from too high an altitude.
 3.  Control the attitude of the plane to gain a level or slightly nose-high attitude as you clear the obstruction.
 4.  Reduce the airspeed to slightly above the power-off stalling speed.
 
-As the obstacle is cleared , use power in accordance with the height of the obstacle. Place the plane in a tail-low attitude and use the throttles to control the rate of descent. Do not reduce power too quickly or the plane will drop in for a hard and dangerous landing.
+As the obstacle is cleared, use power in accordance with the height of the obstacle. Place the plane in a tail-low attitude and use the throttles to control the rate of descent. Do not reduce power too quickly or the plane will drop in for a hard and dangerous landing.
 
 CAUTION:
 
@@ -65,11 +65,11 @@ If you lack sufficient feel of the airplane to do this, practice slow flying, st
 -   Cutting power upon crossing the obstacle regardless of altitude, and dropping in. This is extremely dangerous with the B-25.
 -   Poor coordination of throttle and airspeed.
 
-![Approach without obstructions](../images/landing_approach_no_obstruct.png)
+![A normal approach without obstructions](../images/landing_approach_no_obstruct.png "Approach without obstructions")
 
-![Approach over obstructions](../images/landing_approach_with_obstructs.png)
+![How to do an approach with obstructions](../images/landing_approach_with_obstructs.png "Approach over obstructions")
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

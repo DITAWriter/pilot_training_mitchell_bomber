@@ -29,7 +29,7 @@ Background and expectations on the chemical spray missions.
 13. The crew will be interrogated upon return to Home Base as to results of the mission.
 
 
-**Parent topic:** [Some Typical Missions](../topics/some_typical_missions.md)
+**Parent topic:**[Some Typical Missions](../topics/some_typical_missions.md)
 
 **Related information**  
 

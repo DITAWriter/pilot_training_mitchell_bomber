@@ -16,10 +16,10 @@ The process for doing a run-up prior to takeoff.
 
 7.  Following the mag check, run the engines up singly to 30" Hg. At this manifold pressure you will get an approximate reading of 2400 rpm, which means that the plane should give you sufficient power for takeoff.
 
-    ![Do not hurry a takeoff](../images/takeoff_speed.png)
+    ![The Manifold Pressure and RPM settings ensuring sufficient power for takeoff](../images/takeoff_speed.png "Do not hurry a takeoff")
 
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

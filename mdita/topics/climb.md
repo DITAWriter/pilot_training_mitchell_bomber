@@ -4,7 +4,7 @@ Making your B-25 climb properly without straining your arms or your airplane.
 
 How do you climb the B-25? Simple, you say —just pull her nose up. That is a definite part of the procedure, but unless a little more thought and a little less muscle accompanies the pulling you will ruin a good airplane.
 
- ![Turn as you climb](../images/climb_turn_as_you_climb.png) 
+![Image of a B-25 turning while climbing in altitude](../images/climb_turn_as_you_climb.png "Turn as you climb")
 
 The minimum safe climbing speed for proper cooling is 155 mph. Climbing at lower speeds overheats and ruins the engines.
 
@@ -12,7 +12,7 @@ Establish a normal climb at 160 to 170 mph using correct power settings. Trim th
 
 Turn the booster pumps "OFF" above 1000 feet. Set your power at the desired cruising settings when you reach your desired cruising altitude. Move the mixture control to "CRUISING LEAN" if long-range cruise settings are used. Level oft and make any necessary adjustments in power and trim.
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

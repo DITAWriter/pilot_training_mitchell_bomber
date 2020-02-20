@@ -2,7 +2,7 @@
 
 There is a common reluctance among pilots to go around. They feel it implies a lack of ability to meet an unusual situation.
 
- ![](../images/landing_go_around.png) 
+![Always be prepared to make a go around when necessary](../images/landing_go_around.png "Making a go around")
 
 A pilot admires a buddy who has sufficient moral courage to go around when the situation seems to call for it. Yet he believes his fellow pilots will censure him for the very thing he admires in another.
 
@@ -20,9 +20,9 @@ Do not make abrupt steep turns, however, as the stalling speed increases with th
 
 **The most important part of the go-around procedure is determining its necessity and starting it soon enough.**When it is necessary to go around, the sooner you start the procedure the easier it is.
 
-![](../images/turn_full_flap.png)
+![Make the time to practice full flap turns](../images/turn_full_flap.png "Practice full flap turns")
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

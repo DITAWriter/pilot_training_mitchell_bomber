@@ -8,5 +8,5 @@ For manual priming, press the small pin next to the solenoid on the carburetor.
 
 The primer allows fuel under pressure to pass through a valve and enter the adapter section at 3 different points. On some late-model carburetors no provision it, made for manual priming.
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

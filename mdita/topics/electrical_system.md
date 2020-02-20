@@ -4,7 +4,7 @@ The electrical power which operates and controls the various units of the B-25 i
 
 The batteries, behind the firewall in each nacelle, furnish 24-volt current to the electrical equipment when the generators are not operating.
 
- ![Storage battery](../images/storage_battery.png) 
+![Storage battery](../images/storage_battery.png "Battery")
 
 Battery-disconnect solenoids connect the batteries to the electrical system. \(On late series aircraft B-4 relays replace these solenoids.\) The solenoids are in the power panel junction box and are controlled by switches on the pilot's switch panel. Both are "ON" for normal operation.
 
@@ -26,7 +26,7 @@ The inverter is a combination motor-generator. The 24-volt current drives the mo
 
 There is a combination inertia and direct-cranking starter on each engine. The motor is a part of the inertia system developing 22,000 rpm. This is reduced to 90 rpm for cranking the engine.
 
-The current to the starter passes through the starter solenoid in the power panel junction box. This solenoid is operated by the energizing switch on the pilot's pedestal. After the inertia is built up, 2 jaws—one on the starter and one on the end of the engine crankshaft —transfer it to the engine. This action is accomplished by the meshing solenoid in the starter operated by the meshing switch on the pilot's pedestal.
+The current to the starter passes through the starter solenoid in the power panel junction box. This solenoid is operated by the energizing switch on the pilot's pedestal. After the inertia is built up, 2 jaws—one on the starter and one on the end of the engine crankshaft—transfer it to the engine. This action is accomplished by the meshing solenoid in the starter operated by the meshing switch on the pilot's pedestal.
 
 These switches, used for both engines, are 3-position, spring-loaded switches.
 
@@ -34,5 +34,5 @@ Various circuits, switches, and fuses complete the system.
 
 On late-model airplanes, circuit breakers replace the fuses in the electric system.
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

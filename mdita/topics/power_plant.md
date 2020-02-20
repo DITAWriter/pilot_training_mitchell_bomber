@@ -2,7 +2,7 @@
 
 The B-25 is powered by two Wright Cyclone R-2G00-13 or R-2G00-29, 14-cylinder, double-row radial engines.
 
-![Power plant](../images/power_plant.png)
+![Wright Cyclone 14-cylinder, double-row radial engine.](../images/power_plant.png "Power plant")
 
 The operation of these two series is similar. Primarily air cooled, these engines have two secondary methods of cooling:
 
@@ -47,7 +47,7 @@ These are:
 
 ## Carburetor {#carburetor .section}
 
-![The Holley Carburetor](../images/holley_carburetor.png)
+![Holley Carburetor](../images/holley_carburetor.png "The Holley Carburetor")
 
 Holley variable-venturi carburetors operating at pressures of 6 to 7 lb. sq. in. supply the engines with fuel.
 
@@ -63,5 +63,5 @@ These carburetors incorporate several devices to increase and decrease the fuel-
 6.  **Vapor Separator**—A needle-valve and float device for diverting fuel vapor into the adapter where they mix with the normal mixture and pass to the impeller section.
 7.  **Primer**—A needle valve in the fuel inlet casting to facilitate starting the engine.
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

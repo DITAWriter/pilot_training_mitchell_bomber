@@ -6,7 +6,7 @@ Temperature inversions are common in winter and the ground air may be 15° to 30
 
 Before approaching for a landing, make sure ice is not jamming the carburetor throttle valve. Test by moving throttle back and forth several times. You may have to use carburetor heat on the approach.
 
-**Parent topic:** [Cold Weather Operations](../topics/cold_weather_operations.md)
+**Parent topic:**[Cold Weather Operations](../topics/cold_weather_operations.md)
 
 **Related information**  
 

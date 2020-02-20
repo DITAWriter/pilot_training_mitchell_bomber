@@ -28,9 +28,9 @@ Fuel transfer valves for the fuselage tanks are on the forward wall of the bomb 
 
 Use the crossfeed system for emergency operation only. By using the crossfeed, you can supply fuel from one or both tanks to one or both engines.
 
-![Fuel cell location](../images/fuel_cell_location.png)
+![Location of the fuel cells](../images/fuel_cell_location.png "Fuel cell location")
 
-![Fuel system](../images/fuel_system.png)
+![Distribution of the piping and pumps relating to the fuel system.](../images/fuel_system.png "Fuel system")
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

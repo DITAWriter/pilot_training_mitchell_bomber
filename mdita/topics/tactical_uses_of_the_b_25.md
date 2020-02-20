@@ -2,7 +2,7 @@
 
 Preparing for a mission, and the roles of all of the crew in making that mission a success.
 
-![Tactical Uses of the B-25](../images/B-25_tactical_uses.png)
+![Two B-25s on a sortie](../images/B-25_tactical_uses.png "Tactical Uses of the B-25")
 
 The combat record of the Mitchell has being printed in the newspapers of all the world for every man to see. Little can be added to that story except the developments of the future.
 
@@ -99,7 +99,7 @@ On low altitude missions, pilot will not fly below altitude specified as minimum
 
 On all low altitude missions, course will be corrected to avoid flying over towns, cities, and thickly inhabited rural areas.
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

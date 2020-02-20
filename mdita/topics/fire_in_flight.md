@@ -2,7 +2,7 @@
 
 The deadly enemy of all flyers is fire in the air.
 
-![Fire in Flight](../images/fire_in_flight.png)
+![What to do about fire on board an airplane](../images/fire_in_flight.png "Fire in Flight")
 
 All aircraft fires have three main causes:
 
@@ -21,5 +21,5 @@ An immediate use of your CO2 bottle will only halt the fire momentarily.
 -   **[Preventing Spontaneous Combustion](../topics/preventing_spontaneous_combustion.md)**  
 A good, clean airplane prevents spontaneous combustion.
 
-**Parent topic:** [Emergency Situations](../topics/emergency_situations.md)
+**Parent topic:**[Emergency Situations](../topics/emergency_situations.md)
 

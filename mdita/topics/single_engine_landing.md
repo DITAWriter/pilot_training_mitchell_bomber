@@ -2,7 +2,7 @@
 
 Single engine landings should remove any lingering doubts you may have about the B-25 and its ability as a single engine performer.
 
-![Single Engine Landing](../images/single_eng_landing.png)
+![How to land B-25 on one engine](../images/single_eng_landing.png "Single Engine Landing")
 
 You have flown on one engine, turned on one engine. Now you will make single engine landings. This maneuver is simple, safe, and vital for your continued safety.
 
@@ -30,9 +30,9 @@ The landing procedure is as follows:
 5.  Reduce power and reduce trim. Never allow the power reduction to get ahead of the trim. The ideal approach is one where the power is reduced. Then the trim, then power, then trim—and so on throughout the approach.
 6.  Maintain 140 mph until the landing is in the bag, then lower the remaining flaps and reduce power to make an accurate landing.
 
- 
 
- 
+
+
 
 The plane will have a tendency to yaw into the good engine as the power is cut off completely. This yaw is present when the propeller is feathered and so should not be changed by cutting power on the engine you have set up to act as a feathered prop. This yaw is easily controlled with the rudder; since you expect it, you will have no trouble.
 
@@ -48,7 +48,7 @@ Never try to recover from a bad approach with one engine. Once the power has bee
 -   Attempting to make an accuracy landing from the top of the approach.
 -   Undershooting and using too much power.
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

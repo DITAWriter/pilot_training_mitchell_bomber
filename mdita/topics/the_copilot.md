@@ -2,7 +2,7 @@
 
 Understanding the role of the copilot as the assistant and backup to the pilot.
 
-![The Copilot](../images/copilot.png)
+![The co-pilot of the plane.](../images/copilot.png "The Copilot")
 
 The copilot is the executive officer—your chief assistant, understudy, and strong right arm.
 
@@ -32,5 +32,5 @@ Be sure that he is always allowed to do his share of the flying, in the copilot'
 
 Bear in mind that the pilot in the right-hand seat of your airplane is preparing himself for an airplane commander's post too. Allow him every chance to develop his ability and to profit by your experience.
 
-**Parent topic:** [Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
+**Parent topic:**[Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
 

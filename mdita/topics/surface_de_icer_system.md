@@ -2,7 +2,7 @@
 
 The location and scenarios for using the de-icing systems on you B-25.
 
-![Surface de-icer system](../images/surface_deicer_system.png)
+![B-25 de-icing system.](../images/surface_deicer_system.png "Surface de-icer system")
 
 Conventional air-inflation de-icer boots are mounted on leading edges of wings and empennage. A rotary distributor valve in the well of the navigator's compartment furnishes air to the boots in a 5-phase cycle every 40 seconds.
 
@@ -16,7 +16,7 @@ CAUTION:
 
 Do not operate the de-icer during landing or takeoff. Never operate the de-icer system at speeds above 230 mph; negative pressure on leading edge of wings will expand the de-icer boots, causing them to rupture.
 
-**Parent topic:** [Cold Weather Operations](../topics/cold_weather_operations.md)
+**Parent topic:**[Cold Weather Operations](../topics/cold_weather_operations.md)
 
 **Related information**  
 

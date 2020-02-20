@@ -4,17 +4,17 @@ What to know about expected engine performance when throttling up.
 
 Always make power changes smoothly and evenly. This engine will not absorb a sudden blast of power without acting up. Move the controls slowly and smoothly to the desired settings rather than attempting to make one swift movement and pick up the proper settings.
 
-![Reduce manifold pressure](../images/power_reduce_manifold.png)
+![How to reduce manifold pressure](../images/power_reduce_manifold.png "Reduce manifold pressure")
 
-![Reduce rpm](../images/power_reduce_rpm.png)
+![How to reduce RPM](../images/power_reduce_rpm.png "Reduce rpm")
 
 If the rpm is reduced first, you get a jump in manifold pressures. This causes detonation if the relation of the rpm to manifold pressure is altered greatly.
 
 An engine running at constant power settings uses a constant amount of fuel and air. If the rpm is reduced, this fuel-air supply remains almost constant, and an engine running at reduced speed cannot absorb this fuel-air charge. Pressures in the impeller and cylinder heads rise as a result and cause detonation.
 
-![Increase rpm](../images/power_increase_rpm.png)
+![How to increase RPM](../images/power_increase_rpm.png "Increase rpm")
 
-![Advance throttles](../images/power_advance_throttles.png)
+![How to increase manifold pressure](../images/power_advance_throttles.png "Advance throttles")
 
 As engines pick up speed the manifold pressures drop; this is a normal and desired reaction. Adjust the throttles and synchronize the engines.
 
@@ -22,7 +22,7 @@ For the proper relation of manifold pressure to rpm see the power control chart.
 
 **Remember:** Make power changes smoothly and evenly.
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

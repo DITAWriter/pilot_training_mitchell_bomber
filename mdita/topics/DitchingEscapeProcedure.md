@@ -17,7 +17,7 @@
 8.  Gunner—through lower right escape hatch. Take equipment to the raft.
 
 
-![](../images/water_evac.png)
+![Escape from the top hatches if your plane ditches](../images/water_evac.png "Escaping from a ditched airplane")
 
-**Parent topic:** [Ditching](../topics/ditching.md)
+**Parent topic:**[Ditching](../topics/ditching.md)
 

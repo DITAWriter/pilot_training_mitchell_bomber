@@ -4,7 +4,7 @@ Things to do and check in order to make each flight as safe as possible.
 
 ## Smoking {#smoking .section}
 
-![No smoking under 1000 feet!](../images/cartoon-no_smoking_under_1000_feet.png)
+![Warning: Do not smoke below 1000 feet!](../images/cartoon-no_smoking_under_1000_feet.png "No smoking under 1000 feet!")
 
 1.  No smoking in airplane at an altitude below 1000 feet.
 2.  No smoking during fuel transfer.
@@ -44,5 +44,5 @@ Things to do and check in order to make each flight as safe as possible.
 1.  Assure yourself that all members of the crew are standing by their interphones at all times. **Insist on clear, well controlled voices. Speak slowly and clearly.**
 2.  Require reports by interphone every 15 minutes from all crew members when on oxygen.
 
-**Parent topic:** [Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
+**Parent topic:**[Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
 

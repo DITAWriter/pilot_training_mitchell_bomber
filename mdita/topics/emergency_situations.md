@@ -5,7 +5,7 @@ This section covers what to do in specific emergency situations, including fire 
 -   **[Fire in Flight](../topics/fire_in_flight.md)**  
 The deadly enemy of all flyers is fire in the air.
 -   **[Bailout](../topics/bailout.md)**  
-Take good care of your parachute, Keep it clean and free of grease and moisture.
+Take good care of your parachute, keep it clean and free of grease and moisture.
 -   **[Forced Landings](../topics/forced_landings.md)**  
 Forced landing in the B-25 is at best a difficult job.
 -   **[Ditching](../topics/ditching.md)**  

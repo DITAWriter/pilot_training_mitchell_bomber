@@ -2,7 +2,7 @@
 
 Most B-25 aircraft have A-3 or A-3A autopilots which operate on a pneumatic-hydraulic principle. They fly the airplane automatically in straight and level flight and make the necessary corrections for holding a given course or altitude.
 
- ![Automatic pilot](../images/auto_pilot.png) 
+![Automatic pilot.](../images/auto_pilot.png "The automatic pilot")
 
 They do this by utilizing the indications of the directional gyro control unit and the bank and climb control unit.
 
@@ -18,7 +18,7 @@ The principle of operation of the autopilot is the same for correcting all off-m
 
 Suppose that an airplane is in straight and level flight and that the autopilot is operating. So long as the airplane continues to fly straight and level, equal amounts of air pass through two channels around the spinning wheel of the bank-and-climb control unit.
 
-![Auto pilot, level flight diagram](../images/auto_pilot_level_flight_diag.png)
+![Diagram depicting how auto pilot mechanism works in level flight.](../images/auto_pilot_level_flight_diag.png "Auto pilot, level flight diagram")
 
 Suddenly rough air causes one wing to drop. Immediately, a ring around the spinning wheel shuts air off from one of the channels. This unequalizes the air in the relay chamber of the bank-and-climb control unit, depressing the diaphragm which divides the relay chamber. When the diaphragm is depressed, a balanced oil valve opens and permits oil to flow to the hydraulic control cylinders. The pressure of this oil actuates a piston connected to the aileron cables. The piston moves forward or backward until the plane is righted.
 
@@ -28,7 +28,7 @@ An automatic follow-up mechanism is part of the automatic pilot. It eases the pr
 
 You can disengage the automatic pilot quickly if necessary, by a control on the pilot's pedestal. This control is connected by a cable to a bypass valve in the hydraulic cylinder.
 
-![Auto pilot, rough air diagram](../images/auto_pilot_rough_air_diag.png)
+![Diagram depicting how auto pilot mechanism works in rough air.](../images/auto_pilot_rough_air_diag.png "Auto pilot, rough air diagram")
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

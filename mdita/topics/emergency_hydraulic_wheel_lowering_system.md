@@ -6,7 +6,7 @@ The system consists of an emergency hand pump and a hydraulic fluid reservoir, b
 
 The emergency reservoir fills automatically when the main reservoir is filled, and the fluid is available for the emergency lowering of the landing gear even if the main hydraulic system fluid is completely lost.
 
-![](../images/emerg_hydraulic_wheel_lower_system.png)
+![Detailed look at the emergency hydraulic wheel lowering system](../images/emerg_hydraulic_wheel_lower_system.png "Emergency hydraulic wheel lowering system")
 
 **Operation**
 
@@ -28,8 +28,8 @@ If the hydraulic system fails completely, take the following steps:
 
     Some earlier models of the B-25 have mechanical emergency wheel lowering controls. In these models, you lower the main landing gear and the nose gear separately. The controls consist of screw jacks and a series of cables which operate directly on the wheels.
 
-    ![](../images/emerg_hydraulic_gear.png)
+    ![Detail of the emergency mechanical wheel lowering system, available on early models of the B-25](../images/emerg_hydraulic_gear.png "Emergency mechanical wheel lowering system")
 
 
-**Parent topic:** [Emergency Systems](../topics/emergency_systems.md)
+**Parent topic:**[Emergency Systems](../topics/emergency_systems.md)
 

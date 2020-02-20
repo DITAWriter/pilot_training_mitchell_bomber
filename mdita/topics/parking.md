@@ -33,9 +33,9 @@ The nosewheel position indicator warns you when the nosewheel is more than 15 de
 
 It is only common courtesy to leave the plane clean and neat for the next crew. See that carburetor air scoop covers are on to exclude dust from the engines. Complete the necessary local forms, gas forms, squadron reports, combat crew training report etc. Talk to the crew chief and tell him of the plane's performance. Give him any ideas you have for improvements.
 
-![Parking complete - nosewheel properly lined up.](../images/parking.png)
+![When parked, ensure that the nosewheel is properly lined up](../images/parking.png "Parking complete - nosewheel properly lined up")
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

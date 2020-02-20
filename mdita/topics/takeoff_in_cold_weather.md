@@ -4,7 +4,7 @@ Short checklist on what to look for when attempting to take off during cold weat
 
 **Warning:** Your cabin heaters must be "OFF" before takeoff.
 
-![](../images/preflight_cabin_heaters.png)
+![Check that the cabin heater control is set to "OFF".](../images/preflight_cabin_heaters.png "Preflight cabin heaters to "OFF"")
 
 1.  Never take off if there is any snow, ice, or frost on the wings. Even the thinnest layer of frost may cause loss of lift and treacherous stalling characteristics. In extreme conditions it may be necessary to taxi out to the takeoff position before removing the protective covers from the flight surfaces.
 
@@ -13,7 +13,7 @@ Short checklist on what to look for when attempting to take off during cold weat
     **Note:** \(You will seldom find these extreme conditions in the continental United States. In arctic zones, consult experienced pilots before employing this procedure.\)
 
 
-**Parent topic:** [Cold Weather Operations](../topics/cold_weather_operations.md)
+**Parent topic:**[Cold Weather Operations](../topics/cold_weather_operations.md)
 
 **Related information**  
 

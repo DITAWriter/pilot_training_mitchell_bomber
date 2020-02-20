@@ -1,6 +1,8 @@
 # How to Jump {#how_to_jump .task}
 
-![](../images/how_to_jump.png)
+Information on how to properly open and drop out of a hatch from an airplane in flight.
+
+![How to open a hatch and drop out of a flying airplane while wearing a parachute](../images/how_to_jump.png "How to jump out of the hatch of an airplane while flying")
 
 1.  Face rear of ship and place hands on structure above rear of hatch.
 
@@ -13,5 +15,5 @@
     For further information on bailout technique, consult your *Pilot's Information File*.
 
 
-**Parent topic:** [Bailout](../topics/bailout.md)
+**Parent topic:**[Bailout](../topics/bailout.md)
 

@@ -40,9 +40,9 @@ Don't fall into the trap of assuming that because you are operating at medium an
     **Note:** For maximum performance above 12,000 ft. reduce rpm to 2400. This adds 5 to 8 mph. to the maximum speed.
 
 
-![](../images/low_blower_to_high_blower.png)
+![Turning on the supercharger.](../images/low_blower_to_high_blower.png "Shifting the supercharger down.")
 
-![](../images/high_blower_to_low_blower.png)
+![Turning off the supercharger.](../images/high_blower_to_low_blower.png "Shifting the supercharger up.")
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

@@ -24,8 +24,8 @@ Before entering the traffic pattern it is advisable to lower partial flaps. This
 
     **Warning:** Before operating the flaps hydraulically again, be sure that your mechanical system is fully disengaged. To disengage, rotate crank counter-clockwise until checked. Remove crank and return to its stowage position.
 
-    ![](../images/emerg_flap_lower.png)
+    ![A look at the wing flap emergency lowering system](../images/emerg_flap_lower.png "Wing flap emergency lowering system")
 
 
-**Parent topic:** [Emergency Systems](../topics/emergency_systems.md)
+**Parent topic:**[Emergency Systems](../topics/emergency_systems.md)
 

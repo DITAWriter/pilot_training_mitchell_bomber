@@ -2,7 +2,7 @@
 
 With our entry into World War II, and our operations on fighting fronts the length and breadth of the world, it became apparent that we could not produce high-octane fuels quickly enough to meet the demand.
 
-![Grade 91 fuel](../images/fuel_grade_91.png)
+![Refueling the B-25 with Grade 91 fuel.](../images/fuel_grade_91.png "Grade 91 fuel")
 
 For this reason, all training and operational flights in the continental United States are made on Grade 91 fuel whenever possible.
 
@@ -20,15 +20,15 @@ Preignition is a condition of premature firing. The fuel charge in the cylinder 
 
 Normal combustion is the burning of the fuel charge in the cylinder head as a slow-burning wave, creating power not as an explosion, but as an expansion of the gases.
 
-![Preignition and power loss](../images/fuel_preignition.png)
+![Ignition timing is crucial to getting full power out an engine.](../images/fuel_preignition.png "Preignition and power loss")
 
-![Correct combustion and maximum power](../images/fuel_combustion.png)
+![Full power from an engine can be obtained when the fuel mixture is ignited as the piston has fully risen in the cylinder.](../images/fuel_combustion.png "Correct combustion and maximum power")
 
 ## Detonation {#sect_Detonation .section}
 
 Detonation, as the name implies, is an explosion in the cylinder head. The normal burning wave as it travels across the cylinder head subjects the unburned portion of the fuel charge to tremendous temperatures and pressures. If these forces are great enough the remaining fuel charge explodes before it can burn, and the shock waves from this explosion are great enough to blow the cylinder head off the engine.
 
-![Detonation](../images/fuel_detonation.png)
+![Detonation of fuel within an engine cylinder.](../images/fuel_detonation.png "Detonation")
 
 ## Octane Rating {#sect_OctaneRating .section}
 
@@ -38,7 +38,7 @@ Two reference fuels were chosen, iso-octane and normal heptane. Run in a test en
 
 To rate a new fuel it is compared to these reference fuels. If it matches the anti-knock ability of iso-octane it is rated as Grade 100 fuel. If its performance is less, normal heptane is added to the iso-octane. Thus, if a fuel matches in performance a mixture of 87% iso-octane and 13% normal heptane it is rated as Grade 87 fuel.
 
-![Relative combustion temperatures for different grades of fuel](../images/fuel_combust_temps.png)
+![Achieving a hot flame in the engine cylinder using Grade 19 fuel.](../images/fuel_combust_temps.png "Relative combustion temperatures for different grades of fuel")
 
 ## How Does this Affect the B-25? {#sect_FuelAffectsB-25 .section}
 
@@ -52,9 +52,9 @@ Learn the power limits you can use with different grade fuels at different altit
 
 The accompanying power control chart shows maximum limits, minimum limits, and the desirable range to increase the life and efficiency of the engines.
 
-![Effects of relation between RPM and manifold pressure](../images/fuel_rpm_mp_relation.png)
+![Understanding the difference between RPM and manifold pressure.](../images/fuel_rpm_mp_relation.png "Effects of relation between RPM and manifold pressure")
 
-**Parent topic:** [Fuel](../topics/fuel.md)
+**Parent topic:**[Fuel](../topics/fuel.md)
 
 **Related information**  
 

@@ -2,7 +2,7 @@
 
 Crosswind landing in the B-25 requires accurate flying, to save the plane from unnecessary structural stresses. You must land the airplane smoothly to prevent blowing a tire, collapsing a struts or exerting side loads on the gear.
 
-![Crab into wind](../images/landing_crosswind_crab.png)
+![How to crab the B-25 successfully into the wind when landing](../images/landing_crosswind_crab.png "Crab into wind")
 
 There are three possible ways to land crosswind:
 
@@ -26,7 +26,7 @@ Use full rudder if necessary. As a last resort, make very cautious use of the do
 
 Where there is a strong drift, land on the upwind side of the runway. The drift will carry you toward the center of the runway.
 
-![Correct for Drift. Land on the runway.](../images/landing_correct_for_drift.png)
+![Correct for drift when landing](../images/landing_correct_for_drift.png "Correct for Drift. Land on the runway.")
 
 ## Common Errors {#sect_CommonErrors .section}
 
@@ -35,7 +35,7 @@ Where there is a strong drift, land on the upwind side of the runway. The drift 
 -   Failure to recognize drift. This occurs frequently in moderate or slight crosswinds, although seldom where there is a runway to land on.
 -   Failure to push the airplane straight on the actual landing, thus putting a side load on the gear. Avoid the tendency to straighten the plane out too high off the runway. If the plane stays in the air long enough it will drift off course and may land with one wheel off the runway.
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

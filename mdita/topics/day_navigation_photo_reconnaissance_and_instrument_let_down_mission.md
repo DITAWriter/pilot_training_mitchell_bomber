@@ -27,7 +27,7 @@ This mission will consist of a controlled ground speed day navigation and photo-
 9.  Armorer-Gunner—will preflight and install photo equipment; take photos as directed by pilot; make observations of ground activity; and man battle station at all times, taking careful observations and reporting to the pilot all aircraft and ground installations sighted.
 
 
-**Parent topic:** [Some Typical Missions](../topics/some_typical_missions.md)
+**Parent topic:**[Some Typical Missions](../topics/some_typical_missions.md)
 
 **Related information**  
 

@@ -22,9 +22,9 @@ The electric motor which drives the windshield wiper through a flexible cable as
 
 The installation of this equipment precludes the use of a pilot's windshield spray. A field service installation may, however, be made on these aircraft to provide a clear-vision windshield. This is a 6-ply, chemically treated glass window. The outboard sections are in a neutral pressure area and may be removed in extreme icing conditions to provide direct vision ahead.
 
-![Carburetor de-icer system](../images/carb_deicer_system.png)
+![De-icer system for the carburetor on the B-25.](../images/carb_deicer_system.png "Carburetor de-icer system")
 
-**Parent topic:** [Cold Weather Operations](../topics/cold_weather_operations.md)
+**Parent topic:**[Cold Weather Operations](../topics/cold_weather_operations.md)
 
 **Related information**  
 

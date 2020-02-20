@@ -12,7 +12,9 @@ Be careful if you dive the plane in rough air, because the roughness increases t
 
 Combat requirements may force you to dive the plane when the gross weight is excessive. The plane will carry you through some tight spots in an emergency, but treat it gently. Don't place unnecessary loads on the plane by rough and careless handling.
 
-![](../images/max_dive_speed.png)
+![The maximum recommended diving speed for the B-25 is 340 mph](../images/max_dive_speed.png "Maximum diving speed")
+
+B-25 Maximum diving speeds at different weight thresholds
 
 | |Normal|Overload|
 |Gross Weight Lbs|Up to 26,620|28,000|30,000|32,000|34,000|35,000|
@@ -34,7 +36,7 @@ Combat requirements may force you to dive the plane when the gross weight is exc
 |Maximum allowable diving speed \(indicated\) MPH|340|340|340|332|303|281|
 |Maximum permissible landing load factor|3.33|2.67|2.67|2.67| | |
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

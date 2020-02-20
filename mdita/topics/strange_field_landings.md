@@ -2,7 +2,7 @@
 
 Flying above your home base you instinctively use familiar features of landscape to orient yourself. Your judgment of distance, altitude, speedy and depth are sharpened.
 
-![Look it over before you decide to land.](../images/landing_strange_field.png)
+![Look over the landing area prior to landing](../images/landing_strange_field.png "Look it over before you decide to land")
 
 You have probably walked into the familiar front room at home, neatly sidestepped the lamp, and continued on your way in total darkness. This same perception of familiar objects operates in every flight you make.
 
@@ -28,7 +28,7 @@ After landing, call the control tower for taxiing and parking instructions.
 2.  A fast approach, the result of tenseness. Trust your plane and fly it calmly and confidently. Don't get excited.
 3.  Poor radio procedure, usually caused by poor tuning. Be accurate—learn procedures perfectly and use them as you have learned them. This isn't book flying; it is just, plain common sense.
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

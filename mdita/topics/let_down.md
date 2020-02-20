@@ -8,9 +8,9 @@ Adjust the throttles to avoid using excess manifold pressure during the descent.
 
 Level off at the desired altitude and adjust power and trim.
 
-![Keep engine warm. If it cools off, it may cough at the wrong time](../images/cartoon-engine_cough.png)
+![Don't let the engines get cold, otherwise they may "cough"](../images/cartoon-engine_cough.png "Keep engine warm. If the engine cools off, it may cough at the wrong time")
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

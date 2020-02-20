@@ -17,7 +17,7 @@ Make a normal start by following the procedure on the pilot's checklist. If you 
 5.  If icing conditions exist, place carburetor air control handles in "ICING" until the induction system is free of ice.
 
 
-**Parent topic:** [Cold Weather Operations](../topics/cold_weather_operations.md)
+**Parent topic:**[Cold Weather Operations](../topics/cold_weather_operations.md)
 
 **Related information**  
 

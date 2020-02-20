@@ -2,7 +2,7 @@
 
 The armament of the B-25 follows basically the same pattern found in any AAF bombardment airplane. The detailed installation varies greatly according to the tactical uses intended.
 
- ![Armament](../images/armament.png) 
+![B-25 dropping a torpedo.](../images/armament.png "Armament")
 
 Safe handling and operation require thorough knowledge arid practice on this equipment, under the supervision of a competent instructor.
 
@@ -14,7 +14,7 @@ Controls for operating the bomb bay doors and bomb releases are in the bombardie
 
 On the B-25 G and H, the bomb bay and bombing controls are in the pilot's compartment.
 
-![Bomb bay](../images/bomb_bay.png)
+![Bomb bay of the B-25 holding four large bombs.](../images/bomb_bay.png "Bomb bay")
 
 On the B-25 J, the bombardment controls are in both the bombardier's and pilot's compartments.
 
@@ -28,7 +28,7 @@ Chemical spray tanks may be carried in the bomb bay and on the wing racks when n
 
 Gunnery equipment varies greatly in different series airplanes. They are as follows: B-25 C and D,
 
-![B-25 C and D 50-cal_nose_gun](../images/B-25_CD_50-cal_nose_gun.png)
+![Examples of nose guns.](../images/B-25_CD_50-cal_nose_gun.png "B-25 C and D 50-cal nose gun")
 
 One **.50-cal. fixed gun** nose gun is mounted on the right side of the bombardier's compartment. The pilot fires this gun and the bombardier charges it. There is a type N-3B optical gunsight on the upper left side of the instrument panel.
 
@@ -46,13 +46,13 @@ There is a Bendix upper turret in the radio gunner's compartment. It carries two
 
 A few modified G's carry **.50-cal. flexible gun** waist guns J blister guns, and one **.50-cal. flexible gun** tail gun.
 
-![B-25 G nose guns](../images/B-25_G_nose_guns.png)
+![Large caliber fixed machine guns and cannon on the B-25 G.](../images/B-25_G_nose_guns.png "B-25 G nose guns")
 
 ## B-25 H {#sect_B-25H .section}
 
 One 75-mm, cannon \(type T-13\) is in the tunnel beneath the left side of the pilot's compartment and fires through the nose. The pilot fires the cannon and the cannoneer loads it. A type N-3B optical gunsight for the forward-firing guns is on the left side of the pilot's instrument panel.
 
-Four forward-firing, .50-cai. fixed guns are in the nose section. The pilot fires these guns, which are charged in the navigator-cannoneer's compartment.
+Four forward-firing, **.50-cal. fixed guns** are in the nose section. The pilot fires these guns, which are charged in the navigator-cannoneer's compartment.
 
 Two or four fixed **.50-cal. guns** are mounted in blisters on each side of the plane. The cannoneer charges these guns and the pilot fires them.
 
@@ -62,7 +62,7 @@ Two flexible **.50-cal. guns** in Plexiglas windows, one at each side of the fus
 
 A Bell model M-7 electric-hydraulic turret with two **.50-cal. guns** and a type N-8 gunsight is in the tail. A tail gunner operates this turret.
 
-![B-25 H nose guns](../images/B-25_H_nose_guns.png)
+![Large caliber fixed machine guns and cannon on the B-25 H.](../images/B-25_H_nose_guns.png "B-25 H nose guns")
 
 ## B-25 J {#sect_B-25J .section}
 
@@ -78,7 +78,7 @@ Two flexible **.50-cal. guns** in Plexiglas windows, one at each side of the fus
 
 A Bell model M-7 electric-hydraulic turret with two **.50-cal. guns** and a type N-8 gunsight is in the tail and is operated by a tail gunner.
 
-![B-25 J gun locations](../images/B-25_J_gun_locations.png)
+![Locations of the guns on a B-25 J.](../images/B-25_J_gun_locations.png "B-25 J gun locations")
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

@@ -10,7 +10,7 @@ The hydraulic system provides quick and easy operation of the following equipmen
 6.  Automatic Pilot
 7.  Gun Chargers
 
- ![Hydraulic system](../images/hydraulic_system.png) 
+![B-25 hydraulic system.](../images/hydraulic_system.png "Hydraulic system")
 
 The reservoir which contains the hydraulic fluid has a capacity of 5.9 gallons. A standpipe in the reservoir retains a reserve of 2.33 gallons for the emergency hand pump.
 
@@ -36,5 +36,5 @@ This does not apply to the brakes, where toe pressure on the rudder pedals is co
 
 There is an emergency air brake system for use if the hydraulic brake system fails.
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

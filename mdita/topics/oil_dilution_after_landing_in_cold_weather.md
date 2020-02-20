@@ -7,8 +7,9 @@ This will prevent rapid evaporation of the gasoline and insure that the viscosit
 Dilute the engines at 1000 rpm for the time indicated below, consistent with the lowest expected air temperature.
 
 |Temperature|Time—Minutes|Maximum Allowable Temperatures|
-|-----------|------------|------------------------------|
 | | |**Cyl. Head**|**Oil**|
+|-----------|------------|------------------------------|
+|--|--|-------------|-------|
 |+4 to -12°C\(+21 to 0°F\)
 
 |6|150°C|50°C|
@@ -21,9 +22,9 @@ Dilute the engines at 1000 rpm for the time indicated below, consistent with the
 
 **Warning:** Unreliable dilution occurs at these temperatures if the oil tank is more than ¾ full.
 
-At the completion of the above dilution period, run both engines up to 1700 rpm, continuing dilution, and with propellers in full "INC. RPM" feather and un feather each propeller through one complete cycle. Operate each propeller governor through one complete cycle. Release dilution switch and decrease engine speed. Stop engines and install engine covers.
+At the completion of the above dilution period, run both engines up to 1700 rpm, continuing dilution, and with propellers in full "INC. RPM" feather and unfeather each propeller through one complete cycle. Operate each propeller governor through one complete cycle. Release dilution switch and decrease engine speed. Stop engines and install engine covers.
 
-**Parent topic:** [Cold Weather Operations](../topics/cold_weather_operations.md)
+**Parent topic:**[Cold Weather Operations](../topics/cold_weather_operations.md)
 
 **Related information**  
 

@@ -27,7 +27,7 @@ The procedure is:
     If sufficient altitude is available, nose down to increase airspeed when power is applied to start a go-around.
 
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

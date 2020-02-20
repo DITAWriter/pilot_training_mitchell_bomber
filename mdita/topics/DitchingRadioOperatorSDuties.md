@@ -19,5 +19,5 @@
     During this period release life raft after the ship has stopped moving, carry out the First-aid kit, and exit through the right lower rear hatch.
 
 
-**Parent topic:** [Ditching](../topics/ditching.md)
+**Parent topic:**[Ditching](../topics/ditching.md)
 

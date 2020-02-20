@@ -22,11 +22,11 @@ The airplane should leave the ground just after the flaps-down, wheels-down, pow
 
 Prolonged climbs at low airspeeds raise the engine operating temperature dangerously—do not practice them.
 
-![Short-Field Takeoff](../images/takeoff_short_field.png)
+![How to do a short-field takeoff](../images/takeoff_short_field.png "Short-Field Takeoff")
 
-![Muddy or Rough Ground Takeoff](../images/takeoff_muddy.png)
+![How to do a muddy field/rough ground takeoff](../images/takeoff_muddy.png "Muddy or Rough Ground Takeoff")
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

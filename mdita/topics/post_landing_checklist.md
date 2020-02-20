@@ -13,7 +13,7 @@ When the plane has slowed, complete this landing check:
 
 Clear the runway quickly, freeing it for the next plane to land.
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

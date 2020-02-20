@@ -2,7 +2,7 @@
 
 Understanding what your engineer needs to know to effective in his role.
 
-![The Engineer](../images/preflight_general.png)
+![The airplane engineer.](../images/preflight_general.png "The Engineer")
 
 Size up the man who is to be your engineer.
 
@@ -42,5 +42,5 @@ You, in turn, are his source of information about flying. Bear this in mind in a
 
 Generally, in emergencies, the engineer is the man to whom you turn first. Build up his pride, his confidence, his knowledge. Know him personally; check on the extent of his knowledge. Make him a man upon whom you can rely.
 
-**Parent topic:** [Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
+**Parent topic:**[Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
 

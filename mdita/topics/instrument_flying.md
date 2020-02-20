@@ -4,7 +4,7 @@ Every pilot must have in his possession a copy of T. O. series 30-100. You must 
 
 Study them frequently. Your path through the overcast will be a lot easier.
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

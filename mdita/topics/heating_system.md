@@ -24,9 +24,9 @@ If the temperature in the wing compartment that contains the heater becomes too 
 
 **Warning:** When taking off or landing, in order to have full power available, heating system must be off.
 
-![Engine heating systems](../images/engine_heating_system.png)
+![The right and left engine heading systems on the B-25.](../images/engine_heating_system.png "Engine heating systems")
 
-**Parent topic:** [Cold Weather Operations](../topics/cold_weather_operations.md)
+**Parent topic:**[Cold Weather Operations](../topics/cold_weather_operations.md)
 
 **Related information**  
 

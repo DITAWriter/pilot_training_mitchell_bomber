@@ -2,7 +2,7 @@
 
 The B-25 has two systems of oxygen supply. The first is a permanent installation in the early-series aircraft, the second a portable system in later-series B-25 aircraft.
 
-![Oxygen mask](../images/oxygen_mask.png)
+![How to wear an oxygen mask.](../images/oxygen_mask.png "Oxygen mask")
 
 The permanent oxygen system is of the low-pressure type, operating at an average starting pressure of 400 lb. sq. in. There are three low-pressure oxygen cylinders in each nacelle, two at the front and one at the rear. The cylinders, held in place by padded metal straps, are removable.
 
@@ -10,7 +10,7 @@ One filler valve in each nacelle allows servicing of the system, A relief valve 
 
 The oxygen system has eight low-pressure regulators. A pressure gage in each regulator shows the pressure of the entire system. The valve, operated by turning a knob on the lower part of the regulator, adjusts the amount of oxygen flow. A dial on the face of the regulator indicates the oxygen flow in thousands of feet of altitude, thereby simplifying regulator adjustment.
 
-![Oxygen regulator locations](../images/oxygen_regulator_location.png "Oxygen Regulators")
+![Oxygen regulator locations.](../images/oxygen_regulator_location.png "Oxygen Regulators")
 
 1.  Bombardier
 2.  Navigator
@@ -23,7 +23,7 @@ The oxygen system has eight low-pressure regulators. A pressure gage in each reg
 
 An outlet tube extends outward from the bottom of each regulator, and the hose from the oxygen mask slips over this tube. The outlet tube of the upper turret operator's regulator is on the upper turret support column.
 
-![Oxygen regulator](../images/oxygen_regulator.png)
+![Image of an oxygen regulator.](../images/oxygen_regulator.png "Oxygen regulator")
 
 When oxygen is not being drawn from a regulator, be sure that the valve is completely closed to prevent leakage.
 
@@ -39,11 +39,11 @@ If the regulator fails, it may be bypassed by turning the red emergency knob in 
 
 An A-10 revised or A-14 type mask may be used with the portable oxygen unit. Before any flight on which you expect to use oxygen, see that the mask is of the proper type and is the correct size and shape for your face.
 
-![Portable oxygen unit](../images/oxygen_portable_unit.png)
+![Image of a portable oxygen unit.](../images/oxygen_portable_unit.png "Portable oxygen unit")
 
 DANGER
 
 Keep all oxygen equipment free from contact with oil or grease. Failure to do this may result in an explosion.
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

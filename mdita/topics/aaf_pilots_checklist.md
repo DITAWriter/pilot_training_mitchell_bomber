@@ -2,5 +2,5 @@
 
 To be used only after thorough familiarization with Amplified Checklist.
 
-**Parent topic:** [Inspection and Checks](../topics/inspection_and_checks.md)
+**Parent topic:**[Inspection and Checks](../topics/inspection_and_checks.md)
 

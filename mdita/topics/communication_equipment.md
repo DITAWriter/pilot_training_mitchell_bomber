@@ -2,7 +2,7 @@
 
 Location and types of communication equipment located throughout the B-25.
 
- ![Communication equipment](../images/communication_equipment.png) 
+![Diagram depicting where various pieces of radio location are located.](../images/communication_equipment.png "Communication equipment")
 
 1.  INTERPHONE JACK BOX
 2.  FILTER SWITCH
@@ -45,7 +45,7 @@ The set has one receiver capable of reception of voice, tone, or CW signals over
 
 A radio operator uses this set for long-range air-to-ground communication. In emergencies the pilot, copilot, and navigator, by using the interphone circuits, can transmit voice messages to the ground.
 
- ![Liaison comm set](../images/liaison_comm_set.png) 
+![Liaison commubnication equipment](../images/liaison_comm_set.png "Liaison comm set")
 
 1.  LIAISON RADIO ANTENNA
 2.  LIAISON TUNING UNITS
@@ -65,7 +65,7 @@ A radio operator uses this set for long-range air-to-ground communication. In em
 
 ## Radio Compass Receiver {#sect_RadioCompassReceiver .section}
 
- ![Radio compass receiver](../images/radio_compass_receiver.png) 
+![Radio compass equipment.](../images/radio_compass_receiver.png "Radio compass receiver")
 
 1.  Radio compass loop
 2.  Radio compass receiver
@@ -97,7 +97,7 @@ The interphone system of the B-25 is a standard installation. It operates whenev
 
 The interphone plays a vital part in crew coordination. Used effectively in combat, it serves as the eyes of the entire crew.
 
-![Interphone jack box](../images/interphone_jack_box.png)
+![Image of the interphone jack box.](../images/interphone_jack_box.png "Interphone jack box")
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

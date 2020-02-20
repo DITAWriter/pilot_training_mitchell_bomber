@@ -2,7 +2,7 @@
 
 Forced landing in the B-25 is at best a difficult job.
 
-![Forced landings](../images/forced_landing.png)
+![Forced landings](../images/forced_landing.png "Forced landings")
 
 Fortunately, the B-25 aircraft's exceptional single engine ability will bring you home unless you have a failure of both engines. You will seldom need to set down in rough country.
 
@@ -50,9 +50,9 @@ Call the roll immediately after leaving the plane. Be sure that no one is left i
 
 Crash stations are the same as those used for ditching.
 
-![Wheels down only on a known airport](../images/wheels_down_known_airport.png)
+![Only put your wheels down for a known airport](../images/wheels_down_known_airport.png "Wheels down only on a known airport")
 
-![Wheels up on anything else](../images/wheels_up_anything_else.png)
+![Keep your wheels up when landing in any other situation](../images/wheels_up_anything_else.png "Wheels up on anything else")
 
-**Parent topic:** [Emergency Situations](../topics/emergency_situations.md)
+**Parent topic:**[Emergency Situations](../topics/emergency_situations.md)
 

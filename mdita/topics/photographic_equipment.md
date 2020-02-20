@@ -2,7 +2,7 @@
 
 There is a photography station in the fuselage rear section on early-model airplanes.
 
- ![Photographic equipment](../images/photographic_equipment.png) 
+![The photographic equipment that may be present on a B-25.](../images/photographic_equipment.png "Photographic equipment")
 
 On late-model airplanes it is immediately aft of the bomb bay. Vertical photographs are made through a camera opening in the fuselage floor. A vertical viewfinder mounting plate and openings are in the fuselage floor just aft of the camera opening. There is a window on each side of the fuselage for taking oblique photographs. Orientation photographs may be made with the use of additional controls located in the bombardier's compartment.
 
@@ -24,5 +24,5 @@ There is a great variety of cameras and installations for various types of photo
 
 **Important:** Do not raise the camera support from the operating position to the up position when the inner door of the rear entrance hatch is in the stowed position; this door interferes with the travel of the camera support and damage to both may result.
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

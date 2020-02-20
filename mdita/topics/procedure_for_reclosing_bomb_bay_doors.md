@@ -15,5 +15,5 @@ To close these doors, do the following:
 4.  Complete bailout procedure.
 
 
-**Parent topic:** [Bailout](../topics/bailout.md)
+**Parent topic:**[Bailout](../topics/bailout.md)
 

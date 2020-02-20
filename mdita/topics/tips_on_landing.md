@@ -20,9 +20,9 @@ Guard the throttles on all landings to prevent creeping.
 
 Never apply the brakes until the nosewheel is on the runway.
 
-![](../images/cartoon-landing_crash.png)
+![Land safely!](../images/cartoon-landing_crash.png "Don't do this!")
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

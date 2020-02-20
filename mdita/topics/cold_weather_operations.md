@@ -2,7 +2,7 @@
 
 Cold weather operations bring visions of long arctic nights, glaciers, Eskimos, and stories you have heard of the Far North.
 
-![Cold weather operations](../images/cold_weather_ops.png)
+![Operating the B-25 in cold weather](../images/cold_weather_ops.png "Cold weather operations")
 
 But it is well to bear in mind that during the winter months many sections of the United States have climatic conditions requiring just as much specialized maintenance as the Arctic.
 
@@ -19,7 +19,7 @@ Emergency provision is made to prevent ice formation on the propellers, and on t
 -   **[Surface De-icer System](../topics/surface_de_icer_system.md)**  
 The location and scenarios for using the de-icing systems on you B-25.
 -   **[Defrosting Systems](../topics/defrosting_systems.md)**  
-Where the desfrosting systems are located across the B-25.
+Where the defrosting systems are located across the B-25.
 -   **[Heating System](../topics/heating_system.md)**  
 The airplane has two independent heating systems; one for heating the navigator's, pilot's, and bombardier's compartments, the other for heating the radio operator's compartment and the interior of the fuselage aft of it.
 -   **[Landing in Cold Weather](../topics/landing_in_cold_weather.md)**  

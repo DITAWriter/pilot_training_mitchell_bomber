@@ -24,7 +24,7 @@ If you start the engine with excess oil present in the cylinders this oil will f
 
 Always pull the props through in the direction of rotation. Otherwise fuel and oil will be forced back into the intake section. This will cause an unknown and possibly dangerous fuel-air ratio and make starting difficult.
 
-![Preflight prop](../images/preflight_prop.png)
+![Preflight propeller rotation.](../images/preflight_prop.png "Preflight prop")
 
 ## Nose Section {#sect_NoseSection .section}
 
@@ -34,7 +34,7 @@ Shimmy damper pin \(⅜-inch extension\). Nosewheel towing lockpin engaged—Red
 
 Nosewheel oleo strut for proper clearance.
 
-![Preflight nosewheel oleo strut for proper clearance](../images/preflight_nosewheel.png)
+![Ensuring there is sufficient clearance of the nosewheel oleo strut.](../images/preflight_nosewheel.png "Preflight nosewheel oleo strut for proper clearance")
 
 Tires for cuts, wear, blisters, slippage, and proper inflation.
 
@@ -54,7 +54,7 @@ Propeller for nicks, propeller dome and governor for leaks.
 
 Check pulleys, cables, and safety wires.
 
-Colws, cowl flaps, and Dzus fasteners secure—a loose cowl section can be a serious hazard in flight.
+Cowls, cowl flaps, and Dzus fasteners secure—a loose cowl section can be a serious hazard in flight.
 
 Exhaust stacks, fingers, gaskets and studs, for looseness and cracks.
 
@@ -64,7 +64,7 @@ Oleo strut \(extension 2⅞ inches\), brake lines for leaks, torque arm scissors
 
 Tire for cuts, bruises, excessive wear, slippage, and proper inflation.
 
-![Preflight tire](../images/preflight_tire.png)
+![Preflight check on the tire.](../images/preflight_tire.png "Preflight tire")
 
 Battery jar in nacelle for proper servicing.
 
@@ -78,7 +78,7 @@ De-icer boots for cuts, tears, worn spots, and proper installation.
 
 Pitot head cover removed.
 
-![Preflight, remove pitot head cover](../images/preflight_pitot_head_cover.png)
+![Removing the pitot head cover prior to flight.](../images/preflight_pitot_head_cover.png "Preflight, remove pitot head cover")
 
 Wing surfaces for wrinkles, dents, or loose rivets. This is an important check. Wrinkles in the metal surface indicate excessive strain.
 
@@ -110,7 +110,7 @@ Check doors for looseness. Check gasoline lines and plugs for leaks. Check bomb 
 
 ## General {#sect_General .section}
 
-![General preflight inspection](../images/preflight_general.png)
+![Going through the preflight inspection checklist.](../images/preflight_general.png "General preflight inspection")
 
 Check visually the amount of fuel in each tank.
 
@@ -134,7 +134,7 @@ Interphone operation.
 
 ## Navigator's Compartment {#sect_NavCompartment .section}
 
-![Preflight emergency air brake pressure](../images/preflight_emer_air_brake_press.png)
+![Check the emergency air brake pressure before flight.](../images/preflight_emer_air_brake_press.png "Preflight emergency air brake pressure")
 
 Emergency air brake pressure \(550-600 lb. sq. in.\).
 
@@ -146,7 +146,7 @@ Hydraulic accumulator pressure 400 lb. sq. in. minimum.
 
 Oxygen pressure \(where applicable\).
 
-![Preflight crossfeed and cut-off valves](../images/preflight_valves.png)
+![Check that the crossfeed and cut-off value settings prior to flight.](../images/preflight_valves.png "Preflight crossfeed and cut-off valves")
 
 Crossfeed "OFF."
 
@@ -158,7 +158,7 @@ Level of Hydraulic fluid reservoir \(spare fluid aboard\).
 
 Cabin heaters "OFF."
 
-![Preflight cabin heaters to "OFF"](../images/preflight_cabin_heaters.png)
+![Check that the cabin heater control is set to "OFF".](../images/preflight_cabin_heaters.png "Preflight cabin heaters to "OFF"")
 
 Check the load and balance of the ship. Check Form F with the load adjuster. The B-25 carries great loads and is unstable and dangerous if the weight is not properly distributed. \(For detailed information, see the [PIF](../glossentries/gl_PIF.md) and the Weights and Balance section of this manual.\)
 
@@ -176,9 +176,9 @@ Controls unlocked, check for free and proper movement. This insures the release 
 
 Parking brakes "SET." Brake pressure 500 lb. sq. in. minimum.
 
-![Preflight parking brakes](../images/preflight_parking_brakes.png)
+![Check the parking break settings prior to flight.](../images/preflight_parking_brakes.png "Preflight parking brakes")
 
-![Check controls for free and proper movement](../images/preflight_controls.png)
+![Check that your flight surfaces move fully prior to flight.](../images/preflight_controls.png "Check controls for free and proper movement")
 
 Hydraulic selector "NORMAL." Air brake handle down and safetied. Landing gear handle "DOWN" and locked. Wing flaps up, controls neutral. Cowl flaps open, controls neutral. Set all hydraulic controls except landing gear at neutral when they are not in use; this prevents loss of fluid and pressure in the entire system if part of it fails.
 
@@ -186,7 +186,7 @@ Automatic pilot "OFF" and locked. Supercharger "LOW BLOWER" and locked. All take
 
 Oil shutters as required. Carburetor heat "NORMAL"
 
-![Preflight throttles](../images/preflight_throttles.png)
+![Check the throttle settings prior to flight.](../images/preflight_throttles.png "Preflight throttles")
 
 Throttles cracked \(V2 inch to 1 inch\).
 
@@ -202,17 +202,17 @@ Airspeed selector "STATIC."
 
 Altimeter set \(station elevation\). This setting will enable you to check the radioed altimeter setting and detect any scale error in your altimeter.
 
-![Preflight gyros](../images/preflight_gyros.png)
+![Check the gyros before flight.](../images/preflight_gyros.png "Preflight gyros")
 
 Gyros "UNCAGED."
 
-![Preflight battery](../images/preflight_battery.png)
+![Check the battery switch settings prior to flight.](../images/preflight_battery.png "Preflight battery")
 
 Battery-disconnect switches "ON" \(unless external power is used\). Light switches as required.
 
-![Preflight fuel](../images/preflight_fuel.png)
+![Check the fuel levels in the main and auxiliary tanks prior to flight.](../images/preflight_fuel.png "Preflight fuel")
 
 Check fuel levels—the visual preflight check acts as a check on the instrument reading.
 
-**Parent topic:** [Inspection and Checks](../topics/inspection_and_checks.md)
+**Parent topic:**[Inspection and Checks](../topics/inspection_and_checks.md)
 

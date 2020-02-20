@@ -2,8 +2,10 @@
 
 Information on the maximum range for the C, D, and G models of the B-25.
 
-|Airplane's Gross Weight|Indicated Air Speed|RPM|Manifold Pressure|Minxture Control|Fuel Consumption \(Grade 100 Only\)|
+|Airplane's Gross Weight|Indicated Air Speed|RPM|Manifold Pressure|Mixture Control|Fuel Consumption \(Grade 100 Only\)|
 |1000 Feet|8000 Feet|1000 Feet|8000 Feet|1000 Feet|8000 Feet|
+|-----------------------|-------------------|---|-----------------|---------------|-----------------------------------|
+|---------|---------|---------|---------|---------|---------|
 |34,000 lb.|175|1680|1925|29.2|27.1|Cruising Lean|107|118|
 |33,000 lb.|175|1640|1885|29.2|26.8|"|103|115|
 |32,000 lb.|170|1590|1850|29.2|26.5|"|99|110|
@@ -15,11 +17,11 @@ Information on the maximum range for the C, D, and G models of the B-25.
 |26,000 lb.|165|1410|1600|28.6|24.0|"|78|80|
 |25,000 lb.|165|1405|1525|28.4|23.3|"|77|73|
 
-**Note:** Climb at 2400 rpm, 38" Hg at 155 [IAS](../glossentries/gl_IAS.md). Fuel Consumption for Takddff and Climbs:
+**Note:** Climb at 2400 rpm, 38" Hg at 155 [IAS](../glossentries/gl_IAS.md). Fuel Consumption for Take-off and Climbs:
 
 |To 1000 Feet 24 Gals.|To 8000 Feet 84 Gals.|
 
-**Parent topic:** [Fuel](../topics/fuel.md)
+**Parent topic:**[Fuel](../topics/fuel.md)
 
 **Related information**  
 

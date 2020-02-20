@@ -46,10 +46,10 @@ In the event of complete failure of your landing gear hydraulic system, operate 
 
 17. Check locked position normally after the gear is full down.
 
-    **Warning:** The nosewheel lowering cable operates every time the nosewheel is raised or lowered. It is engaged by the pawl to lower the wheels. If the pawl is accidently turned to "ON" the hydraulic system will tear the nosewheel cable out of the plane.
+    **Warning:** The nosewheel lowering cable operates every time the nosewheel is raised or lowered. It is engaged by the pawl to lower the wheels. If the pawl is accidentally turned to "ON" the hydraulic system will tear the nosewheel cable out of the plane.
 
     This pawl must be left "ON" after it is used until the plane is on the ground and braced against mishap.
 
 
-**Parent topic:** [Emergency Systems](../topics/emergency_systems.md)
+**Parent topic:**[Emergency Systems](../topics/emergency_systems.md)
 

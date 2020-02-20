@@ -15,7 +15,7 @@ Failure to keep the airplane straight ahead. Unfamiliarity with the airplane and
 -   Skidding immediately after takeoff
 -   Tenseness and overcontrolling
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

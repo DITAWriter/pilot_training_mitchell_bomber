@@ -14,5 +14,5 @@ Caution: Never keep the induction vibrator coil in continuous operation, as trem
 
 Necessary lines, fuses, and switches complete the ignition system.
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

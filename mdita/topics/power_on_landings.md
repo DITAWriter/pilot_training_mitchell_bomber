@@ -14,13 +14,13 @@ When you are lined up, lower the flaps full down and di\*op the nose to a point 
 
 Adjust the trim tabs to ease the load on the controls. Keep the speed constant and the nose on the point, thus setting up a constant glide path. As you approach the runway, flare off and reduce the power and speed. When over the runway, hold the throttles completely closed to prevent them from creeping open and stretching the glide.
 
- ![](../images/landing_speed_constant.png) 
+![Land at the beginning of the runway whenever possible](../images/landing_speed_constant.png "Land within the first third of the runway")
 
 Land in a tail-low attitude. Make contact with the main wheels touching down at the same time. The landing gear is designed to absorb great loads if they are applied straight ahead. Tremendous thrust is generated in landing, and if it is applied in a side thrust it can easily collapse the gear.
 
 The landing speed depends on your skill and on weight conditions.
 
-![](../images/landing_lower_nosewheel_slowly.png)
+![Pivot the nosewheel down gently when landing](../images/landing_lower_nosewheel_slowly.png "Gently lower the nosewheel when landing")
 
 Hold the nosewheel in the air with the elevators, thus reducing the length of the landing roll. The increased angle of attack of the wings, plus the 45" of flaps, acts as an air brake.
 
@@ -44,7 +44,7 @@ This is not a short-field landing—there is no place in it for slow flying. The
 
 The remainder of the ground roll and landing check are identical with the first procedure.
 
-![](../images/landing_direct_approach.png)
+![Fly straight in for a good landing](../images/landing_direct_approach.png "Always fly straight in for a landing")
 
 ## Combat landing procedure {#sect_CombatLanding .section}
 
@@ -64,13 +64,13 @@ Properly executed, you can complete this roll-out just above the end of the runw
 
 If you visualize a chandelle and then reverse it so that you picture a diving turn through 180°, you have an accurate picture of this landing.
 
- ![](../images/landing_combat.png) 
+![Roll out of the turn completely when landing](../images/landing_combat.png "Rolling out of a turn when landing")
 
 CAUTION:
 
 This maneuver requires the touch and skill of an experienced pilot. Have an instructor pilot demonstrate it to you and practice it when he is present. The rest of the landing procedure is identical with the others.
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

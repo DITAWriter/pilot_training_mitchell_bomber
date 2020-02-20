@@ -4,7 +4,7 @@ Many of the maneuvers described here are prohibited in this airplane. However, k
 
 Do not take these instructions as a license to abuse your airplane. It is better to stay away from trouble than invite it.
 
-![](../images/adv_air_work.png)
+![Information on advanced air work](../images/adv_air_work.png "Advanced air work")
 
 -   **[Prohibited Maneuvers in the B-25](../topics/prohibited_maneuvers_in_the_b_25.md)**  
 The following maneuvers are not prohibited because of the flying characteristics of the airplane, but because they impose severe structural stresses on it. The B-25 is a bomber, not a pursuit plane.

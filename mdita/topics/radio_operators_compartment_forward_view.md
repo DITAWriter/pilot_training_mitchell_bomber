@@ -2,7 +2,7 @@
 
 Equipment located in the Radio Operator's compartment facing forward.
 
- ![Radio operator's compartment, forward view](../images/radio_operators_compartment-forward_view.png) 
+![Forward view of the Radio operator's compartment](../images/radio_operators_compartment-forward_view.png "Radio operator's compartment, forward view")
 
 1.  Life Raft Release
 2.  Radio Transmitting Key
@@ -14,5 +14,5 @@ Equipment located in the Radio Operator's compartment facing forward.
 8.  Oxygen Regulator
 9.  Dome Light Switch
 
-**Parent topic:** [Location of Controls B-25 C and D](../topics/location_of_controls_b_25_c_and_d.md)
+**Parent topic:**[Location of Controls B-25 C and D](../topics/location_of_controls_b_25_c_and_d.md)
 

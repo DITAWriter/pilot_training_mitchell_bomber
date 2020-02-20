@@ -2,13 +2,13 @@
 
 Basic information about the Mitchell Bomber and its flight characteristics.
 
-![Mitchell Bomber, front view, angled](../images/mitchell_bomber_front_view_angled.png)
+![B-25 Bomber, front view, angled](../images/mitchell_bomber_front_view_angled.png "Mitchell Bomber, front view, angled")
 
-![Mitchell Bomber, back view, angled](../images/mitchell_bomber_back_view_angled.png)
+![B-25 Bomber, back view, angled](../images/mitchell_bomber_back_view_angled.png "Mitchell Bomber, back view, angled")
 
-![Mitchell Bomber, side view](../images/mitchell_bomber_side_view.png)
+![B-25 Bomber, side view](../images/mitchell_bomber_side_view.png "Mitchell Bomber, side view")
 
-![Mitchell Bomber, front view](../images/mitchell_bomber_front_view.png)
+![B-25 Bomber, front view](../images/mitchell_bomber_front_view.png "Mitchell Bomber, front view")
 
 The Mitchell medium bomber is a high-speed, mid-wing land monoplane.
 
@@ -16,13 +16,13 @@ Positive dihedral in the inner and negative dihedral in the outer wing panels gi
 
 A twin tail section with large rudders increases stability and maneuverability and allows a greater concentration of firepower to the rear.
 
-![Mitchell Bomber, twin tail section](../images/mitchell_bomber_twin_tail_section.png)
+![B-25 Bomber, twin tail section](../images/mitchell_bomber_twin_tail_section.png "Mitchell Bomber, twin tail section")
 
 A tricycle landing gear adds to the case of landing, prevents groundlooping, and provides the pilot with maximum visibility during ground operation. It also permits a wide range of loading to obtain maximum bomb and weight carrying capacity.
 
 Under slung Wright Cyclone engines drive Hamilton hydromatic propellers and deliver 1700 Hp each at full power.
 
-The fuselage is a semi-monocoque, four-longeron, stressed skin structure. The bombardier's, pilot's, and navigator's compartments are located in that order, forward of the bomb bay. The radio operator's, gunner's, and photographer's compartments arc located in that order aft of the bomb bay.
+The fuselage is a semi-monocoque, four-longeron, stressed skin structure. The bombardier's, pilot's, and navigator's compartments are located in that order, forward of the bomb bay. The radio operator's, gunner's, and photographer's compartments are located in that order aft of the bomb bay.
 
 Each engine has individual self-sealing fuel and oil systems. Fuel transfer systems allow extra fuel, carried in fuselage tanks, to be transferred to the main system. There is a crossfeed in the fuel system for emergency operations.
 
@@ -34,15 +34,15 @@ There are electrically driven power turrets on some models and a hydraulically d
 
 The plane has standard lighting, heating and hydraulic systems.
 
-![Plane dimensions, top view](../images/plane_dimensions_top_view.png)
+![B-25 dimensions, top view](../images/plane_dimensions_top_view.png "Plane dimensions, top view")
 
-![Plane dimensions, front view](../images/plane_dimensions_front_view.png)
+![B-25 dimensions, top view](../images/plane_dimensions_front_view.png "Plane dimensions, front view")
 
-![Plane dimensions, side view](../images/plane_dimensions_side_view.png)
+![B-25 dimensions, top view](../images/plane_dimensions_side_view.png "Plane dimensions, side view")
 
-The airplane dimensions are: Span 67 feet 6 inches, length 54 height 15 feet 9 inches.
+The airplane dimensions are: span 67 feet 6 inches, length 54 height 15 feet 9 inches.
 
 The airplane empty weighs approximately 20,300 lb.; loaded to maximum capacity, 35,500 lb.
 
-**Parent topic:** [Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
+**Parent topic:**[Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
 

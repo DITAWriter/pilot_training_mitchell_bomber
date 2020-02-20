@@ -32,8 +32,8 @@ You cannot use these brakes selectively. Be ready to counteract any uneven braki
 
     Bleed hydraulic brake system after using the air brake system.
 
-    ![](../images/emerg_air_brakes.png)
+    ![Diagram of the emergency air brake lines](../images/emerg_air_brakes.png "The emergency air brake lines")
 
 
-**Parent topic:** [Emergency Systems](../topics/emergency_systems.md)
+**Parent topic:**[Emergency Systems](../topics/emergency_systems.md)
 

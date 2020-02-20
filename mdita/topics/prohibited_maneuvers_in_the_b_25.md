@@ -22,7 +22,7 @@ Know your airplane. The total flying time on the plane you are flying may have r
 
 The pilot who flew the plane the previous day may have abused the airplane, so conquer that urge to show off.
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

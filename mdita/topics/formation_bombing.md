@@ -2,7 +2,7 @@
 
 This is a day, 6-ship formation bombing mission.
 
-![Formation bombing](../images/formation_bombing.png)
+![Bombing in formation.](../images/formation_bombing.png "Formation bombing")
 
 1.  A Norden sight will be used in the lead ship on each element and D-8 sights will be used in wing ships. Bombardiers in lead ships will sight for both range and deflection. Bombardiers in wing ships will drop bombs on lead ship.
 
@@ -24,14 +24,14 @@ This is a day, 6-ship formation bombing mission.
 
     4.  The bombing run should be made at an indicated airspeed of 230 MPH, and upon leaving the target, should not exceed 250 MPH.
 
-    5.  Wing ships will open bomb bay doors immediately upon seeing doors of lead ship open, and bombs will be dropped on the lead ship, **The Bombardier-Navigator must be quick in releasing bombs after he sees the first bomb Ieave the lead ship.**
+    5.  Wing ships will open bomb bay doors immediately upon seeing doors of lead ship open, and bombs will be dropped on the lead ship, **The Bombardier-Navigator must be quick in releasing bombs after he sees the first bomb leave the lead ship.**
 
     6.  Caution must be used by the lead ship at all times. Turns and maneuvers must be gone into gently and slowly.
 
     7.  After bombing is completed, flight will return to home base and break up into three-ship elements for landing.
 
 
-**Parent topic:** [Some Typical Missions](../topics/some_typical_missions.md)
+**Parent topic:**[Some Typical Missions](../topics/some_typical_missions.md)
 
 **Related information**  
 

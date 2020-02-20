@@ -8,7 +8,7 @@ Don't hesitate to go around. Any doubt that the plane is under perfect control i
 
 2.  Advance the power smoothly to climbing power.
 
-    ![](../images/landing_go_around_adv_throttle_raise_wheels.png)
+    ![When doing a go around, increase speed and pull up the wheels](../images/landing_go_around_adv_throttle_raise_wheels.png "Speed up and raise the wheels when doing a go around")
 
 3.  Keep the nose of the plane down.
 
@@ -16,7 +16,7 @@ Don't hesitate to go around. Any doubt that the plane is under perfect control i
 
 5.  Raise the flaps to 15°
 
-    ![](../images/landing_go_around_raise_flap_15deg.png)
+    ![When doing a go around, raise the flaps to 15 degrees](../images/landing_go_around_raise_flap_15deg.png "Raise the flaps to 15 degrees when doing a go around")
 
 6.  Allow the plane to settle to a slightly lower altitude, if necessary, to maintain or increase the airspeed.
 
@@ -24,7 +24,7 @@ Don't hesitate to go around. Any doubt that the plane is under perfect control i
 
 7.  When the plane has gained sufficient airspeed to lift and gain altitude, pull over to one side of the runway, thus clearing the runway for any plane attempting to take off or land.
 
-    ![](../images/landing_go_around_clear_area.png)
+    ![When doing a go around, clear the runway area](../images/landing_go_around_clear_area.png "Clear the runway area when doing a go around")
 
     **Important:** Keep an eye on all planes near you! The pilot taking off under you may not know that you are there.
 
@@ -33,7 +33,7 @@ Don't hesitate to go around. Any doubt that the plane is under perfect control i
     **Note:** Don't hesitate to go around. Any doubt that the plane is under perfect control is sufficient cause to go around. If you have made a poor approach and know that the landing will be too long, or too rough&\#8212; go around.
 
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

@@ -4,19 +4,20 @@ The B-25 has retractable, tricycle landing gear, hydraulically operated.
 
 The landing gear retracts aft, the main gear into the engine nacelles, the nose gear into the fuselage. Doors cover the gear openings in both the retracted and extended positions.
 
-![](../images/landing_gear.png)
+![Landing wheels retracting.](../images/landing_gear.png "Landing wheels retracting as the B-25 takes off")
 
 The landing gear control handle is on the lower section of the pilot's control pedestal. Three distinct safety devices prevent accidental movement of the control handle:
 
-1. A latch on the pedestal that must be set in the correct position before you can move the handle.
+1.  A latch on the pedestal that must be set in the correct position before you can move the handle.
+2.  A wire hook fastened to the pedestal which is placed over the control handle whenever the handle is in the ''DOWN'' position.
 
-2. A wire hook fastened to the pedestal which is placed over the control handle whenever the handle is in the ''DOWN'' position.
+    ![Latch on the landing gear mechanism when it is in the "DOWN" position.](../images/landing_gear_control.png "Landing gear mechanism locked in place when handle is in the "DOWN"
+                            position")
 
-![](../images/landing_gear_control.png)
+3.  A locking plate that the pilot attaches to the pedestal whenever he leaves the airplane.
 
-3. A locking plate that the pilot attaches to the pedestal whenever he leaves the airplane.
+    ![Landing gear mechanism with locking plate in place.](../images/landing_gear_control_locking.png "Locking plate for landing gear mechanism")
 
-![](../images/landing_gear_control_locking.png)
 
 The swivel-type nose gear strut incorporates a centering device. It functions when weight is removed from the nosewheel. There is a shimmy damper on the nosewheel strut to absorb the vibrations created in taxiing. The nosewheel may be released from the shimmy damper for towing purposes. A static ground wire is attached to the nosewheel.
 
@@ -32,13 +33,14 @@ Conventional parking brakes permit setting the brakes in a locked position.
 
 For emergency operation of landing gear and brakes, see Emergency Section.
 
-![landing gear up and locked, flaps up](../images/landing_gear_ind_up_locked_flaps_up.png)
+![Landing gear is up and locked, flaps up.](../images/landing_gear_ind_up_locked_flaps_up.png "Instrument indicating that landing gear is up and locked, flaps up")
 
-![landing gear part down, flaps 15deg](../images/landing_gear_ind_part_down_flaps_15deg.png)
+![Landing gear is part down, flaps 15deg.](../images/landing_gear_ind_part_down_flaps_15deg.png "Instrument indicating that the landing gear is part down, flaps 15deg")
 
-![landing gear down not locked, flaps 15deg](../images/landing_gear_ind_down_not_locked_flaps_15deg.png)
+![Landing wheels are down but not locked, and a flap indicator pointing to 15 degrees.](../images/landing_gear_ind_down_not_locked_flaps_15deg.png "Instrument indicating that the landing gear is down but not locked, flaps
+                15deg")
 
-![landing gear down and locked, flaps 45deg](../images/landing_gear_ind_down_locked_flaps_45deg.png)
+![Landing gear down and locked, flaps 45deg.](../images/landing_gear_ind_down_locked_flaps_45deg.png "Instrument indicating that the landing gear down and locked, flaps 45deg")
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

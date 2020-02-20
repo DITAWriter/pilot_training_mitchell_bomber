@@ -30,7 +30,7 @@ Adjust the power settings to bring the speed below 170 mph but not below 150 mph
 
 12. Landing gear "DOWN"—locked and safetied, visually and orally checked.
 
-    ![](../images/landing_gear_selsyn.png)
+    ![Ensure that the landing gear is locked and safetied](../images/landing_gear_selsyn.png "Landing gear down, locked and safetied")
 
     You can check the main gear visually and the nose gear on the selsyn indicator, and, if the prop hub is polished, you can check it by its reflection in the hub. There is a warning horn in some aircraft and a warning light in later models. This warning system operates when the throttles are retarded.
 
@@ -41,19 +41,19 @@ Adjust the power settings to bring the speed below 170 mph but not below 150 mph
 
 Final [GUMPS](../glossentries/gl_GUMPS.md) check before landing:
 
- G
- :   Gas
+G
+:   Gas
 
-  U
- :   Undercarriage and Pressures
+U
+:   Undercarriage and Pressures
 
-  M
- :   Mixture
+M
+:   Mixture
 
-  P
- :   Props
+P
+:   Props
 
- **Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

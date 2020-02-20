@@ -18,7 +18,8 @@ Critical single engine airspeed must be maintained at the sacrifice of all other
 
     4.  Turn the booster pumps "ON."
 
-    ![Before you feather: ignition, fuel cut-off, mixture, booster pumps.](../images/single_eng_before_feather.png)
+    ![What to check before feathering a propeller](../images/single_eng_before_feather.png "Before you feather: ignition, fuel cut-off, mixture, booster
+                                pumps")
 
     You can make these checks in far less time than it takes to read these lines; they may save the engine, and they prevent featheritis.
 
@@ -41,7 +42,7 @@ Critical single engine airspeed must be maintained at the sacrifice of all other
 
 This may seem a complicated procedure; however, when you have practiced it a few times, when you know exactly what you are going to do, the entire procedure requires less than 10 seconds.
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

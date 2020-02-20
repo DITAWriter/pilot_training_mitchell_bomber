@@ -2,7 +2,7 @@
 
 This section covers the pilot's checklist, the types of inspections and checks to do on the B-25 before takeoff, and how to start the engines under different conditions.
 
- ![Inspections and checks](../images/inspections_and_checks.png) 
+![Inspecting and checking the B-25 before flight.](../images/inspections_and_checks.png "Inspections and checks")
 
 -   **[AAF Pilot's Checklist](../topics/aaf_pilots_checklist.md)**  
 To be used only after thorough familiarization with Amplified Checklist.

@@ -2,7 +2,7 @@
 
 Single engine operation of the B-25 follows a logical pattern of procedure. The plane flies efficiently on one engine at a reduced speed.
 
-![Single engine operation](../images/single_engine_ops.png)
+![Operating the B-25 with a single engine](../images/single_engine_ops.png "Single engine operation")
 
 Beyond a weight of 32,000 lbs. you will experience some difficulty in maintaining altitude. This should never be a serious handicap, since you can always correct it by ridding the plane of excess weight.
 
@@ -22,7 +22,7 @@ Maximum power settings for single engine flight depend on the particular conditi
 
 For all normal single engine operation, keep your power settings at maximum climb or below. The airplane becomes difficult to control beyond this power setting unless you have excess airspeed. If you have excess speed, you don't need excessive power.
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

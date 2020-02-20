@@ -26,7 +26,7 @@ What you can expect when flying the B-25 using Grade 91 fuel.
 |15,000 ft|1750 rpm|22" Hg.|Cruising Lean|Low Blower|
 |20,000 ft|1850 rpm|24" Hg.|Cruising Lean|High Blower|
 
-**Parent topic:** [Fuel](../topics/fuel.md)
+**Parent topic:**[Fuel](../topics/fuel.md)
 
 **Related information**  
 

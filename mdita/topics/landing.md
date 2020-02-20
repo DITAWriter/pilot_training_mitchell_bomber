@@ -23,11 +23,11 @@ Wind is the only one of these variables you can't control. Master the other thre
 
 Set your base leg at the proper distance and altitude, roll out of the turn and set your gliding speed and angle of glide quickly. A good landing is then assured.
 
- ![](../images/landing_traffic_pattern.png) 
+![Landing using a standard traffic pattern](../images/landing_traffic_pattern.png "How to make a good landing within a standard traffic pattern")
 
 In making the roundout, the wingloading is greater than at any other time in the landing cycle. The flight path changes rapidly from the vertical to the horizontal plane, and centrifugal force adds to the wingloading. There is no danger in this increased wingloading at normal gliding speeds if the roundout is smooth and gradual. Abrupt roundouts and rough handling of the controls during the roundout increase the wingloading to the point where a stall may occur at speeds considerably higher than normal stalling speeds.
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

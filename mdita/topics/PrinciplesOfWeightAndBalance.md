@@ -30,9 +30,9 @@ The Form F vitally concerns the pilot. This is the record of the distribution of
 
 For instructions on the use of the load adjuster see the [PIF](../glossentries/gl_PIF.md) or T.O. Ol-lB-40.
 
-![](../images/weight_form_F.png)
+![The Weight and Balance Clearance form.](../images/weight_form_F.png "Form M")
 
-**Parent topic:** [Weight and Balance](../topics/WeightAndBalance.md)
+**Parent topic:**[Weight and Balance](../topics/WeightAndBalance.md)
 
 **Related information**  
 

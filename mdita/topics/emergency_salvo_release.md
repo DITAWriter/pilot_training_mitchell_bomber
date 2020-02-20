@@ -2,7 +2,7 @@
 
 When your hydraulic system is in operation you can salvo all of your bomb load, both internal and external, by moving the bomb control handle to the "SALVO" position.
 
-![Bomb control handle](../images/emerg_salvo_release.png)
+![The bomb control lever and handle](../images/emerg_salvo_release.png "Bomb control handle")
 
 All bombs are dropped safe when salvoed, unless you have an arming control in use on your plane. In that case you can salvo them either armed or safe.
 
@@ -38,8 +38,8 @@ Your bomb bay droppable tank is suspended on bomb shackles in the bomb bay. The 
 
     **Note:** On some B-25J and B-25H airplanes the bombing controls are electrical. In the event of electrical failure you cannot salvo the bombs or bomb bay tank.
 
-    ![Pilot's bomb control panel](../images/bomb_control_panel.png)
+    ![The panel for the pilot's bomb control](../images/bomb_control_panel.png "Pilot's bomb control panel")
 
 
-**Parent topic:** [Emergency Systems](../topics/emergency_systems.md)
+**Parent topic:**[Emergency Systems](../topics/emergency_systems.md)
 

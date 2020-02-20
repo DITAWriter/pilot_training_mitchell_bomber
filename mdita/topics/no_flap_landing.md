@@ -12,16 +12,16 @@ You must be familiar with this technique:
 
 3.  Use less elevator control and more power than normal in the roundout. \(In some instances, it may be necessary to use considerable power to decrease your rate of descent.\)
 
-    **Note:** 
+    **Note:**
 
     When making no-flap landings always land on the first few feet of the runway. Your landing speed is greater and your landing roll much longer.
 
     Don't let the nosewheel touch the ground before or with the main wheels.
 
-    ![](../images/landing_no_flap.png)
+    ![How to land without the use of working wing flaps](../images/landing_no_flap.png "Making a no-flaps landing")
 
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

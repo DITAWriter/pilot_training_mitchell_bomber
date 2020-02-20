@@ -42,7 +42,7 @@ The maximum oil consumption of the engine at cruising throttle setting is 16 qua
 
 The airplane should have full oil cells \(34 gallons each\) for takeoff. However, in an emergency it may be flown with a minimum of 21 gallons in each cell.
 
- ![Oil system](../images/oil_system.png) 
+![Oil system for the airplane engine.](../images/oil_system.png "Oil system")
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

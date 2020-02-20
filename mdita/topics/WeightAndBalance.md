@@ -2,7 +2,7 @@
 
 The day when a pilot flew by guesswork is past. One by one the decisions that were made by intuition, hunches, and guesswork have been taken over by an orderly system based on knowledge and understanding. Invariably this has resulted in greater safety and operating efficiency.
 
-![Weight and Balance](../images/weight_and_balance.png)
+![Getting the balance right is crucial when flying a B-25.](../images/weight_and_balance.png "Weight and Balance")
 
 In the loading of heavy bombers this is especially true. Ever-changing tactical requirements, calling for more and more complex combinations of cargo, fuel, crew, and armament, have made any but precise, accurate methods too dangerous to consider. This need to get the utmost in efficiency from every flight highlights the need for precise control of weight and balance.
 
@@ -10,11 +10,11 @@ Improper loading, at best, cuts down the efficiency of an airplane. Maneuverabil
 
 At its worst, it may mean failure to complete a flight, and sometimes failure even to start a flight, in most cases with a loss of life and destruction of valuable equipment.
 
-![](../images/weight_cg.png)
+![B-25 weight balance.](../images/weight_cg.png "Balancing the weight distribution across a B-25")
 
 ## Overload {#sect_Overload .section}
 
-![Structural failure](../images/weight_overload.png)
+![Do not overload the B-25, or structural failure may result.](../images/weight_overload.png "Structural failure")
 
 1.  Causes higher stalling speeds.
 2.  Lowers structural safety Limits.
@@ -25,9 +25,9 @@ At its worst, it may mean failure to complete a flight, and sometimes failure ev
 7.  Increases fuel consumption for a given speed.
 8.  Overloads the tires.
 
-## CG Too Far Forward {#sect_NoseTooHeavy .section}
+## Center of Gravity Too Far Forward {#sect_NoseTooHeavy .section}
 
-![Nose heavy](../images/weight_nose_heavy.png)
+![Ensure that the B-25 is not nose heavy.](../images/weight_nose_heavy.png "Nose heavy")
 
 1.  Increases dives beyond control.
 2.  Causes unstable, nose-down tendencies when flaps are lowered.
@@ -36,9 +36,9 @@ At its worst, it may mean failure to complete a flight, and sometimes failure ev
 5.  Increases pilot strain in instrument flying.
 6.  Dangerous if tail structure is damaged.
 
-## CG Too Far Aft {#sect_CGTooFarAft .section}
+## Center of Gravity Too Far Aft {#sect_CGTooFarAft .section}
 
-![Tail heavy](../images/weight_tail_heavy.png)
+![Ensure that the B-25 is not tail heavy.](../images/weight_tail_heavy.png "Tail heavy")
 
 1.  Increases stall tendency.
 2.  Limits low power operation.

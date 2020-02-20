@@ -2,7 +2,7 @@
 
 Understanding the expertise necessary to become a radio operator aboard an airplane.
 
-![Radio operator](../images/radio_operator.png)
+![The radio operator.](../images/radio_operator.png "Radio operator")
 
 It is impossible to learn radio in a day.
 
@@ -23,5 +23,5 @@ The radio operator is required to:
 
 In addition to being radio operator, the radio man is also a gunner. During combat he leaves his watch at the radio and takes up his guns. He often has to learn photography. Some of the best pictures taken in the Southwest Pacific were taken by radio operators.
 
-**Parent topic:** [Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
+**Parent topic:**[Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
 

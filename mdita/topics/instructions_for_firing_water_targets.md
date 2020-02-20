@@ -11,5 +11,5 @@ The expectations and ammunition load out for destroying water-based targets.
     -   21 rounds of 75 MM ammunition
     -   1000 rounds of 50-Cal. ammunition
 
-**Parent topic:** [Gunnery Missions](../topics/gunnery_missions.md)
+**Parent topic:**[Gunnery Missions](../topics/gunnery_missions.md)
 

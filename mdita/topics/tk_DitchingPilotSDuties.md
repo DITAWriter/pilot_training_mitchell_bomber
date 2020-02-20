@@ -27,5 +27,5 @@ The rest of the crew must coordinate their duties with those of the pilot. Crew 
 11. Give alarm bell signal to abandon plane after landing.
 
 
-**Parent topic:** [Ditching](../topics/ditching.md)
+**Parent topic:**[Ditching](../topics/ditching.md)
 

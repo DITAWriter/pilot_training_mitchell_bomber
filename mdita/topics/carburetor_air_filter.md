@@ -10,5 +10,5 @@ Manifold pressure gives the best indication of engine power output, and at a giv
 
 When the filter is installed, it affects only cold ram air. Heated air does not pass through the filter element.
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

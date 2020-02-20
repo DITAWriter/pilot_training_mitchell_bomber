@@ -2,7 +2,7 @@
 
 Controls and switches located on the Pilot's pedestal panel.
 
- ![Pilot's switch panel and control pedestal panel](../images/pilots_switch_panel_and_control_pedestal_panel.png) 
+![Switch panel and control pedestal panel for the pilot](../images/pilots_switch_panel_and_control_pedestal_panel.png "Pilot's switch panel and control pedestal panel")
 
 1.  Propeller Anti-Icing Rheostat
 2.  Compass Light Rheostat
@@ -34,5 +34,5 @@ Controls and switches located on the Pilot's pedestal panel.
 28. Alarm Bell Switch
 29. Gun Safety Switch
 
-**Parent topic:** [Location of Controls B-25 C and D](../topics/location_of_controls_b_25_c_and_d.md)
+**Parent topic:**[Location of Controls B-25 C and D](../topics/location_of_controls_b_25_c_and_d.md)
 

@@ -2,7 +2,7 @@
 
 Taxiing the B-25, with its tricycle landing gear, may seem strange after handling the conventional type.
 
- ![Taxiing](../images/taxiing.png) 
+![B-25 taxiing to the runway](../images/taxiing.png "Taxiing")
 
 The primary controls for taxiing are the throttles, rudders, and the brakes when necessary. A secondary aid is the aileron.
 
@@ -18,7 +18,7 @@ Operate the throttles as smoothly as possible, and when you stop the plane for a
 
 ## Direction of Roll {#sect_DirectionOfRoll .section}
 
-![Direction of roll](../images/roll_direction.png)
+![The forces at work on the front wheel when taxiing to the runway](../images/roll_direction.png "Direction of roll")
 
 Don't try to guide the plane for the first few feet of its roll. If you do a great side load is exerted on the nosewheel strut if the nosewheel is not pointing in the direction you are trying to guide the plane. Never use force; you will shear or snap the nosewheel strut under the pressures applied by the brakes and engines.
 
@@ -26,7 +26,7 @@ This airplane has conventional-type toe brakes on the rudder pedal. After the ai
 
 When the direction of roll is established, make corrections by coordinating the rudder and the throttle and using the brakes only when necessary. Use the brakes lightly, working to achieve accurate control with minimum pressure.
 
-![Correct roll](../images/roll_correct.png)
+![A correct roll involves the nose of the plane being level to the ground](../images/roll_correct.png "Correct roll")
 
 You will never need hard, rough braking action if you use the brakes properly.
 
@@ -34,11 +34,12 @@ Use the throttles to aid in taxiing, always keeping in mind that you must antici
 
 Do not use excessive power. When one throttle is advanced, retard the opposite throttle. Don't let power accumulate by jockeying first one throttle and then the other.
 
-![Left turn](../images/turn_left.png)
+![How to make a left turn while taxiing](../images/turn_left.png "Left turn")
 
-![Right turn](../images/turn_right.png)
+![How to make a right turn while taxiing](../images/turn_right.png "Right turn")
 
-![In the vicinity of other planes and equipment, keep the speed down to that of a walking man.](../images/taxi_speed.png)
+![Maintain a slow pace when next to other planes and equipment](../images/taxi_speed.png "In the vicinity of other planes and equipment, keep the speed down to that of
+                    a walking man")
 
 On straight-away taxiing let the plane roll free and maintain directional control with the rudders. The twin tail assembly of the B-25 gives ample rudder control even at relatively low taxiing speeds, although even when full rudder is applied there is a slight delayed-action effect.
 
@@ -48,9 +49,9 @@ Apply the brakes by feel, not by the position of the pedals.
 
 Never allow the inside wheel to stop during a turn. To turn sharply, slow the airplane to a low speed and coordinate the brake and throttle to keep the inside wheel turning on an approximate 10-foot circle.
 
-![Turn radius](../images/turn_radius.png)
+![Do not pivot on a single wheel when turning, instead travel some distance to reduce turning stress on the wheels](../images/turn_radius.png "Turn radius")
 
-Any attempt to twist the plane on the inside wheel damages the wheel, tire, and strut. Turning in this manner on soft ground, sand, or thin paved runways causes the wheel to dig into the runway, sometimes rapturing the runway surface.
+Any attempt to twist the plane on the inside wheel damages the wheel, tire, and strut. Turning in this manner on soft ground, sand, or thin paved runways causes the wheel to dig into the runway, sometimes rupturing the runway surface.
 
 This turning action may twist the wheel and strut off the airplane. What is worse, the damage may not be apparent but the gear may be damaged so badly that it will fold up under the strain of a landing.
 
@@ -58,7 +59,7 @@ Park a safe distance off the end of the runway you intend to use for the takeoff
 
 ## Nosewheel Position Indicator {#sect_NosewheelPositionInd .section}
 
-![Nosewheel position indicator](../images/nosewheel_position_ind.png)
+![Image of the nosewheel position indicators](../images/nosewheel_position_ind.png "Nosewheel position indicator")
 
 A nosewheel position indicator is on the lower center section of the pilot's instrument panel. It warns you of the position of the nosewheel by flashing on one of two lights when the nosewheel turns past 15° in either direction.
 
@@ -70,7 +71,7 @@ The windvane effect so noticeable in lighter airplanes will still be with you in
 
 To prevent this streamlining, use the engines, rudder and downwind brake. Advance the upwind throttle and use strong rudder pressures. This gives ample control in all but the most violent winds. Use a small amount of downwind brake when necessary. Don't let this become a habit, however, as in all ordinary conditions the throttles and rudders provide good directional control.
 
-![Crosswind taxiing](../images/taxi_crosswind.png)
+![Using the brake an accelerating the upwind engine can offset the effects of crosswinds](../images/taxi_crosswind.png "Crosswind taxiing")
 
 ## Taxiing In Mud or Sand { .section}
 
@@ -96,7 +97,7 @@ If the airplane is allowed to pivot on one wheel the nosewheel assumes a short a
 2.  Remove the towing lockpin
 3.  Insert the tow bar or a piece of iron pipe and manually turn the nosewheel in line with the airplane fuselage.
 
-If either of the main wheels is deeply mired, dig a shallow trench, with a slight upslope, in front of the wheel. Check to see that the nose- wheel is lined up in the direction of roll.
+If either of the main wheels is deeply mired, dig a shallow trench, with a slight up-slope, in front of the wheel. Check to see that the nose- wheel is lined up in the direction of roll.
 
 Start the engines and run them up with brakes set. Lower the flaps, pull back on the wheel, and release the brakes.
 
@@ -104,7 +105,7 @@ CAUTION:
 
 If the wheels are mired too deeply the propeller tips will strike the ground. When there is danger of this, the airplane must be moved by a tractor.
 
-![Get the nosewheel up quick on takeoff in mud or sand.](../images/takeoff_mud_sand.png)
+![On a muddy or sandy runway, lift the nosewheel off the ground as soon as possible](../images/takeoff_mud_sand.png "Get the nosewheel up quick on takeoff in mud or sand")
 
 Don't try to move the airplane over soft ground with the nosewheel towbar alone. This will break the nosewheel strut and pull it from under the nose of the plane. Attach chains to the main wheel struts for towing. Guide the nosewheel with the tow bar.
 
@@ -112,7 +113,7 @@ To take off from mud, sand, or a rough field, raise the nosewheel quickly to rel
 
 Land normally on mud or sand. Make every effort to hold the airplane straight without using the brakes. This prevents skidding on a slick surface. Great side loads are applied to the gear in skids of this type and must be avoided.
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

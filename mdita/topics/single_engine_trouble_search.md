@@ -11,7 +11,7 @@ How to troubleshoot issues with a single engine.
 4.  Adjust the cowl flaps and the oil cooler shutters as desired. Reduce weight if the plane is excessively heavy. Drop bombs, bomb bay tank, tools; in fact, anything that will come loose, if necessary. Make final adjustments on the trim and power setting.
 
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

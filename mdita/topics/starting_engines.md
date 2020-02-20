@@ -2,17 +2,17 @@
 
 Use the checklist for starting.
 
- 
 
- 
+
+
 
 1.  Fire guard posted.
 
-    ![Startup fire guard posted](../images/startup_fire_guard.png)
+    ![Fire guard posted near an engine about to start.](../images/startup_fire_guard.png "Startup fire guard posted")
 
 2.  Props clear.
 
-    ![Startup ignition switches, one at a time](../images/startup_ignition.png)
+    ![Turning on magneto switch settings one at a time.](../images/startup_ignition.png "Startup ignition switches, one at a time")
 
 3.  Ignition switches "ON" one at a time Booster pumps "ON"—operate only the switch on the engine you are starting.
 
@@ -26,7 +26,7 @@ Use the checklist for starting.
 
 8.  Repeat procedure on the left engine.
 
-    ![Startup booster](../images/startup_booster.png)
+    ![Startup booster settings set to "OFF".](../images/startup_booster.png "Startup booster")
 
 9.  Booster pumps "OFF"—check fuel pressure. There must be 6-7 lb. sq. in.
 
@@ -51,5 +51,5 @@ Use the checklist for starting.
 18. Watch cylinder-head temperatures closely during warm-up, as the engine temperature rises more quickly in operation at idling settings on the ground than at high power settings in the air. There are pressure baffles on this plane, and very little air can flow around the cylinder heads when the plane has no forward speed.
 
 
-**Parent topic:** [Inspection and Checks](../topics/inspection_and_checks.md)
+**Parent topic:**[Inspection and Checks](../topics/inspection_and_checks.md)
 

@@ -6,7 +6,7 @@ Do not dive the airplane after lifting it at the end of the takeoff run. When yo
 
 Don't be an instrument pilot on takeoff. Fly the airplane by feel and by visual reference to the ground. An occasional check of the instruments is a necessity, but make instrument takeoffs only when contact flight is impossible. Attention to the panel should be concentrated on the engine instruments.
 
-**Parent topic:** [Typical Air Work](../topics/typical_air_work.md)
+**Parent topic:**[Typical Air Work](../topics/typical_air_work.md)
 
 **Related information**  
 

@@ -2,7 +2,7 @@
 
 The technique of night flying is closely akin to instrument flying.
 
-![](../images/night_flying.png)
+![How to do effective night flying](../images/night_flying.png "Night flying")
 
 A few tips on night flying:
 
@@ -16,7 +16,7 @@ A few tips on night flying:
 
 4.  Use landing lights **alternately** for taxiing, except in very congested areas.
 
-5.  Use the extension Ught rather than the dome light for reading maps and charts.
+5.  Use the extension light rather than the dome light for reading maps and charts.
 
 6.  Check all lighting equipment and fluorescent lighting of instrument panel before leaving the ground.
 
@@ -25,7 +25,7 @@ A few tips on night flying:
 8.  Switch on the dome light if your eyes feel strained during prolonged instrument flight at night. This creates the illusion of flying under a hood and relieves strain.
 
 
-**Parent topic:** [Advanced Air Work](../topics/advanced_air_work.md)
+**Parent topic:**[Advanced Air Work](../topics/advanced_air_work.md)
 
 **Related information**  
 

@@ -2,7 +2,7 @@
 
 Controls and switches located to the left-side of the Bombardier's compartment.
 
- ![Bombardier's compartment, left side](../images/bombardiers_compartment-left_side.png) 
+![Bombardier's compartment, left side](../images/bombardiers_compartment-left_side.png)
 
 1.  Heated Clothing Electrical Outlet Control
 2.  Bombsight Window Anti-icer Rheostat
@@ -13,5 +13,5 @@ Controls and switches located to the left-side of the Bombardier's compartment.
 7.  Selective Train Switch Interval Control
 8.  Bombsight and Windshield Defrosting Unit
 
-**Parent topic:** [Location of Controls B-25 C and D](../topics/location_of_controls_b_25_c_and_d.md)
+**Parent topic:**[Location of Controls B-25 C and D](../topics/location_of_controls_b_25_c_and_d.md)
 

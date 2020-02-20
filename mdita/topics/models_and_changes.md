@@ -12,5 +12,5 @@ With no bombardier aboard, the pilot does all the bombing and fires all forward-
 
 The B-25J is designed to operate as a medium altitude bomber and at the same time to provide sufficient firepower for low-altitude strafing missions. With no cannon aboard, the nose is reconverted into a bombardier's compartment with the addition of two forward-firing **.50-cal. guns**. One fixed **.50-cal. gun** and one flexible **.50-cal. gun** in the bombardier's compartment-plus the four forward-firing blister guns give the pilot highly effective firepower. The rest of the firepower is identical with that of the B-25H. One excellent feature of the B-25J is the dual bombing controls, giving the pilot or the bombardier individual control of all bombing equipment. With twelve **.50-cal. guns**, it is one of the deadliest medium bombers in operation.
 
-**Parent topic:** [Equipment and Instruments](../topics/equipment_and_instruments.md)
+**Parent topic:**[Equipment and Instruments](../topics/equipment_and_instruments.md)
 

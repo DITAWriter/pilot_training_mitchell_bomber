@@ -17,5 +17,5 @@ These are some of the practical questions which you as airplane commander must b
 -   Is your crew familiar with first-aid treatment?
 -   Can you improve the morale of your crew?
 
-**Parent topic:** [Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
+**Parent topic:**[Introduction to the Pilot Training Manual for The Mitchell Bomber, B-25](../topics/introduction_to_the_pilot_training_manual.md)
 

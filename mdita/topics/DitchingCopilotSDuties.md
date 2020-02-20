@@ -21,5 +21,5 @@
 10. Abandon ship after it has stopped, check to see that the life raft has released properly. If not, **release it manually**. Proceed to the rear of the ship and assist the men in the rear to abandon ship. Either the pilot or the copilot must take a parachute to the raft.
 
 
-**Parent topic:** [Ditching](../topics/ditching.md)
+**Parent topic:**[Ditching](../topics/ditching.md)
 
